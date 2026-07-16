@@ -1,0 +1,19 @@
+name: Validate Promotions
+
+on:
+  push:
+    paths:
+      - 'promotions.json'
+  pull_request:
+    paths:
+      - 'promotions.json'
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      - run: node scripts/validate-promotions.mjs promotions.json
