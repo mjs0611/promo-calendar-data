@@ -1,5 +1,21 @@
 [
   {
+    "id": "toss-2607-tosspay",
+    "title": "토스페이 7월 결제 혜택",
+    "platform": "TOSS",
+    "category": "SHOPPING",
+    "startDate": "2026-07-01T00:00:00+09:00",
+    "endDate": "2026-07-31T23:59:59+09:00",
+    "discountRate": 11,
+    "description": "아고다 11%(최대 $100), 클룩 3,000원, 배달특급 2% 등 온라인몰에서 토스페이로 결제하면 자동 할인돼요. 지그재그 적립과 요기요·코오롱몰 쿠폰도 있어요. 브랜드별 최소 결제액 조건은 토스 앱에서 확인하세요.",
+    "affiliateUrl": "https://toss.im/tossfeed/article/tosspay-promotion-july",
+    "imageUrl": null,
+    "sourceUrl": "https://toss.im/tossfeed/article/tosspay-promotion-july",
+    "isActive": true,
+    "createdAt": "2026-07-18T00:00:00+09:00",
+    "updatedAt": "2026-07-18T00:00:00+09:00"
+  },
+  {
     "id": "coupang-2606-stayfesta",
     "title": "2026 여름맞이 숙박세일 페스타",
     "platform": "COUPANG",
