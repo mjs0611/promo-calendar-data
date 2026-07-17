@@ -1,6 +1,7 @@
 import { readFileSync } from 'node:fs'
 
 const PLATFORMS = new Set([
+  'TOSS',
   'COUPANG',
   'NAVER',
   'ELEVENST',
