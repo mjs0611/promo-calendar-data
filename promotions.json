@@ -1,5 +1,37 @@
 [
   {
+    "id": "coupang-2606-stayfesta",
+    "title": "2026 여름맞이 숙박세일 페스타",
+    "platform": "COUPANG",
+    "category": "TRAVEL",
+    "startDate": "2026-06-11T00:00:00+09:00",
+    "endDate": "2026-07-31T23:59:59+09:00",
+    "discountRate": null,
+    "description": "문화체육관광부·한국관광공사 주최 숙박세일 페스타에 쿠팡이 참여해요. 비수도권 85개 지자체 6,200여 개 숙소를 최대 7만 원 정부 지원 쿠폰으로 예약할 수 있어요.",
+    "affiliateUrl": "https://www.coupang.com",
+    "imageUrl": null,
+    "sourceUrl": "https://www.newsis.com/view/NISX20260614_0003668352",
+    "isActive": true,
+    "createdAt": "2026-07-17T10:21:00+09:00",
+    "updatedAt": "2026-07-17T10:21:00+09:00"
+  },
+  {
+    "id": "gmarket-2607-sangseng",
+    "title": "2026 상생페스티벌",
+    "platform": "GMARKET",
+    "category": "SHOPPING",
+    "startDate": "2026-07-01T00:00:00+09:00",
+    "endDate": "2026-07-30T23:59:59+09:00",
+    "discountRate": 10,
+    "description": "중소 판매자를 지원하는 G마켓 상생페스티벌. 1만 원 이상 구매 시 10% 할인쿠폰(최대 5,000원)을 쿠폰존에서 받을 수 있어요.",
+    "affiliateUrl": "https://rpp.gmarket.co.kr/?exhib=271282",
+    "imageUrl": null,
+    "sourceUrl": "https://www.insight.co.kr/news/553660",
+    "isActive": true,
+    "createdAt": "2026-07-17T10:21:00+09:00",
+    "updatedAt": "2026-07-17T10:21:00+09:00"
+  },
+  {
     "id": "elevenst-2607-monthly",
     "title": "7월 월간 십일절",
     "platform": "ELEVENST",
