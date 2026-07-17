@@ -6,6 +6,13 @@ const PLATFORMS = new Set([
   'NAVER',
   'ELEVENST',
   'GMARKET',
+  'SSG',
+  'LOTTEON',
+  'KURLY',
+  'OLIVEYOUNG',
+  'MUSINSA',
+  'BAEMIN',
+  'YOGIYO',
   'SAMSUNG_CARD',
   'HYUNDAI_CARD',
   'SHINHAN_CARD',
@@ -60,6 +67,11 @@ data.forEach((p, i) => {
   if (!isUrl(p.sourceUrl)) errors.push(`${at}: sourceUrl(출처 URL) 필수`)
   if (p.affiliateUrl != null && !isUrl(p.affiliateUrl)) errors.push(`${at}: affiliateUrl 형식 오류`)
   if (typeof p.isActive !== 'boolean') errors.push(`${at}: isActive가 boolean이 아님`)
+  for (const numField of ['minSpend', 'maxDiscountAmount']) {
+    if (p[numField] != null && (typeof p[numField] !== 'number' || p[numField] <= 0)) {
+      errors.push(`${at}: ${numField}는 양수 또는 null`)
+    }
+  }
   if (
     p.discountRate != null &&
     (typeof p.discountRate !== 'number' || p.discountRate <= 0 || p.discountRate > 100)
