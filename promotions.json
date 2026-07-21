@@ -67,9 +67,9 @@
     "affiliateUrl": "https://plan.11st.co.kr/plan/front/exhibitions/2224654/detail",
     "imageUrl": null,
     "sourceUrl": "https://www.newsis.com/view/NISX20260701_0003690631",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-07-16T22:10:00+09:00",
-    "updatedAt": "2026-07-16T22:10:00+09:00"
+    "updatedAt": "2026-07-22T00:00:00+09:00"
   },
   {
     "id": "coupang-2607-wowday",
@@ -85,9 +85,9 @@
     "affiliateUrl": "https://www.coupang.com",
     "imageUrl": null,
     "sourceUrl": "http://sateconomy.co.kr/news/view/1065589111578491",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-07-16T22:10:00+09:00",
-    "updatedAt": "2026-07-16T22:10:00+09:00"
+    "updatedAt": "2026-07-22T00:00:00+09:00"
   },
   {
     "id": "gmarket-2607-firstsale",
@@ -103,9 +103,9 @@
     "affiliateUrl": "https://www.gmarket.co.kr",
     "imageUrl": null,
     "sourceUrl": "http://sateconomy.co.kr/news/view/1065589111578491",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-07-16T22:10:00+09:00",
-    "updatedAt": "2026-07-16T22:10:00+09:00"
+    "updatedAt": "2026-07-22T00:00:00+09:00"
   },
   {
     "id": "naver-2606-nepda",
@@ -121,9 +121,9 @@
     "affiliateUrl": "https://shopping.naver.com",
     "imageUrl": null,
     "sourceUrl": "https://sangseek7.co.kr/542",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-07-16T22:10:00+09:00",
-    "updatedAt": "2026-07-16T22:10:00+09:00"
+    "updatedAt": "2026-07-22T00:00:00+09:00"
   },
   {
     "id": "samsung-2607-cashback",
@@ -175,9 +175,9 @@
     "affiliateUrl": "https://www.kurly.com/categories/110",
     "imageUrl": null,
     "sourceUrl": "https://www.betanews.net/article/view/beta202607150067",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-07-18T01:00:00+09:00",
-    "updatedAt": "2026-07-18T01:00:00+09:00"
+    "updatedAt": "2026-07-22T00:00:00+09:00"
   },
   {
     "id": "musinsa-2606-mujinjang",
@@ -193,9 +193,9 @@
     "affiliateUrl": "https://www.musinsa.com/campaign/mujinjangsale",
     "imageUrl": null,
     "sourceUrl": "https://newsroom.musinsa.com/newsroom-menu/2026-0612-01",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-07-18T01:00:00+09:00",
-    "updatedAt": "2026-07-18T01:00:00+09:00"
+    "updatedAt": "2026-07-22T00:00:00+09:00"
   },
   {
     "id": "lotteon-2607-beautyallpass",
@@ -211,9 +211,9 @@
     "affiliateUrl": "https://www.lotteon.com",
     "imageUrl": null,
     "sourceUrl": "https://www.newsis.com/view/NISX20260701_0003692195",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-07-18T01:00:00+09:00",
-    "updatedAt": "2026-07-18T01:00:00+09:00"
+    "updatedAt": "2026-07-22T00:00:00+09:00"
   },
   {
     "id": "lotteon-2606-summerblpf",
@@ -229,9 +229,9 @@
     "affiliateUrl": "https://www.lotteon.com",
     "imageUrl": null,
     "sourceUrl": "https://www.asiae.co.kr/article/2026060108161664710",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-07-18T01:00:00+09:00",
-    "updatedAt": "2026-07-18T01:00:00+09:00"
+    "updatedAt": "2026-07-22T00:00:00+09:00"
   },
   {
     "id": "lotteon-2606-onnuri-best",
@@ -265,9 +265,9 @@
     "affiliateUrl": "https://www.ssg.com",
     "imageUrl": null,
     "sourceUrl": "https://www.etnews.com/20260701000234",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-07-18T06:38:00+09:00",
-    "updatedAt": "2026-07-18T06:38:00+09:00"
+    "updatedAt": "2026-07-22T00:00:00+09:00"
   },
   {
     "id": "oliveyoung-2607-youngday",
@@ -301,9 +301,9 @@
     "affiliateUrl": "https://www.baemin.com",
     "imageUrl": null,
     "sourceUrl": "https://zdnet.co.kr/view/?no=20260611094809",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-07-18T06:38:00+09:00",
-    "updatedAt": "2026-07-18T06:38:00+09:00"
+    "updatedAt": "2026-07-22T00:00:00+09:00"
   },
   {
     "id": "shinhan-2607-annual-cashback",
@@ -373,9 +373,9 @@
     "affiliateUrl": "https://www.coupang.com",
     "imageUrl": null,
     "sourceUrl": "https://www.newsis.com/view/NISX20260703_0003694382",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-07-19T06:34:00+09:00",
-    "updatedAt": "2026-07-19T06:34:00+09:00"
+    "updatedAt": "2026-07-22T00:00:00+09:00"
   },
   {
     "id": "lotteon-2607-onsale",
@@ -391,9 +391,9 @@
     "affiliateUrl": "https://www.lotteon.com",
     "imageUrl": null,
     "sourceUrl": "https://www.thepublic.kr/news/articleView.html?idxno=310350",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-07-19T06:34:00+09:00",
-    "updatedAt": "2026-07-19T06:34:00+09:00"
+    "updatedAt": "2026-07-22T00:00:00+09:00"
   },
   {
     "id": "ssg-2607-goraitfesta",
@@ -409,9 +409,9 @@
     "affiliateUrl": "https://www.ssg.com",
     "imageUrl": null,
     "sourceUrl": "https://www.ilyoweekly.co.kr/news/newsview.php?ncode=1065596272948820",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-07-19T06:34:00+09:00",
-    "updatedAt": "2026-07-19T06:34:00+09:00"
+    "updatedAt": "2026-07-22T00:00:00+09:00"
   },
   {
     "id": "ssg-2607-ordertohome",
@@ -427,9 +427,9 @@
     "affiliateUrl": "https://www.ssg.com",
     "imageUrl": null,
     "sourceUrl": "https://www.newspim.com/news/view/20260708001233",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-07-19T06:34:00+09:00",
-    "updatedAt": "2026-07-19T06:34:00+09:00"
+    "updatedAt": "2026-07-22T00:00:00+09:00"
   },
   {
     "id": "coupang-2605-eats-free-delivery",
@@ -517,9 +517,9 @@
     "affiliateUrl": "https://www.coupang.com",
     "imageUrl": null,
     "sourceUrl": "https://edaily.co.kr/News/Read?mediaCodeNo=257&newsId=03027446645512552",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-07-20T06:00:00+09:00",
-    "updatedAt": "2026-07-20T06:00:00+09:00"
+    "updatedAt": "2026-07-22T00:00:00+09:00"
   },
   {
     "id": "ssg-2607-vacance-season",
@@ -535,9 +535,9 @@
     "affiliateUrl": "https://www.ssg.com",
     "imageUrl": null,
     "sourceUrl": "https://www.youthdaily.co.kr/news/article.html?no=222855",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-07-20T06:00:00+09:00",
-    "updatedAt": "2026-07-20T06:00:00+09:00"
+    "updatedAt": "2026-07-22T00:00:00+09:00"
   },
   {
     "id": "coupang-2607-essentials",
@@ -553,9 +553,9 @@
     "affiliateUrl": "https://www.coupang.com",
     "imageUrl": null,
     "sourceUrl": "https://www.dailian.co.kr/news/view/1666816/%EC%BF%A0%ED%8C%A1-%EC%BE%8C%EC%A0%81%ED%95%9C-%EC%97%AC%EB%A6%84-%EC%9C%84%ED%95%9C-%E2%80%98%EC%83%9D%ED%95%84%ED%92%88-%ED%8E%98%EC%96%B4-2026",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-07-20T06:00:00+09:00",
-    "updatedAt": "2026-07-20T06:00:00+09:00"
+    "updatedAt": "2026-07-22T00:00:00+09:00"
   },
   {
     "id": "ssg-2607-living-digital-superweek",
