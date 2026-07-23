@@ -130,18 +130,18 @@
     "title": "모니모·iD ON 카드 발급 캐시백",
     "platform": "SAMSUNG_CARD",
     "category": "LIVING",
-    "startDate": "2026-07-01T00:00:00+09:00",
+    "startDate": "2026-06-01T00:00:00+09:00",
     "endDate": "2026-07-31T23:59:59+09:00",
     "discountRate": null,
     "minSpend": 300000,
     "maxDiscountAmount": 170000,
-    "description": "7월 신규 발급 캐시백 이벤트. 모니모 카드 최대 17만원, iD ON 최대 12만원(이용 실적 조건 있음). 정확한 조건은 공식 페이지에서 확인하세요.",
+    "description": "6월~7월 신규 발급 캐시백 이벤트. 모니모 카드 최대 17만원, iD ON 최대 12만원(이용 실적 조건 있음). 정확한 조건은 공식 페이지에서 확인하세요.",
     "affiliateUrl": "https://www.samsungcard.com",
     "imageUrl": null,
     "sourceUrl": "https://dasaja.co.kr/saja_guide/178",
     "isActive": true,
     "createdAt": "2026-07-16T22:10:00+09:00",
-    "updatedAt": "2026-07-16T22:10:00+09:00"
+    "updatedAt": "2026-07-24T08:00:00+09:00"
   },
   {
     "id": "hyundai-2607-cashback",
@@ -700,5 +700,23 @@
     "isActive": true,
     "createdAt": "2026-07-23T08:00:00+09:00",
     "updatedAt": "2026-07-23T08:00:00+09:00"
+  },
+  {
+    "id": "kurly-2607-beautyfesta",
+    "title": "컬리 뷰티컬리페스타",
+    "platform": "KURLY",
+    "category": "BEAUTY",
+    "startDate": "2026-07-07T00:00:00+09:00",
+    "endDate": "2026-07-14T23:59:59+09:00",
+    "discountRate": 83,
+    "minSpend": 40000,
+    "maxDiscountAmount": 10000,
+    "description": "5,000여 개 뷰티 상품을 최대 83% 할인했어요. 매일 오전 11시 선착순 2,000명에게 4만 원 이상 구매 시 1만 원 할인쿠폰을 지급했어요. 스킨케어·선케어·헤어·바디·메이크업 전 카테고리를 특가에 선보였어요.",
+    "affiliateUrl": "https://www.kurly.com",
+    "imageUrl": null,
+    "sourceUrl": "https://www.ftoday.co.kr/news/articleView.html?idxno=344322",
+    "isActive": false,
+    "createdAt": "2026-07-24T08:00:00+09:00",
+    "updatedAt": "2026-07-24T08:00:00+09:00"
   }
 ]
