@@ -271,21 +271,21 @@
   },
   {
     "id": "oliveyoung-2607-youngday",
-    "title": "올리브영 7월 올영데이",
+    "title": "올리브영 8월 올영데이",
     "platform": "OLIVEYOUNG",
     "category": "BEAUTY",
-    "startDate": "2026-07-25T00:00:00+09:00",
-    "endDate": "2026-07-27T23:59:59+09:00",
+    "startDate": "2026-08-25T00:00:00+09:00",
+    "endDate": "2026-08-27T23:59:59+09:00",
     "discountRate": null,
     "minSpend": null,
     "maxDiscountAmount": null,
-    "description": "매달 25~27일 정기 할인 행사 올영데이가 7월 25일부터 3일간 열려요. 뷰티·스킨케어·선케어·바디케어 제품을 최대 50~60% 할인하고, 멤버십 회원 전용 특가와 제휴 카드 즉시 할인도 함께 제공돼요.",
+    "description": "매달 25~27일 정기 할인 행사 올영데이가 8월 25일부터 3일간 열려요. 뷰티·스킨케어·선케어·바디케어 제품을 최대 50~60% 할인하고, 멤버십 회원 전용 특가와 제휴 카드 즉시 할인도 함께 제공돼요.",
     "affiliateUrl": "https://www.oliveyoung.co.kr",
     "imageUrl": null,
     "sourceUrl": "https://unpa.me/community/beautytip/132239259",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-07-18T06:38:00+09:00",
-    "updatedAt": "2026-07-18T06:38:00+09:00"
+    "updatedAt": "2026-07-27T00:00:00+09:00"
   },
   {
     "id": "baemin-2606-meokboolfesta",
@@ -643,9 +643,9 @@
     "affiliateUrl": "https://www.kurly.com",
     "imageUrl": null,
     "sourceUrl": "https://www.thedailypost.kr/news/articleView.html?idxno=114745",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-07-23T08:00:00+09:00",
-    "updatedAt": "2026-07-23T08:00:00+09:00"
+    "updatedAt": "2026-07-27T00:00:00+09:00"
   },
   {
     "id": "musinsa-2607-seasonoff-big",
@@ -826,5 +826,41 @@
     "isActive": true,
     "createdAt": "2026-07-26T06:35:00+09:00",
     "updatedAt": "2026-07-26T06:35:00+09:00"
+  },
+  {
+    "id": "gmarket-2607-incheon",
+    "title": "G마켓 인천상회 기획전",
+    "platform": "GMARKET",
+    "category": "TRAVEL",
+    "startDate": "2026-07-21T00:00:00+09:00",
+    "endDate": "2026-08-31T23:59:59+09:00",
+    "discountRate": 50,
+    "minSpend": null,
+    "maxDiscountAmount": 50000,
+    "description": "인천광역시·인천관광공사와 협력해 G마켓이 인천 로컬 여행·식음료·기념품 62개 상품을 모은 '인천상회' 상설관을 열었어요. 상설관 개설을 기념해 8월 31일까지 관광기업 20개사 상품에 최대 50% 할인(최대 5만 원) 쿠폰 4종을 ID당 1장씩 제공해요.",
+    "affiliateUrl": "https://www.gmarket.co.kr",
+    "imageUrl": null,
+    "sourceUrl": "https://www.thepublic.kr/news/articleView.html?idxno=311949",
+    "isActive": true,
+    "createdAt": "2026-07-27T00:00:00+09:00",
+    "updatedAt": "2026-07-27T00:00:00+09:00"
+  },
+  {
+    "id": "hyundai-2607-gmarket-card",
+    "title": "지마켓 꼭 현대카드 출시 이벤트",
+    "platform": "HYUNDAI_CARD",
+    "category": "SHOPPING",
+    "startDate": "2026-07-23T00:00:00+09:00",
+    "endDate": "2026-08-31T23:59:59+09:00",
+    "discountRate": null,
+    "minSpend": null,
+    "maxDiscountAmount": null,
+    "description": "현대카드와 G마켓이 7월 23일 함께 출시한 '지마켓 꼭 현대카드'. G마켓·옥션 결제 시 기본 7% 스마일캐시에 꼭 멤버십 혜택 5%를 더해 최대 12% 적립돼요. 7월 31일까지 G마켓·옥션 전 상품 20% 즉시 할인, 8월 31일까지 꼭 멤버십 신규 구독 후 카드 자동결제 시 6개월 구독료를 전액 캐시백해 드려요.",
+    "affiliateUrl": "https://www.gmarket.co.kr/n/showroom/ggokcard",
+    "imageUrl": null,
+    "sourceUrl": "https://www.newspim.com/news/view/20260723000183",
+    "isActive": true,
+    "createdAt": "2026-07-27T00:00:00+09:00",
+    "updatedAt": "2026-07-27T00:00:00+09:00"
   }
 ]
