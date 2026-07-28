@@ -787,9 +787,9 @@
     "affiliateUrl": "https://www.lotteon.com",
     "imageUrl": null,
     "sourceUrl": "https://www.newsis.com/view/NISX20260722_0003719187",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-07-26T06:35:00+09:00",
-    "updatedAt": "2026-07-26T06:35:00+09:00"
+    "updatedAt": "2026-07-29T06:35:00+09:00"
   },
   {
     "id": "ssg-2607-gansick-festa",
@@ -844,6 +844,24 @@
     "isActive": true,
     "createdAt": "2026-07-27T00:00:00+09:00",
     "updatedAt": "2026-07-27T00:00:00+09:00"
+  },
+  {
+    "id": "lotteon-2607-lastchance",
+    "title": "롯데온 7월 라스트찬스",
+    "platform": "LOTTEON",
+    "category": "SHOPPING",
+    "startDate": "2026-07-29T00:00:00+09:00",
+    "endDate": "2026-07-31T23:59:59+09:00",
+    "discountRate": 10,
+    "minSpend": null,
+    "maxDiscountAmount": null,
+    "description": "7월 29~31일 3일간 막바지 여름 상품을 최대 10% 중복 쿠폰으로 할인해요. 수영복·쿨링 아이템·비치웨어·수면·숙면 용품 등 여름 시즌 필수품을 선보이며, 카카오페이로 결제하면 10% 추가 할인이 더해져요. 매일 한정 특가 '투데이픽'도 운영해요.",
+    "affiliateUrl": "https://www.lotteon.com",
+    "imageUrl": null,
+    "sourceUrl": "https://www.thepublic.kr/news/articleView.html?idxno=312865",
+    "isActive": true,
+    "createdAt": "2026-07-29T06:35:00+09:00",
+    "updatedAt": "2026-07-29T06:35:00+09:00"
   },
   {
     "id": "hyundai-2607-gmarket-card",
