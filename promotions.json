@@ -653,17 +653,17 @@
     "platform": "MUSINSA",
     "category": "FASHION",
     "startDate": "2026-07-20T00:00:00+09:00",
-    "endDate": "2026-07-30T23:59:59+09:00",
+    "endDate": "2026-08-03T23:59:59+09:00",
     "discountRate": 80,
     "minSpend": null,
     "maxDiscountAmount": null,
-    "description": "상반기 인기 상품을 모은 결산 시그니처 특가와 최대 30% 할인 쿠폰 브랜드위크, 클리어런스 세일을 진행해요. 7월 29일까지 최대 80% 아카이브 세일도 운영하며, 매일 오전 11시·오후 8시 '오픈런 뽑기'로 최대 80% 할인 쿠폰과 무신사머니를 드려요. 오프라인 전국 16개 매장에서는 8월 3일까지 여름 시즌오프 세일이 진행돼요.",
+    "description": "상반기 인기 상품을 모은 결산 시그니처 특가와 최대 30% 할인 쿠폰 브랜드위크, 클리어런스 세일을 진행해요. 7월 30일까지 최대 80% 아카이브 세일 온라인이 운영되며, 매일 오전 11시·오후 8시 '오픈런 뽑기'로 최대 80% 할인 쿠폰과 무신사머니를 드려요. 오프라인 전국 16개 매장에서는 8월 3일까지 여름 시즌오프 세일이 진행돼요.",
     "affiliateUrl": "https://www.musinsa.com/campaign/2026seasonoff1/0",
     "imageUrl": null,
     "sourceUrl": "https://zdnet.co.kr/view/?no=20260717160150",
     "isActive": true,
     "createdAt": "2026-07-23T08:00:00+09:00",
-    "updatedAt": "2026-07-23T08:00:00+09:00"
+    "updatedAt": "2026-07-30T06:52:00+09:00"
   },
   {
     "id": "toss-2607-twayair",
@@ -805,9 +805,9 @@
     "affiliateUrl": "https://www.ssg.com",
     "imageUrl": null,
     "sourceUrl": "https://www.sisa-news.com/news/article.html?no=273349",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-07-26T06:35:00+09:00",
-    "updatedAt": "2026-07-26T06:35:00+09:00"
+    "updatedAt": "2026-07-30T06:52:00+09:00"
   },
   {
     "id": "samsung-2608-monimo-cashback",
@@ -880,5 +880,59 @@
     "isActive": true,
     "createdAt": "2026-07-27T00:00:00+09:00",
     "updatedAt": "2026-07-27T00:00:00+09:00"
+  },
+  {
+    "id": "lotteon-2607-tongeunday",
+    "title": "롯데마트 8월 통큰데이",
+    "platform": "LOTTEON",
+    "category": "FOOD",
+    "startDate": "2026-07-30T00:00:00+09:00",
+    "endDate": "2026-08-02T23:59:59+09:00",
+    "discountRate": 50,
+    "minSpend": null,
+    "maxDiscountAmount": null,
+    "description": "7월 30일부터 8월 2일까지 나흘간 신선식품과 생필품을 특가에 선보여요. 국내산 삼겹살·목심을 45% 할인하고, 완도 활 전복은 행사카드 결제 시 50% 추가 할인이 적용돼요. 라면 전 품목 2+1 행사(8월 1~2일)와 8월 17일까지 진행하는 2026 햇건고추 사전예약도 함께 운영해요.",
+    "affiliateUrl": "https://www.lotteon.com",
+    "imageUrl": null,
+    "sourceUrl": "https://www.newspim.com/news/view/20260729000125",
+    "isActive": true,
+    "createdAt": "2026-07-30T06:52:00+09:00",
+    "updatedAt": "2026-07-30T06:52:00+09:00"
+  },
+  {
+    "id": "gmarket-2607-brandfesta",
+    "title": "G마켓 브랜드 페스타",
+    "platform": "GMARKET",
+    "category": "SHOPPING",
+    "startDate": "2026-07-28T00:00:00+09:00",
+    "endDate": "2026-07-31T23:59:59+09:00",
+    "discountRate": 50,
+    "minSpend": null,
+    "maxDiscountAmount": null,
+    "description": "76개 브랜드의 스테디셀러를 최대 50% 할인에 만날 수 있는 기획전이에요. 대상·코카-콜라·팔도·동아오츠카·롯데제과·도드람 등 식품 브랜드와 에스트라·아모레뷰티 등 뷰티 브랜드가 참여하며, 일부 상품에는 최대 40% 할인쿠폰도 지급돼요. 매일 '오늘의 브랜드'를 달리해 7월 31일까지 진행해요.",
+    "affiliateUrl": "https://www.gmarket.co.kr",
+    "imageUrl": null,
+    "sourceUrl": "https://zdnet.co.kr/view/?no=20260728094247",
+    "isActive": true,
+    "createdAt": "2026-07-30T06:52:00+09:00",
+    "updatedAt": "2026-07-30T06:52:00+09:00"
+  },
+  {
+    "id": "kurly-2608-wonderkurly",
+    "title": "컬리 8월 원더컬리",
+    "platform": "KURLY",
+    "category": "FOOD",
+    "startDate": "2026-08-01T00:00:00+09:00",
+    "endDate": "2026-08-11T23:59:59+09:00",
+    "discountRate": 70,
+    "minSpend": null,
+    "maxDiscountAmount": 10000,
+    "description": "2,000여 개 인기 상품을 최대 70% 할인하는 8월 대표 기획전이에요. 매일 최대 1만 원 100% 당첨 쿠폰을 지급하고, 30만 원 이상 구매 시 선착순 3,000명에게 컬리 10주년 기념 굿즈(약 15만 원 상당)를 증정해요. 풀무원·하림·동원·크리넥스 등 생필품 브랜드 20% 쿠폰과 가정간편식 최대 30% 할인도 함께 제공돼요.",
+    "affiliateUrl": "https://www.kurly.com",
+    "imageUrl": null,
+    "sourceUrl": "https://www.thefairnews.co.kr/news/articleView.html?idxno=53212",
+    "isActive": false,
+    "createdAt": "2026-07-30T06:52:00+09:00",
+    "updatedAt": "2026-07-30T06:52:00+09:00"
   }
 ]
