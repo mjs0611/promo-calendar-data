@@ -49,9 +49,9 @@
     "affiliateUrl": "https://rpp.gmarket.co.kr/?exhib=271282",
     "imageUrl": null,
     "sourceUrl": "https://www.insight.co.kr/news/553660",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-07-17T10:21:00+09:00",
-    "updatedAt": "2026-07-17T10:21:00+09:00"
+    "updatedAt": "2026-07-31T07:00:00+09:00"
   },
   {
     "id": "elevenst-2607-monthly",
@@ -337,9 +337,9 @@
     "affiliateUrl": "https://www.gmarket.co.kr",
     "imageUrl": null,
     "sourceUrl": "https://www.viva100.com/article/20260610500445",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-07-18T06:38:00+09:00",
-    "updatedAt": "2026-07-18T06:38:00+09:00"
+    "updatedAt": "2026-07-31T07:00:00+09:00"
   },
   {
     "id": "kb-2607-checkcard-cashback",
@@ -934,5 +934,77 @@
     "isActive": false,
     "createdAt": "2026-07-30T06:52:00+09:00",
     "updatedAt": "2026-07-30T06:52:00+09:00"
+  },
+  {
+    "id": "ssg-2607-goraeit-late",
+    "title": "이마트 고래잇 페스타",
+    "platform": "SSG",
+    "category": "FOOD",
+    "startDate": "2026-07-30T00:00:00+09:00",
+    "endDate": "2026-08-02T23:59:59+09:00",
+    "discountRate": 50,
+    "minSpend": null,
+    "maxDiscountAmount": null,
+    "description": "이마트가 7월 30일부터 8월 2일까지 4일간 제철 신선식품을 최대 50% 특가에 선보여요. 제주 생은갈치·완도 전복·한우·삼겹살 등 수산물·육류가 중심이며, 신세계포인트 적립 시 수박과 은갈치를 반값에 구매할 수 있어요. 선케어·모기약·물놀이 용품도 함께 할인해요.",
+    "affiliateUrl": "https://www.ssg.com",
+    "imageUrl": null,
+    "sourceUrl": "https://www.newspim.com/news/view/20260730001121",
+    "isActive": true,
+    "createdAt": "2026-07-31T07:00:00+09:00",
+    "updatedAt": "2026-07-31T07:00:00+09:00"
+  },
+  {
+    "id": "lotteon-2608-travelexpo",
+    "title": "롯데온 여행박람회",
+    "platform": "LOTTEON",
+    "category": "TRAVEL",
+    "startDate": "2026-08-03T00:00:00+09:00",
+    "endDate": "2026-08-16T23:59:59+09:00",
+    "discountRate": null,
+    "minSpend": null,
+    "maxDiscountAmount": null,
+    "description": "8월 3일부터 16일까지 14일간 롯데온에서 해외여행·국내숙박·국내레저 상품을 최대 18% 즉시 할인해요. 카드 할인 5%를 더하면 최대 23%까지 혜택을 받을 수 있어요. 일본·대만 해외패키지, 오크밸리·켄싱턴 등 리조트 숙박, 캐리비안베이·오션월드 등 워터파크 이용권을 특가에 예약할 수 있어요.",
+    "affiliateUrl": "https://www.lotteon.com",
+    "imageUrl": null,
+    "sourceUrl": "https://www.newsis.com/view/NISX20260729_0003728657",
+    "isActive": false,
+    "createdAt": "2026-07-31T07:00:00+09:00",
+    "updatedAt": "2026-07-31T07:00:00+09:00"
+  },
+  {
+    "id": "coupang-2608-fashionweek",
+    "title": "쿠팡 8월 패션위크",
+    "platform": "COUPANG",
+    "category": "FASHION",
+    "startDate": "2026-08-01T00:00:00+09:00",
+    "endDate": "2026-08-06T23:59:59+09:00",
+    "discountRate": 80,
+    "minSpend": null,
+    "maxDiscountAmount": null,
+    "description": "나이키·아디다스·크록스·뉴발란스 등 500여 개 브랜드가 참여하는 8월 첫 주 패션위크를 8월 6일까지 진행해요. 여름 티셔츠·반바지·수영복·래쉬가드·샌들 등 8,000여 개 상품을 최대 80% 할인하며, 로켓배송 상품 중심으로 빠른 수령이 가능해요.",
+    "affiliateUrl": "https://www.coupang.com",
+    "imageUrl": null,
+    "sourceUrl": "https://m.dailian.co.kr/news/view/1260209/",
+    "isActive": false,
+    "createdAt": "2026-07-31T07:00:00+09:00",
+    "updatedAt": "2026-07-31T07:00:00+09:00"
+  },
+  {
+    "id": "naver-2608-naveronlyfood",
+    "title": "네이버플러스 스토어 8월 네이버온리 기획전",
+    "platform": "NAVER",
+    "category": "FOOD",
+    "startDate": "2026-08-01T00:00:00+09:00",
+    "endDate": "2026-08-31T23:59:59+09:00",
+    "discountRate": null,
+    "minSpend": null,
+    "maxDiscountAmount": null,
+    "description": "동원F&B·풀무원·CJ제일제당·아모레퍼시픽 등 국내 주요 브랜드와 협업해 만든 '네이버온리' 단독 상품을 8월 한 달간 네이버플러스 스토어(네플스)에서만 선보여요. 합리적인 가격과 풍성한 구성의 기획 상품을 네이버플러스 멤버십 포인트 혜택과 함께 이용할 수 있어요. 네플스 앱에서만 구매 가능한 단독 식품이에요.",
+    "affiliateUrl": "https://shopping.naver.com",
+    "imageUrl": null,
+    "sourceUrl": "https://www.etnews.com/20260730000076",
+    "isActive": false,
+    "createdAt": "2026-07-31T07:00:00+09:00",
+    "updatedAt": "2026-07-31T07:00:00+09:00"
   }
 ]
