@@ -13,9 +13,9 @@
     "affiliateUrl": "https://toss.im/tossfeed/article/tosspay-promotion-july",
     "imageUrl": null,
     "sourceUrl": "https://toss.im/tossfeed/article/tosspay-promotion-july",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-07-18T00:00:00+09:00",
-    "updatedAt": "2026-07-18T00:00:00+09:00"
+    "updatedAt": "2026-08-01T06:34:00+09:00"
   },
   {
     "id": "coupang-2606-stayfesta",
@@ -31,9 +31,9 @@
     "affiliateUrl": "https://www.coupang.com",
     "imageUrl": null,
     "sourceUrl": "https://www.newsis.com/view/NISX20260614_0003668352",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-07-17T10:21:00+09:00",
-    "updatedAt": "2026-07-17T10:21:00+09:00"
+    "updatedAt": "2026-08-01T06:34:00+09:00"
   },
   {
     "id": "gmarket-2607-sangseng",
@@ -139,9 +139,9 @@
     "affiliateUrl": "https://www.samsungcard.com",
     "imageUrl": null,
     "sourceUrl": "https://dasaja.co.kr/saja_guide/178",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-07-16T22:10:00+09:00",
-    "updatedAt": "2026-07-24T08:00:00+09:00"
+    "updatedAt": "2026-08-01T06:34:00+09:00"
   },
   {
     "id": "hyundai-2607-cashback",
@@ -157,9 +157,9 @@
     "affiliateUrl": "https://www.hyundaicard.com",
     "imageUrl": null,
     "sourceUrl": "https://www.ajd.co.kr/card/event/detail/49",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-07-16T22:10:00+09:00",
-    "updatedAt": "2026-07-16T22:10:00+09:00"
+    "updatedAt": "2026-08-01T06:34:00+09:00"
   },
   {
     "id": "kurly-2607-bacance",
@@ -247,9 +247,9 @@
     "affiliateUrl": "https://www.lotteon.com",
     "imageUrl": null,
     "sourceUrl": "https://www.newsis.com/view/NISX20260624_0003682368",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-07-18T06:38:00+09:00",
-    "updatedAt": "2026-07-18T06:38:00+09:00"
+    "updatedAt": "2026-08-01T06:34:00+09:00"
   },
   {
     "id": "ssg-2607-fashion-ssksale",
@@ -319,9 +319,9 @@
     "affiliateUrl": "https://www.shinhancard.com",
     "imageUrl": null,
     "sourceUrl": "https://www.shinhancard.com/pconts/html/benefit/event/1238552_2239.html",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-07-18T06:38:00+09:00",
-    "updatedAt": "2026-07-18T06:38:00+09:00"
+    "updatedAt": "2026-08-01T06:34:00+09:00"
   },
   {
     "id": "gmarket-2606-local-travel",
@@ -355,9 +355,9 @@
     "affiliateUrl": "https://card.kbcard.com",
     "imageUrl": null,
     "sourceUrl": "https://m.kbcard.com/e/260992",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-07-18T06:38:00+09:00",
-    "updatedAt": "2026-07-18T06:38:00+09:00"
+    "updatedAt": "2026-08-01T06:34:00+09:00"
   },
   {
     "id": "coupang-2607-motorsfair",
@@ -481,9 +481,9 @@
     "affiliateUrl": "https://www.11st.co.kr",
     "imageUrl": null,
     "sourceUrl": "https://promo.11st.co.kr/view/m/20260201-shootingbenefit",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-07-20T06:00:00+09:00",
-    "updatedAt": "2026-07-20T06:00:00+09:00"
+    "updatedAt": "2026-08-01T06:34:00+09:00"
   },
   {
     "id": "shinhan-2508-baemin-babchingu",
@@ -607,9 +607,9 @@
     "affiliateUrl": "https://www.hyundaicard.com",
     "imageUrl": null,
     "sourceUrl": "https://www.hyundaimotorgroup.com/ko/news/CONT0000000000100184",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-07-21T06:00:00+09:00",
-    "updatedAt": "2026-07-21T06:00:00+09:00"
+    "updatedAt": "2026-08-01T06:34:00+09:00"
   },
   {
     "id": "kb-2607-travel-cashback",
@@ -625,9 +625,9 @@
     "affiliateUrl": "https://card.kbcard.com",
     "imageUrl": null,
     "sourceUrl": "https://www.newspim.com/news/view/20260615001114",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-07-21T06:00:00+09:00",
-    "updatedAt": "2026-07-21T06:00:00+09:00"
+    "updatedAt": "2026-08-01T06:34:00+09:00"
   },
   {
     "id": "kurly-2607-living-festa",
@@ -679,9 +679,9 @@
     "affiliateUrl": "https://www.twayair.com",
     "imageUrl": null,
     "sourceUrl": "https://news.nate.com/view/20260721n04867",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-07-23T08:00:00+09:00",
-    "updatedAt": "2026-07-23T08:00:00+09:00"
+    "updatedAt": "2026-08-01T06:34:00+09:00"
   },
   {
     "id": "kb-2607-checkcard-reward",
@@ -697,9 +697,9 @@
     "affiliateUrl": "https://card.kbcard.com",
     "imageUrl": null,
     "sourceUrl": "https://www.etoday.co.kr/news/view/737202",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-07-23T08:00:00+09:00",
-    "updatedAt": "2026-07-23T08:00:00+09:00"
+    "updatedAt": "2026-08-01T06:34:00+09:00"
   },
   {
     "id": "kurly-2607-beautyfesta",
@@ -859,9 +859,9 @@
     "affiliateUrl": "https://www.lotteon.com",
     "imageUrl": null,
     "sourceUrl": "https://www.thepublic.kr/news/articleView.html?idxno=312865",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-07-29T06:35:00+09:00",
-    "updatedAt": "2026-07-29T06:35:00+09:00"
+    "updatedAt": "2026-08-01T06:34:00+09:00"
   },
   {
     "id": "hyundai-2607-gmarket-card",
@@ -913,9 +913,9 @@
     "affiliateUrl": "https://www.gmarket.co.kr",
     "imageUrl": null,
     "sourceUrl": "https://zdnet.co.kr/view/?no=20260728094247",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-07-30T06:52:00+09:00",
-    "updatedAt": "2026-07-30T06:52:00+09:00"
+    "updatedAt": "2026-08-01T06:34:00+09:00"
   },
   {
     "id": "kurly-2608-wonderkurly",
@@ -931,9 +931,9 @@
     "affiliateUrl": "https://www.kurly.com",
     "imageUrl": null,
     "sourceUrl": "https://www.thefairnews.co.kr/news/articleView.html?idxno=53212",
-    "isActive": false,
+    "isActive": true,
     "createdAt": "2026-07-30T06:52:00+09:00",
-    "updatedAt": "2026-07-30T06:52:00+09:00"
+    "updatedAt": "2026-08-01T06:34:00+09:00"
   },
   {
     "id": "ssg-2607-goraeit-late",
@@ -985,9 +985,9 @@
     "affiliateUrl": "https://www.coupang.com",
     "imageUrl": null,
     "sourceUrl": "https://m.dailian.co.kr/news/view/1260209/",
-    "isActive": false,
+    "isActive": true,
     "createdAt": "2026-07-31T07:00:00+09:00",
-    "updatedAt": "2026-07-31T07:00:00+09:00"
+    "updatedAt": "2026-08-01T06:34:00+09:00"
   },
   {
     "id": "naver-2608-naveronlyfood",
@@ -1003,8 +1003,8 @@
     "affiliateUrl": "https://shopping.naver.com",
     "imageUrl": null,
     "sourceUrl": "https://www.etnews.com/20260730000076",
-    "isActive": false,
+    "isActive": true,
     "createdAt": "2026-07-31T07:00:00+09:00",
-    "updatedAt": "2026-07-31T07:00:00+09:00"
+    "updatedAt": "2026-08-01T06:34:00+09:00"
   }
 ]
