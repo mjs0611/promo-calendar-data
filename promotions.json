@@ -589,9 +589,9 @@
     "affiliateUrl": "https://www.lotteon.com/event/lotteonktostay",
     "imageUrl": null,
     "sourceUrl": "https://www.khan.co.kr/article/202606101500011",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-07-21T06:00:00+09:00",
-    "updatedAt": "2026-07-21T06:00:00+09:00"
+    "updatedAt": "2026-08-02T06:34:00+09:00"
   },
   {
     "id": "hyundai-2607-visa-overseas",
@@ -1006,5 +1006,41 @@
     "isActive": true,
     "createdAt": "2026-07-31T07:00:00+09:00",
     "updatedAt": "2026-08-01T06:34:00+09:00"
+  },
+  {
+    "id": "elevenst-2608-monthlysilja",
+    "title": "11번가 8월 월간 십일절",
+    "platform": "ELEVENST",
+    "category": "ELECTRONICS",
+    "startDate": "2026-08-01T00:00:00+09:00",
+    "endDate": "2026-08-11T23:59:59+09:00",
+    "discountRate": null,
+    "minSpend": 40000,
+    "maxDiscountAmount": 5000,
+    "description": "8월 1일부터 11일까지 열리는 11번가 정례 세일. 4만 원 이상 구매 고객에게 3천→4천→5천 원 릴레이 할인쿠폰을 순차 지급해요. 삼성 에어컨·LG 제습기·캐리어 창문형 에어컨 등 계절가전 타임딜과 여행상품 라이브 방송도 함께 진행해요.",
+    "affiliateUrl": "https://www.11st.co.kr",
+    "imageUrl": null,
+    "sourceUrl": "https://www.news1.kr/industry/distribution/6244893",
+    "isActive": true,
+    "createdAt": "2026-08-02T06:34:00+09:00",
+    "updatedAt": "2026-08-02T06:34:00+09:00"
+  },
+  {
+    "id": "gmarket-2608-firstsale",
+    "title": "G마켓 8월 월첫세일",
+    "platform": "GMARKET",
+    "category": "SHOPPING",
+    "startDate": "2026-08-01T00:00:00+09:00",
+    "endDate": "2026-08-05T23:59:59+09:00",
+    "discountRate": 12,
+    "minSpend": null,
+    "maxDiscountAmount": 200000,
+    "description": "매월 첫 주 열리는 G마켓 정례 세일. 8월에는 최대 12% 할인쿠폰 4종과 최대 20만 원 할인, 카드사 결제 시 최대 2만 원 추가 할인을 제공해요. 장혁 한정판 굿즈 100원딜도 포함돼요.",
+    "affiliateUrl": "https://www.gmarket.co.kr",
+    "imageUrl": null,
+    "sourceUrl": "https://www.etnews.com/20260731000054",
+    "isActive": true,
+    "createdAt": "2026-08-02T06:34:00+09:00",
+    "updatedAt": "2026-08-02T06:34:00+09:00"
   }
 ]
