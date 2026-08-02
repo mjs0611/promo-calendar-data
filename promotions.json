@@ -463,9 +463,9 @@
     "affiliateUrl": "https://www.coupang.com",
     "imageUrl": null,
     "sourceUrl": "https://zdnet.co.kr/view/?no=20260713185907",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-07-20T06:00:00+09:00",
-    "updatedAt": "2026-07-20T06:00:00+09:00"
+    "updatedAt": "2026-08-03T06:35:00+09:00"
   },
   {
     "id": "elevenst-2607-plus-basket",
@@ -895,9 +895,9 @@
     "affiliateUrl": "https://www.lotteon.com",
     "imageUrl": null,
     "sourceUrl": "https://www.newspim.com/news/view/20260729000125",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-07-30T06:52:00+09:00",
-    "updatedAt": "2026-07-30T06:52:00+09:00"
+    "updatedAt": "2026-08-03T06:35:00+09:00"
   },
   {
     "id": "gmarket-2607-brandfesta",
@@ -949,9 +949,9 @@
     "affiliateUrl": "https://www.ssg.com",
     "imageUrl": null,
     "sourceUrl": "https://www.newspim.com/news/view/20260730001121",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-07-31T07:00:00+09:00",
-    "updatedAt": "2026-07-31T07:00:00+09:00"
+    "updatedAt": "2026-08-03T06:35:00+09:00"
   },
   {
     "id": "lotteon-2608-travelexpo",
@@ -967,9 +967,9 @@
     "affiliateUrl": "https://www.lotteon.com",
     "imageUrl": null,
     "sourceUrl": "https://www.newsis.com/view/NISX20260729_0003728657",
-    "isActive": false,
+    "isActive": true,
     "createdAt": "2026-07-31T07:00:00+09:00",
-    "updatedAt": "2026-07-31T07:00:00+09:00"
+    "updatedAt": "2026-08-03T06:35:00+09:00"
   },
   {
     "id": "coupang-2608-fashionweek",
@@ -1042,5 +1042,41 @@
     "isActive": true,
     "createdAt": "2026-08-02T06:34:00+09:00",
     "updatedAt": "2026-08-02T06:34:00+09:00"
+  },
+  {
+    "id": "ssg-2608-shopping-express",
+    "title": "SSG닷컴 여름 클리어런스 쇼핑 익스프레스",
+    "platform": "SSG",
+    "category": "SHOPPING",
+    "startDate": "2026-08-03T00:00:00+09:00",
+    "endDate": "2026-08-09T23:59:59+09:00",
+    "discountRate": 60,
+    "minSpend": null,
+    "maxDiscountAmount": null,
+    "description": "8월 9일까지 패션·뷰티·가전·잡화 여름 재고를 최대 60% 할인하는 클리어런스 행사예요. 나이키·럭키슈에뜨·닥스·헤지스·스톤헨지 패션과 바이레도 뷰티, 쿠쿠·로보락 가전이 특가로 나와요. 매일 두 개 브랜드를 선정해 추가 혜택을 제공하는 '오늘의 브랜드' 행사도 함께 진행돼요.",
+    "affiliateUrl": "https://www.ssg.com",
+    "imageUrl": null,
+    "sourceUrl": "https://www.newspim.com/news/view/20260731001337",
+    "isActive": true,
+    "createdAt": "2026-08-03T06:35:00+09:00",
+    "updatedAt": "2026-08-03T06:35:00+09:00"
+  },
+  {
+    "id": "toss-2605-payment-promo",
+    "title": "토스페이 결제 프로모션 (5~8월)",
+    "platform": "TOSS",
+    "category": "SHOPPING",
+    "startDate": "2026-05-22T00:00:00+09:00",
+    "endDate": "2026-08-22T23:59:59+09:00",
+    "discountRate": 2,
+    "minSpend": 50000,
+    "maxDiscountAmount": null,
+    "description": "5만 원 이상 결제 시 1,000원, 10만 원 이상 결제 시 2% 즉시 할인돼요. 토스페이 최초 결제 신규 고객은 1만 원 이상 결제 시 3,000원을 추가 적립 받을 수 있어요. 8월 22일까지 운영하는 상시 결제 혜택으로, 토스 앱에서 결제 수단 선택 시 자동 적용돼요.",
+    "affiliateUrl": "https://toss.im",
+    "imageUrl": null,
+    "sourceUrl": "https://toss.im/tossfeed/article/tosspay-promotion",
+    "isActive": true,
+    "createdAt": "2026-08-03T06:35:00+09:00",
+    "updatedAt": "2026-08-03T06:35:00+09:00"
   }
 ]
