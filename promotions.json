@@ -661,9 +661,9 @@
     "affiliateUrl": "https://www.musinsa.com/campaign/2026seasonoff1/0",
     "imageUrl": null,
     "sourceUrl": "https://zdnet.co.kr/view/?no=20260717160150",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-07-23T08:00:00+09:00",
-    "updatedAt": "2026-07-30T06:52:00+09:00"
+    "updatedAt": "2026-08-04T06:35:00+09:00"
   },
   {
     "id": "toss-2607-twayair",
@@ -1078,5 +1078,23 @@
     "isActive": true,
     "createdAt": "2026-08-03T06:35:00+09:00",
     "updatedAt": "2026-08-03T06:35:00+09:00"
+  },
+  {
+    "id": "elevenst-2608-ecoupon-megaday",
+    "title": "11번가 8월 E쿠폰 메가데이",
+    "platform": "ELEVENST",
+    "category": "FOOD",
+    "startDate": "2026-08-03T00:00:00+09:00",
+    "endDate": "2026-08-06T23:59:59+09:00",
+    "discountRate": 50,
+    "minSpend": null,
+    "maxDiscountAmount": null,
+    "description": "매월 초 열리는 11번가 정기 e쿠폰 릴레이 할인 행사예요. 8월에는 버거킹(3일, 최대 50%), 빽다방(4일), 쉐이크쉑(5일, 최대 40%), 피자헛(6일, 최대 45%) 순으로 하루 한 브랜드씩 온라인 최저가 수준 e쿠폰을 판매해요. 당일에만 유효하니 알람 설정 후 챙기세요.",
+    "affiliateUrl": "https://www.11st.co.kr",
+    "imageUrl": null,
+    "sourceUrl": "https://v.daum.net/v/20260803082410881",
+    "isActive": true,
+    "createdAt": "2026-08-04T06:35:00+09:00",
+    "updatedAt": "2026-08-04T06:35:00+09:00"
   }
 ]
