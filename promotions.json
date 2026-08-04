@@ -499,9 +499,9 @@
     "affiliateUrl": "https://www.shinhancard.com",
     "imageUrl": null,
     "sourceUrl": "https://zdnet.co.kr/view/?no=20250806104443",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-07-20T06:00:00+09:00",
-    "updatedAt": "2026-07-20T06:00:00+09:00"
+    "updatedAt": "2026-08-05T06:35:00+09:00"
   },
   {
     "id": "coupang-2607-boyangfish",
@@ -1096,5 +1096,59 @@
     "isActive": true,
     "createdAt": "2026-08-04T06:35:00+09:00",
     "updatedAt": "2026-08-04T06:35:00+09:00"
+  },
+  {
+    "id": "coupang-2608-travelmegaweek",
+    "title": "2026 쿠팡트래블 메가위크 세일",
+    "platform": "COUPANG",
+    "category": "TRAVEL",
+    "startDate": "2026-08-04T00:00:00+09:00",
+    "endDate": "2026-08-09T23:59:59+09:00",
+    "discountRate": null,
+    "minSpend": null,
+    "maxDiscountAmount": 70000,
+    "description": "전국 워터파크·테마파크·숙박 200여 개 상품을 특가에 선보여요. 씨라이프 코엑스 아쿠아리움·레고랜드·아쿠아필드·천안 오션어드벤처 등 레저 입장권과 호텔·리조트·펜션·풀빌라 숙박 상품을 할인하며, 서울·경기·제주를 제외한 비수도권 숙박 상품에는 최대 7만 원 '숙박세일페스타' 쿠폰도 적용돼요.",
+    "affiliateUrl": "https://www.coupang.com",
+    "imageUrl": null,
+    "sourceUrl": "https://www.etnews.com/20260804000223",
+    "isActive": true,
+    "createdAt": "2026-08-05T06:35:00+09:00",
+    "updatedAt": "2026-08-05T06:35:00+09:00"
+  },
+  {
+    "id": "naver-2608-petmegaweek",
+    "title": "네이버 펫 메가위크",
+    "platform": "NAVER",
+    "category": "SHOPPING",
+    "startDate": "2026-08-01T00:00:00+09:00",
+    "endDate": "2026-08-09T23:59:59+09:00",
+    "discountRate": 15,
+    "minSpend": null,
+    "maxDiscountAmount": null,
+    "description": "세계 고양이의 날(8월 8일)을 맞아 힐스·로얄캐닌·나투어리베·동원펫 등 300여 개 펫 브랜드가 참여하는 기획전이에요. 네이버플러스 멤버십 이용자는 7%·10%·15% 쿠폰을 받을 수 있고, 매일 오전 11시·오후 6시 두 차례 선착순 쿠폰과 브랜드데이·1,000원 한정 체험딜·럭키 드로우도 진행해요.",
+    "affiliateUrl": "https://shopping.naver.com",
+    "imageUrl": null,
+    "sourceUrl": "https://www.newspim.com/news/view/20260731001221",
+    "isActive": true,
+    "createdAt": "2026-08-05T06:35:00+09:00",
+    "updatedAt": "2026-08-05T06:35:00+09:00"
+  },
+  {
+    "id": "shinhan-2608-agoda",
+    "title": "신한카드 x 아고다 호텔 최대 10% 즉시 할인",
+    "platform": "SHINHAN_CARD",
+    "category": "TRAVEL",
+    "startDate": "2026-07-01T00:00:00+09:00",
+    "endDate": "2026-09-30T23:59:59+09:00",
+    "discountRate": 10,
+    "minSpend": null,
+    "maxDiscountAmount": null,
+    "description": "아고다에서 신한카드로 숙박을 예약하면 최대 10% 즉시 할인을 받을 수 있어요. PREMIER·ACE·BEST·CLASSIC 계열 카드는 기본 7%, 그 외 카드는 5% 할인이 적용되며 추가 할인 지역 숙박은 최대 10%예요. 7월 1일~9월 30일 예약분에 적용되며, 2026년 12월 31일 이전 실제 숙박이 조건이에요.",
+    "affiliateUrl": "https://www.agoda.com",
+    "imageUrl": null,
+    "sourceUrl": "https://www.shinhancard.com/pconts/html/benefit/event/1238187_2239.html",
+    "isActive": true,
+    "createdAt": "2026-08-05T06:35:00+09:00",
+    "updatedAt": "2026-08-05T06:35:00+09:00"
   }
 ]
