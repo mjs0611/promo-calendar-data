@@ -924,16 +924,16 @@
     "category": "FOOD",
     "startDate": "2026-08-01T00:00:00+09:00",
     "endDate": "2026-08-11T23:59:59+09:00",
-    "discountRate": 70,
+    "discountRate": 60,
     "minSpend": null,
     "maxDiscountAmount": 10000,
-    "description": "2,000여 개 인기 상품을 최대 70% 할인하는 8월 대표 기획전이에요. 매일 최대 1만 원 100% 당첨 쿠폰을 지급하고, 30만 원 이상 구매 시 선착순 3,000명에게 컬리 10주년 기념 굿즈(약 15만 원 상당)를 증정해요. 풀무원·하림·동원·크리넥스 등 생필품 브랜드 20% 쿠폰과 가정간편식 최대 30% 할인도 함께 제공돼요.",
+    "description": "2,000여 개 인기 상품을 최대 60% 할인하는 8월 대표 기획전이에요. 식재료 20종을 특가에 선보이는 '장보기 파격가', 매일 오후 5시부터 4시간 진행하는 '나이트딜', 바캉스·보양·다이어트 테마의 '라스트 서머 특가'로 구성돼요. 매일 최대 1만 원 100% 당첨 쿠폰도 지급해요.",
     "affiliateUrl": "https://www.kurly.com",
     "imageUrl": null,
-    "sourceUrl": "https://www.thefairnews.co.kr/news/articleView.html?idxno=53212",
+    "sourceUrl": "https://www.insightkorea.co.kr/news/articleView.html?idxno=251754",
     "isActive": true,
     "createdAt": "2026-07-30T06:52:00+09:00",
-    "updatedAt": "2026-08-01T06:34:00+09:00"
+    "updatedAt": "2026-08-06T06:35:00+09:00"
   },
   {
     "id": "ssg-2607-goraeit-late",
@@ -1039,9 +1039,9 @@
     "affiliateUrl": "https://www.gmarket.co.kr",
     "imageUrl": null,
     "sourceUrl": "https://www.etnews.com/20260731000054",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-08-02T06:34:00+09:00",
-    "updatedAt": "2026-08-02T06:34:00+09:00"
+    "updatedAt": "2026-08-06T06:35:00+09:00"
   },
   {
     "id": "ssg-2608-shopping-express",
@@ -1150,5 +1150,41 @@
     "isActive": true,
     "createdAt": "2026-08-05T06:35:00+09:00",
     "updatedAt": "2026-08-05T06:35:00+09:00"
+  },
+  {
+    "id": "ssg-2608-chuseok-presale",
+    "title": "이마트 추석 선물세트 사전예약",
+    "platform": "SSG",
+    "category": "FOOD",
+    "startDate": "2026-08-06T00:00:00+09:00",
+    "endDate": "2026-09-16T23:59:59+09:00",
+    "discountRate": 50,
+    "minSpend": 300000,
+    "maxDiscountAmount": null,
+    "description": "이마트가 8월 6일부터 9월 16일까지 추석 선물세트 사전예약을 진행해요. 행사카드(신세계·하나·KB국민·NH농협 등) 결제 또는 신세계포인트 적립 시 최대 50% 할인을 받을 수 있어요. 1차 사전예약 기간(8월 6일~) 30만 원 이상 결제 고객에게는 신세계상품권 최대 600만 원을 추첨 지급해요. 한우·굴비·건강식품·견과류 등 900여 종 선물세트를 온·오프라인에서 만날 수 있어요.",
+    "affiliateUrl": "https://www.ssg.com",
+    "imageUrl": null,
+    "sourceUrl": "https://biz.heraldcorp.com/article/10829819",
+    "isActive": true,
+    "createdAt": "2026-08-06T06:35:00+09:00",
+    "updatedAt": "2026-08-06T06:35:00+09:00"
+  },
+  {
+    "id": "lotteon-2608-chuseok-presale",
+    "title": "롯데마트 추석 선물세트 사전예약",
+    "platform": "LOTTEON",
+    "category": "FOOD",
+    "startDate": "2026-08-06T00:00:00+09:00",
+    "endDate": "2026-09-16T23:59:59+09:00",
+    "discountRate": 50,
+    "minSpend": 30000,
+    "maxDiscountAmount": null,
+    "description": "롯데마트·롯데슈퍼·롯데온이 8월 6일부터 9월 16일까지 추석 선물세트 사전예약을 진행해요. 900여 종 선물세트를 최대 50% 할인하며, 3만 원 이상 구매 시 무료배송을 제공해요. 1차 사전예약(8월 6일~9월 4일) 기간 추첨으로 최대 1,200만 원 상당 롯데상품권을 증정해요. 한우·굴비·과일·홍삼·건강식품 등 다양한 세트를 선보여요.",
+    "affiliateUrl": "https://www.lotteon.com",
+    "imageUrl": null,
+    "sourceUrl": "https://www.newsis.com/view/NISX20260729_0003728736",
+    "isActive": true,
+    "createdAt": "2026-08-06T06:35:00+09:00",
+    "updatedAt": "2026-08-06T06:35:00+09:00"
   }
 ]
