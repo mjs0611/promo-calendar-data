@@ -216,24 +216,6 @@
     "updatedAt": "2026-07-22T00:00:00+09:00"
   },
   {
-    "id": "lotteon-2606-summerblpf",
-    "title": "롯데온 썸머블프",
-    "platform": "LOTTEON",
-    "category": "FASHION",
-    "startDate": "2026-06-01T00:00:00+09:00",
-    "endDate": "2026-06-07T23:59:59+09:00",
-    "discountRate": 80,
-    "minSpend": null,
-    "maxDiscountAmount": null,
-    "description": "7일간 진행된 여름 패션 할인 행사. 나이키·뉴발란스 등 인기 패션 브랜드를 최대 80% 할인 판매했어요. 추가 중복 쿠폰과 카드 할인도 함께 적용됐어요.",
-    "affiliateUrl": "https://www.lotteon.com",
-    "imageUrl": null,
-    "sourceUrl": "https://www.asiae.co.kr/article/2026060108161664710",
-    "isActive": false,
-    "createdAt": "2026-07-18T01:00:00+09:00",
-    "updatedAt": "2026-07-22T00:00:00+09:00"
-  },
-  {
     "id": "lotteon-2606-onnuri-best",
     "title": "온누리 상반기 BEST 기획전",
     "platform": "LOTTEON",
@@ -985,9 +967,9 @@
     "affiliateUrl": "https://www.coupang.com",
     "imageUrl": null,
     "sourceUrl": "https://m.dailian.co.kr/news/view/1260209/",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-07-31T07:00:00+09:00",
-    "updatedAt": "2026-08-01T06:34:00+09:00"
+    "updatedAt": "2026-08-07T06:34:00+09:00"
   },
   {
     "id": "naver-2608-naveronlyfood",
@@ -1093,9 +1075,9 @@
     "affiliateUrl": "https://www.11st.co.kr",
     "imageUrl": null,
     "sourceUrl": "https://v.daum.net/v/20260803082410881",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-08-04T06:35:00+09:00",
-    "updatedAt": "2026-08-04T06:35:00+09:00"
+    "updatedAt": "2026-08-07T06:34:00+09:00"
   },
   {
     "id": "coupang-2608-travelmegaweek",
@@ -1186,5 +1168,41 @@
     "isActive": true,
     "createdAt": "2026-08-06T06:35:00+09:00",
     "updatedAt": "2026-08-06T06:35:00+09:00"
+  },
+  {
+    "id": "shinhan-2608-galaxy-fold8",
+    "title": "신한카드 갤럭시 Z 폴더블 8 구매 최대 5만원 캐시백",
+    "platform": "SHINHAN_CARD",
+    "category": "ELECTRONICS",
+    "startDate": "2026-08-05T00:00:00+09:00",
+    "endDate": "2026-08-31T23:59:59+09:00",
+    "discountRate": null,
+    "minSpend": 50000,
+    "maxDiscountAmount": 50000,
+    "description": "LG유플러스·KT·SK텔레콤에서 갤럭시 Z 폴더블 8 시리즈를 개통할 때 통신사 제휴 신한카드(LGU+ 스마트플랜 Plus·KT 가족만족 할부·SKT T라이트 신한카드)로 단말기 할부금 5만 원 이상 결제하고 통신요금을 자동납부하면 신한 슈퍼SOL에서 10만 원 이상 이용 시 5만 원을 캐시백해드려요. 직전 6개월간 신한 신용카드 이용 이력이 없는 신규 고객이 대상이며, 8월 31일까지 개통한 건에 한해 적용돼요.",
+    "affiliateUrl": "https://www.shinhancard.com",
+    "imageUrl": null,
+    "sourceUrl": "https://biz.heraldcorp.com/article/10831385",
+    "isActive": true,
+    "createdAt": "2026-08-07T06:34:00+09:00",
+    "updatedAt": "2026-08-07T06:34:00+09:00"
+  },
+  {
+    "id": "kb-2608-youthclub-prize",
+    "title": "KB Youth Club 체크카드 20만좌 돌파 경품 이벤트",
+    "platform": "KB_CARD",
+    "category": "SHOPPING",
+    "startDate": "2026-08-01T00:00:00+09:00",
+    "endDate": "2026-08-31T23:59:59+09:00",
+    "discountRate": null,
+    "minSpend": 200000,
+    "maxDiscountAmount": null,
+    "description": "KB Youth Club 체크카드 누적 발급 20만좌 돌파를 기념해 8월 한 달간 고객 감사 이벤트를 진행해요. 행사 기간 해당 카드로 합산 20만 원 이상 이용 후 응모하면 PS5 Pro·다이슨 에어랩·영화관람권·커피 교환권을 추첨으로 드려요. OTT·쇼핑 멤버십·배달 등 혜택 카테고리 3개 이상을 이용한 선착순 1,000명에게는 투썸플레이스 아메리카노 교환권도 증정해요.",
+    "affiliateUrl": "https://card.kbcard.com",
+    "imageUrl": null,
+    "sourceUrl": "https://www.insightkorea.co.kr/news/articleView.html?idxno=251879",
+    "isActive": true,
+    "createdAt": "2026-08-07T06:34:00+09:00",
+    "updatedAt": "2026-08-07T06:34:00+09:00"
   }
 ]
