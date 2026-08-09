@@ -1039,9 +1039,9 @@
     "affiliateUrl": "https://www.ssg.com",
     "imageUrl": null,
     "sourceUrl": "https://www.newspim.com/news/view/20260731001337",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-08-03T06:35:00+09:00",
-    "updatedAt": "2026-08-03T06:35:00+09:00"
+    "updatedAt": "2026-08-10T06:30:00+09:00"
   },
   {
     "id": "toss-2605-payment-promo",
@@ -1093,9 +1093,9 @@
     "affiliateUrl": "https://www.coupang.com",
     "imageUrl": null,
     "sourceUrl": "https://www.etnews.com/20260804000223",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-08-05T06:35:00+09:00",
-    "updatedAt": "2026-08-05T06:35:00+09:00"
+    "updatedAt": "2026-08-10T06:30:00+09:00"
   },
   {
     "id": "naver-2608-petmegaweek",
@@ -1111,9 +1111,9 @@
     "affiliateUrl": "https://shopping.naver.com",
     "imageUrl": null,
     "sourceUrl": "https://www.newspim.com/news/view/20260731001221",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-08-05T06:35:00+09:00",
-    "updatedAt": "2026-08-05T06:35:00+09:00"
+    "updatedAt": "2026-08-10T06:30:00+09:00"
   },
   {
     "id": "shinhan-2608-agoda",
