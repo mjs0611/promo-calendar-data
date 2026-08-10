@@ -1219,9 +1219,9 @@
     "affiliateUrl": "https://www.lottehimart.com",
     "imageUrl": null,
     "sourceUrl": "https://www.etnews.com/20260805000388",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-08-08T06:35:00+09:00",
-    "updatedAt": "2026-08-08T06:35:00+09:00"
+    "updatedAt": "2026-08-11T06:35:00+09:00"
   },
   {
     "id": "hyundai-2608-koreanair-discount",
@@ -1276,5 +1276,59 @@
     "isActive": true,
     "createdAt": "2026-08-08T06:35:00+09:00",
     "updatedAt": "2026-08-08T06:35:00+09:00"
+  },
+  {
+    "id": "ssg-2608-summer-finale",
+    "title": "SSG닷컴 썸머 피날레",
+    "platform": "SSG",
+    "category": "FASHION",
+    "startDate": "2026-08-10T00:00:00+09:00",
+    "endDate": "2026-08-14T23:59:59+09:00",
+    "discountRate": 80,
+    "minSpend": 10000,
+    "maxDiscountAmount": 50000,
+    "description": "8월 10일부터 14일까지 5일간 패션·뷰티 여름 시즌오프 할인전을 진행해요. 라코스테·헬렌카민스키·나이키·랑콤·프라다 뷰티 등 인기 브랜드 상품을 최대 80% 할인하며, 1만 원 이상 구매 시 최대 7천 원 쿠폰을 지급해요. 8월 12일까지 행사카드로 결제하면 최대 5만 원 청구할인 혜택도 받을 수 있어요.",
+    "affiliateUrl": "https://www.ssg.com",
+    "imageUrl": null,
+    "sourceUrl": "https://www.insight.co.kr/news/567331",
+    "isActive": true,
+    "createdAt": "2026-08-11T06:35:00+09:00",
+    "updatedAt": "2026-08-11T06:35:00+09:00"
+  },
+  {
+    "id": "kurly-2608-grandbeauty",
+    "title": "컬리 그랜드뷰티컬리페스타",
+    "platform": "KURLY",
+    "category": "BEAUTY",
+    "startDate": "2026-08-10T00:00:00+09:00",
+    "endDate": "2026-08-20T23:59:59+09:00",
+    "discountRate": 90,
+    "minSpend": null,
+    "maxDiscountAmount": null,
+    "description": "뷰티컬리 하반기 첫 대규모 뷰티 기획전으로 8월 20일까지 진행해요. 스킨케어·선케어·헤어·바디·메이크업 등 6,000여 개 상품을 최대 90% 할인하며, 매일 오전 11시 랜덤 쿠폰(평일 최대 50%, 주말 최대 90%)을 전 고객에게 무제한 지급해요. 원데이 특가·라이브 방송 할인·릴레이 브랜드 혜택도 함께 진행해요.",
+    "affiliateUrl": "https://www.kurly.com",
+    "imageUrl": null,
+    "sourceUrl": "https://www.seoulfn.com/news/articleView.html?idxno=603987",
+    "isActive": true,
+    "createdAt": "2026-08-11T06:35:00+09:00",
+    "updatedAt": "2026-08-11T06:35:00+09:00"
+  },
+  {
+    "id": "lotteon-2608-giantsday",
+    "title": "롯데온 2026 자이언츠데이 (여름)",
+    "platform": "LOTTEON",
+    "category": "SHOPPING",
+    "startDate": "2026-08-08T00:00:00+09:00",
+    "endDate": "2026-08-21T23:59:59+09:00",
+    "discountRate": 20,
+    "minSpend": null,
+    "maxDiscountAmount": null,
+    "description": "8월 8일부터 21일까지 14일간 롯데 계열사가 총출동하는 여름 쇼핑 축제예요. 1주차(8~14일)는 나이키·디스커버리·라코스테 등 패션·뷰티 최대 20% 할인 쿠폰을, 2주차(15~21일)는 리빙·식품·디지털가전 최대 20% 할인 쿠폰을 제공해요. 롯데GRS·롯데웰푸드·롯데칠성음료·롯데호텔·롯데시네마 등 계열사 단독 혜택도 함께 진행해요.",
+    "affiliateUrl": "https://www.lotteon.com",
+    "imageUrl": null,
+    "sourceUrl": "https://biz.heraldcorp.com/article/10765594",
+    "isActive": true,
+    "createdAt": "2026-08-11T06:35:00+09:00",
+    "updatedAt": "2026-08-11T06:35:00+09:00"
   }
 ]
