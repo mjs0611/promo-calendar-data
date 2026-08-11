@@ -913,9 +913,9 @@
     "affiliateUrl": "https://www.kurly.com",
     "imageUrl": null,
     "sourceUrl": "https://www.insightkorea.co.kr/news/articleView.html?idxno=251754",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-07-30T06:52:00+09:00",
-    "updatedAt": "2026-08-06T06:35:00+09:00"
+    "updatedAt": "2026-08-12T06:35:00+09:00"
   },
   {
     "id": "ssg-2607-goraeit-late",
@@ -1003,9 +1003,9 @@
     "affiliateUrl": "https://www.11st.co.kr",
     "imageUrl": null,
     "sourceUrl": "https://www.news1.kr/industry/distribution/6244893",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-08-02T06:34:00+09:00",
-    "updatedAt": "2026-08-02T06:34:00+09:00"
+    "updatedAt": "2026-08-12T06:35:00+09:00"
   },
   {
     "id": "gmarket-2608-firstsale",
@@ -1330,5 +1330,59 @@
     "isActive": true,
     "createdAt": "2026-08-11T06:35:00+09:00",
     "updatedAt": "2026-08-11T06:35:00+09:00"
+  },
+  {
+    "id": "gmarket-2608-burger-festival",
+    "title": "G마켓 썸머 버거 페스티벌 시즌2",
+    "platform": "GMARKET",
+    "category": "FOOD",
+    "startDate": "2026-08-11T00:00:00+09:00",
+    "endDate": "2026-08-30T23:59:59+09:00",
+    "discountRate": 51,
+    "minSpend": null,
+    "maxDiscountAmount": null,
+    "description": "롯데리아·버거킹·쉐이크쉑·맥도날드 4개 브랜드가 주차별 릴레이로 e쿠폰을 최대 51% 할인가에 판매해요. 11~16일 롯데리아, 17~23일 버거킹, 24~30일 쉐이크쉑·맥도날드 순으로 진행되며, 삼성카드로 결제하면 ID당 1회 최대 2,000원 5% 추가 할인도 받을 수 있어요.",
+    "affiliateUrl": "https://www.gmarket.co.kr",
+    "imageUrl": null,
+    "sourceUrl": "https://www.news1.kr/industry/distribution/6254881",
+    "isActive": true,
+    "createdAt": "2026-08-12T06:35:00+09:00",
+    "updatedAt": "2026-08-12T06:35:00+09:00"
+  },
+  {
+    "id": "lotteon-2608-onsale",
+    "title": "롯데온 8월 온세일",
+    "platform": "LOTTEON",
+    "category": "SHOPPING",
+    "startDate": "2026-08-10T00:00:00+09:00",
+    "endDate": "2026-08-16T23:59:59+09:00",
+    "discountRate": 92,
+    "minSpend": null,
+    "maxDiscountAmount": 200000,
+    "description": "여름 시즌오프와 가을 신상품을 동시에 선보이는 롯데온 정례 온세일이에요. 패션·뷰티·리빙 행사 상품을 최대 92% 할인하며, 최대 20만 원 상당의 쿠폰팩을 제공해요. 매일 최대 9% 중복쿠폰이 발급되고, 첫 구매 고객에게는 최대 1만5,000원 절약 가능한 17% 상품쿠폰도 드려요.",
+    "affiliateUrl": "https://www.lotteon.com",
+    "imageUrl": null,
+    "sourceUrl": "https://www.inthenews.co.kr/news/article.html?no=90367",
+    "isActive": true,
+    "createdAt": "2026-08-12T06:35:00+09:00",
+    "updatedAt": "2026-08-12T06:35:00+09:00"
+  },
+  {
+    "id": "musinsa-2608-beautyfesta",
+    "title": "무신사 뷰티 페스타 2026",
+    "platform": "MUSINSA",
+    "category": "BEAUTY",
+    "startDate": "2026-08-10T00:00:00+09:00",
+    "endDate": "2026-08-24T23:59:59+09:00",
+    "discountRate": 80,
+    "minSpend": null,
+    "maxDiscountAmount": null,
+    "description": "660개 브랜드 1만4,545개 상품을 최대 80% 할인하는 무신사 연중 최대 뷰티 행사예요. 매일 오전 11시 25% 상품 할인쿠폰과 7% 장바구니 쿠폰을 발급하며, 다슈·셀렉스·에스트라·토리든·헤라 등 브랜드 데이 추가 할인과 사은품도 제공해요. 8월 21~23일에는 성수동에서 오프라인 뷰티 축제 '무뷰페 인 성수'도 열려요.",
+    "affiliateUrl": "https://www.musinsa.com/campaign/2026beautyfesta2/0",
+    "imageUrl": null,
+    "sourceUrl": "https://zdnet.co.kr/view/?no=20260810170611",
+    "isActive": true,
+    "createdAt": "2026-08-12T06:35:00+09:00",
+    "updatedAt": "2026-08-12T06:35:00+09:00"
   }
 ]
