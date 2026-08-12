@@ -1384,5 +1384,41 @@
     "isActive": true,
     "createdAt": "2026-08-12T06:35:00+09:00",
     "updatedAt": "2026-08-12T06:35:00+09:00"
+  },
+  {
+    "id": "toss-2606-tripdotcom",
+    "title": "트립닷컴 X 토스페이 항공·호텔 5% 즉시할인",
+    "platform": "TOSS",
+    "category": "TRAVEL",
+    "startDate": "2026-06-01T00:00:00+09:00",
+    "endDate": "2026-09-30T23:59:59+09:00",
+    "discountRate": 5,
+    "minSpend": null,
+    "maxDiscountAmount": 60000,
+    "description": "트립닷컴에서 항공권 또는 호텔을 결제할 때 토스페이를 선택하면 결제금액의 5%를 즉시 할인해드려요. 최대 6만 원 한도로 별도 쿠폰 다운로드 없이 자동 적용되며, 해외·국내 숙박과 항공권 모두에 적용돼요. 9월 30일까지 운영되는 여름·가을 시즌 혜택이에요.",
+    "affiliateUrl": "https://kr.trip.com/sale/w/41449/tosspay2026.html",
+    "imageUrl": null,
+    "sourceUrl": "https://kr.trip.com/sale/w/41449/tosspay2026.html",
+    "isActive": true,
+    "createdAt": "2026-08-13T06:35:00+09:00",
+    "updatedAt": "2026-08-13T06:35:00+09:00"
+  },
+  {
+    "id": "kb-2608-overseas-flight",
+    "title": "KB국민카드 해외항공권 4~8% 청구할인",
+    "platform": "KB_CARD",
+    "category": "TRAVEL",
+    "startDate": "2026-08-01T00:00:00+09:00",
+    "endDate": "2026-08-31T23:59:59+09:00",
+    "discountRate": 8,
+    "minSpend": null,
+    "maxDiscountAmount": null,
+    "description": "8월 한 달간 KB국민카드로 해외항공권을 구매하면 전월 이용실적에 따라 4~8% 청구할인을 받을 수 있어요. 발권대행 수수료·현금서비스 등은 제외되며, KB카드 공식 이벤트 페이지에서 응모 후 이용해야 혜택이 적용돼요. 실적 구간에 따라 할인율이 차등 적용돼요.",
+    "affiliateUrl": "https://card.kbcard.com",
+    "imageUrl": null,
+    "sourceUrl": "https://m.kbcard.com/BON/DVIEW/MBBMCXHIABNC0026?evntSerno=279830",
+    "isActive": true,
+    "createdAt": "2026-08-13T06:35:00+09:00",
+    "updatedAt": "2026-08-13T06:35:00+09:00"
   }
 ]
