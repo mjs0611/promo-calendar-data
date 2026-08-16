@@ -949,9 +949,9 @@
     "affiliateUrl": "https://www.lotteon.com",
     "imageUrl": null,
     "sourceUrl": "https://www.newsis.com/view/NISX20260729_0003728657",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-07-31T07:00:00+09:00",
-    "updatedAt": "2026-08-03T06:35:00+09:00"
+    "updatedAt": "2026-08-17T06:35:00+09:00"
   },
   {
     "id": "coupang-2608-fashionweek",
@@ -1363,9 +1363,9 @@
     "affiliateUrl": "https://www.lotteon.com",
     "imageUrl": null,
     "sourceUrl": "https://www.inthenews.co.kr/news/article.html?no=90367",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-08-12T06:35:00+09:00",
-    "updatedAt": "2026-08-12T06:35:00+09:00"
+    "updatedAt": "2026-08-17T06:35:00+09:00"
   },
   {
     "id": "musinsa-2608-beautyfesta",
