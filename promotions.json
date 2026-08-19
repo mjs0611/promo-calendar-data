@@ -1636,5 +1636,41 @@
     "isActive": true,
     "createdAt": "2026-08-19T06:35:00+09:00",
     "updatedAt": "2026-08-19T06:35:00+09:00"
+  },
+  {
+    "id": "kurly-2608-chuseok-earlybird",
+    "title": "컬리 2026 추석 얼리버드 프로모션",
+    "platform": "KURLY",
+    "category": "FOOD",
+    "startDate": "2026-08-19T00:00:00+09:00",
+    "endDate": "2026-08-31T23:59:59+09:00",
+    "discountRate": 77,
+    "minSpend": 40000,
+    "maxDiscountAmount": 20000,
+    "description": "추석을 앞두고 8월 31일까지 한우·건강기능식품·화장품·디저트 등 1,800여 개 선물 상품을 최대 77% 할인해요. 컬리멤버스 회원에게 매주 월·수·금 오후 3시 20% 선착순 쿠폰(최대 1만원)을 제공하며, 컬리카드로 4만원 이상 결제 시 최대 2만원 추가 할인이 더해져요. '무료배송' 표시 선물세트는 금액과 무관하게 무료 배송돼요.",
+    "affiliateUrl": "https://www.kurly.com",
+    "imageUrl": null,
+    "sourceUrl": "https://www.fnnews.com/news/202608191622466285",
+    "isActive": true,
+    "createdAt": "2026-08-20T06:35:00+09:00",
+    "updatedAt": "2026-08-20T06:35:00+09:00"
+  },
+  {
+    "id": "coupang-2608-beautyfair",
+    "title": "쿠팡 8월 뷰티페어",
+    "platform": "COUPANG",
+    "category": "BEAUTY",
+    "startDate": "2026-08-18T00:00:00+09:00",
+    "endDate": "2026-08-30T23:59:59+09:00",
+    "discountRate": null,
+    "minSpend": 20000,
+    "maxDiscountAmount": 5000,
+    "description": "와우회원 대상 8월 30일까지 진행하는 뷰티 종합 기획전이에요. 토니모리·AHC·비플레인·에이지투웨니스·웰라쥬·라운드랩 등 46개 브랜드 5,000여 개 상품을 특가에 선보이며, 2만원 이상 구매 시 5,000원 할인쿠폰을 드려요. 8월 24일부터 메이크업 카테고리 2차 행사가 이어져 8월 30일까지 이어져요.",
+    "affiliateUrl": "https://www.coupang.com",
+    "imageUrl": null,
+    "sourceUrl": "https://www.ezyeconomy.com/news/articleView.html?idxno=238848",
+    "isActive": true,
+    "createdAt": "2026-08-20T06:35:00+09:00",
+    "updatedAt": "2026-08-20T06:35:00+09:00"
   }
 ]
