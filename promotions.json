@@ -1309,9 +1309,9 @@
     "affiliateUrl": "https://www.kurly.com",
     "imageUrl": null,
     "sourceUrl": "https://www.seoulfn.com/news/articleView.html?idxno=603987",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-08-11T06:35:00+09:00",
-    "updatedAt": "2026-08-11T06:35:00+09:00"
+    "updatedAt": "2026-08-21T06:36:00+09:00"
   },
   {
     "id": "lotteon-2608-giantsday",
@@ -1543,9 +1543,9 @@
     "affiliateUrl": "https://www.11st.co.kr",
     "imageUrl": null,
     "sourceUrl": "https://www.youthdaily.co.kr/news/article.html?no=225093",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-08-18T06:35:00+09:00",
-    "updatedAt": "2026-08-18T06:35:00+09:00"
+    "updatedAt": "2026-08-21T06:36:00+09:00"
   },
   {
     "id": "ssg-2608-brandshowcase",
