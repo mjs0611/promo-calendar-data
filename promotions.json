@@ -1327,9 +1327,9 @@
     "affiliateUrl": "https://www.lotteon.com",
     "imageUrl": null,
     "sourceUrl": "https://biz.heraldcorp.com/article/10765594",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-08-11T06:35:00+09:00",
-    "updatedAt": "2026-08-11T06:35:00+09:00"
+    "updatedAt": "2026-08-22T06:35:00+09:00"
   },
   {
     "id": "gmarket-2608-burger-festival",
@@ -1561,9 +1561,9 @@
     "affiliateUrl": "https://www.ssg.com",
     "imageUrl": null,
     "sourceUrl": "https://www.newspim.com/news/view/20260814001205",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-08-18T06:35:00+09:00",
-    "updatedAt": "2026-08-18T06:35:00+09:00"
+    "updatedAt": "2026-08-22T06:35:00+09:00"
   },
   {
     "id": "coupang-2608-unniga",
