@@ -1672,5 +1672,41 @@
     "isActive": true,
     "createdAt": "2026-08-20T06:35:00+09:00",
     "updatedAt": "2026-08-20T06:35:00+09:00"
+  },
+  {
+    "id": "gmarket-2608-intel-gamer-days",
+    "title": "G마켓 인텔 게이머 데이즈",
+    "platform": "GMARKET",
+    "category": "ELECTRONICS",
+    "startDate": "2026-08-10T00:00:00+09:00",
+    "endDate": "2026-09-13T23:59:59+09:00",
+    "discountRate": 6,
+    "minSpend": null,
+    "maxDiscountAmount": 800000,
+    "description": "G마켓이 8월 10일부터 9월 13일까지 '인텔 게이머 데이즈'를 진행해요. 에이수스·MSI·레노버·HP·에이서 5개 브랜드의 인텔 CPU 탑재 게이밍 노트북·PC에 최대 80만원 할인쿠폰을 제공해요. 카드사 7% 즉시할인(최대 15만원)까지 포함하면 최대 130만원 중복 할인이 가능해요.",
+    "affiliateUrl": "https://www.gmarket.co.kr/",
+    "imageUrl": null,
+    "sourceUrl": "https://www.shinsegaegroupnewsroom.com/gmarket-pc-sale-2/",
+    "isActive": true,
+    "createdAt": "2026-08-23T06:34:00+09:00",
+    "updatedAt": "2026-08-23T06:34:00+09:00"
+  },
+  {
+    "id": "lotteon-2608-dept-chuseok",
+    "title": "롯데백화점 2026 추석 선물세트 사전예약",
+    "platform": "LOTTEON",
+    "category": "SHOPPING",
+    "startDate": "2026-08-14T00:00:00+09:00",
+    "endDate": "2026-09-03T23:59:59+09:00",
+    "discountRate": 50,
+    "minSpend": null,
+    "maxDiscountAmount": null,
+    "description": "롯데백화점이 8월 14일부터 9월 3일까지 2026 추석 선물세트 사전예약 판매를 진행해요. 축산·수산·청과 등 190여 개 품목을 최대 50% 할인된 가격에 구매할 수 있어요. 한우 구이 세트, 미식 페어링 기프트, 제철 과일 세트 등 다양한 선물세트를 인기 물량 최대 2배 확대해 선보여요.",
+    "affiliateUrl": "https://www.lotteon.com/",
+    "imageUrl": null,
+    "sourceUrl": "https://biz.heraldcorp.com/article/10843191",
+    "isActive": true,
+    "createdAt": "2026-08-23T06:34:00+09:00",
+    "updatedAt": "2026-08-23T06:34:00+09:00"
   }
 ]
