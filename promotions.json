@@ -180,24 +180,6 @@
     "updatedAt": "2026-07-22T00:00:00+09:00"
   },
   {
-    "id": "musinsa-2606-mujinjang",
-    "title": "무진장 26 여름 블랙프라이데이",
-    "platform": "MUSINSA",
-    "category": "FASHION",
-    "startDate": "2026-06-14T00:00:00+09:00",
-    "endDate": "2026-06-24T23:59:59+09:00",
-    "discountRate": 80,
-    "minSpend": null,
-    "maxDiscountAmount": null,
-    "description": "무신사 연간 최대 패션 할인 행사. 4,350개 브랜드 59만여 개 상품을 최대 80% 할인했어요. 오픈 쿠폰 최대 30%, 매일 오전 11시·오후 5시·7시 선착순 특가와 거래액 달성 시 추가 쿠폰도 제공됐어요.",
-    "affiliateUrl": "https://www.musinsa.com/campaign/mujinjangsale",
-    "imageUrl": null,
-    "sourceUrl": "https://newsroom.musinsa.com/newsroom-menu/2026-0612-01",
-    "isActive": false,
-    "createdAt": "2026-07-18T01:00:00+09:00",
-    "updatedAt": "2026-07-22T00:00:00+09:00"
-  },
-  {
     "id": "lotteon-2607-beautyallpass",
     "title": "롯데온 뷰티 올패스",
     "platform": "LOTTEON",
@@ -1057,9 +1039,9 @@
     "affiliateUrl": "https://toss.im",
     "imageUrl": null,
     "sourceUrl": "https://toss.im/tossfeed/article/tosspay-promotion",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-08-03T06:35:00+09:00",
-    "updatedAt": "2026-08-03T06:35:00+09:00"
+    "updatedAt": "2026-08-24T06:35:00+09:00"
   },
   {
     "id": "elevenst-2608-ecoupon-megaday",
@@ -1579,9 +1561,9 @@
     "affiliateUrl": "https://www.coupang.com",
     "imageUrl": null,
     "sourceUrl": "https://www.ezyeconomy.com/news/articleView.html?idxno=238794",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-08-19T06:35:00+09:00",
-    "updatedAt": "2026-08-19T06:35:00+09:00"
+    "updatedAt": "2026-08-24T06:35:00+09:00"
   },
   {
     "id": "coupang-2608-healthfair",
@@ -1597,9 +1579,9 @@
     "affiliateUrl": "https://www.coupang.com",
     "imageUrl": null,
     "sourceUrl": "https://www.businesskorea.co.kr/news/articleView.html?idxno=274969",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-08-19T06:35:00+09:00",
-    "updatedAt": "2026-08-19T06:35:00+09:00"
+    "updatedAt": "2026-08-24T06:35:00+09:00"
   },
   {
     "id": "coupang-2608-living-fair",
@@ -1615,9 +1597,9 @@
     "affiliateUrl": "https://www.coupang.com",
     "imageUrl": null,
     "sourceUrl": "https://www.fnnews.com/news/202608110931471354",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-08-19T06:35:00+09:00",
-    "updatedAt": "2026-08-19T06:35:00+09:00"
+    "updatedAt": "2026-08-24T06:35:00+09:00"
   },
   {
     "id": "lotteon-2608-eltown-superweek",
