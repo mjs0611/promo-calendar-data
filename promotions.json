@@ -247,9 +247,9 @@
     "affiliateUrl": "https://www.oliveyoung.co.kr",
     "imageUrl": null,
     "sourceUrl": "https://unpa.me/community/beautytip/132239259",
-    "isActive": false,
+    "isActive": true,
     "createdAt": "2026-07-18T06:38:00+09:00",
-    "updatedAt": "2026-07-27T00:00:00+09:00"
+    "updatedAt": "2026-08-25T06:35:00+09:00"
   },
   {
     "id": "baemin-2606-meokboolfesta",
@@ -1255,9 +1255,9 @@
     "affiliateUrl": "https://nol.yanolja.com",
     "imageUrl": null,
     "sourceUrl": "https://nol.yanolja.com/promotion/nol-promotion?eventcode=NOY73",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-08-08T06:35:00+09:00",
-    "updatedAt": "2026-08-08T06:35:00+09:00"
+    "updatedAt": "2026-08-25T06:35:00+09:00"
   },
   {
     "id": "ssg-2608-summer-finale",
@@ -1363,9 +1363,9 @@
     "affiliateUrl": "https://www.musinsa.com/campaign/2026beautyfesta2/0",
     "imageUrl": null,
     "sourceUrl": "https://zdnet.co.kr/view/?no=20260810170611",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-08-12T06:35:00+09:00",
-    "updatedAt": "2026-08-12T06:35:00+09:00"
+    "updatedAt": "2026-08-25T06:35:00+09:00"
   },
   {
     "id": "toss-2606-tripdotcom",
@@ -1615,9 +1615,9 @@
     "affiliateUrl": "https://www.lotteon.com",
     "imageUrl": null,
     "sourceUrl": "https://www.newsquest.co.kr/news/articleView.html?idxno=271867",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-08-19T06:35:00+09:00",
-    "updatedAt": "2026-08-19T06:35:00+09:00"
+    "updatedAt": "2026-08-25T06:35:00+09:00"
   },
   {
     "id": "kurly-2608-chuseok-earlybird",
@@ -1690,5 +1690,23 @@
     "isActive": true,
     "createdAt": "2026-08-23T06:34:00+09:00",
     "updatedAt": "2026-08-23T06:34:00+09:00"
+  },
+  {
+    "id": "coupang-2608-fallcrab",
+    "title": "쿠팡 가을 햇꽃게 산지직송 할인전",
+    "platform": "COUPANG",
+    "category": "FOOD",
+    "startDate": "2026-08-20T00:00:00+09:00",
+    "endDate": "2026-08-31T23:59:59+09:00",
+    "discountRate": null,
+    "minSpend": null,
+    "maxDiscountAmount": null,
+    "description": "서해 금어기가 해제된 8월 20일부터 8월 31일까지 가을 햇꽃게를 로켓프레시 산지직송 특가로 선보여요. 신진도·격포·법성포·신안·진도·인천 연평·옹진 등 서해 7개 산지 꽃게 150톤을 확보했으며, 대표 상품인 피시원 신진도 산지직송 가을 자망 햇꽃게 3kg(9~12마리)는 100g당 688원으로 전년 행사 최저가(760원) 대비 약 10% 저렴해요. 매입량은 전년 대비 50% 늘려 당일 잡은 꽃게를 이르면 다음 날 오전 7시 전 받아볼 수 있어요.",
+    "affiliateUrl": "https://www.coupang.com",
+    "imageUrl": null,
+    "sourceUrl": "https://www.insightkorea.co.kr/news/articleView.html?idxno=252910",
+    "isActive": true,
+    "createdAt": "2026-08-25T06:35:00+09:00",
+    "updatedAt": "2026-08-25T06:35:00+09:00"
   }
 ]
