@@ -1708,5 +1708,41 @@
     "isActive": true,
     "createdAt": "2026-08-25T06:35:00+09:00",
     "updatedAt": "2026-08-25T06:35:00+09:00"
+  },
+  {
+    "id": "gmarket-2608-hangawi-bigsale",
+    "title": "G마켓 2026 한가위 빅세일",
+    "platform": "GMARKET",
+    "category": "SHOPPING",
+    "startDate": "2026-08-31T00:00:00+09:00",
+    "endDate": "2026-09-22T23:59:59+09:00",
+    "discountRate": null,
+    "minSpend": null,
+    "maxDiscountAmount": null,
+    "description": "G마켓이 8월 31일부터 9월 22일까지 '2026 한가위 빅세일'을 열어요. 2,000개 특가딜을 선보이며, 이상기후로 가격이 오른 배·사과 선물세트를 산지 생산자와 협력해 G마켓 단독 특가로 제공해요. 1만 원대 가성비 선물세트부터 중고가 디지털가전까지 다양한 상품을 준비했으며, G라이브·쇼츠딜로 총 1,000회 특집 방송도 릴레이로 진행해요.",
+    "affiliateUrl": "https://www.gmarket.co.kr/e/bigs/hangawi/ranking",
+    "imageUrl": null,
+    "sourceUrl": "https://www.newspim.com/news/view/20260827000179",
+    "isActive": false,
+    "createdAt": "2026-08-28T06:00:00+09:00",
+    "updatedAt": "2026-08-28T06:00:00+09:00"
+  },
+  {
+    "id": "coupang-2608-chuseok-festa",
+    "title": "2026 쿠팡 추석 페스타",
+    "platform": "COUPANG",
+    "category": "SHOPPING",
+    "startDate": "2026-08-31T00:00:00+09:00",
+    "endDate": "2026-09-28T23:59:59+09:00",
+    "discountRate": 50,
+    "minSpend": null,
+    "maxDiscountAmount": null,
+    "description": "8월 31일부터 9월 28일까지 추석 선물세트·명절 음식·가전·제수용품·한복·숙박·나들이 용품 등 3만여 개 상품을 최대 50% 할인해요. 메인 특가·선물관·장보기관·연휴 즐기기·브랜드데이 5개 테마관으로 구성되며, 매주 목요일 레저·테마파크 이용권을 선착순 100원에 제공하는 이벤트도 열려요.",
+    "affiliateUrl": "https://www.coupang.com",
+    "imageUrl": null,
+    "sourceUrl": "https://www.econovill.com/news/articleView.html?idxno=665523",
+    "isActive": false,
+    "createdAt": "2026-08-28T06:00:00+09:00",
+    "updatedAt": "2026-08-28T06:00:00+09:00"
   }
 ]
