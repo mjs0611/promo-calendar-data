@@ -715,9 +715,9 @@
     "affiliateUrl": "https://www.oliveyoung.co.kr",
     "imageUrl": null,
     "sourceUrl": "https://corp.oliveyoung.com/ko/news/86?pg=1&category=",
-    "isActive": false,
+    "isActive": true,
     "createdAt": "2026-07-25T06:34:00+09:00",
-    "updatedAt": "2026-07-25T06:34:00+09:00"
+    "updatedAt": "2026-08-30T06:35:00+09:00"
   },
   {
     "id": "samsung-2607-carribean-summer",
@@ -1744,5 +1744,23 @@
     "isActive": false,
     "createdAt": "2026-08-28T06:00:00+09:00",
     "updatedAt": "2026-08-28T06:00:00+09:00"
+  },
+  {
+    "id": "shinhan-2607-moving-stamp",
+    "title": "신한카드 혼수·이사 스탬프 캠페인",
+    "platform": "SHINHAN_CARD",
+    "category": "LIVING",
+    "startDate": "2026-07-01T00:00:00+09:00",
+    "endDate": "2026-09-30T23:59:59+09:00",
+    "discountRate": null,
+    "minSpend": 5000000,
+    "maxDiscountAmount": 50000,
+    "description": "신한 신용·체크카드로 혼수·인테리어·이사 관련 세부 이벤트 2개 이상 참여하고 합산 500만 원 이상 결제하면 5만 원 추가 캐시백을 받을 수 있어요. 개별 이벤트 혜택은 별도 적용되며, 9월 30일까지 진행해요. BC·법인·기프트·선불카드는 대상에서 제외돼요.",
+    "affiliateUrl": "https://www.shinhancard.com",
+    "imageUrl": null,
+    "sourceUrl": "https://www.shinhancard.com/pconts/html/benefit/event/2013676_2239.html",
+    "isActive": true,
+    "createdAt": "2026-08-30T06:35:00+09:00",
+    "updatedAt": "2026-08-30T06:35:00+09:00"
   }
 ]
