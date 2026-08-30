@@ -697,9 +697,9 @@
     "affiliateUrl": "https://www.yogiyo.co.kr",
     "imageUrl": null,
     "sourceUrl": "https://www.asiatoday.co.kr/kn/view.php?key=20260720010007109",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-07-25T06:34:00+09:00",
-    "updatedAt": "2026-07-25T06:34:00+09:00"
+    "updatedAt": "2026-08-31T06:34:43+09:00"
   },
   {
     "id": "oliveyoung-2608-fall-sale",
@@ -733,9 +733,9 @@
     "affiliateUrl": "https://www.samsungcard.com",
     "imageUrl": null,
     "sourceUrl": "https://www.insightkorea.co.kr/news/articleView.html?idxno=250073",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-07-25T06:34:00+09:00",
-    "updatedAt": "2026-07-25T06:34:00+09:00"
+    "updatedAt": "2026-08-31T06:34:43+09:00"
   },
   {
     "id": "lotteon-2607-bigsavemarket",
@@ -1327,9 +1327,9 @@
     "affiliateUrl": "https://www.gmarket.co.kr",
     "imageUrl": null,
     "sourceUrl": "https://www.news1.kr/industry/distribution/6254881",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-08-12T06:35:00+09:00",
-    "updatedAt": "2026-08-12T06:35:00+09:00"
+    "updatedAt": "2026-08-31T06:34:43+09:00"
   },
   {
     "id": "lotteon-2608-onsale",
@@ -1651,9 +1651,9 @@
     "affiliateUrl": "https://www.coupang.com",
     "imageUrl": null,
     "sourceUrl": "https://www.ezyeconomy.com/news/articleView.html?idxno=238848",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-08-20T06:35:00+09:00",
-    "updatedAt": "2026-08-20T06:35:00+09:00"
+    "updatedAt": "2026-08-31T06:34:43+09:00"
   },
   {
     "id": "gmarket-2608-intel-gamer-days",
@@ -1723,9 +1723,9 @@
     "affiliateUrl": "https://www.gmarket.co.kr/e/bigs/hangawi/ranking",
     "imageUrl": null,
     "sourceUrl": "https://www.newspim.com/news/view/20260827000179",
-    "isActive": false,
+    "isActive": true,
     "createdAt": "2026-08-28T06:00:00+09:00",
-    "updatedAt": "2026-08-28T06:00:00+09:00"
+    "updatedAt": "2026-08-31T06:34:43+09:00"
   },
   {
     "id": "coupang-2608-chuseok-festa",
@@ -1741,9 +1741,9 @@
     "affiliateUrl": "https://www.coupang.com",
     "imageUrl": null,
     "sourceUrl": "https://www.econovill.com/news/articleView.html?idxno=665523",
-    "isActive": false,
+    "isActive": true,
     "createdAt": "2026-08-28T06:00:00+09:00",
-    "updatedAt": "2026-08-28T06:00:00+09:00"
+    "updatedAt": "2026-08-31T06:34:43+09:00"
   },
   {
     "id": "shinhan-2607-moving-stamp",
