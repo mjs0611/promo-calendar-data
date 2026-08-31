@@ -409,9 +409,9 @@
     "affiliateUrl": "https://www.coupangeats.com",
     "imageUrl": null,
     "sourceUrl": "https://news.coupang.com/archives/62574/",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-07-20T06:00:00+09:00",
-    "updatedAt": "2026-07-20T06:00:00+09:00"
+    "updatedAt": "2026-09-01T06:35:00+09:00"
   },
   {
     "id": "coupang-2607-megabeautyshow",
@@ -787,9 +787,9 @@
     "affiliateUrl": "https://www.samsungcard.com",
     "imageUrl": null,
     "sourceUrl": "https://www.ajd.co.kr/card/event/detail/260",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-07-26T06:35:00+09:00",
-    "updatedAt": "2026-07-26T06:35:00+09:00"
+    "updatedAt": "2026-09-01T06:35:00+09:00"
   },
   {
     "id": "gmarket-2607-incheon",
@@ -805,9 +805,9 @@
     "affiliateUrl": "https://www.gmarket.co.kr",
     "imageUrl": null,
     "sourceUrl": "https://www.thepublic.kr/news/articleView.html?idxno=311949",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-07-27T00:00:00+09:00",
-    "updatedAt": "2026-07-27T00:00:00+09:00"
+    "updatedAt": "2026-09-01T06:35:00+09:00"
   },
   {
     "id": "lotteon-2607-lastchance",
@@ -841,9 +841,9 @@
     "affiliateUrl": "https://www.gmarket.co.kr/n/showroom/ggokcard",
     "imageUrl": null,
     "sourceUrl": "https://www.newspim.com/news/view/20260723000183",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-07-27T00:00:00+09:00",
-    "updatedAt": "2026-07-27T00:00:00+09:00"
+    "updatedAt": "2026-09-01T06:35:00+09:00"
   },
   {
     "id": "lotteon-2607-tongeunday",
@@ -967,9 +967,9 @@
     "affiliateUrl": "https://shopping.naver.com",
     "imageUrl": null,
     "sourceUrl": "https://www.etnews.com/20260730000076",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-07-31T07:00:00+09:00",
-    "updatedAt": "2026-08-01T06:34:00+09:00"
+    "updatedAt": "2026-09-01T06:35:00+09:00"
   },
   {
     "id": "elevenst-2608-monthlysilja",
@@ -1165,9 +1165,9 @@
     "affiliateUrl": "https://www.shinhancard.com",
     "imageUrl": null,
     "sourceUrl": "https://biz.heraldcorp.com/article/10831385",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-08-07T06:34:00+09:00",
-    "updatedAt": "2026-08-07T06:34:00+09:00"
+    "updatedAt": "2026-09-01T06:35:00+09:00"
   },
   {
     "id": "kb-2608-youthclub-prize",
@@ -1183,9 +1183,9 @@
     "affiliateUrl": "https://card.kbcard.com",
     "imageUrl": null,
     "sourceUrl": "https://www.insightkorea.co.kr/news/articleView.html?idxno=251879",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-08-07T06:34:00+09:00",
-    "updatedAt": "2026-08-07T06:34:00+09:00"
+    "updatedAt": "2026-09-01T06:35:00+09:00"
   },
   {
     "id": "lotteon-2608-himart-highlight",
@@ -1219,9 +1219,9 @@
     "affiliateUrl": "https://www.hyundaicard.com",
     "imageUrl": null,
     "sourceUrl": "https://www.hyundaimotorgroup.com/ko/news/CONT0000000000104207",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-08-08T06:35:00+09:00",
-    "updatedAt": "2026-08-08T06:35:00+09:00"
+    "updatedAt": "2026-09-01T06:35:00+09:00"
   },
   {
     "id": "hyundai-2608-baemin-event",
@@ -1237,9 +1237,9 @@
     "affiliateUrl": "https://www.baemin.com",
     "imageUrl": null,
     "sourceUrl": "https://www.hyundaimotorgroup.com/ko/news/CONT0000000000104207",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-08-08T06:35:00+09:00",
-    "updatedAt": "2026-08-08T06:35:00+09:00"
+    "updatedAt": "2026-09-01T06:35:00+09:00"
   },
   {
     "id": "hyundai-2608-nol-yanolja",
@@ -1399,9 +1399,9 @@
     "affiliateUrl": "https://card.kbcard.com",
     "imageUrl": null,
     "sourceUrl": "https://m.kbcard.com/BON/DVIEW/MBBMCXHIABNC0026?evntSerno=279830",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-08-13T06:35:00+09:00",
-    "updatedAt": "2026-08-13T06:35:00+09:00"
+    "updatedAt": "2026-09-01T06:35:00+09:00"
   },
   {
     "id": "ssg-2608-goraeit-food",
@@ -1453,9 +1453,9 @@
     "affiliateUrl": "https://www.twayair.com",
     "imageUrl": null,
     "sourceUrl": "https://www.newspim.com/news/view/20260814000253",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-08-14T06:35:00+09:00",
-    "updatedAt": "2026-08-14T06:35:00+09:00"
+    "updatedAt": "2026-09-01T06:35:00+09:00"
   },
   {
     "id": "shinhan-2608-culture-ticket",
@@ -1507,9 +1507,9 @@
     "affiliateUrl": "https://toss.im",
     "imageUrl": null,
     "sourceUrl": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5046451",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-08-18T06:35:00+09:00",
-    "updatedAt": "2026-08-18T06:35:00+09:00"
+    "updatedAt": "2026-09-01T06:35:00+09:00"
   },
   {
     "id": "elevenst-2608-tmembership-festa",
@@ -1633,9 +1633,9 @@
     "affiliateUrl": "https://www.kurly.com",
     "imageUrl": null,
     "sourceUrl": "https://www.fnnews.com/news/202608191622466285",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-08-20T06:35:00+09:00",
-    "updatedAt": "2026-08-20T06:35:00+09:00"
+    "updatedAt": "2026-09-01T06:35:00+09:00"
   },
   {
     "id": "coupang-2608-beautyfair",
@@ -1705,9 +1705,9 @@
     "affiliateUrl": "https://www.coupang.com",
     "imageUrl": null,
     "sourceUrl": "https://www.insightkorea.co.kr/news/articleView.html?idxno=252910",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-08-25T06:35:00+09:00",
-    "updatedAt": "2026-08-25T06:35:00+09:00"
+    "updatedAt": "2026-09-01T06:35:00+09:00"
   },
   {
     "id": "gmarket-2608-hangawi-bigsale",
@@ -1762,5 +1762,41 @@
     "isActive": true,
     "createdAt": "2026-08-30T06:35:00+09:00",
     "updatedAt": "2026-08-30T06:35:00+09:00"
+  },
+  {
+    "id": "lotteon-2609-bousera",
+    "title": "롯데온 뷰세라 2026 가을 뷰티 기획전",
+    "platform": "LOTTEON",
+    "category": "BEAUTY",
+    "startDate": "2026-09-01T00:00:00+09:00",
+    "endDate": "2026-09-14T23:59:59+09:00",
+    "discountRate": 80,
+    "minSpend": null,
+    "maxDiscountAmount": 30000,
+    "description": "SK-II·록시땅 등 백화점 뷰티 브랜드를 최대 80% 할인하는 가을 기획전이에요. 매일 오전 10시 선착순 쿠폰이 발급되며, 백화점 브랜드 12% 할인쿠폰(최대 3만 원)과 트렌드 브랜드 25% 할인쿠폰(최대 1만 원)을 각각 제공해요. 9월 14일까지 진행해요.",
+    "affiliateUrl": "https://www.lotteon.com",
+    "imageUrl": null,
+    "sourceUrl": "https://www.etoday.co.kr/news/view/2619710",
+    "isActive": true,
+    "createdAt": "2026-09-01T06:35:00+09:00",
+    "updatedAt": "2026-09-01T06:35:00+09:00"
+  },
+  {
+    "id": "ssg-2609-shopping-express",
+    "title": "SSG닷컴 9월 쇼핑 익스프레스",
+    "platform": "SSG",
+    "category": "LIVING",
+    "startDate": "2026-09-01T00:00:00+09:00",
+    "endDate": "2026-09-06T23:59:59+09:00",
+    "discountRate": 50,
+    "minSpend": null,
+    "maxDiscountAmount": null,
+    "description": "9월 첫 주 SSG닷컴 특가전으로 리빙·인테리어 상품 최대 50%, 가전 최대 35% 할인을 제공해요. 추석 선물 포장 서비스도 함께 운영하며, 9월 6일까지 진행해요.",
+    "affiliateUrl": "https://www.ssg.com",
+    "imageUrl": null,
+    "sourceUrl": "https://www.shinsegaegroupnewsroom.com/ssg-september-shopping-express/",
+    "isActive": true,
+    "createdAt": "2026-09-01T06:35:00+09:00",
+    "updatedAt": "2026-09-01T06:35:00+09:00"
   }
 ]
