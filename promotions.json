@@ -90,42 +90,6 @@
     "updatedAt": "2026-07-22T00:00:00+09:00"
   },
   {
-    "id": "gmarket-2607-firstsale",
-    "title": "월첫세일",
-    "platform": "GMARKET",
-    "category": "SHOPPING",
-    "startDate": "2026-07-01T00:00:00+09:00",
-    "endDate": "2026-07-05T23:59:59+09:00",
-    "discountRate": 12,
-    "minSpend": null,
-    "maxDiscountAmount": null,
-    "description": "매월 첫 주에 열리는 G마켓 정례 세일. 인기 상품 1,000개에 최대 12% 할인 쿠폰과 최대 10% 적립 혜택을 제공해요.",
-    "affiliateUrl": "https://www.gmarket.co.kr",
-    "imageUrl": null,
-    "sourceUrl": "http://sateconomy.co.kr/news/view/1065589111578491",
-    "isActive": false,
-    "createdAt": "2026-07-16T22:10:00+09:00",
-    "updatedAt": "2026-07-22T00:00:00+09:00"
-  },
-  {
-    "id": "naver-2606-nepda",
-    "title": "넾다세일",
-    "platform": "NAVER",
-    "category": "SHOPPING",
-    "startDate": "2026-06-22T00:00:00+09:00",
-    "endDate": "2026-07-05T23:59:59+09:00",
-    "discountRate": null,
-    "minSpend": null,
-    "maxDiscountAmount": null,
-    "description": "네이버플러스 스토어 상반기 최대 쇼핑 행사. 대형 브랜드 단독 기획 상품과 타임세일, 멤버십 최대 8% 적립 혜택이 있어요.",
-    "affiliateUrl": "https://shopping.naver.com",
-    "imageUrl": null,
-    "sourceUrl": "https://sangseek7.co.kr/542",
-    "isActive": false,
-    "createdAt": "2026-07-16T22:10:00+09:00",
-    "updatedAt": "2026-07-22T00:00:00+09:00"
-  },
-  {
     "id": "samsung-2607-cashback",
     "title": "모니모·iD ON 카드 발급 캐시백",
     "platform": "SAMSUNG_CARD",
@@ -214,24 +178,6 @@
     "isActive": false,
     "createdAt": "2026-07-18T06:38:00+09:00",
     "updatedAt": "2026-08-01T06:34:00+09:00"
-  },
-  {
-    "id": "ssg-2607-fashion-ssksale",
-    "title": "SSG닷컴 패션 쓱세일",
-    "platform": "SSG",
-    "category": "FASHION",
-    "startDate": "2026-07-01T00:00:00+09:00",
-    "endDate": "2026-07-07T23:59:59+09:00",
-    "discountRate": 80,
-    "minSpend": null,
-    "maxDiscountAmount": null,
-    "description": "SSG닷컴이 7일간 여름 시즌오프와 겨울 역시즌 특가를 동시에 진행했어요. 라코스테·나이키·배럴·H&M 바캉스 의류와 노스페이스·K2·디스커버리 아우터를 최대 80% 할인하고, 쓱세일 전용 12% 할인쿠폰과 역시즌 아우터 10% 전용쿠폰도 선착순 지급됐어요.",
-    "affiliateUrl": "https://www.ssg.com",
-    "imageUrl": null,
-    "sourceUrl": "https://www.etnews.com/20260701000234",
-    "isActive": false,
-    "createdAt": "2026-07-18T06:38:00+09:00",
-    "updatedAt": "2026-07-22T00:00:00+09:00"
   },
   {
     "id": "oliveyoung-2607-youngday",
@@ -355,24 +301,6 @@
     "affiliateUrl": "https://www.lotteon.com",
     "imageUrl": null,
     "sourceUrl": "https://www.thepublic.kr/news/articleView.html?idxno=310350",
-    "isActive": false,
-    "createdAt": "2026-07-19T06:34:00+09:00",
-    "updatedAt": "2026-07-22T00:00:00+09:00"
-  },
-  {
-    "id": "ssg-2607-goraitfesta",
-    "title": "이마트 고래잇 페스타",
-    "platform": "SSG",
-    "category": "FOOD",
-    "startDate": "2026-07-02T00:00:00+09:00",
-    "endDate": "2026-07-05T23:59:59+09:00",
-    "discountRate": 50,
-    "minSpend": null,
-    "maxDiscountAmount": null,
-    "description": "이마트가 열흘치 여름 먹거리를 초특가로 선보인 행사예요. 하우스 수박 9,500원, 탄탄포크 삼겹살·목심(100g) 980원, 국내산 생닭 40% 할인, 한우 전 품목 최대 50% 특가를 진행했어요. SSG닷컴에서도 동시 구매 가능했어요.",
-    "affiliateUrl": "https://www.ssg.com",
-    "imageUrl": null,
-    "sourceUrl": "https://www.ilyoweekly.co.kr/news/newsview.php?ncode=1065596272948820",
     "isActive": false,
     "createdAt": "2026-07-19T06:34:00+09:00",
     "updatedAt": "2026-07-22T00:00:00+09:00"
@@ -706,8 +634,8 @@
     "title": "올리브영 가을 올영세일",
     "platform": "OLIVEYOUNG",
     "category": "BEAUTY",
-    "startDate": "2026-08-29T00:00:00+09:00",
-    "endDate": "2026-09-04T23:59:59+09:00",
+    "startDate": "2026-08-30T00:00:00+09:00",
+    "endDate": "2026-09-05T23:59:59+09:00",
     "discountRate": 30,
     "minSpend": null,
     "maxDiscountAmount": null,
@@ -717,7 +645,7 @@
     "sourceUrl": "https://corp.oliveyoung.com/ko/news/86?pg=1&category=",
     "isActive": true,
     "createdAt": "2026-07-25T06:34:00+09:00",
-    "updatedAt": "2026-08-30T06:35:00+09:00"
+    "updatedAt": "2026-09-05T06:35:00+09:00"
   },
   {
     "id": "samsung-2607-carribean-summer",
@@ -1687,9 +1615,9 @@
     "affiliateUrl": "https://www.lotteon.com/",
     "imageUrl": null,
     "sourceUrl": "https://biz.heraldcorp.com/article/10843191",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-08-23T06:34:00+09:00",
-    "updatedAt": "2026-08-23T06:34:00+09:00"
+    "updatedAt": "2026-09-05T06:35:00+09:00"
   },
   {
     "id": "coupang-2608-fallcrab",
@@ -1978,5 +1906,41 @@
     "isActive": true,
     "createdAt": "2026-09-03T06:30:00+09:00",
     "updatedAt": "2026-09-03T06:30:00+09:00"
+  },
+  {
+    "id": "lotteon-2609-onmaeumchuseok",
+    "title": "롯데온 온마음 추석 행사",
+    "platform": "LOTTEON",
+    "category": "SHOPPING",
+    "startDate": "2026-09-01T00:00:00+09:00",
+    "endDate": "2026-09-20T23:59:59+09:00",
+    "discountRate": null,
+    "minSpend": null,
+    "maxDiscountAmount": 200000,
+    "description": "롯데온이 9월 20일까지 추석 선물 상품을 한자리에 모은 '온마음 추석' 행사를 진행해요. 행사 기간 동안 최대 20만원 할인 쿠폰을 제공하며, 엘포인트(L.POINT)를 최대 15만점 적립할 수 있어요. 축산·수산·청과·건강식품 등 다양한 추석 선물세트를 특가에 만나볼 수 있어요.",
+    "affiliateUrl": "https://www.lotteon.com",
+    "imageUrl": null,
+    "sourceUrl": "https://www.youthdaily.co.kr/news/article.html?no=226432",
+    "isActive": true,
+    "createdAt": "2026-09-05T06:35:00+09:00",
+    "updatedAt": "2026-09-05T06:35:00+09:00"
+  },
+  {
+    "id": "naver-2609-chuseok-sale",
+    "title": "네이버쇼핑 2026 추석 대전",
+    "platform": "NAVER",
+    "category": "SHOPPING",
+    "startDate": "2026-08-31T00:00:00+09:00",
+    "endDate": "2026-09-20T23:59:59+09:00",
+    "discountRate": null,
+    "minSpend": 100000,
+    "maxDiscountAmount": null,
+    "description": "네이버플러스 스토어가 8월 31일부터 추석 대전을 진행해요. 1주차 얼리버드(8월 31일~9월 6일)에는 매일 오전 10시 선착순으로 7% 할인쿠폰을 지급하며, 2주차 본행사(9월 7일~)에는 참여 상품이 늘어나고 다양한 카테고리 쿠폰이 제공돼요. 10만원 이상 구매 시 쿠폰이 적용되며, 네이버플러스 멤버십 회원은 중복 적립 혜택을 누릴 수 있어요.",
+    "affiliateUrl": "https://shopping.naver.com",
+    "imageUrl": null,
+    "sourceUrl": "https://www.navercorp.com/media/pressReleasesDetail?seq=10034407",
+    "isActive": true,
+    "createdAt": "2026-09-05T06:35:00+09:00",
+    "updatedAt": "2026-09-05T06:35:00+09:00"
   }
 ]
