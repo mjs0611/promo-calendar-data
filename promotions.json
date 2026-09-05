@@ -643,9 +643,9 @@
     "affiliateUrl": "https://www.oliveyoung.co.kr",
     "imageUrl": null,
     "sourceUrl": "https://corp.oliveyoung.com/ko/news/86?pg=1&category=",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-07-25T06:34:00+09:00",
-    "updatedAt": "2026-09-05T06:35:00+09:00"
+    "updatedAt": "2026-09-06T06:35:00+09:00"
   },
   {
     "id": "samsung-2607-carribean-summer",
