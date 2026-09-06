@@ -1363,9 +1363,9 @@
     "affiliateUrl": "https://www.ssg.com",
     "imageUrl": null,
     "sourceUrl": "https://www.newspim.com/news/view/20260812001197",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-08-14T06:35:00+09:00",
-    "updatedAt": "2026-08-14T06:35:00+09:00"
+    "updatedAt": "2026-09-07T06:35:00+09:00"
   },
   {
     "id": "toss-2608-twayair",
@@ -1723,9 +1723,9 @@
     "affiliateUrl": "https://www.ssg.com",
     "imageUrl": null,
     "sourceUrl": "https://www.shinsegaegroupnewsroom.com/ssg-september-shopping-express/",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-09-01T06:35:00+09:00",
-    "updatedAt": "2026-09-01T06:35:00+09:00"
+    "updatedAt": "2026-09-07T06:35:00+09:00"
   },
   {
     "id": "elevenst-2609-monthly",
