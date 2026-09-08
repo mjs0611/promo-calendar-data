@@ -1975,9 +1975,9 @@
     "affiliateUrl": null,
     "imageUrl": null,
     "sourceUrl": "https://www.enetnews.co.kr/news/articleView.html?idxno=42217",
-    "isActive": false,
+    "isActive": true,
     "createdAt": "2026-09-08T06:30:00+09:00",
-    "updatedAt": "2026-09-08T06:30:00+09:00"
+    "updatedAt": "2026-09-08T21:40:00+09:00"
   },
   {
     "id": "kb-2609-kpass-event",
