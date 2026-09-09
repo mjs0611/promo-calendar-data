@@ -54,24 +54,6 @@
     "updatedAt": "2026-07-31T07:00:00+09:00"
   },
   {
-    "id": "elevenst-2607-monthly",
-    "title": "7월 월간 십일절",
-    "platform": "ELEVENST",
-    "category": "SHOPPING",
-    "startDate": "2026-07-01T00:00:00+09:00",
-    "endDate": "2026-07-11T23:59:59+09:00",
-    "discountRate": 75,
-    "minSpend": null,
-    "maxDiscountAmount": null,
-    "description": "1,600개 브랜드가 참여하는 11번가 정례 세일. 패션·뷰티·여행·계절가전 등 여름 시즌 상품을 최대 75% 할인해요.",
-    "affiliateUrl": "https://plan.11st.co.kr/plan/front/exhibitions/2224654/detail",
-    "imageUrl": null,
-    "sourceUrl": "https://www.newsis.com/view/NISX20260701_0003690631",
-    "isActive": false,
-    "createdAt": "2026-07-16T22:10:00+09:00",
-    "updatedAt": "2026-07-22T00:00:00+09:00"
-  },
-  {
     "id": "coupang-2607-wowday",
     "title": "와우 멤버스데이",
     "platform": "COUPANG",
