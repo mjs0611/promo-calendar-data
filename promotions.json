@@ -1669,9 +1669,9 @@
     "affiliateUrl": "https://www.11st.co.kr",
     "imageUrl": null,
     "sourceUrl": "https://www.viva100.com/article/20260901500330",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-09-02T06:30:00+09:00",
-    "updatedAt": "2026-09-02T06:30:00+09:00"
+    "updatedAt": "2026-09-13T06:30:00+09:00"
   },
   {
     "id": "elevenst-2609-chuseok",
