@@ -216,42 +216,6 @@
     "updatedAt": "2026-08-01T06:34:00+09:00"
   },
   {
-    "id": "coupang-2607-motorsfair",
-    "title": "7월 쿠팡모터스 페어",
-    "platform": "COUPANG",
-    "category": "SHOPPING",
-    "startDate": "2026-07-03T00:00:00+09:00",
-    "endDate": "2026-07-14T23:59:59+09:00",
-    "discountRate": null,
-    "minSpend": null,
-    "maxDiscountAmount": null,
-    "description": "메이튼·쿤달·불스원·소낙스 등 40여 개 자동차용품 브랜드가 참여하는 여름철 차량 관리 특가전이에요. 세차용품·차량용 전자기기·인테리어 소품은 물론 와이퍼·방향제·흠집제거제 등 장거리 운행과 장마 대비 필수 아이템을 특가에 선보였어요.",
-    "affiliateUrl": "https://www.coupang.com",
-    "imageUrl": null,
-    "sourceUrl": "https://www.newsis.com/view/NISX20260703_0003694382",
-    "isActive": false,
-    "createdAt": "2026-07-19T06:34:00+09:00",
-    "updatedAt": "2026-07-22T00:00:00+09:00"
-  },
-  {
-    "id": "ssg-2607-ordertohome",
-    "title": "이마트 오더투홈 여름 먹거리 할인전",
-    "platform": "SSG",
-    "category": "FOOD",
-    "startDate": "2026-07-09T00:00:00+09:00",
-    "endDate": "2026-07-15T23:59:59+09:00",
-    "discountRate": 50,
-    "minSpend": null,
-    "maxDiscountAmount": null,
-    "description": "이마트 앱 산지 직송 서비스 '오더투홈'으로 제철 과일·채소·보양식을 직접 산지에서 배송받을 수 있어요. 아웃도어 파라솔·그늘막·테이블·체어 등 캠핑용품도 신세계포인트 적립 또는 행사카드 결제 시 최대 50% 할인해요.",
-    "affiliateUrl": "https://www.ssg.com",
-    "imageUrl": null,
-    "sourceUrl": "https://www.newspim.com/news/view/20260708001233",
-    "isActive": false,
-    "createdAt": "2026-07-19T06:34:00+09:00",
-    "updatedAt": "2026-07-22T00:00:00+09:00"
-  },
-  {
     "id": "coupang-2605-eats-free-delivery",
     "title": "쿠팡이츠 일반회원 배달비 0원",
     "platform": "COUPANG",
@@ -1525,9 +1489,9 @@
     "affiliateUrl": "https://www.gmarket.co.kr/",
     "imageUrl": null,
     "sourceUrl": "https://www.shinsegaegroupnewsroom.com/gmarket-pc-sale-2/",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-08-23T06:34:00+09:00",
-    "updatedAt": "2026-08-23T06:34:00+09:00"
+    "updatedAt": "2026-09-14T06:35:00+09:00"
   },
   {
     "id": "lotteon-2608-dept-chuseok",
@@ -1939,9 +1903,9 @@
     "affiliateUrl": "https://www.ssg.com",
     "imageUrl": null,
     "sourceUrl": "https://www.etnews.com/20260907000147",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-09-11T06:35:00+09:00",
-    "updatedAt": "2026-09-11T06:35:00+09:00"
+    "updatedAt": "2026-09-14T06:35:00+09:00"
   },
   {
     "id": "baemin-2609-bmart-chuseok",
