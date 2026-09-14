@@ -1597,9 +1597,9 @@
     "affiliateUrl": "https://www.lotteon.com",
     "imageUrl": null,
     "sourceUrl": "https://www.etoday.co.kr/news/view/2619710",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-09-01T06:35:00+09:00",
-    "updatedAt": "2026-09-01T06:35:00+09:00"
+    "updatedAt": "2026-09-15T06:35:00+09:00"
   },
   {
     "id": "ssg-2609-shopping-express",
@@ -1849,9 +1849,9 @@
     "affiliateUrl": null,
     "imageUrl": null,
     "sourceUrl": "https://www.inthenews.co.kr/news/article.html?no=91326",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-09-08T06:30:00+09:00",
-    "updatedAt": "2026-09-08T06:30:00+09:00"
+    "updatedAt": "2026-09-15T06:35:00+09:00"
   },
   {
     "id": "lotteon-2609-fashion-lineup",
