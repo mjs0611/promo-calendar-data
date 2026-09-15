@@ -486,24 +486,6 @@
     "updatedAt": "2026-08-01T06:34:00+09:00"
   },
   {
-    "id": "kurly-2607-beautyfesta",
-    "title": "컬리 뷰티컬리페스타",
-    "platform": "KURLY",
-    "category": "BEAUTY",
-    "startDate": "2026-07-07T00:00:00+09:00",
-    "endDate": "2026-07-14T23:59:59+09:00",
-    "discountRate": 83,
-    "minSpend": 40000,
-    "maxDiscountAmount": 10000,
-    "description": "5,000여 개 뷰티 상품을 최대 83% 할인했어요. 매일 오전 11시 선착순 2,000명에게 4만 원 이상 구매 시 1만 원 할인쿠폰을 지급했어요. 스킨케어·선케어·헤어·바디·메이크업 전 카테고리를 특가에 선보였어요.",
-    "affiliateUrl": "https://www.kurly.com",
-    "imageUrl": null,
-    "sourceUrl": "https://www.ftoday.co.kr/news/articleView.html?idxno=344322",
-    "isActive": false,
-    "createdAt": "2026-07-24T08:00:00+09:00",
-    "updatedAt": "2026-07-24T08:00:00+09:00"
-  },
-  {
     "id": "yogiyo-2607-megascore-summerweek",
     "title": "요기요 메가적립 썸머위크",
     "platform": "YOGIYO",
