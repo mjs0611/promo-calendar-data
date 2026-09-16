@@ -931,9 +931,9 @@
     "affiliateUrl": "https://www.ssg.com",
     "imageUrl": null,
     "sourceUrl": "https://biz.heraldcorp.com/article/10829819",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-08-06T06:35:00+09:00",
-    "updatedAt": "2026-08-06T06:35:00+09:00"
+    "updatedAt": "2026-09-17T06:34:00+09:00"
   },
   {
     "id": "lotteon-2608-chuseok-presale",
@@ -949,9 +949,9 @@
     "affiliateUrl": "https://www.lotteon.com",
     "imageUrl": null,
     "sourceUrl": "https://www.newsis.com/view/NISX20260729_0003728736",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-08-06T06:35:00+09:00",
-    "updatedAt": "2026-08-06T06:35:00+09:00"
+    "updatedAt": "2026-09-17T06:34:00+09:00"
   },
   {
     "id": "shinhan-2608-galaxy-fold8",
@@ -1705,9 +1705,9 @@
     "affiliateUrl": "https://www.lotteon.com",
     "imageUrl": null,
     "sourceUrl": "https://www.newspim.com/news/view/20260730000123",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-09-03T06:30:00+09:00",
-    "updatedAt": "2026-09-03T06:30:00+09:00"
+    "updatedAt": "2026-09-17T06:34:00+09:00"
   },
   {
     "id": "ssg-2609-chuseok-giftset",
@@ -1978,5 +1978,77 @@
     "isActive": true,
     "createdAt": "2026-09-12T06:35:00+09:00",
     "updatedAt": "2026-09-12T06:35:00+09:00"
+  },
+  {
+    "id": "toss-2609-kuukuu-discount",
+    "title": "쿠우쿠우 9월 토스 페이스페이 5,000원 즉시 할인",
+    "platform": "TOSS",
+    "category": "FOOD",
+    "startDate": "2026-09-11T00:00:00+09:00",
+    "endDate": "2026-09-30T23:59:59+09:00",
+    "discountRate": null,
+    "minSpend": 21900,
+    "maxDiscountAmount": 5000,
+    "description": "쿠우쿠우·쿠우쿠우 블루레일·올웨이즈샤브에서 21,900원 이상 결제 후 토스 페이스페이 계좌 또는 머니로 결제하면 5,000원을 즉시 할인받아요. 별도 쿠폰 없이 자동 적용되며, 9월 11일부터 30일까지 매일 이용할 수 있어요.",
+    "affiliateUrl": "https://toss.im",
+    "imageUrl": null,
+    "sourceUrl": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5062468",
+    "isActive": true,
+    "createdAt": "2026-09-17T06:34:00+09:00",
+    "updatedAt": "2026-09-17T06:34:00+09:00"
+  },
+  {
+    "id": "toss-2609-gs25-point",
+    "title": "GS25 × 토스 페이스페이 9월 30% 포인트 적립",
+    "platform": "TOSS",
+    "category": "SHOPPING",
+    "startDate": "2026-09-01T00:00:00+09:00",
+    "endDate": "2026-09-30T23:59:59+09:00",
+    "discountRate": null,
+    "minSpend": null,
+    "maxDiscountAmount": 3000,
+    "description": "GS25 편의점에서 토스 페이스페이로 결제하면 결제금액의 30%를 포인트로 적립해 드려요. 하루 적립 한도는 3,000원(결제금액 10,000원 기준)이에요. 담배·주류·상품권·교통카드·택배는 대상 제외예요. 9월 한 달간 운영되는 행사예요.",
+    "affiliateUrl": "https://toss.im",
+    "imageUrl": null,
+    "sourceUrl": "http://gs25.gsretail.com/gscvs/ko/customer-engagement/event/detail/publishing?pageNum=1&eventCode=8842558098976",
+    "isActive": true,
+    "createdAt": "2026-09-17T06:34:00+09:00",
+    "updatedAt": "2026-09-17T06:34:00+09:00"
+  },
+  {
+    "id": "kurly-2609-jeju-local",
+    "title": "컬리 제주 로컬브랜드 기획전",
+    "platform": "KURLY",
+    "category": "FOOD",
+    "startDate": "2026-09-11T00:00:00+09:00",
+    "endDate": "2026-09-30T23:59:59+09:00",
+    "discountRate": null,
+    "minSpend": null,
+    "maxDiscountAmount": 20000,
+    "description": "제주창해수산·위드라이크·광령푸드·해어림산지가공·홀푸드코리아·1950㈜ 등 제주 로컬브랜드 6개사가 참여하는 기획전이에요. 행사 기간 장바구니 20% 할인쿠폰(최대 2만원, 1인 1회)을 제공해요. 9월 11일부터 30일까지 컬리 앱·웹에서 구매할 수 있어요.",
+    "affiliateUrl": "https://www.kurly.com",
+    "imageUrl": null,
+    "sourceUrl": "https://www.eroun.net/news/articleView.html?idxno=90079",
+    "isActive": true,
+    "createdAt": "2026-09-17T06:34:00+09:00",
+    "updatedAt": "2026-09-17T06:34:00+09:00"
+  },
+  {
+    "id": "samsung-2609-chuseok-mart",
+    "title": "삼성카드 추석맞이 대형마트·슈퍼마켓 할인",
+    "platform": "SAMSUNG_CARD",
+    "category": "SHOPPING",
+    "startDate": "2026-09-14T00:00:00+09:00",
+    "endDate": "2026-09-30T23:59:59+09:00",
+    "discountRate": null,
+    "minSpend": 50000,
+    "maxDiscountAmount": 5000,
+    "description": "삼성카드 링크 등록 후 추석맞이 대형마트·슈퍼마켓 결제 시 즉시 할인을 받아요. 트레이더스 15만원↑ 5,000원, 이마트 10만원↑ 5,000원, 농협하나로마트 8만원↑ 4,000원, 이마트에브리데이·롯데슈퍼 5만원↑ 3,000원 할인이 적용돼요. 9월 30일까지 운영해요.",
+    "affiliateUrl": "https://www.samsungcard.com",
+    "imageUrl": null,
+    "sourceUrl": "https://www.g-enews.com/article/Finance/2026/09/20260914105001312a6e8311f64_1",
+    "isActive": true,
+    "createdAt": "2026-09-17T06:34:00+09:00",
+    "updatedAt": "2026-09-17T06:34:00+09:00"
   }
 ]
