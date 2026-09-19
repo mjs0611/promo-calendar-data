@@ -90,24 +90,6 @@
     "updatedAt": "2026-08-01T06:34:00+09:00"
   },
   {
-    "id": "kurly-2607-bacance",
-    "title": "바캉스 원스톱 장보기 기획전",
-    "platform": "KURLY",
-    "category": "FOOD",
-    "startDate": "2026-07-15T00:00:00+09:00",
-    "endDate": "2026-07-20T23:59:59+09:00",
-    "discountRate": 50,
-    "minSpend": 25000,
-    "maxDiscountAmount": 10000,
-    "description": "여름 휴가철 먹거리 750여 종을 최대 50% 할인가에 선보여요. 과일·바비큐·면 요리 등 제철 식품이 포함되며, 제휴 카드(컬리·신한·롯데·하나·BC카드)로 2만5천원 이상 결제하면 최대 1만원 또는 10% 추가 할인을 받을 수 있어요.",
-    "affiliateUrl": "https://www.kurly.com/categories/110",
-    "imageUrl": null,
-    "sourceUrl": "https://www.betanews.net/article/view/beta202607150067",
-    "isActive": false,
-    "createdAt": "2026-07-18T01:00:00+09:00",
-    "updatedAt": "2026-07-22T00:00:00+09:00"
-  },
-  {
     "id": "lotteon-2606-onnuri-best",
     "title": "온누리 상반기 BEST 기획전",
     "platform": "LOTTEON",
