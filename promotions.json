@@ -1435,9 +1435,9 @@
     "affiliateUrl": "https://www.gmarket.co.kr/e/bigs/hangawi/ranking",
     "imageUrl": null,
     "sourceUrl": "https://www.newspim.com/news/view/20260827000179",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-08-28T06:00:00+09:00",
-    "updatedAt": "2026-08-31T06:34:43+09:00"
+    "updatedAt": "2026-09-23T06:30:00+09:00"
   },
   {
     "id": "coupang-2608-chuseok-festa",
@@ -1831,9 +1831,9 @@
     "affiliateUrl": "https://www.11st.co.kr",
     "imageUrl": null,
     "sourceUrl": "https://www.insightkorea.co.kr/news/articleView.html?idxno=254181",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-09-11T06:35:00+09:00",
-    "updatedAt": "2026-09-11T06:35:00+09:00"
+    "updatedAt": "2026-09-23T06:30:00+09:00"
   },
   {
     "id": "kb-2609-chuseok-fun",
@@ -2050,5 +2050,41 @@
     "isActive": true,
     "createdAt": "2026-09-22T06:30:00+09:00",
     "updatedAt": "2026-09-22T06:30:00+09:00"
+  },
+  {
+    "id": "shinhan-2609-soho",
+    "title": "신한카드 소상공인 상생 이벤트 서울 영세가맹점 캐시백",
+    "platform": "SHINHAN_CARD",
+    "category": "SHOPPING",
+    "startDate": "2026-09-21T00:00:00+09:00",
+    "endDate": "2026-10-18T23:59:59+09:00",
+    "discountRate": null,
+    "minSpend": 50000,
+    "maxDiscountAmount": 50000,
+    "description": "서울시 영세·중소 가맹점에서 SOL페이로 5만 원 이상 결제하면 매일 선착순 1,000명에게 2,000원 캐시백을 지급해요. 신한카드로 10만 원 이상 결제 시에는 서울사랑상품권(1만~5만원권)을 추첨으로 드려요. 총 10억원 규모의 소상공인 상생 혜택으로 9월 21일부터 10월 18일까지 진행해요.",
+    "affiliateUrl": "https://www.shinhancard.com",
+    "imageUrl": null,
+    "sourceUrl": "https://newspim.com/news/view/20260922001099",
+    "isActive": true,
+    "createdAt": "2026-09-23T06:30:00+09:00",
+    "updatedAt": "2026-09-23T06:30:00+09:00"
+  },
+  {
+    "id": "coupang-2609-eats-chuseok",
+    "title": "쿠팡이츠 추석 보너스 기획전 슈퍼·편의점 장보기 할인",
+    "platform": "COUPANG",
+    "category": "FOOD",
+    "startDate": "2026-09-21T00:00:00+09:00",
+    "endDate": "2026-09-27T23:59:59+09:00",
+    "discountRate": null,
+    "minSpend": 15000,
+    "maxDiscountAmount": null,
+    "description": "쿠팡이츠가 9월 21일~27일 추석 보너스 기획전을 열어요. GS더프레시·홈플러스 익스프레스·이마트에브리데이·롯데슈퍼 등 슈퍼마켓과 GS25·CU·세븐일레븐·이마트24 등 편의점의 브랜드별 할인쿠폰을 제공해요. '추석 복주머니 보너스 뽑기'로 매일 1회 랜덤 할인쿠폰을 받을 수 있으며, 쿠폰은 1만5,000원 이상 주문 시 사용 가능해요. 와우회원은 배달비도 무료예요.",
+    "affiliateUrl": "https://www.coupangeats.com",
+    "imageUrl": null,
+    "sourceUrl": "https://www.fnnews.com/news/202609211400451171",
+    "isActive": true,
+    "createdAt": "2026-09-23T06:30:00+09:00",
+    "updatedAt": "2026-09-23T06:30:00+09:00"
   }
 ]
