@@ -2086,5 +2086,23 @@
     "isActive": true,
     "createdAt": "2026-09-23T06:30:00+09:00",
     "updatedAt": "2026-09-23T06:30:00+09:00"
+  },
+  {
+    "id": "gmarket-2609-autumn-travel",
+    "title": "G마켓 가을 여행상품 할인전 최대 55% 할인",
+    "platform": "GMARKET",
+    "category": "TRAVEL",
+    "startDate": "2026-09-23T00:00:00+09:00",
+    "endDate": "2026-11-20T23:59:59+09:00",
+    "discountRate": 55,
+    "minSpend": null,
+    "maxDiscountAmount": 80000,
+    "description": "G마켓이 가을 여행상품 할인전을 9월 23일부터 11월 20일까지 진행해요. 국내 여행상품을 최대 55% 할인하며, 숙박은 최대 8만원 할인 혜택을 제공해요. 비수도권 숙박 할인은 11월 8일까지 적용돼요.",
+    "affiliateUrl": "https://www.gmarket.co.kr",
+    "imageUrl": null,
+    "sourceUrl": "https://www.newspim.com/news/view/20260923000080",
+    "isActive": true,
+    "createdAt": "2026-09-24T07:00:00+09:00",
+    "updatedAt": "2026-09-24T07:00:00+09:00"
   }
 ]
