@@ -252,24 +252,6 @@
     "updatedAt": "2026-08-05T06:35:00+09:00"
   },
   {
-    "id": "ssg-2607-living-digital-superweek",
-    "title": "SSG닷컴 리빙&디지털 수퍼위크",
-    "platform": "SSG",
-    "category": "ELECTRONICS",
-    "startDate": "2026-07-20T00:00:00+09:00",
-    "endDate": "2026-07-26T23:59:59+09:00",
-    "discountRate": 70,
-    "minSpend": null,
-    "maxDiscountAmount": null,
-    "description": "SSG닷컴이 가전·가구·주방용품을 최대 70% 할인하는 일주일 기획전을 열어요. 삼성 에어컨 최대 32%, LG 휘센 제습기 18%, 다이슨 V10 옵틱 무선청소기 30만 원 할인, 르크루제·AMT 주방용품 최대 70%를 선보여요. 신세계몰 상품에는 10%·5% 중복 할인쿠폰을 무제한 발급해요.",
-    "affiliateUrl": "https://www.ssg.com",
-    "imageUrl": null,
-    "sourceUrl": "https://www.etnews.com/20260720000089",
-    "isActive": false,
-    "createdAt": "2026-07-21T06:00:00+09:00",
-    "updatedAt": "2026-07-26T06:35:00+09:00"
-  },
-  {
     "id": "lotteon-2607-stay-festa",
     "title": "롯데온 여름맞이 숙박세일 페스타",
     "platform": "LOTTEON",
@@ -1975,9 +1957,9 @@
     "affiliateUrl": "https://www.coupang.com",
     "imageUrl": null,
     "sourceUrl": "https://www.wikitree.co.kr/articles/1160442",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-09-22T06:30:00+09:00",
-    "updatedAt": "2026-09-22T06:30:00+09:00"
+    "updatedAt": "2026-09-25T06:30:00+09:00"
   },
   {
     "id": "lotteon-2609-himart-highlight",
@@ -2011,9 +1993,9 @@
     "affiliateUrl": "https://www.kurly.com",
     "imageUrl": null,
     "sourceUrl": "https://www.starnewskorea.com/business-life/2026/09/21/2026092111423084611",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-09-22T06:30:00+09:00",
-    "updatedAt": "2026-09-22T06:30:00+09:00"
+    "updatedAt": "2026-09-25T06:30:00+09:00"
   },
   {
     "id": "kb-2609-kakaobank-cashback",
