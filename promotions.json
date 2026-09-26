@@ -306,24 +306,6 @@
     "updatedAt": "2026-08-01T06:34:00+09:00"
   },
   {
-    "id": "kurly-2607-living-festa",
-    "title": "컬리 리빙컬리페스타",
-    "platform": "KURLY",
-    "category": "LIVING",
-    "startDate": "2026-07-21T00:00:00+09:00",
-    "endDate": "2026-07-27T23:59:59+09:00",
-    "discountRate": 86,
-    "minSpend": 20000,
-    "maxDiscountAmount": null,
-    "description": "생활·주방·가전 카테고리 1만여 개 상품을 최대 86% 할인해요. 매일 오전 11시 선착순 30% 쿠폰, 장바구니 12% 쿠폰, 2만 원 이상 구매 시 15% 쿠폰을 지급해요. 오후 4시 정각에는 인기 상품을 선착순 77개 한정으로 최대 87% 특가에 제공하는 '럭키 77 특가'도 매일 진행해요.",
-    "affiliateUrl": "https://www.kurly.com",
-    "imageUrl": null,
-    "sourceUrl": "https://www.thedailypost.kr/news/articleView.html?idxno=114745",
-    "isActive": false,
-    "createdAt": "2026-07-23T08:00:00+09:00",
-    "updatedAt": "2026-07-27T00:00:00+09:00"
-  },
-  {
     "id": "musinsa-2607-seasonoff-big",
     "title": "무신사 2026 상반기 결산 빅세일",
     "platform": "MUSINSA",
