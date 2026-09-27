@@ -1543,9 +1543,9 @@
     "affiliateUrl": "https://www.oliveyoung.co.kr",
     "imageUrl": null,
     "sourceUrl": "https://unpa.me/community/beautytip/134457534",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-09-02T06:30:00+09:00",
-    "updatedAt": "2026-09-02T06:30:00+09:00"
+    "updatedAt": "2026-09-28T06:31:00+09:00"
   },
   {
     "id": "toss-2604-switch-cashback-s6",
@@ -1777,9 +1777,9 @@
     "affiliateUrl": "https://www.baemin.com",
     "imageUrl": null,
     "sourceUrl": "https://www.ftoday.co.kr/news/articleView.html?idxno=364882",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-09-11T06:35:00+09:00",
-    "updatedAt": "2026-09-11T06:35:00+09:00"
+    "updatedAt": "2026-09-28T06:31:00+09:00"
   },
   {
     "id": "elevenst-2609-sovac",
@@ -2047,9 +2047,9 @@
     "affiliateUrl": "https://www.coupangeats.com",
     "imageUrl": null,
     "sourceUrl": "https://www.fnnews.com/news/202609211400451171",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-09-23T06:30:00+09:00",
-    "updatedAt": "2026-09-23T06:30:00+09:00"
+    "updatedAt": "2026-09-28T06:31:00+09:00"
   },
   {
     "id": "gmarket-2609-autumn-travel",
