@@ -445,7 +445,7 @@
     "affiliateUrl": "https://www.agoda.com",
     "imageUrl": null,
     "sourceUrl": "https://www.shinhancard.com/pconts/html/benefit/event/1238187_2239.html",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-08-05T06:35:00+09:00",
     "updatedAt": "2026-08-05T06:35:00+09:00"
   },
@@ -715,7 +715,7 @@
     "affiliateUrl": "https://kr.trip.com/sale/w/41449/tosspay2026.html",
     "imageUrl": null,
     "sourceUrl": "https://kr.trip.com/sale/w/41449/tosspay2026.html",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-08-13T06:35:00+09:00",
     "updatedAt": "2026-08-13T06:35:00+09:00"
   },
@@ -1093,7 +1093,7 @@
     "affiliateUrl": "https://www.shinhancard.com",
     "imageUrl": null,
     "sourceUrl": "https://www.shinhancard.com/pconts/html/benefit/event/2013676_2239.html",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-08-30T06:35:00+09:00",
     "updatedAt": "2026-08-30T06:35:00+09:00"
   },
@@ -1219,7 +1219,7 @@
     "affiliateUrl": "https://toss.im/tossfeed/article/tosspay-promotion",
     "imageUrl": null,
     "sourceUrl": "https://www.tossbank.com/notice/740",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-09-03T06:30:00+09:00",
     "updatedAt": "2026-09-03T06:30:00+09:00"
   },
@@ -1399,7 +1399,7 @@
     "affiliateUrl": null,
     "imageUrl": null,
     "sourceUrl": "https://www.insightkorea.co.kr/news/articleView.html?idxno=253757",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-09-08T06:30:00+09:00",
     "updatedAt": "2026-09-08T06:30:00+09:00"
   },
@@ -1525,7 +1525,7 @@
     "affiliateUrl": "https://toss.im",
     "imageUrl": null,
     "sourceUrl": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5062468",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-09-17T06:34:00+09:00",
     "updatedAt": "2026-09-17T06:34:00+09:00"
   },
@@ -1543,7 +1543,7 @@
     "affiliateUrl": "https://toss.im",
     "imageUrl": null,
     "sourceUrl": "http://gs25.gsretail.com/gscvs/ko/customer-engagement/event/detail/publishing?pageNum=1&eventCode=8842558098976",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-09-17T06:34:00+09:00",
     "updatedAt": "2026-09-17T06:34:00+09:00"
   },
@@ -1561,7 +1561,7 @@
     "affiliateUrl": "https://www.kurly.com",
     "imageUrl": null,
     "sourceUrl": "https://www.eroun.net/news/articleView.html?idxno=90079",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-09-17T06:34:00+09:00",
     "updatedAt": "2026-09-17T06:34:00+09:00"
   },
@@ -1579,7 +1579,7 @@
     "affiliateUrl": "https://www.samsungcard.com",
     "imageUrl": null,
     "sourceUrl": "https://www.g-enews.com/article/Finance/2026/09/20260914105001312a6e8311f64_1",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-09-17T06:34:00+09:00",
     "updatedAt": "2026-09-17T06:34:00+09:00"
   },
@@ -1615,7 +1615,7 @@
     "affiliateUrl": "https://www.lottehimart.com",
     "imageUrl": null,
     "sourceUrl": "https://www.news1.kr/industry/distribution/6276739",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-09-22T06:30:00+09:00",
     "updatedAt": "2026-09-22T06:30:00+09:00"
   },
@@ -1924,5 +1924,41 @@
     "isActive": true,
     "createdAt": "2026-09-30T20:13:25+09:00",
     "updatedAt": "2026-09-30T20:13:25+09:00"
+  },
+  {
+    "id": "ssg-2610-babyweek",
+    "title": "이마트 베이비 위크",
+    "platform": "SSG",
+    "category": "LIVING",
+    "startDate": "2026-10-01T00:00:00+09:00",
+    "endDate": "2026-10-07T23:59:59+09:00",
+    "discountRate": 50,
+    "minSpend": null,
+    "maxDiscountAmount": null,
+    "description": "이마트가 10월 1일부터 7일까지 베이비 위크를 열고 기저귀와 분유, 유아식 등 육아용품을 최대 50% 할인해요.",
+    "affiliateUrl": "https://www.ssg.com",
+    "imageUrl": null,
+    "sourceUrl": "http://www.newsian.co.kr/news/articleViewAmp.html?idxno=96274",
+    "isActive": true,
+    "createdAt": "2026-10-01T05:38:12+09:00",
+    "updatedAt": "2026-10-01T05:38:12+09:00"
+  },
+  {
+    "id": "lotteon-2610-jeoribae-presale",
+    "title": "롯데마트·롯데슈퍼 절임배추 사전예약",
+    "platform": "LOTTEON",
+    "category": "FOOD",
+    "startDate": "2026-10-01T00:00:00+09:00",
+    "endDate": "2026-10-07T23:59:59+09:00",
+    "discountRate": null,
+    "minSpend": null,
+    "maxDiscountAmount": null,
+    "description": "롯데마트와 롯데슈퍼가 10월 1일부터 7일까지 올해 첫 절임배추 사전예약을 받아요. 해남·괴산·평창 등 주요",
+    "affiliateUrl": "https://www.lotteon.com",
+    "imageUrl": null,
+    "sourceUrl": "http://www.newsian.co.kr/news/articleViewAmp.html?idxno=96274",
+    "isActive": true,
+    "createdAt": "2026-10-01T05:38:12+09:00",
+    "updatedAt": "2026-10-01T05:38:12+09:00"
   }
 ]
