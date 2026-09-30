@@ -1798,5 +1798,41 @@
     "isActive": true,
     "createdAt": "2026-09-29T07:00:00+09:00",
     "updatedAt": "2026-09-29T07:00:00+09:00"
+  },
+  {
+    "id": "ssg-2610-goraeit-festa",
+    "title": "이마트 고래잇 페스타 (10월)",
+    "platform": "SSG",
+    "category": "FOOD",
+    "startDate": "2026-10-01T00:00:00+09:00",
+    "endDate": "2026-10-05T23:59:59+09:00",
+    "discountRate": 50,
+    "minSpend": null,
+    "maxDiscountAmount": null,
+    "description": "이마트가 10월 1일부터 5일까지 '고래잇 페스타'를 열고 신선식품부터 가전까지 최대 50% 할인해요. 신세계포인트 적립과 행사카드 결제 시 아쿠아 생연어회를 약 50% 할인하고, 한우와 미국산 프라임 소고기는 신세계포인트 적립 시 40% 할인해요. 청소 세제 25종과 글라스락 보관용기 14종은 원하는 상품 3개를 9900원에 살 수 있어요.",
+    "affiliateUrl": "https://www.ssg.com",
+    "imageUrl": null,
+    "sourceUrl": "https://www.dailysmart.co.kr/news/articleView.html?idxno=130353",
+    "isActive": true,
+    "createdAt": "2026-09-30T09:31:21+09:00",
+    "updatedAt": "2026-09-30T09:31:21+09:00"
+  },
+  {
+    "id": "baemin-2609-septout-campaign",
+    "title": "배민 '9월말 투아웃' 캠페인",
+    "platform": "BAEMIN",
+    "category": "FOOD",
+    "startDate": "2026-09-23T00:00:00+09:00",
+    "endDate": "2026-10-02T23:59:59+09:00",
+    "discountRate": null,
+    "minSpend": null,
+    "maxDiscountAmount": 30000,
+    "description": "배달의민족이 서울시와 함께 9월 23일부터 10월 2일까지 '9월말 투아웃' 캠페인을 진행해요. 참여하면 픽업 주문에 쓸 수 있는 5000원 쿠폰을 선착순으로 받고, 고립·은둔 가구에 전할 메시지가 채택되면 3만원 쿠폰을 추가로 받아요. 주소지를 서울로 등록한 배민 앱 이용자라면 누구나 참여할 수 있어요.",
+    "affiliateUrl": "https://www.baemin.com",
+    "imageUrl": null,
+    "sourceUrl": "https://www.bizwnews.com/news/articleView.html?idxno=147375",
+    "isActive": true,
+    "createdAt": "2026-09-30T09:31:21+09:00",
+    "updatedAt": "2026-09-30T09:31:21+09:00"
   }
 ]
