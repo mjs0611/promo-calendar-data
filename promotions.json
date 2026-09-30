@@ -1806,16 +1806,16 @@
     "category": "FOOD",
     "startDate": "2026-10-01T00:00:00+09:00",
     "endDate": "2026-10-05T23:59:59+09:00",
-    "discountRate": 50,
+    "discountRate": null,
     "minSpend": null,
     "maxDiscountAmount": null,
-    "description": "이마트가 10월 1일부터 5일까지 '고래잇 페스타'를 열고 신선식품부터 가전까지 최대 50% 할인해요. 신세계포인트 적립과 행사카드 결제 시 아쿠아 생연어회를 약 50% 할인하고, 한우와 미국산 프라임 소고기는 신세계포인트 적립 시 40% 할인해요. 청소 세제 25종과 글라스락 보관용기 14종은 원하는 상품 3개를 9900원에 살 수 있어요.",
-    "affiliateUrl": "https://www.ssg.com",
+    "description": "가을 하우스 감귤과 신고배 등은 2개 이상 구매 시 행사카드로 결제하면 10% 추가 할인을 받을 수 있어요.",
+    "affiliateUrl": "https://www.emart.com",
     "imageUrl": null,
-    "sourceUrl": "https://www.dailysmart.co.kr/news/articleView.html?idxno=130353",
+    "sourceUrl": "https://www.newsquest.co.kr/news/articleView.html?idxno=301708",
     "isActive": true,
     "createdAt": "2026-09-30T09:31:21+09:00",
-    "updatedAt": "2026-09-30T09:31:21+09:00"
+    "updatedAt": "2026-09-30T16:17:38+09:00"
   },
   {
     "id": "baemin-2609-septout-campaign",
@@ -1870,5 +1870,41 @@
     "isActive": true,
     "createdAt": "2026-09-30T12:18:49+09:00",
     "updatedAt": "2026-09-30T12:18:49+09:00"
+  },
+  {
+    "id": "lotteon-2609-keondong-nabien",
+    "title": "롯데온 경동나비엔 얼리특가전",
+    "platform": "LOTTEON",
+    "category": "LIVING",
+    "startDate": "2026-09-30T00:00:00+09:00",
+    "endDate": "2026-10-04T23:59:59+09:00",
+    "discountRate": null,
+    "minSpend": null,
+    "maxDiscountAmount": null,
+    "description": "롯데온에서 경동나비엔 얼리특가전을 진행하며, 행사 상품에 10% 할인과 결제 조건에 따른 7% 카드 할인을 제공합니다. 주요 상품으로 신제품 '숙면매트 온수 슬림형'을 만나볼 수 있어요.",
+    "affiliateUrl": "https://www.lotteon.com",
+    "imageUrl": null,
+    "sourceUrl": "https://www.kdfnews.com/news/articleView.html?idxno=188633",
+    "isActive": true,
+    "createdAt": "2026-09-30T16:17:38+09:00",
+    "updatedAt": "2026-09-30T16:17:38+09:00"
+  },
+  {
+    "id": "gmarket-2610-firstsale",
+    "title": "G마켓 10월 월첫세일",
+    "platform": "GMARKET",
+    "category": "LIVING",
+    "startDate": "2026-10-01T00:00:00+09:00",
+    "endDate": "2026-10-05T23:59:59+09:00",
+    "discountRate": null,
+    "minSpend": null,
+    "maxDiscountAmount": null,
+    "description": "G마켓 10월 월첫세일 기간 동안 에어르(AIRR)의 주요 청소가전 전제품을 혜택가로 판매합니다. 차량용 무선청소기 '베놈', 자동 비움 기능의 '슬릭', 미니 핸디형 '더그램' 등이 포함돼 있어요.",
+    "affiliateUrl": "https://www.gmarket.co.kr",
+    "imageUrl": null,
+    "sourceUrl": "https://www.gosiweek.com/article/1065573734965364",
+    "isActive": true,
+    "createdAt": "2026-09-30T16:17:38+09:00",
+    "updatedAt": "2026-09-30T16:17:38+09:00"
   }
 ]
