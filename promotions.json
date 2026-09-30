@@ -1834,5 +1834,41 @@
     "isActive": true,
     "createdAt": "2026-09-30T09:31:21+09:00",
     "updatedAt": "2026-09-30T09:31:21+09:00"
+  },
+  {
+    "id": "toss-2609-gangudong-facepay",
+    "title": "깡우동 토스 페이스페이 5,000원 즉시 할인",
+    "platform": "TOSS",
+    "category": "FOOD",
+    "startDate": "2026-09-28T00:00:00+09:00",
+    "endDate": "2026-10-31T23:59:59+09:00",
+    "discountRate": null,
+    "minSpend": null,
+    "maxDiscountAmount": null,
+    "description": "깡우동 매장에서 토스 페이스페이로 3만 원 이상 결제 시 5,000원이 즉시 할인됩니다. 일반 토스페이나 신용카드 결제 시에는 혜택이 적용되지 않으며, 토스 회원이라면 누구나 참여할 수 있어요.",
+    "affiliateUrl": "https://toss.im",
+    "imageUrl": null,
+    "sourceUrl": "https://www.joongangenews.com/news/articleView.html?idxno=551381",
+    "isActive": true,
+    "createdAt": "2026-09-30T12:18:49+09:00",
+    "updatedAt": "2026-09-30T12:18:49+09:00"
+  },
+  {
+    "id": "toss-2609-haidilao-facepay",
+    "title": "하이디라오 토스 페이스페이 첫 결제 2만원 할인",
+    "platform": "TOSS",
+    "category": "FOOD",
+    "startDate": "2026-09-28T00:00:00+09:00",
+    "endDate": "2026-12-31T23:59:59+09:00",
+    "discountRate": null,
+    "minSpend": null,
+    "maxDiscountAmount": null,
+    "description": "하이디라오에서 토스 페이스페이머니 또는 계좌로 12만 원 이상 결제 시 2만 원이 즉시 할인됩니다. 이번 혜택은 토스 페이스페이로 처음 결제하는 고객을 대상으로 하며, 12월 31일까지 연장되어 진행돼요.",
+    "affiliateUrl": "https://toss.im",
+    "imageUrl": null,
+    "sourceUrl": "https://www.ggilbo.com/news/articleView.html?idxno=1184006",
+    "isActive": true,
+    "createdAt": "2026-09-30T12:18:49+09:00",
+    "updatedAt": "2026-09-30T12:18:49+09:00"
   }
 ]
