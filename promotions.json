@@ -1953,13 +1953,13 @@
     "discountRate": null,
     "minSpend": null,
     "maxDiscountAmount": null,
-    "description": "삼성카드가 모니모 앱에서 10월 1일부터 4일까지 '2026 정선아리랑제' 원스톱 이용 서비스를 제공해요. 축제장 QR 스탬프를 모으면 손수건·에코백 등 기념품을 선착순으로 받고, 먹거리 매장·정선 지역 가맹점에서는 삼성카드 LINK 결제일 할인도 적용돼요.",
+    "description": "삼성카드가 강원도 정선공설운동장 일대에서 열리는 '2026 정선아리랑제'의 원스톱 이용 서비스를 모니모에서 제공해요. 축제장 곳곳에서 QR 스탬프를 모으면 기념품을 선착순으로 증정하며, 먹거리 매장 및 정선 지역 가맹점에서는 '삼성카드 LINK' 결제일 할인 혜택도 받을 수 있어요.",
     "affiliateUrl": "https://www.samsungcard.com",
     "imageUrl": null,
-    "sourceUrl": "https://www.thebigdata.co.kr/view.php?ud=202610011030194221df3c2a17b7_23",
+    "sourceUrl": "https://www.m-i.kr/news/articleView.html?idxno=2001721",
     "isActive": true,
     "createdAt": "2026-10-02T05:37:25+09:00",
-    "updatedAt": "2026-10-02T05:37:25+09:00"
+    "updatedAt": "2026-10-02T16:15:47+09:00"
   },
   {
     "id": "coupang-2610-gongcha-eats",
@@ -2032,5 +2032,23 @@
     "isActive": true,
     "createdAt": "2026-10-02T12:11:52+09:00",
     "updatedAt": "2026-10-02T12:11:52+09:00"
+  },
+  {
+    "id": "shinhan-2610-eco-plan-parkbogum",
+    "title": "신한카드 ECO Plan 박보검 콜라보 에디션 출시 혜택",
+    "platform": "SHINHAN_CARD",
+    "category": "LIVING",
+    "startDate": "2026-10-01T00:00:00+09:00",
+    "endDate": "2026-12-31T23:59:59+09:00",
+    "discountRate": null,
+    "minSpend": null,
+    "maxDiscountAmount": null,
+    "description": "신한카드가 배우 박보검의 손그림을 담은 'ECO Plan 박보검 콜라보 에디션'을 출시했어요. 출시 기념으로 연말까지 카카오T 바이크 50% 할인, 영화 예매 30% 할인 등 스페셜 서비스팩을 제공하며, 10만원 이상 이용 고객 중 추첨으로 친필 사인 아트 프린트를 증정해요.",
+    "affiliateUrl": "https://www.shinhanpayplus.com",
+    "imageUrl": null,
+    "sourceUrl": "https://www.m-i.kr/news/articleView.html?idxno=2001721",
+    "isActive": true,
+    "createdAt": "2026-10-02T16:15:47+09:00",
+    "updatedAt": "2026-10-02T16:15:47+09:00"
   }
 ]
