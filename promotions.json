@@ -54,24 +54,6 @@
     "updatedAt": "2026-08-05T06:35:00+09:00"
   },
   {
-    "id": "musinsa-2607-seasonoff-big",
-    "title": "무신사 2026 상반기 결산 빅세일",
-    "platform": "MUSINSA",
-    "category": "FASHION",
-    "startDate": "2026-07-20T00:00:00+09:00",
-    "endDate": "2026-08-03T23:59:59+09:00",
-    "discountRate": 80,
-    "minSpend": null,
-    "maxDiscountAmount": null,
-    "description": "상반기 인기 상품을 모은 결산 시그니처 특가와 최대 30% 할인 쿠폰 브랜드위크, 클리어런스 세일을 진행해요. 7월 30일까지 최대 80% 아카이브 세일 온라인이 운영되며, 매일 오전 11시·오후 8시 '오픈런 뽑기'로 최대 80% 할인 쿠폰과 무신사머니를 드려요. 오프라인 전국 16개 매장에서는 8월 3일까지 여름 시즌오프 세일이 진행돼요.",
-    "affiliateUrl": "https://www.musinsa.com/campaign/2026seasonoff1/0",
-    "imageUrl": null,
-    "sourceUrl": "https://zdnet.co.kr/view/?no=20260717160150",
-    "isActive": false,
-    "createdAt": "2026-07-23T08:00:00+09:00",
-    "updatedAt": "2026-08-04T06:35:00+09:00"
-  },
-  {
     "id": "yogiyo-2607-megascore-summerweek",
     "title": "요기요 메가적립 썸머위크",
     "platform": "YOGIYO",
@@ -1777,7 +1759,7 @@
     "affiliateUrl": "https://www.baemin.com",
     "imageUrl": null,
     "sourceUrl": "https://www.bizwnews.com/news/articleView.html?idxno=147375",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-09-30T09:31:21+09:00",
     "updatedAt": "2026-09-30T09:31:21+09:00"
   },
@@ -1971,13 +1953,13 @@
     "discountRate": null,
     "minSpend": 18000,
     "maxDiscountAmount": 5000,
-    "description": "쿠팡이츠에서 공차 메뉴를 1만8000원 이상 주문하면 3000원에서 최대 5000원까지 즉시 할인받을 수 있어요. 10월 5일부터 11일까지 일주일간 한정 진행돼요.",
+    "description": "쿠팡이츠에서 공차 메뉴를 1만 8,000원 이상 주문하면 3,000원부터 최대 5,000원까지 즉시 할인받을 수 있어요. 10월 5일부터 11일까지 일주일간 진행돼요.",
     "affiliateUrl": "https://www.coupangeats.com",
     "imageUrl": null,
-    "sourceUrl": "https://www.cdnews.co.kr/news/articleView.html?idxno=201090",
+    "sourceUrl": "https://www.newsflix.co.kr/news/articleView.html?idxno=32602",
     "isActive": true,
     "createdAt": "2026-10-02T05:37:25+09:00",
-    "updatedAt": "2026-10-02T05:37:25+09:00"
+    "updatedAt": "2026-10-03T05:38:27+09:00"
   },
   {
     "id": "elevenst-2610-monthly-silja",
@@ -2050,5 +2032,23 @@
     "isActive": true,
     "createdAt": "2026-10-02T16:15:47+09:00",
     "updatedAt": "2026-10-02T16:15:47+09:00"
+  },
+  {
+    "id": "baemin-2610-ddobongi-chicken",
+    "title": "배달의민족 또봉이통닭 할인",
+    "platform": "BAEMIN",
+    "category": "FOOD",
+    "startDate": "2026-10-12T00:00:00+09:00",
+    "endDate": "2026-10-18T23:59:59+09:00",
+    "discountRate": null,
+    "minSpend": 19000,
+    "maxDiscountAmount": 3000,
+    "description": "배달의민족에서 또봉이통닭을 주문하면 10월 12일부터 18일까지 7일간 3,000원 할인을 받을 수 있어요. 최소 주문금액은 19,000원이에요.",
+    "affiliateUrl": "https://www.baemin.com",
+    "imageUrl": null,
+    "sourceUrl": "https://www.mt.co.kr/industry/2026/10/02/2026100115370970594",
+    "isActive": true,
+    "createdAt": "2026-10-03T05:38:27+09:00",
+    "updatedAt": "2026-10-03T05:38:27+09:00"
   }
 ]
