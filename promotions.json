@@ -36,24 +36,6 @@
     "updatedAt": "2026-09-01T06:35:00+09:00"
   },
   {
-    "id": "shinhan-2508-baemin-babchingu",
-    "title": "배민 신한카드 밥친구 할인",
-    "platform": "SHINHAN_CARD",
-    "category": "FOOD",
-    "startDate": "2025-08-06T00:00:00+09:00",
-    "endDate": "2026-08-04T23:59:59+09:00",
-    "discountRate": 10,
-    "minSpend": 200000,
-    "maxDiscountAmount": 60000,
-    "description": "배달의민족에서 신한카드 밥친구 카드로 결제하면 기본 5%+추가 5%, 합계 10% 할인을 받을 수 있어요. 전월 이용 실적 20만 원 이상이 조건이며, 배민 주문 시 월 최대 6만 원까지 할인돼요. 발급 후 실적 조건을 충족하면 다음 달부터 자동 적용돼요.",
-    "affiliateUrl": "https://www.shinhancard.com",
-    "imageUrl": null,
-    "sourceUrl": "https://zdnet.co.kr/view/?no=20250806104443",
-    "isActive": false,
-    "createdAt": "2026-07-20T06:00:00+09:00",
-    "updatedAt": "2026-08-05T06:35:00+09:00"
-  },
-  {
     "id": "yogiyo-2607-megascore-summerweek",
     "title": "요기요 메가적립 썸머위크",
     "platform": "YOGIYO",
@@ -2059,15 +2041,15 @@
     "startDate": "2026-10-12T00:00:00+09:00",
     "endDate": "2026-10-16T23:59:59+09:00",
     "discountRate": null,
-    "minSpend": null,
-    "maxDiscountAmount": null,
-    "description": "T 멤버십 VIP 고객은 배달의민족에서 bhc 치킨을 1만8000원 이상 주문 시 8000원, 골드·실버 고객은 6000원 할인을 받을 수 있어요. 10월 12일부터 16일까지 진행되는 T day '스페셜 위크' 기간에만 적용되는 혜택입니다.",
+    "minSpend": 18000,
+    "maxDiscountAmount": 8000,
+    "description": "배달의민족에서 bhc 치킨을 1만8000원 이상 주문하면 T 멤버십 VIP 고객은 8000원, 골드·실버 고객은 6000원을 할인받을 수 있어요. T day 스페셜 위크 기간 한정 혜택이에요.",
     "affiliateUrl": "https://www.baemin.com",
     "imageUrl": null,
     "sourceUrl": "https://v.daum.net/v/20261003060144556",
     "isActive": true,
     "createdAt": "2026-10-03T16:12:47+09:00",
-    "updatedAt": "2026-10-03T16:12:47+09:00"
+    "updatedAt": "2026-10-04T05:38:13+09:00"
   },
   {
     "id": "lotteon-2610-tday-adventure",
@@ -2076,16 +2058,16 @@
     "category": "TRAVEL",
     "startDate": "2026-10-12T00:00:00+09:00",
     "endDate": "2026-10-16T23:59:59+09:00",
-    "discountRate": null,
+    "discountRate": 55,
     "minSpend": null,
     "maxDiscountAmount": null,
-    "description": "T 멤버십 고객은 롯데월드 어드벤처 서울 또는 부산 종합이용권을 최대 55% 할인된 가격에 구매할 수 있어요. 본인 포함 최대 4인까지 가능하며, 서울 이용 고객에게는 츄러스 1개가 추가로 증정됩니다.",
+    "description": "T 멤버십 고객이 롯데월드 어드벤처 서울·부산 종합이용권을 최대 55% 할인된 가격에 구매할 수 있어요. 본인 포함 최대 4인까지 적용되고, 서울 이용 고객에게는 츄러스 1개를 추가로 증정해요.",
     "affiliateUrl": "https://www.lotteon.com",
     "imageUrl": null,
     "sourceUrl": "https://v.daum.net/v/20261003060144556",
     "isActive": true,
     "createdAt": "2026-10-03T16:12:47+09:00",
-    "updatedAt": "2026-10-03T16:12:47+09:00"
+    "updatedAt": "2026-10-04T05:38:13+09:00"
   },
   {
     "id": "baemin-2610-tday-gongcha",
@@ -2094,16 +2076,16 @@
     "category": "FOOD",
     "startDate": "2026-10-12T00:00:00+09:00",
     "endDate": "2026-10-16T23:59:59+09:00",
-    "discountRate": null,
+    "discountRate": 50,
     "minSpend": null,
-    "maxDiscountAmount": null,
-    "description": "T 멤버십 VIP 고객은 공차 인기 음료 6종에 대해 50%(최대 6000원), 골드·실버 고객은 30%(최대 5000원) 할인을 받을 수 있어요. 10월 12일부터 16일까지 T day '스페셜 위크' 기간 중 적용됩니다.",
+    "maxDiscountAmount": 6000,
+    "description": "공차 인기 음료 6종을 T 멤버십 VIP 고객은 최대 50%(최대 6000원), 골드·실버 고객은 30%(최대 5000원) 할인받을 수 있어요. T day 스페셜 위크 기간에만 적용돼요.",
     "affiliateUrl": "https://www.baemin.com",
     "imageUrl": null,
     "sourceUrl": "https://v.daum.net/v/20261003060144556",
     "isActive": true,
     "createdAt": "2026-10-03T16:12:47+09:00",
-    "updatedAt": "2026-10-03T16:12:47+09:00"
+    "updatedAt": "2026-10-04T05:38:13+09:00"
   },
   {
     "id": "baemin-2610-tday-happyhour",
@@ -2140,5 +2122,23 @@
     "isActive": true,
     "createdAt": "2026-10-03T20:17:34+09:00",
     "updatedAt": "2026-10-03T20:17:34+09:00"
+  },
+  {
+    "id": "lotteon-2610-dept-weddingfair",
+    "title": "롯데백화점 웨딩페어",
+    "platform": "LOTTEON",
+    "category": "SHOPPING",
+    "startDate": "2026-10-02T00:00:00+09:00",
+    "endDate": "2026-10-11T23:59:59+09:00",
+    "discountRate": null,
+    "minSpend": null,
+    "maxDiscountAmount": 5600000,
+    "description": "롯데백화점이 10월 2일부터 11일까지 전 점포에서 웨딩페어를 열어요. 웨딩 멤버십 '롯데웨딩멤버스'에 가입하면 9개월간 구매액을 적립해 최대 7%, 한도 560만원까지 롯데상품권으로 돌려받을 수 있어요.",
+    "affiliateUrl": null,
+    "imageUrl": null,
+    "sourceUrl": "https://m.sedaily.com/amparticle/20097867",
+    "isActive": true,
+    "createdAt": "2026-10-04T05:38:13+09:00",
+    "updatedAt": "2026-10-04T05:38:13+09:00"
   }
 ]
