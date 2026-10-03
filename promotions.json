@@ -1899,13 +1899,13 @@
     "discountRate": null,
     "minSpend": null,
     "maxDiscountAmount": null,
-    "description": "패션, 뷰티, 가전, 리빙 등 주요 카테고리 상품을 최대 75% 할인하는 '황금 연휴 쇼핑 익스프레스'가 진행됩니다. 스타카토 슈즈는 최대 75%, K2 패딩 점퍼와 디스커버리 재킷은 각각 최대 60% 할인됩니다. 쓱페이로 4만원 이상 결제한 신규 고객에게는 1만원 할인 쿠폰이 지급됩니다.",
+    "description": "SSG닷컴이 10월 5일까지 '황금 연휴 쇼핑 익스프레스'를 열고 패션, 뷰티, 가전, 리빙 상품을 최대 75% 할인해요. K2 패딩 점퍼와 디스커버리 재킷은 각각 최대 60%, 아디다스 갤럭시8 러닝화는 40% 할인된 가격에 만나볼 수 있어요. 연휴 기간 나들이와 캠핑을 위한 필수템을 합리적인 가격에 준비할 수 있는 기회입니다.",
     "affiliateUrl": "https://www.ssg.com",
     "imageUrl": null,
-    "sourceUrl": "https://www.meconomynews.com/news/articleView.html?idxno=202119",
+    "sourceUrl": "https://www.segye.com/newsView/20261003501996",
     "isActive": true,
     "createdAt": "2026-10-01T20:16:34+09:00",
-    "updatedAt": "2026-10-01T20:16:34+09:00"
+    "updatedAt": "2026-10-03T20:17:34+09:00"
   },
   {
     "id": "toss-2610-daiso-facepay",
@@ -1971,31 +1971,31 @@
     "discountRate": null,
     "minSpend": null,
     "maxDiscountAmount": null,
-    "description": "10월 1일부터 11일까지 열리는 월간 십일절에서 가을 상품을 할인된 가격에 판매합니다. 4만원 이상 구매 고객에게는 사용 실적에 따라 최대 4000원까지 혜택이 커지는 릴레이 쿠폰을 제공합니다.",
+    "description": "11번가가 10월 11일까지 '월간 십일절'을 진행하며 빈폴, 닥터지 등 50개 브랜드를 온라인 최저가 수준으로 판매해요. 4만원 이상 구매 시 릴레이 할인 쿠폰을 제공하며, 11번가플러스 회원은 7% 장바구니 쿠폰과 패션·뷰티 전용 11% 할인 쿠폰을 매일 추가로 받을 수 있어요. 매일 4~6개 인기 브랜드를 선정해 특별한 혜택을 제공합니다.",
     "affiliateUrl": "https://www.11st.co.kr",
     "imageUrl": null,
-    "sourceUrl": "https://www.kdfnews.com/news/articleView.html?idxno=188749",
+    "sourceUrl": "https://www.munhwa.com/article/11621166",
     "isActive": true,
     "createdAt": "2026-10-02T05:37:25+09:00",
-    "updatedAt": "2026-10-03T12:11:07+09:00"
+    "updatedAt": "2026-10-03T20:17:34+09:00"
   },
   {
     "id": "lotteon-2610-tongeunday",
     "title": "롯데마트 10월 통큰데이",
     "platform": "LOTTEON",
-    "category": "SHOPPING",
+    "category": "FOOD",
     "startDate": "2026-10-01T00:00:00+09:00",
     "endDate": "2026-10-05T23:59:59+09:00",
-    "discountRate": 40,
+    "discountRate": null,
     "minSpend": null,
     "maxDiscountAmount": null,
-    "description": "롯데마트가 10월 5일까지 '통큰데이'를 진행해요. 행사카드로 결제하면 소 토마호크·티본 스테이크를 40% 할인받고, 엘포인트 회원은 수입 돈 삼겹살·목심을 30% 저렴하게 살 수 있어요. 10월 3일 봉지라면 전품목 2+1, 3~4일 인기 스낵 5개 구매 시 9900원 특가도 함께 진행돼요.",
+    "description": "롯데마트가 10월 5일까지 '통큰데이'를 진행하며 황금연휴 수요를 겨냥한 할인에 들어갔어요. 스테이크용 소고기는 행사 카드로 결제 시 40% 할인되고, 한돈 돼지고기 전 품목은 최대 50% 할인 혜택이 적용돼요. 농협안심한돈 삼겹살과 목심은 멤버십 회원에게 100g당 1990원에 판매됩니다.",
     "affiliateUrl": "https://www.lotteon.com",
     "imageUrl": null,
-    "sourceUrl": "https://theviewers.co.kr/View.aspx?No=4248058",
+    "sourceUrl": "https://www.segye.com/newsView/20261003501996",
     "isActive": true,
     "createdAt": "2026-10-02T05:37:25+09:00",
-    "updatedAt": "2026-10-02T05:37:25+09:00"
+    "updatedAt": "2026-10-03T20:17:34+09:00"
   },
   {
     "id": "yogiyo-2610-samsungpay-launch",
@@ -2122,5 +2122,23 @@
     "isActive": true,
     "createdAt": "2026-10-03T16:12:47+09:00",
     "updatedAt": "2026-10-03T16:12:47+09:00"
+  },
+  {
+    "id": "kb-2610-japan-travel",
+    "title": "KB국민카드 일본 여행 혜택 (트래블러스 체크카드)",
+    "platform": "KB_CARD",
+    "category": "TRAVEL",
+    "startDate": "2026-10-01T00:00:00+09:00",
+    "endDate": "2026-10-31T23:59:59+09:00",
+    "discountRate": null,
+    "minSpend": null,
+    "maxDiscountAmount": null,
+    "description": "KB국민 트래블러스 체크카드 마스터카드 고객이 10월 31일까지 일본에서 건당 1000엔 이상 첫 결제 시 스타벅스 500엔 할인 쿠폰을 받을 수 있어요. 주요 편의점 이용 시 최대 50% 캐시백, 돈키호테에서는 최대 4000엔 상당의 혜택이 제공되며, 5대 백화점 이용 시 최대 10% 리워드를 받습니다. 선착순 6000명 한정이며, 라쿠텐 트래블 예약 시 최대 30% 할인도 적용돼요.",
+    "affiliateUrl": "https://www.kbcard.com",
+    "imageUrl": null,
+    "sourceUrl": "https://www.bizwnews.com/news/articleView.html?idxno=147796",
+    "isActive": true,
+    "createdAt": "2026-10-03T20:17:34+09:00",
+    "updatedAt": "2026-10-03T20:17:34+09:00"
   }
 ]
