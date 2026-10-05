@@ -1863,13 +1863,13 @@
     "discountRate": null,
     "minSpend": null,
     "maxDiscountAmount": null,
-    "description": "SSG닷컴이 10월 5일까지 '황금 연휴 쇼핑 익스프레스'를 열고 패션, 뷰티, 가전, 리빙 상품을 최대 75% 할인해요. K2 패딩 점퍼와 디스커버리 재킷은 각각 최대 60%, 아디다스 갤럭시8 러닝화는 40% 할인된 가격에 만나볼 수 있어요. 연휴 기간 나들이와 캠핑을 위한 필수템을 합리적인 가격에 준비할 수 있는 기회입니다.",
+    "description": "SSG닷컴이 5일까지 '황금 연휴 쇼핑 익스프레스'를 진행합니다. 패션, 뷰티, 가전, 리빙 상품을 최대 75% 할인된 가격에 만나볼 수 있습니다. K2 패딩 점퍼와 디스커버리 재킷은 각각 최대 60%, 아디다스 갤럭시8 러닝화는 40% 할인됩니다.",
     "affiliateUrl": "https://www.ssg.com",
     "imageUrl": null,
     "sourceUrl": "https://www.segye.com/newsView/20261003501996",
     "isActive": true,
     "createdAt": "2026-10-01T20:16:34+09:00",
-    "updatedAt": "2026-10-03T20:17:34+09:00"
+    "updatedAt": "2026-10-05T20:25:38+09:00"
   },
   {
     "id": "toss-2610-daiso-facepay",
@@ -1953,13 +1953,13 @@
     "discountRate": null,
     "minSpend": null,
     "maxDiscountAmount": null,
-    "description": "롯데마트가 10월 5일까지 '통큰데이'를 진행하며 황금연휴 수요를 겨냥한 할인에 들어갔어요. 스테이크용 소고기는 행사 카드로 결제 시 40% 할인되고, 한돈 돼지고기 전 품목은 최대 50% 할인 혜택이 적용돼요. 농협안심한돈 삼겹살과 목심은 멤버십 회원에게 100g당 1990원에 판매됩니다.",
+    "description": "롯데마트가 5일까지 '통큰데이' 행사를 진행합니다. 토마호크와 티본 등 스테이크용 소고기는 행사 카드로 결제 시 40% 할인됩니다. 2일부터 5일까지는 한돈 돼지고기 전 품목을 최대 50% 할인하며, 농협안심한돈 삼겹살·목심은 멤버십 회원에게 100g당 1990원에 판매합니다.",
     "affiliateUrl": "https://www.lotteon.com",
     "imageUrl": null,
     "sourceUrl": "https://www.segye.com/newsView/20261003501996",
     "isActive": true,
     "createdAt": "2026-10-02T05:37:25+09:00",
-    "updatedAt": "2026-10-03T20:17:34+09:00"
+    "updatedAt": "2026-10-05T20:25:38+09:00"
   },
   {
     "id": "yogiyo-2610-samsungpay-launch",
@@ -2109,19 +2109,19 @@
     "id": "lotteon-2610-dept-weddingfair",
     "title": "롯데백화점 웨딩페어",
     "platform": "LOTTEON",
-    "category": "LIVING",
-    "startDate": "2026-10-02T00:00:00+09:00",
+    "category": "FASHION",
+    "startDate": "2026-10-01T00:00:00+09:00",
     "endDate": "2026-10-11T23:59:59+09:00",
     "discountRate": null,
     "minSpend": null,
     "maxDiscountAmount": null,
-    "description": "롯데백화점 웨딩페어 기간 중 씰리침대 등 참여 브랜드에서 롯데 웨딩멤버스 고객에게 마일리지 2배 적립 또는 최대 15% 상당의 상품권 증정 혜택을 제공해요. 수원점과 중동점에서는 프리미엄 매트리스 체험 팝업 스토어와 사은품 증정 행사도 함께 진행돼요.",
+    "description": "롯데백화점 전 점포에서 11일까지 '웨딩페어'를 진행합니다. '롯데웨딩멤버스' 가입 시 적립 누적액의 최대 7%를 롯데상품권으로 돌려받을 수 있으며, 최대 한도는 560만원입니다. 가입일로부터 9개월 동안 구매한 금액이 적립 대상입니다.",
     "affiliateUrl": "https://www.lotteon.com",
     "imageUrl": null,
-    "sourceUrl": "https://www.thedailypost.kr/news/articleView.html?idxno=115989",
+    "sourceUrl": "https://m.sedaily.com/amparticle/20097867",
     "isActive": true,
     "createdAt": "2026-10-04T05:38:13+09:00",
-    "updatedAt": "2026-10-05T12:15:22+09:00"
+    "updatedAt": "2026-10-05T20:25:38+09:00"
   },
   {
     "id": "hyundai-2610-superweek",
