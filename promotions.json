@@ -1701,13 +1701,13 @@
     "discountRate": null,
     "minSpend": null,
     "maxDiscountAmount": null,
-    "description": "햇고구마, 한우, 수산물 등 가을 제철 신선식품부터 가전까지 다양한 할인 혜택이 제공되는 '고래잇 페스타'가 진행됩니다. 햇고구마 1.5kg은 1박스 구매 시 5980원, 2박스 구매 시 8980원에 판매됩니다. 아쿠아 생연어회는 신세계포인트 적립과 행사카드 결제 시 약 50% 할인된 1만원 미만 초특가에 구매할 수 있습니다.",
-    "affiliateUrl": "https://www.emart.com",
+    "description": "이마트가 10월 1일부터 5일까지 '고래잇 페스타'를 진행하며, 주요 수산물과 생활용품에 최대 50% 할인 혜택을 적용해요. 팔공상강 한우와 미국산 프라임 소고기 등 행사 상품은 신세계포인트 적립 시 40% 할인되며, 생물 꽃게와 생새우 등 수산물은 품목에 따라 최대 50% 저렴하게 판매돼요.",
+    "affiliateUrl": "https://www.ssg.com",
     "imageUrl": null,
-    "sourceUrl": "https://www.joongang.co.kr/article/25466137",
+    "sourceUrl": "http://knpp.co.kr/news/557003",
     "isActive": true,
     "createdAt": "2026-09-30T09:31:21+09:00",
-    "updatedAt": "2026-10-01T20:16:34+09:00"
+    "updatedAt": "2026-10-05T12:15:22+09:00"
   },
   {
     "id": "baemin-2609-septout-campaign",
@@ -1827,13 +1827,13 @@
     "discountRate": null,
     "minSpend": null,
     "maxDiscountAmount": null,
-    "description": "기저귀, 분유, 유아식 등 육아 필수품을 최대 50% 할인하는 '베이비 위크'가 진행됩니다. 10월 1일부터 7일까지 7일간 다양한 육아 용품 할인 혜택이 제공됩니다.",
-    "affiliateUrl": "https://www.emart.com",
+    "description": "이마트가 10월 1일부터 7일까지 기저귀, 분유, 유아식 등 육아 필수품을 최대 50% 할인하는 '베이비 위크'를 진행해요. 고래잇 페스타 기간(10월 5일) 이후에도 7일까지 이어지는 행사로, 육아용품 구매 시 큰 폭의 할인을 받을 수 있어요.",
+    "affiliateUrl": "https://www.ssg.com",
     "imageUrl": null,
-    "sourceUrl": "https://www.joongang.co.kr/article/25466137",
+    "sourceUrl": "http://knpp.co.kr/news/557003",
     "isActive": true,
     "createdAt": "2026-10-01T05:38:12+09:00",
-    "updatedAt": "2026-10-01T20:16:34+09:00"
+    "updatedAt": "2026-10-05T12:15:22+09:00"
   },
   {
     "id": "lotteon-2610-jeoribae-presale",
@@ -2097,31 +2097,31 @@
     "discountRate": null,
     "minSpend": null,
     "maxDiscountAmount": null,
-    "description": "KB국민 트래블러스 체크카드 마스터카드 고객이 10월 31일까지 일본에서 건당 1000엔 이상 첫 결제 시 스타벅스 500엔 할인 쿠폰을 받을 수 있어요. 주요 편의점 이용 시 최대 50% 캐시백, 돈키호테에서는 최대 4000엔 상당의 혜택이 제공되며, 5대 백화점 이용 시 최대 10% 리워드를 받습니다. 선착순 6000명 한정이며, 라쿠텐 트래블 예약 시 최대 30% 할인도 적용돼요.",
+    "description": "KB국민 트래블러스 체크카드 마스터카드 고객이 일본에서 건당 1000엔 이상 첫 결제 시 스타벅스 500엔 할인 쿠폰을 받을 수 있어요. 일본 주요 3대 편의점 이용 시 최대 50% 캐시백, 돈키호테에서는 마스터카드 고객에게 최대 4000엔 상당의 혜택을 제공해요.",
     "affiliateUrl": "https://www.kbcard.com",
     "imageUrl": null,
-    "sourceUrl": "https://www.bizwnews.com/news/articleView.html?idxno=147796",
+    "sourceUrl": "https://v.daum.net/v/6Yf4A3ae54?f=p",
     "isActive": true,
     "createdAt": "2026-10-03T20:17:34+09:00",
-    "updatedAt": "2026-10-03T20:17:34+09:00"
+    "updatedAt": "2026-10-05T12:15:22+09:00"
   },
   {
     "id": "lotteon-2610-dept-weddingfair",
     "title": "롯데백화점 웨딩페어",
     "platform": "LOTTEON",
-    "category": "SHOPPING",
+    "category": "LIVING",
     "startDate": "2026-10-02T00:00:00+09:00",
     "endDate": "2026-10-11T23:59:59+09:00",
     "discountRate": null,
     "minSpend": null,
-    "maxDiscountAmount": 5600000,
-    "description": "롯데백화점이 10월 2일부터 11일까지 전 점포에서 웨딩페어를 열어요. 웨딩 멤버십 '롯데웨딩멤버스'에 가입하면 9개월간 구매액을 적립해 최대 7%, 한도 560만원까지 롯데상품권으로 돌려받을 수 있어요.",
-    "affiliateUrl": null,
+    "maxDiscountAmount": null,
+    "description": "롯데백화점 웨딩페어 기간 중 씰리침대 등 참여 브랜드에서 롯데 웨딩멤버스 고객에게 마일리지 2배 적립 또는 최대 15% 상당의 상품권 증정 혜택을 제공해요. 수원점과 중동점에서는 프리미엄 매트리스 체험 팝업 스토어와 사은품 증정 행사도 함께 진행돼요.",
+    "affiliateUrl": "https://www.lotteon.com",
     "imageUrl": null,
-    "sourceUrl": "https://m.sedaily.com/amparticle/20097867",
+    "sourceUrl": "https://www.thedailypost.kr/news/articleView.html?idxno=115989",
     "isActive": true,
     "createdAt": "2026-10-04T05:38:13+09:00",
-    "updatedAt": "2026-10-04T05:38:13+09:00"
+    "updatedAt": "2026-10-05T12:15:22+09:00"
   },
   {
     "id": "hyundai-2610-superweek",
@@ -2133,12 +2133,12 @@
     "discountRate": null,
     "minSpend": null,
     "maxDiscountAmount": null,
-    "description": "현대홈쇼핑이 10월 5일부터 18일까지 '현대슈퍼위크'를 진행합니다. 매일 선착순 5만 명에게 최대 5만 원 상당의 쿠폰팩을 지급하며, 행사 상품 구매 시 결제금액의 최대 10%를 포인트로 적립해 드립니다. 포인트 적립 한도는 하루 최대 1만 원입니다.",
+    "description": "현대홈쇼핑이 10월 5일부터 18일까지 '현대슈퍼위크'를 진행하며, 매일 선착순 5만 명에게 최대 5만 원 상당의 쿠폰팩을 지급해요. 행사 대상 상품 구매 시 결제 금액의 최대 10%를 포인트로 추가 적립할 수 있으며, 포인트 적립 한도는 하루 최대 1만 원이에요.",
     "affiliateUrl": "https://www.hyundaihmall.com",
     "imageUrl": null,
     "sourceUrl": "https://news.jkn.co.kr/post/1007115",
     "isActive": true,
     "createdAt": "2026-10-04T16:15:13+09:00",
-    "updatedAt": "2026-10-04T16:15:13+09:00"
+    "updatedAt": "2026-10-05T12:15:22+09:00"
   }
 ]
