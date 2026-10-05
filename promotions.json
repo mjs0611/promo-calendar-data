@@ -180,24 +180,6 @@
     "updatedAt": "2026-08-17T06:35:00+09:00"
   },
   {
-    "id": "coupang-2608-fashionweek",
-    "title": "쿠팡 8월 패션위크",
-    "platform": "COUPANG",
-    "category": "FASHION",
-    "startDate": "2026-08-01T00:00:00+09:00",
-    "endDate": "2026-08-06T23:59:59+09:00",
-    "discountRate": 80,
-    "minSpend": null,
-    "maxDiscountAmount": null,
-    "description": "나이키·아디다스·크록스·뉴발란스 등 500여 개 브랜드가 참여하는 8월 첫 주 패션위크를 8월 6일까지 진행해요. 여름 티셔츠·반바지·수영복·래쉬가드·샌들 등 8,000여 개 상품을 최대 80% 할인하며, 로켓배송 상품 중심으로 빠른 수령이 가능해요.",
-    "affiliateUrl": "https://www.coupang.com",
-    "imageUrl": null,
-    "sourceUrl": "https://m.dailian.co.kr/news/view/1260209/",
-    "isActive": false,
-    "createdAt": "2026-07-31T07:00:00+09:00",
-    "updatedAt": "2026-08-07T06:34:00+09:00"
-  },
-  {
     "id": "naver-2608-naveronlyfood",
     "title": "네이버플러스 스토어 8월 네이버온리 기획전",
     "platform": "NAVER",
@@ -268,24 +250,6 @@
     "isActive": false,
     "createdAt": "2026-08-03T06:35:00+09:00",
     "updatedAt": "2026-08-24T06:35:00+09:00"
-  },
-  {
-    "id": "elevenst-2608-ecoupon-megaday",
-    "title": "11번가 8월 E쿠폰 메가데이",
-    "platform": "ELEVENST",
-    "category": "FOOD",
-    "startDate": "2026-08-03T00:00:00+09:00",
-    "endDate": "2026-08-06T23:59:59+09:00",
-    "discountRate": 50,
-    "minSpend": null,
-    "maxDiscountAmount": null,
-    "description": "매월 초 열리는 11번가 정기 e쿠폰 릴레이 할인 행사예요. 8월에는 버거킹(3일, 최대 50%), 빽다방(4일), 쉐이크쉑(5일, 최대 40%), 피자헛(6일, 최대 45%) 순으로 하루 한 브랜드씩 온라인 최저가 수준 e쿠폰을 판매해요. 당일에만 유효하니 알람 설정 후 챙기세요.",
-    "affiliateUrl": "https://www.11st.co.kr",
-    "imageUrl": null,
-    "sourceUrl": "https://v.daum.net/v/20260803082410881",
-    "isActive": false,
-    "createdAt": "2026-08-04T06:35:00+09:00",
-    "updatedAt": "2026-08-07T06:34:00+09:00"
   },
   {
     "id": "coupang-2608-travelmegaweek",
@@ -1075,7 +1039,7 @@
     "affiliateUrl": "https://www.coupang.com",
     "imageUrl": null,
     "sourceUrl": "https://www.gukjenews.com/news/articleView.html?idxno=3386397",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-09-02T06:30:00+09:00",
     "updatedAt": "2026-09-02T06:30:00+09:00"
   },
@@ -1705,7 +1669,7 @@
     "affiliateUrl": "https://www.ssg.com",
     "imageUrl": null,
     "sourceUrl": "http://knpp.co.kr/news/557003",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-09-30T09:31:21+09:00",
     "updatedAt": "2026-10-05T12:15:22+09:00"
   },
@@ -1795,7 +1759,7 @@
     "affiliateUrl": "https://www.gmarket.co.kr",
     "imageUrl": null,
     "sourceUrl": "https://www.kdfnews.com/news/articleView.html?idxno=188749",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-09-30T16:17:38+09:00",
     "updatedAt": "2026-10-03T12:11:07+09:00"
   },
@@ -1867,7 +1831,7 @@
     "affiliateUrl": "https://www.ssg.com",
     "imageUrl": null,
     "sourceUrl": "https://www.segye.com/newsView/20261003501996",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-10-01T20:16:34+09:00",
     "updatedAt": "2026-10-05T20:25:38+09:00"
   },
@@ -1957,7 +1921,7 @@
     "affiliateUrl": "https://www.lotteon.com",
     "imageUrl": null,
     "sourceUrl": "https://www.segye.com/newsView/20261003501996",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-10-02T05:37:25+09:00",
     "updatedAt": "2026-10-05T20:25:38+09:00"
   },
@@ -2025,13 +1989,13 @@
     "discountRate": null,
     "minSpend": 18000,
     "maxDiscountAmount": 8000,
-    "description": "배달의민족에서 bhc 치킨을 1만8000원 이상 주문하면 할인받을 수 있어요. T멤버십 VIP 고객은 8000원, 골드·실버 고객은 6000원을 할인받을 수 있고, 10월 12일부터 16일까지 AI 위크 기간에 진행돼요.",
+    "description": "SKT T 멤버십 고객이 배달의민족에서 bhc 치킨을 1만8000원 이상 주문하면 할인받을 수 있어요. VIP 등급은 8000원, 골드·실버 등급은 6000원이 할인되며 10월 12일부터 16일까지 T day 스페셜 위크 기간에 적용돼요.",
     "affiliateUrl": "https://www.baemin.com",
     "imageUrl": null,
     "sourceUrl": "https://v.daum.net/v/20261003060144556",
     "isActive": true,
     "createdAt": "2026-10-03T16:12:47+09:00",
-    "updatedAt": "2026-10-05T05:38:53+09:00"
+    "updatedAt": "2026-10-06T05:39:58+09:00"
   },
   {
     "id": "lotteon-2610-tday-adventure",
@@ -2043,13 +2007,13 @@
     "discountRate": 55,
     "minSpend": null,
     "maxDiscountAmount": null,
-    "description": "T멤버십 고객은 롯데월드 어드벤처 서울 또는 부산 종합이용권을 최대 55% 할인된 가격에 구매할 수 있어요. 본인 포함 최대 4인까지 적용되고, 서울 이용 고객에게는 츄러스 1개를 추가로 증정해요.",
+    "description": "T 멤버십 고객은 롯데월드 어드벤처 서울 또는 부산 종합이용권을 최대 55% 할인된 가격에 구매할 수 있어요. 본인 포함 최대 4인까지 적용되고, 서울 이용 고객에게는 츄러스 1개를 추가로 증정해요.",
     "affiliateUrl": "https://www.lotteon.com",
     "imageUrl": null,
     "sourceUrl": "https://v.daum.net/v/20261003060144556",
     "isActive": true,
     "createdAt": "2026-10-03T16:12:47+09:00",
-    "updatedAt": "2026-10-05T05:38:53+09:00"
+    "updatedAt": "2026-10-06T05:39:58+09:00"
   },
   {
     "id": "baemin-2610-tday-gongcha",
@@ -2061,13 +2025,13 @@
     "discountRate": 50,
     "minSpend": null,
     "maxDiscountAmount": 6000,
-    "description": "공차 인기 음료 6종을 T멤버십 VIP 고객은 50%(최대 6000원), 골드·실버 고객은 30%(최대 5000원) 할인받을 수 있어요. 10월 12일부터 16일까지 AI 위크 기간 한정 혜택이에요.",
+    "description": "T 멤버십 VIP 고객은 공차 인기 음료 6종 중 하나를 최대 50%(최대 6000원) 할인받을 수 있어요. 골드·실버 고객은 30%(최대 5000원) 할인이 적용되며 10월 12일부터 16일까지 T day 스페셜 위크 기간 한정이에요.",
     "affiliateUrl": "https://www.baemin.com",
     "imageUrl": null,
     "sourceUrl": "https://v.daum.net/v/20261003060144556",
     "isActive": true,
     "createdAt": "2026-10-03T16:12:47+09:00",
-    "updatedAt": "2026-10-05T05:38:53+09:00"
+    "updatedAt": "2026-10-06T05:39:58+09:00"
   },
   {
     "id": "baemin-2610-tday-happyhour",
@@ -2132,13 +2096,13 @@
     "endDate": "2026-10-18T23:59:59+09:00",
     "discountRate": null,
     "minSpend": null,
-    "maxDiscountAmount": null,
-    "description": "현대홈쇼핑이 10월 5일부터 18일까지 '현대슈퍼위크'를 진행하며, 매일 선착순 5만 명에게 최대 5만 원 상당의 쿠폰팩을 지급해요. 행사 대상 상품 구매 시 결제 금액의 최대 10%를 포인트로 추가 적립할 수 있으며, 포인트 적립 한도는 하루 최대 1만 원이에요.",
+    "maxDiscountAmount": 50000,
+    "description": "현대홈쇼핑이 10월 5일부터 18일까지 매일 선착순 5만명에게 1인당 최대 5만원 상당의 쿠폰팩을 지급해요. 행사 대상 상품 구매 시 결제금액의 최대 10%를 포인트로 추가 적립해주며, 포인트 적립 한도는 하루 최대 1만원이에요.",
     "affiliateUrl": "https://www.hyundaihmall.com",
     "imageUrl": null,
     "sourceUrl": "https://news.jkn.co.kr/post/1007115",
     "isActive": true,
     "createdAt": "2026-10-04T16:15:13+09:00",
-    "updatedAt": "2026-10-05T12:15:22+09:00"
+    "updatedAt": "2026-10-06T05:39:58+09:00"
   }
 ]
