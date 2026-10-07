@@ -2148,16 +2148,16 @@
     "category": "LIVING",
     "startDate": "2026-10-01T00:00:00+09:00",
     "endDate": "2026-10-11T23:59:59+09:00",
-    "discountRate": 50,
+    "discountRate": null,
     "minSpend": null,
     "maxDiscountAmount": null,
-    "description": "11번가 가을맞이 전기요·카본매트 특가전에서 경동나비엔, 일월, 쿠쿠, 한일의료기, 잠온 등 대표 브랜드 10곳의 난방용품을 최대 50% 할인 판매해요. 2만원대 전기요부터 프리미엄 카본매트까지 다양한 제품을 선보이며, 주요 카드사 3% 추가 할인과 토스페이머니 7% 할인도 함께 적용돼요. 60분러시와 타임딜을 통한 한정 특가도 진행돼요.",
+    "description": "11번가가 10월 11일까지 전기요·카본매트 특가전을 진행하며, 경동나비엔, 일월, 쿠쿠 등 10개 브랜드가 참여해 최대 50% 즉시 할인을 제공해요. 행사 기간 삼성·신한·KB국민·현대·BC카드 결제 시 3% 추가 할인(최대 3만원)과 토스페이머니 전용 7% 할인(최대 5만원) 혜택도 받을 수 있어요.",
     "affiliateUrl": "https://www.11st.co.kr",
     "imageUrl": null,
-    "sourceUrl": "https://v.daum.net/v/20261006092058990",
+    "sourceUrl": "https://www.startuptoday.co.kr/news/articleView.html?idxno=815056",
     "isActive": true,
     "createdAt": "2026-10-06T20:19:28+09:00",
-    "updatedAt": "2026-10-07T05:38:24+09:00"
+    "updatedAt": "2026-10-07T12:18:15+09:00"
   },
   {
     "id": "lotteon-2610-gwangcle-jul",
@@ -2169,13 +2169,13 @@
     "discountRate": null,
     "minSpend": null,
     "maxDiscountAmount": null,
-    "description": "연중 최대 쇼핑 축제 '광클절'을 진행하며 매일 '광클지원금' 쿠폰팩을 제공합니다. TV홈쇼핑 상품 구매 시 7% 카드 할인 혜택과 적립금 또는 사은품 중 선택 가능한 '광클기프트'도 받을 수 있어요.",
+    "description": "롯데홈쇼핑이 10월 8일부터 18일까지 연중 최대 행사인 '광클절'을 진행해요. 매일 '광클지원금'을 지급하며, 적립금과 사은품 중 선택 가능한 '광클기프트'도 제공해요. TV홈쇼핑 상품 구매 시 7% 카드 할인 혜택도 적용돼요.",
     "affiliateUrl": "https://www.lotteon.com",
     "imageUrl": null,
     "sourceUrl": "https://www.mk.co.kr/news/business/12168988",
     "isActive": true,
     "createdAt": "2026-10-06T20:19:28+09:00",
-    "updatedAt": "2026-10-06T20:19:28+09:00"
+    "updatedAt": "2026-10-07T12:18:15+09:00"
   },
   {
     "id": "samsung-2610-chuseok-special",
@@ -2212,5 +2212,41 @@
     "isActive": true,
     "createdAt": "2026-10-06T20:19:28+09:00",
     "updatedAt": "2026-10-06T20:19:28+09:00"
+  },
+  {
+    "id": "oliveyoung-2610-cjone-wonderweek",
+    "title": "CJ ONE 10월 원더위크 · 이마트24 4,000원 할인",
+    "platform": "OLIVEYOUNG",
+    "category": "FOOD",
+    "startDate": "2026-10-06T00:00:00+09:00",
+    "endDate": "2026-10-11T23:59:59+09:00",
+    "discountRate": null,
+    "minSpend": null,
+    "maxDiscountAmount": null,
+    "description": "CJ ONE 앱에서 10월 원더위크 페이지에 접속하면 이마트24 전용 4,000원 할인 쿠폰을 선착순으로 받을 수 있어요. 이마트24 매장에서 1만 원 이상 결제 시 사용 가능하며, CJ ONE 회원이라면 누구나 참여할 수 있어요.",
+    "affiliateUrl": "https://www.oliveyoung.co.kr",
+    "imageUrl": null,
+    "sourceUrl": "https://www.globalnewsagency.kr/news/articleView.html?idxno=497668",
+    "isActive": true,
+    "createdAt": "2026-10-07T12:18:15+09:00",
+    "updatedAt": "2026-10-07T12:18:15+09:00"
+  },
+  {
+    "id": "gmarket-2610-digital-living-sale",
+    "title": "G마켓 디지털·생활필수품 할인전",
+    "platform": "GMARKET",
+    "category": "LIVING",
+    "startDate": "2026-10-06T00:00:00+09:00",
+    "endDate": "2026-10-12T23:59:59+09:00",
+    "discountRate": null,
+    "minSpend": null,
+    "maxDiscountAmount": null,
+    "description": "G마켓이 10월 6일부터 12일까지 디지털 가전 및 생활필수품 할인 행사를 진행해요. 가전제품, 식품, 생필품, 패션 품목을 대상으로 지정 금액 이상 구매 시 할인 쿠폰과 결제 수단별 추가 할인이 적용돼요. 매일 오전 지정 시각마다 30개의 특가 품목이 변경 배치됩니다.",
+    "affiliateUrl": "https://www.gmarket.co.kr",
+    "imageUrl": null,
+    "sourceUrl": "https://www.lawissue.co.kr/view.php?ud=202610061717051274204ead0791_12",
+    "isActive": true,
+    "createdAt": "2026-10-07T12:18:15+09:00",
+    "updatedAt": "2026-10-07T12:18:15+09:00"
   }
 ]
