@@ -324,24 +324,6 @@
     "updatedAt": "2026-09-01T06:35:00+09:00"
   },
   {
-    "id": "lotteon-2608-himart-highlight",
-    "title": "롯데하이마트 8월 하이라이트 세일",
-    "platform": "LOTTEON",
-    "category": "ELECTRONICS",
-    "startDate": "2026-08-05T00:00:00+09:00",
-    "endDate": "2026-08-10T23:59:59+09:00",
-    "discountRate": null,
-    "minSpend": null,
-    "maxDiscountAmount": 7000000,
-    "description": "LG전자 가전 다품목 구매 시 최대 700만 원 혜택을 제공해요. 에어컨 플러스 다품목 행사상품을 구매하면 최대 100만 원 추가 할인이 더해져 총 700만 원 혜택을 받을 수 있어요. 에어컨·TV·세탁기·건조기 등을 신한·우리카드 등 행사카드로 결제하면 최대 80만 원 캐시백도 추가로 적용돼요.",
-    "affiliateUrl": "https://www.lottehimart.com",
-    "imageUrl": null,
-    "sourceUrl": "https://www.etnews.com/20260805000388",
-    "isActive": false,
-    "createdAt": "2026-08-08T06:35:00+09:00",
-    "updatedAt": "2026-08-11T06:35:00+09:00"
-  },
-  {
     "id": "hyundai-2608-koreanair-discount",
     "title": "현대카드 대한항공카드 8월 항공권 청구 할인",
     "platform": "HYUNDAI_CARD",
@@ -1291,7 +1273,7 @@
     "affiliateUrl": "https://www.musinsa.com/campaign/list",
     "imageUrl": null,
     "sourceUrl": "https://biz.heraldcorp.com/article/10877877",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-09-12T06:35:00+09:00",
     "updatedAt": "2026-09-22T06:30:00+09:00"
   },
@@ -2299,7 +2281,7 @@
     "affiliateUrl": "https://www.ssg.com",
     "imageUrl": null,
     "sourceUrl": "https://www.4th.kr/news/articleView.html?idxno=2119292",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-10-08T05:39:33+09:00",
     "updatedAt": "2026-10-08T05:39:33+09:00"
   },
