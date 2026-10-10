@@ -144,24 +144,6 @@
     "updatedAt": "2026-09-01T06:35:00+09:00"
   },
   {
-    "id": "kurly-2608-wonderkurly",
-    "title": "컬리 8월 원더컬리",
-    "platform": "KURLY",
-    "category": "FOOD",
-    "startDate": "2026-08-01T00:00:00+09:00",
-    "endDate": "2026-08-11T23:59:59+09:00",
-    "discountRate": 60,
-    "minSpend": null,
-    "maxDiscountAmount": 10000,
-    "description": "2,000여 개 인기 상품을 최대 60% 할인하는 8월 대표 기획전이에요. 식재료 20종을 특가에 선보이는 '장보기 파격가', 매일 오후 5시부터 4시간 진행하는 '나이트딜', 바캉스·보양·다이어트 테마의 '라스트 서머 특가'로 구성돼요. 매일 최대 1만 원 100% 당첨 쿠폰도 지급해요.",
-    "affiliateUrl": "https://www.kurly.com",
-    "imageUrl": null,
-    "sourceUrl": "https://www.insightkorea.co.kr/news/articleView.html?idxno=251754",
-    "isActive": false,
-    "createdAt": "2026-07-30T06:52:00+09:00",
-    "updatedAt": "2026-08-12T06:35:00+09:00"
-  },
-  {
     "id": "lotteon-2608-travelexpo",
     "title": "롯데온 여행박람회",
     "platform": "LOTTEON",
@@ -196,24 +178,6 @@
     "isActive": false,
     "createdAt": "2026-07-31T07:00:00+09:00",
     "updatedAt": "2026-09-01T06:35:00+09:00"
-  },
-  {
-    "id": "elevenst-2608-monthlysilja",
-    "title": "11번가 8월 월간 십일절",
-    "platform": "ELEVENST",
-    "category": "ELECTRONICS",
-    "startDate": "2026-08-01T00:00:00+09:00",
-    "endDate": "2026-08-11T23:59:59+09:00",
-    "discountRate": null,
-    "minSpend": 40000,
-    "maxDiscountAmount": 5000,
-    "description": "8월 1일부터 11일까지 열리는 11번가 정례 세일. 4만 원 이상 구매 고객에게 3천→4천→5천 원 릴레이 할인쿠폰을 순차 지급해요. 삼성 에어컨·LG 제습기·캐리어 창문형 에어컨 등 계절가전 타임딜과 여행상품 라이브 방송도 함께 진행해요.",
-    "affiliateUrl": "https://www.11st.co.kr",
-    "imageUrl": null,
-    "sourceUrl": "https://www.news1.kr/industry/distribution/6244893",
-    "isActive": false,
-    "createdAt": "2026-08-02T06:34:00+09:00",
-    "updatedAt": "2026-08-12T06:35:00+09:00"
   },
   {
     "id": "toss-2605-payment-promo",
@@ -397,21 +361,21 @@
   },
   {
     "id": "kurly-2608-grandbeauty",
-    "title": "컬리 그랜드뷰티컬리페스타",
+    "title": "컬리 그랜드뷰티컬리페스타 (10월)",
     "platform": "KURLY",
     "category": "BEAUTY",
-    "startDate": "2026-08-10T00:00:00+09:00",
-    "endDate": "2026-08-20T23:59:59+09:00",
+    "startDate": "2026-10-10T00:00:00+09:00",
+    "endDate": "2026-10-20T23:59:59+09:00",
     "discountRate": 90,
     "minSpend": null,
     "maxDiscountAmount": null,
-    "description": "뷰티컬리 하반기 첫 대규모 뷰티 기획전으로 8월 20일까지 진행해요. 스킨케어·선케어·헤어·바디·메이크업 등 6,000여 개 상품을 최대 90% 할인하며, 매일 오전 11시 랜덤 쿠폰(평일 최대 50%, 주말 최대 90%)을 전 고객에게 무제한 지급해요. 원데이 특가·라이브 방송 할인·릴레이 브랜드 혜택도 함께 진행해요.",
+    "description": "컬리가 하반기 첫 '그랜드뷰티컬리페스타'를 열고 선케어·스킨케어·메이크업 등 뷰티 상품 1만여개를 최대 90% 할인 판매해요. 17일까지는 매일 최대 50% 할인되는 100% 당첨 랜덤 쿠폰을 받을 수 있고, 20일까지 최대 20% 카드사 할인 쿠폰도 함께 적용돼요. 에스트라, 랑콤, 키엘 등 브랜드별로 기간을 나눠 쿠폰 할인과 사은품을 제공해요.",
     "affiliateUrl": "https://www.kurly.com",
     "imageUrl": null,
-    "sourceUrl": "https://www.seoulfn.com/news/articleView.html?idxno=603987",
-    "isActive": false,
+    "sourceUrl": "https://busan.fnnews.com/news/202608100853512274",
+    "isActive": true,
     "createdAt": "2026-08-11T06:35:00+09:00",
-    "updatedAt": "2026-08-21T06:36:00+09:00"
+    "updatedAt": "2026-10-11T05:39:16+09:00"
   },
   {
     "id": "lotteon-2608-giantsday",
@@ -1291,7 +1255,7 @@
     "affiliateUrl": "https://www.hyundaicard.com",
     "imageUrl": null,
     "sourceUrl": "https://www.hyundaicard.com/koreanair/event/event_2609.html?eventCode=KAL54",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-09-12T06:35:00+09:00",
     "updatedAt": "2026-09-12T06:35:00+09:00"
   },
@@ -2001,19 +1965,19 @@
     "id": "lotteon-2610-dept-weddingfair",
     "title": "롯데백화점 웨딩페어",
     "platform": "LOTTEON",
-    "category": "FASHION",
+    "category": "SHOPPING",
     "startDate": "2026-10-01T00:00:00+09:00",
     "endDate": "2026-10-11T23:59:59+09:00",
     "discountRate": null,
     "minSpend": null,
     "maxDiscountAmount": null,
-    "description": "롯데백화점 전 점포에서 11일까지 '웨딩페어'를 진행합니다. '롯데웨딩멤버스' 가입 시 적립 누적액의 최대 7%를 롯데상품권으로 돌려받을 수 있으며, 최대 한도는 560만원입니다. 가입일로부터 9개월 동안 구매한 금액이 적립 대상입니다.",
+    "description": "롯데백화점이 전점에서 10월 11일까지 '웨딩페어'를 진행해요. 15개 상품군 165개 브랜드가 참여하며 평소보다 두 배 높은 '더블 마일리지'를 적립해주는 혜택을 제공해요.",
     "affiliateUrl": "https://www.lotteon.com",
     "imageUrl": null,
-    "sourceUrl": "https://m.sedaily.com/amparticle/20097867",
+    "sourceUrl": "https://mobile.newsis.com/view_amp.html?ar_id=NISX20261008_0003819842",
     "isActive": true,
     "createdAt": "2026-10-04T05:38:13+09:00",
-    "updatedAt": "2026-10-05T20:25:38+09:00"
+    "updatedAt": "2026-10-11T05:39:16+09:00"
   },
   {
     "id": "hyundai-2610-superweek",
@@ -2328,16 +2292,16 @@
     "category": "LIVING",
     "startDate": "2026-10-01T00:00:00+09:00",
     "endDate": "2026-10-31T23:59:59+09:00",
-    "discountRate": null,
+    "discountRate": 5,
     "minSpend": null,
-    "maxDiscountAmount": null,
-    "description": "11번가가 슈팅배송을 통해 환절기 생필품 할인전을 진행합니다. 신한카드 또는 카카오페이머니 결제 시 5% 할인이 적용되며, 할인 한도는 각각 최대 5,000원입니다.",
+    "maxDiscountAmount": 5000,
+    "description": "11번가가 10월 31일까지 빠른 배송 서비스 '슈팅배송'을 통해 환절기 생필품 할인전을 진행해요. 신한카드 결제 시 5% 할인, 카카오페이머니 결제 시 5% 할인을 각각 받을 수 있고 할인 한도는 각각 최대 5,000원이에요.",
     "affiliateUrl": "https://www.11st.co.kr",
     "imageUrl": null,
     "sourceUrl": "https://www.news2day.co.kr/article/20261008500254",
     "isActive": true,
     "createdAt": "2026-10-10T12:20:55+09:00",
-    "updatedAt": "2026-10-10T12:20:55+09:00"
+    "updatedAt": "2026-10-11T05:39:16+09:00"
   },
   {
     "id": "lotteon-2610-fresh-homecamp",
@@ -2367,13 +2331,13 @@
     "discountRate": null,
     "minSpend": null,
     "maxDiscountAmount": null,
-    "description": "쿠팡이 뉴발란스, 커버낫 등 130여개 패션 브랜드가 참여하는 '맨투맨&후디 페스티벌'을 진행합니다.",
+    "description": "쿠팡이 10월 11일까지 '맨투맨&후디 페스티벌'을 진행해요. 뉴발란스, 커버낫, 헤지스, NBA 등 130여개 패션 브랜드가 참여해 맨투맨과 후드티 등 가을 의류 1만여개를 할인 판매해요.",
     "affiliateUrl": "https://www.coupang.com",
     "imageUrl": null,
     "sourceUrl": "https://www.segye.com/newsView/20261010502509",
     "isActive": true,
     "createdAt": "2026-10-10T12:20:55+09:00",
-    "updatedAt": "2026-10-10T12:20:55+09:00"
+    "updatedAt": "2026-10-11T05:39:16+09:00"
   },
   {
     "id": "lotteon-2610-nine-west",
@@ -2418,15 +2382,15 @@
     "category": "LIVING",
     "startDate": "2026-10-01T00:00:00+09:00",
     "endDate": "2026-10-26T23:59:59+09:00",
-    "discountRate": null,
-    "minSpend": null,
+    "discountRate": 85,
+    "minSpend": 3000000,
     "maxDiscountAmount": null,
-    "description": "한샘이 하반기 대규모 할인 행사 '쌤페스타'를 진행합니다. 가구, 인테리어 제품, 생활용품 등 약 1,500종을 최대 85% 할인된 가격에 판매합니다. 300만원 이상 구매 시 입주·이사 청소 및 포장이사 등 제휴 서비스 할인 혜택이 제공됩니다.",
+    "description": "한샘이 10월 26일까지 하반기 대규모 할인 행사 '쌤페스타'를 진행해요. 전국 오프라인 매장과 한샘몰에서 가구, 인테리어 제품, 생활용품 등 약 1,500종을 최대 85% 할인된 가격에 판매해요. 300만원 이상 구매한 고객에게는 입주·이사 청소, 포장이사, 가전 관리 등 제휴 서비스 할인 혜택도 제공해요.",
     "affiliateUrl": "https://www.samsung.com",
     "imageUrl": null,
     "sourceUrl": "https://www.newsway.co.kr/news/view?ud=2026100810450989328",
     "isActive": true,
     "createdAt": "2026-10-10T12:20:55+09:00",
-    "updatedAt": "2026-10-10T12:20:55+09:00"
+    "updatedAt": "2026-10-11T05:39:16+09:00"
   }
 ]
