@@ -1489,7 +1489,7 @@
     "affiliateUrl": "https://www.coupang.com",
     "imageUrl": null,
     "sourceUrl": "https://zdnet.co.kr/view/?no=20260928094852",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-09-29T07:00:00+09:00",
     "updatedAt": "2026-09-29T07:00:00+09:00"
   },
@@ -1507,7 +1507,7 @@
     "affiliateUrl": "https://www.lotteon.com",
     "imageUrl": null,
     "sourceUrl": "https://www.newsis.com/view/NISX20260927_0003803982",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-09-29T07:00:00+09:00",
     "updatedAt": "2026-09-29T07:00:00+09:00"
   },
@@ -1777,7 +1777,7 @@
     "affiliateUrl": "https://www.coupangeats.com",
     "imageUrl": null,
     "sourceUrl": "https://www.newsflix.co.kr/news/articleView.html?idxno=32602",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-10-02T05:37:25+09:00",
     "updatedAt": "2026-10-03T05:38:27+09:00"
   },
@@ -1795,7 +1795,7 @@
     "affiliateUrl": "https://www.11st.co.kr",
     "imageUrl": null,
     "sourceUrl": "https://www.munhwa.com/article/11621166",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-10-02T05:37:25+09:00",
     "updatedAt": "2026-10-04T16:15:13+09:00"
   },
@@ -1975,7 +1975,7 @@
     "affiliateUrl": "https://www.lotteon.com",
     "imageUrl": null,
     "sourceUrl": "https://mobile.newsis.com/view_amp.html?ar_id=NISX20261008_0003819842",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-10-04T05:38:13+09:00",
     "updatedAt": "2026-10-11T05:39:16+09:00"
   },
@@ -2011,7 +2011,7 @@
     "affiliateUrl": "https://www.gmarket.co.kr",
     "imageUrl": null,
     "sourceUrl": "https://www.cnet.co.kr/view/?no=20261006172132",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-10-06T20:19:28+09:00",
     "updatedAt": "2026-10-06T20:19:28+09:00"
   },
@@ -2023,15 +2023,15 @@
     "startDate": "2026-10-06T00:00:00+09:00",
     "endDate": "2026-10-12T23:59:59+09:00",
     "discountRate": null,
-    "minSpend": null,
-    "maxDiscountAmount": null,
-    "description": "G마켓이 10월 12일 오전 10시까지 '끝장세일'을 진행합니다. 디지털·가전관 상품 1만원 이상 구매 시 최대 40만원까지 할인되는 5% 쿠폰과 7% 카드사 할인을 제공합니다. 매일 오전 10시마다 최저가 도전 상품을 엄선해 선보입니다.",
+    "minSpend": 10000,
+    "maxDiscountAmount": 400000,
+    "description": "G마켓이 12일 오전 10시까지 '끝장세일'을 진행하며 디지털·가전관에서 대형가전, 주방가전, PC 등을 할인 판매해요. 해당 카테고리 상품을 1만원 이상 구매하면 최대 40만원까지 할인되는 '끝장세일 5% 쿠폰'을 받을 수 있고, 7% 카드사 할인도 추가로 적용돼요. 디지털·가전관과 특가관에서는 매일 오전 10시마다 최저가 상품 30개를 새로 선보여요.",
     "affiliateUrl": "https://www.gmarket.co.kr",
     "imageUrl": null,
     "sourceUrl": "https://www.munhwa.com/article/11622474",
     "isActive": true,
     "createdAt": "2026-10-06T20:19:28+09:00",
-    "updatedAt": "2026-10-11T16:14:43+09:00"
+    "updatedAt": "2026-10-12T05:39:06+09:00"
   },
   {
     "id": "elevenst-2610-heating-mat",
@@ -2047,7 +2047,7 @@
     "affiliateUrl": "https://www.11st.co.kr",
     "imageUrl": null,
     "sourceUrl": "https://www.startuptoday.co.kr/news/articleView.html?idxno=815056",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-10-06T20:19:28+09:00",
     "updatedAt": "2026-10-07T12:18:15+09:00"
   },
@@ -2119,7 +2119,7 @@
     "affiliateUrl": "https://www.oliveyoung.co.kr",
     "imageUrl": null,
     "sourceUrl": "https://www.globalnewsagency.kr/news/articleView.html?idxno=497668",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-10-07T12:18:15+09:00",
     "updatedAt": "2026-10-08T05:39:33+09:00"
   },
@@ -2191,7 +2191,7 @@
     "affiliateUrl": "https://www.ssg.com",
     "imageUrl": null,
     "sourceUrl": "https://www.dailypop.kr/news/articleView.html?idxno=103138",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-10-07T16:18:16+09:00",
     "updatedAt": "2026-10-07T16:18:16+09:00"
   },
@@ -2310,16 +2310,16 @@
     "category": "FOOD",
     "startDate": "2026-10-01T00:00:00+09:00",
     "endDate": "2026-10-14T23:59:59+09:00",
-    "discountRate": null,
+    "discountRate": 40,
     "minSpend": null,
     "maxDiscountAmount": null,
-    "description": "롯데마트가 '신선 홈캉스' 행사를 진행합니다. 엘포인트 회원에게 호주청정우 척아이롤과 끝돼 삼겹살·목심 등을 최대 40% 할인해 판매합니다.",
+    "description": "롯데마트가 14일까지 '신선 홈캉스' 행사를 진행해요. 엘포인트 회원에게 호주청정우 척아이롤과 삼겹살·목심 등을 최대 40% 할인해 판매해요. 가을 제철 신선식품을 중심으로 구성된 할인전이에요.",
     "affiliateUrl": "https://www.lotteon.com",
     "imageUrl": null,
     "sourceUrl": "https://www.segye.com/newsView/20261010502509",
     "isActive": true,
     "createdAt": "2026-10-10T12:20:55+09:00",
-    "updatedAt": "2026-10-10T12:20:55+09:00"
+    "updatedAt": "2026-10-12T05:39:06+09:00"
   },
   {
     "id": "coupang-2610-mt-hoodie-festival",
@@ -2335,7 +2335,7 @@
     "affiliateUrl": "https://www.coupang.com",
     "imageUrl": null,
     "sourceUrl": "https://www.segye.com/newsView/20261010502509",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-10-10T12:20:55+09:00",
     "updatedAt": "2026-10-11T05:39:16+09:00"
   },
@@ -2353,7 +2353,7 @@
     "affiliateUrl": "https://www.lotteon.com",
     "imageUrl": null,
     "sourceUrl": "https://www.newsis.com/view/NISX20261008_0003819792",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-10-10T12:20:55+09:00",
     "updatedAt": "2026-10-10T12:20:55+09:00"
   },
@@ -2371,7 +2371,7 @@
     "affiliateUrl": "https://www.11st.co.kr",
     "imageUrl": null,
     "sourceUrl": "https://www.newsis.com/view/NISX20261008_0003819792",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-10-10T12:20:55+09:00",
     "updatedAt": "2026-10-10T12:20:55+09:00"
   },
@@ -2400,16 +2400,16 @@
     "category": "SHOPPING",
     "startDate": "2026-10-12T00:00:00+09:00",
     "endDate": "2026-10-21T23:59:59+09:00",
-    "discountRate": null,
+    "discountRate": 84,
     "minSpend": null,
-    "maxDiscountAmount": null,
-    "description": "롯데온이 온라인 쇼핑 30주년을 맞아 10월 12일부터 21일까지 '온세상 쇼핑 페스타'를 진행합니다. 행사 기간 매일 '온쇼페 쿠폰팩'을 통해 최대 20만원 할인쿠폰을 제공하며, '30% 포인트백' 상품도 매일 3종씩 공개합니다. '30주년 온쇼페 메가딜'에서는 어그, 캘빈클라인 등 인기 브랜드 상품을 최대 84% 할인된 가격에 만나볼 수 있습니다.",
+    "maxDiscountAmount": 200000,
+    "description": "롯데온이 온라인 쇼핑 30주년을 맞아 12일부터 21일까지 '온세상 쇼핑 페스타(온쇼페)'를 열어요. 매일 새로 제공되는 '온쇼페 쿠폰팩'으로 최대 20만원 할인쿠폰을 받을 수 있고, '30주년 온쇼페 메가딜'에서는 어그·캘빈클라인·아이더·마녀공장 등 인기 브랜드를 최대 84%까지 할인해요. 엘타운에서는 크리스피크림도넛, 롯데웰푸드 과자박스 할인도 함께 진행돼요.",
     "affiliateUrl": "https://www.lotteon.com",
     "imageUrl": null,
-    "sourceUrl": "https://www.mt.co.kr/index.php/amp/living/2026/10/11/2026101109264291539",
+    "sourceUrl": "https://www.mt.co.kr/amp/living/2026/10/11/2026101109264291539",
     "isActive": true,
     "createdAt": "2026-10-11T12:11:49+09:00",
-    "updatedAt": "2026-10-11T12:11:49+09:00"
+    "updatedAt": "2026-10-12T05:39:06+09:00"
   },
   {
     "id": "gmarket-2610-cj-allin",
@@ -2418,16 +2418,16 @@
     "category": "FOOD",
     "startDate": "2026-10-12T00:00:00+09:00",
     "endDate": "2026-10-12T23:59:59+09:00",
-    "discountRate": null,
-    "minSpend": null,
-    "maxDiscountAmount": null,
-    "description": "G마켓에서 CJ제일제당 상품을 대상으로 '올인' 할인 행사를 진행해요. 1만5000원 이상 구매 시 최대 3만원까지 할인되는 15% 쿠폰을 받을 수 있고, 자정부터 오후 10시 사이에는 선착순 9900원 타임딜이 15차례 열려요. 상품 2개 구매 시 올리브영 1000원 기프트카드 응모 기회도 제공해요.",
+    "discountRate": 15,
+    "minSpend": 15000,
+    "maxDiscountAmount": 30000,
+    "description": "G마켓이 12일 자정부터 오후 10시까지 CJ제일제당 상품을 9900원에 선착순으로 파는 타임딜을 15차례 진행해요. CJ제일제당 상품을 1만5000원 이상 구매하면 최대 3만원까지 할인되는 15% 쿠폰을 받을 수 있어요. 2개 구매 시 올리브영 1000원 기프트카드, 3개 구매 시 5000원 기프트카드 응모 기회도 제공해요.",
     "affiliateUrl": "https://www.gmarket.co.kr",
     "imageUrl": null,
     "sourceUrl": "https://www.newspim.com/news/view/20261011000073",
     "isActive": true,
     "createdAt": "2026-10-11T20:16:28+09:00",
-    "updatedAt": "2026-10-11T20:16:28+09:00"
+    "updatedAt": "2026-10-12T05:39:06+09:00"
   },
   {
     "id": "coupang-2610-sneaker-fair",
@@ -2436,16 +2436,16 @@
     "category": "FASHION",
     "startDate": "2026-10-12T00:00:00+09:00",
     "endDate": "2026-10-18T23:59:59+09:00",
-    "discountRate": null,
+    "discountRate": 5,
     "minSpend": null,
     "maxDiscountAmount": null,
-    "description": "쿠팡에서 나이키, 아디다스 등 인기 브랜드 운동화 할인 행사 '스니커즈 페어'를 진행해요. 아키클래식은 5만원 이상 구매 시 5000원, 헤드·컨버스 등은 3만원 이상 구매 시 3000원 할인 쿠폰을 제공해요. 일부 상품에는 카드사 최대 5% 즉시 할인 혜택도 적용돼요.",
+    "description": "쿠팡이 12일부터 18일까지 운동화·스니커즈를 할인 판매하는 '스니커즈 페어'를 진행해요. 아키클래식은 5만원 이상 구매 시 5000원, 헤드·컨버스·리복 등은 3만원 이상 구매 시 3000원 할인 쿠폰을 받을 수 있고, 일부 상품은 카드사 최대 5% 즉시 할인도 적용돼요. 요일별로 특정 브랜드를 추가 할인하는 '브랜드 데이'도 함께 운영해요.",
     "affiliateUrl": "https://www.coupang.com",
     "imageUrl": null,
     "sourceUrl": "https://www.etnews.com/20261011000009",
     "isActive": true,
     "createdAt": "2026-10-11T20:16:28+09:00",
-    "updatedAt": "2026-10-11T20:16:28+09:00"
+    "updatedAt": "2026-10-12T05:39:06+09:00"
   },
   {
     "id": "kurly-2610-shinhan-card",
