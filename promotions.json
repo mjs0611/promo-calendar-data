@@ -2022,16 +2022,16 @@
     "category": "ELECTRONICS",
     "startDate": "2026-10-06T00:00:00+09:00",
     "endDate": "2026-10-12T23:59:59+09:00",
-    "discountRate": 56,
-    "minSpend": 10000,
-    "maxDiscountAmount": 400000,
-    "description": "G마켓이 징검다리 연휴를 맞아 디지털·가전을 최대 56% 할인하는 '끝장세일'을 진행해요. 디지털·가전관에서 1만원 이상 구매 시 5% 할인쿠폰을 쓸 수 있고 쿠폰 할인 한도는 최대 40만원이며 7% 카드사 할인도 추가로 받을 수 있어요. 행사 기간 매일 30개 상품을 '끝장특가'로 선보여요.",
+    "discountRate": null,
+    "minSpend": null,
+    "maxDiscountAmount": null,
+    "description": "G마켓이 10월 12일 오전 10시까지 '끝장세일'을 진행합니다. 디지털·가전관 상품 1만원 이상 구매 시 최대 40만원까지 할인되는 5% 쿠폰과 7% 카드사 할인을 제공합니다. 매일 오전 10시마다 최저가 도전 상품을 엄선해 선보입니다.",
     "affiliateUrl": "https://www.gmarket.co.kr",
     "imageUrl": null,
-    "sourceUrl": "https://www.insight.co.kr/news/576842",
+    "sourceUrl": "https://www.munhwa.com/article/11622474",
     "isActive": true,
     "createdAt": "2026-10-06T20:19:28+09:00",
-    "updatedAt": "2026-10-08T05:39:33+09:00"
+    "updatedAt": "2026-10-11T16:14:43+09:00"
   },
   {
     "id": "elevenst-2610-heating-mat",
@@ -2259,13 +2259,13 @@
     "discountRate": null,
     "minSpend": null,
     "maxDiscountAmount": null,
-    "description": "현대백화점 신촌점에서 뉴발란스, 무신사 스탠다드 등 9개 브랜드 매장에서 토스 페이스페이로 결제 시 구매 금액의 50%를 즉시 할인해 드립니다. 1인당 1회 최대 2만원까지 할인되며, 토스페이머니 또는 계좌 결제 시에만 적용됩니다.",
+    "description": "토스가 현대백화점 신촌점과 함께 페이스페이 프로모션을 진행합니다. 참여 브랜드 매장에서 페이스페이로 결제 시 구매 금액의 50%를 즉시 할인받을 수 있으며, 1인당 1회 최대 2만원 한도로 적용됩니다. 뉴발란스, 무신사 스탠다드 등 9개 브랜드가 참여하며 예산 소진 시 조기 종료될 수 있습니다.",
     "affiliateUrl": "https://toss.im",
     "imageUrl": null,
-    "sourceUrl": "https://www.ziksir.com/news/articleView.html?idxno=148852",
+    "sourceUrl": "https://www.industrynews.co.kr/news/articleView.html?idxno=87297",
     "isActive": true,
     "createdAt": "2026-10-09T12:07:20+09:00",
-    "updatedAt": "2026-10-09T12:07:20+09:00"
+    "updatedAt": "2026-10-11T16:14:43+09:00"
   },
   {
     "id": "musinsa-2610-onoff-festival",
