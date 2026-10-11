@@ -2392,5 +2392,23 @@
     "isActive": true,
     "createdAt": "2026-10-10T12:20:55+09:00",
     "updatedAt": "2026-10-11T05:39:16+09:00"
+  },
+  {
+    "id": "lotteon-2610-onsaeshang-festa",
+    "title": "롯데온 30주년 온세상 쇼핑 페스타 (온쇼페)",
+    "platform": "LOTTEON",
+    "category": "SHOPPING",
+    "startDate": "2026-10-12T00:00:00+09:00",
+    "endDate": "2026-10-21T23:59:59+09:00",
+    "discountRate": null,
+    "minSpend": null,
+    "maxDiscountAmount": null,
+    "description": "롯데온이 온라인 쇼핑 30주년을 맞아 10월 12일부터 21일까지 '온세상 쇼핑 페스타'를 진행합니다. 행사 기간 매일 '온쇼페 쿠폰팩'을 통해 최대 20만원 할인쿠폰을 제공하며, '30% 포인트백' 상품도 매일 3종씩 공개합니다. '30주년 온쇼페 메가딜'에서는 어그, 캘빈클라인 등 인기 브랜드 상품을 최대 84% 할인된 가격에 만나볼 수 있습니다.",
+    "affiliateUrl": "https://www.lotteon.com",
+    "imageUrl": null,
+    "sourceUrl": "https://www.mt.co.kr/index.php/amp/living/2026/10/11/2026101109264291539",
+    "isActive": true,
+    "createdAt": "2026-10-11T12:11:49+09:00",
+    "updatedAt": "2026-10-11T12:11:49+09:00"
   }
 ]
