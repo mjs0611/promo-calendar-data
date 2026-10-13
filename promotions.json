@@ -2590,5 +2590,41 @@
     "isActive": true,
     "createdAt": "2026-10-13T16:18:04+09:00",
     "updatedAt": "2026-10-13T16:18:04+09:00"
+  },
+  {
+    "id": "coupang-2610-acer-gaming",
+    "title": "에이서 게이밍 노트북 최대 35% 할인",
+    "platform": "COUPANG",
+    "category": "ELECTRONICS",
+    "startDate": "2026-10-12T00:00:00+09:00",
+    "endDate": "2026-10-25T23:59:59+09:00",
+    "discountRate": null,
+    "minSpend": null,
+    "maxDiscountAmount": null,
+    "description": "에이서가 쿠팡 쿠가세 행사에 참여해 프레데터 헬리오스 네오 16S AI, 니트로 V 16S, 니트로 V 15 등 게이밍 노트북 3종을 최대 35% 할인된 가격에 판매합니다. 특히 10월 16일 인텔 브랜드데이 기간 중 해당 혜택이 적용됩니다.",
+    "affiliateUrl": "https://www.coupang.com",
+    "imageUrl": null,
+    "sourceUrl": "https://www.newstap.co.kr/news/articleView.html?idxno=335708",
+    "isActive": true,
+    "createdAt": "2026-10-13T20:15:15+09:00",
+    "updatedAt": "2026-10-13T20:15:15+09:00"
+  },
+  {
+    "id": "coupang-2610-hisense-tv",
+    "title": "하이센스 TV·레이저 프로젝터 최대 30% 할인",
+    "platform": "COUPANG",
+    "category": "ELECTRONICS",
+    "startDate": "2026-10-12T00:00:00+09:00",
+    "endDate": "2026-10-25T23:59:59+09:00",
+    "discountRate": null,
+    "minSpend": null,
+    "maxDiscountAmount": null,
+    "description": "하이센스가 라이프스타일 TV 가전디지털 세일에 참여하여 TV, 레이저 프로젝터, 스토어 전용 쿠폰 등 전 제품군을 대상으로 최대 30% 할인을 제공합니다. 55형 'U6Q'는 최저 75만원, 85형은 200만원에 판매되며, 'C2 Ultra'와 'M2 Pro'는 최대 20% 할인됩니다.",
+    "affiliateUrl": "https://www.coupang.com",
+    "imageUrl": null,
+    "sourceUrl": "https://www.etnews.com/20261013000265",
+    "isActive": true,
+    "createdAt": "2026-10-13T20:15:15+09:00",
+    "updatedAt": "2026-10-13T20:15:15+09:00"
   }
 ]
