@@ -2572,5 +2572,23 @@
     "isActive": true,
     "createdAt": "2026-10-13T05:38:58+09:00",
     "updatedAt": "2026-10-13T05:38:58+09:00"
+  },
+  {
+    "id": "ssg-2610-fashion-luxury-sale",
+    "title": "SSG닷컴 패션명품 쓱세일",
+    "platform": "SSG",
+    "category": "FASHION",
+    "startDate": "2026-10-13T00:00:00+09:00",
+    "endDate": "2026-10-18T23:59:59+09:00",
+    "discountRate": null,
+    "minSpend": null,
+    "maxDiscountAmount": null,
+    "description": "패션 및 명품 인기 브랜드 상품을 최대 70% 할인하는 기획전입니다. 행사 기간 동안 매일 2개씩 총 14개 상품을 '오늘의 특가'로 판매합니다. 패션 상품에는 10%, 명품에는 7% 할인 쿠폰을 적용할 수 있으며, 행사 카드로 결제 시 8% 청구 할인 혜택도 제공됩니다.",
+    "affiliateUrl": "https://www.ssg.com",
+    "imageUrl": null,
+    "sourceUrl": "https://www.ngetnews.com/news/articleView.html?idxno=554406",
+    "isActive": true,
+    "createdAt": "2026-10-13T16:18:04+09:00",
+    "updatedAt": "2026-10-13T16:18:04+09:00"
   }
 ]
