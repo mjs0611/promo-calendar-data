@@ -2662,5 +2662,41 @@
     "isActive": true,
     "createdAt": "2026-10-14T05:38:35+09:00",
     "updatedAt": "2026-10-14T05:38:35+09:00"
+  },
+  {
+    "id": "elevenst-2610-tmembership-festa",
+    "title": "11번가 T멤버십 쇼핑 페스타",
+    "platform": "ELEVENST",
+    "category": "SHOPPING",
+    "startDate": "2026-10-14T00:00:00+09:00",
+    "endDate": "2026-10-20T23:59:59+09:00",
+    "discountRate": null,
+    "minSpend": null,
+    "maxDiscountAmount": null,
+    "description": "T 멤버십 고객은 행사 상품을 최대 50% 할인받고 무료배송 혜택을 누려요. T 멤버십 카드 번호를 등록한 고객이 모바일 앱에서 구매하면 건당 최대 5,000원을 즉시 할인받을 수 있어요. 구매 횟수 제한 없이 혜택이 적용되며, 모든 구매 상품은 무료배송됩니다.",
+    "affiliateUrl": "https://www.11st.co.kr",
+    "imageUrl": null,
+    "sourceUrl": "https://www.newspim.com/news/view/20261014000095",
+    "isActive": true,
+    "createdAt": "2026-10-14T12:11:25+09:00",
+    "updatedAt": "2026-10-14T12:11:25+09:00"
+  },
+  {
+    "id": "ssg-2610-factoryday",
+    "title": "신세계 팩토리스토어 팩토리데이",
+    "platform": "SSG",
+    "category": "FASHION",
+    "startDate": "2026-10-15T00:00:00+09:00",
+    "endDate": "2026-10-18T23:59:59+09:00",
+    "discountRate": null,
+    "minSpend": null,
+    "maxDiscountAmount": null,
+    "description": "신세계 팩토리스토어에서 200여 개 브랜드가 참여하는 최대 85% 할인 행사가 열려요. 메종키츠네 스웨터는 24만5천 원대부터, 칼하트 WIP 재킷은 16만 원대부터 구매할 수 있어요. 전국 23개 매장에서 패션, 뷰티, 생활용품 등 다양한 상품을 할인된 가격에 만나볼 수 있어요.",
+    "affiliateUrl": "https://www.shinsegae.com",
+    "imageUrl": null,
+    "sourceUrl": "https://www.businesspost.co.kr/BP?command=article_view&num=449175",
+    "isActive": true,
+    "createdAt": "2026-10-14T12:11:25+09:00",
+    "updatedAt": "2026-10-14T12:11:25+09:00"
   }
 ]
