@@ -2709,13 +2709,13 @@
     "discountRate": null,
     "minSpend": null,
     "maxDiscountAmount": null,
-    "description": "카카오뱅크는 소비별 혜택 선택 체크카드를 출시해 매일 3가지 혜택팩 중 하나를 골라 캐시백을 받을 수 있어요. '어디서나' 팩은 국내 가맹점에서 0.5%, '알뜰하게'와 '연말정산' 팩은 GS25, 올리브영, 전통시장 등 지정 업종에서 5% 캐시백을 제공합니다. 전월 실적이나 최소 결제금액 조건이 없으며, 캐시백 한도는 월 최대 2만원, 일 최대 1,000원으로 통합 관리됩니다.",
+    "description": "카카오뱅크 '더 체크카드'가 출시되어 혜택팩 선택 시 하루 1000원, 월 2만원 한도로 캐시백을 제공해요. 12월 31일까지 발급 및 응모 후 최초 결제한 고객 중 추첨으로 최대 5만원 캐시백을 지급해요.",
     "affiliateUrl": "https://www.kakao.com",
     "imageUrl": null,
-    "sourceUrl": "https://www.newspim.com/news/view/20261014000164",
+    "sourceUrl": "https://sports.hankooki.com/news/articleView.html?idxno=6941631",
     "isActive": true,
     "createdAt": "2026-10-14T16:17:22+09:00",
-    "updatedAt": "2026-10-14T20:14:10+09:00"
+    "updatedAt": "2026-10-15T12:15:56+09:00"
   },
   {
     "id": "coupang-2610-home-interior-wow",
@@ -2860,5 +2860,23 @@
     "isActive": true,
     "createdAt": "2026-10-15T05:37:06+09:00",
     "updatedAt": "2026-10-15T05:37:06+09:00"
+  },
+  {
+    "id": "coupang-2610-sports-festa",
+    "title": "쿠팡 스포츠페스타 기획전",
+    "platform": "COUPANG",
+    "category": "LIVING",
+    "startDate": "2026-10-15T00:00:00+09:00",
+    "endDate": "2026-10-25T23:59:59+09:00",
+    "discountRate": null,
+    "minSpend": null,
+    "maxDiscountAmount": null,
+    "description": "쿠팡이 7000여개의 아웃도어·스포츠 용품을 할인하는 '스포츠페스타' 기획전을 진행해요. 70여개 브랜드가 참여하며, 와우회원은 7만원 이상 구매 시 최대 1만5000원 할인 쿠폰을 받을 수 있어요.",
+    "affiliateUrl": "https://www.coupang.com",
+    "imageUrl": null,
+    "sourceUrl": "https://www.ngetnews.com/news/articleView.html?idxno=554561",
+    "isActive": true,
+    "createdAt": "2026-10-15T12:15:56+09:00",
+    "updatedAt": "2026-10-15T12:15:56+09:00"
   }
 ]
