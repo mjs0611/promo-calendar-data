@@ -2709,13 +2709,13 @@
     "discountRate": null,
     "minSpend": null,
     "maxDiscountAmount": null,
-    "description": "카카오뱅크 '더 체크카드'가 출시되어 혜택팩 선택 시 하루 1000원, 월 2만원 한도로 캐시백을 제공해요. 12월 31일까지 발급 및 응모 후 최초 결제한 고객 중 추첨으로 최대 5만원 캐시백을 지급해요.",
+    "description": "카카오뱅크 '더 체크카드' 출시를 기념해 3가지 혜택팩 중 하나를 선택할 수 있습니다. 국내 어디서나 0.5% 캐시백, 주요 생활 브랜드 5% 캐시백, 연말정산 업종 5% 캐시백 중 선택 가능하며, 전월 실적 조건이 없습니다. 캐시백 한도는 하루 최대 1,000원, 월 최대 2만원입니다.",
     "affiliateUrl": "https://www.kakao.com",
     "imageUrl": null,
-    "sourceUrl": "https://sports.hankooki.com/news/articleView.html?idxno=6941631",
+    "sourceUrl": "https://www.dailian.co.kr/news/view/1701587/%EC%98%A4%EB%8A%98-%EC%86%8C%EB%B9%84-%EB%94%B0%EB%9D%BC-%ED%98%9C%ED%83%9D-%EB%B0%94%EA%BE%BC%EB%8B%A4%EC%B9%B4%EC%B9%B4%EC%98%A4%EB%B1%85%ED%81%AC-2026",
     "isActive": true,
     "createdAt": "2026-10-14T16:17:22+09:00",
-    "updatedAt": "2026-10-15T12:15:56+09:00"
+    "updatedAt": "2026-10-15T16:18:02+09:00"
   },
   {
     "id": "coupang-2610-home-interior-wow",
@@ -2865,18 +2865,36 @@
     "id": "coupang-2610-sports-festa",
     "title": "쿠팡 스포츠페스타 기획전",
     "platform": "COUPANG",
-    "category": "LIVING",
+    "category": "SHOPPING",
     "startDate": "2026-10-15T00:00:00+09:00",
     "endDate": "2026-10-25T23:59:59+09:00",
     "discountRate": null,
     "minSpend": null,
     "maxDiscountAmount": null,
-    "description": "쿠팡이 7000여개의 아웃도어·스포츠 용품을 할인하는 '스포츠페스타' 기획전을 진행해요. 70여개 브랜드가 참여하며, 와우회원은 7만원 이상 구매 시 최대 1만5000원 할인 쿠폰을 받을 수 있어요.",
+    "description": "쿠팡이 10월 15일부터 25일까지 '스포츠페스타' 기획전을 진행합니다. 아웃도어 및 스포츠용품 7,000여 개를 할인 판매하며, 7만원 이상 구매 시 최대 1만 5,000원 할인 쿠폰을 제공합니다. 가을 야외 활동 시즌을 맞아 다양한 스포츠 용품을 만나볼 수 있습니다.",
     "affiliateUrl": "https://www.coupang.com",
     "imageUrl": null,
-    "sourceUrl": "https://www.ngetnews.com/news/articleView.html?idxno=554561",
+    "sourceUrl": "https://www.ibabynews.com/news/articleView.html?idxno=155266",
     "isActive": true,
     "createdAt": "2026-10-15T12:15:56+09:00",
-    "updatedAt": "2026-10-15T12:15:56+09:00"
+    "updatedAt": "2026-10-15T16:18:02+09:00"
+  },
+  {
+    "id": "shinsegae-2610-5mazing-card-festa",
+    "title": "신세계백화점 10월 5Mazing Card Festa",
+    "platform": "SSG",
+    "category": "FASHION",
+    "startDate": "2026-10-15T00:00:00+09:00",
+    "endDate": "2026-10-25T23:59:59+09:00",
+    "discountRate": null,
+    "minSpend": null,
+    "maxDiscountAmount": null,
+    "description": "신세계백화점에서 10월 15일부터 25일까지 '10월 5Mazing Card Festa'를 진행합니다. 명품·워치·주얼리 단일 브랜드에서 200만원 이상 결제 시 최대 350만 신백리워드를 지급하며, 리빙 및 모피 장르 구매 시 최대 10% 상당의 신세계상품권을 제공합니다. 신세계 제휴 카드로 결제 시 혜택이 적용됩니다.",
+    "affiliateUrl": "https://www.shinsegae.com",
+    "imageUrl": null,
+    "sourceUrl": "https://www.fintechtimes.co.kr/news/article.html?no=59091",
+    "isActive": true,
+    "createdAt": "2026-10-15T16:18:02+09:00",
+    "updatedAt": "2026-10-15T16:18:02+09:00"
   }
 ]
