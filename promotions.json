@@ -2914,5 +2914,41 @@
     "isActive": true,
     "createdAt": "2026-10-16T05:39:26+09:00",
     "updatedAt": "2026-10-16T05:39:26+09:00"
+  },
+  {
+    "id": "shinhan-2610-iphone18-cashback",
+    "title": "신한카드 아이폰 18 프로 시리즈 구매 최대 5만원 캐시백",
+    "platform": "SHINHAN_CARD",
+    "category": "ELECTRONICS",
+    "startDate": "2026-10-16T00:00:00+09:00",
+    "endDate": "2026-10-31T23:59:59+09:00",
+    "discountRate": null,
+    "minSpend": null,
+    "maxDiscountAmount": null,
+    "description": "SKT, KT, LG유플러스 이용 고객이 지정된 신한카드로 아이폰 18 프로 시리즈를 구매하고 신한 슈퍼SOL에서 일정 금액 이상 결제 시 5만원 캐시백을 제공합니다. 직전 6개월간 신한카드 이용 이력이 없고 해당 제휴카드를 처음 발급받는 신규 고객만 참여할 수 있습니다.",
+    "affiliateUrl": "https://www.shinhan-card.com",
+    "imageUrl": null,
+    "sourceUrl": "https://m.megaeconomy.co.kr/news/newsview.php?ncode=1065590821379773",
+    "isActive": true,
+    "createdAt": "2026-10-16T16:26:00+09:00",
+    "updatedAt": "2026-10-16T16:26:00+09:00"
+  },
+  {
+    "id": "shinhan-2610-tanggyoyo-yeop-tteok",
+    "title": "땡겨요 동대문 엽기떡볶이 1만원 할인",
+    "platform": "SHINHAN_CARD",
+    "category": "FOOD",
+    "startDate": "2026-10-19T00:00:00+09:00",
+    "endDate": "2026-10-25T23:59:59+09:00",
+    "discountRate": null,
+    "minSpend": null,
+    "maxDiscountAmount": null,
+    "description": "공공배달앱 땡겨요에서 동대문 엽기떡볶이 메뉴를 1만 4,000원 이상 주문하고 SOL트립앤샵 체크카드로 결제 시 1만원 즉시 할인 혜택을 제공합니다. 준비된 수량이 소진되면 조기 종료될 수 있습니다.",
+    "affiliateUrl": "https://www.shinhan.com",
+    "imageUrl": null,
+    "sourceUrl": "http://www.choicenews.co.kr/news/articleView.html?idxno=172282",
+    "isActive": true,
+    "createdAt": "2026-10-16T16:26:00+09:00",
+    "updatedAt": "2026-10-16T16:26:00+09:00"
   }
 ]
