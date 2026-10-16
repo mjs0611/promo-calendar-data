@@ -432,24 +432,6 @@
     "updatedAt": "2026-09-01T06:35:00+09:00"
   },
   {
-    "id": "ssg-2608-goraeit-food",
-    "title": "이마트 고래잇 페스타 (8월)",
-    "platform": "SSG",
-    "category": "FOOD",
-    "startDate": "2026-08-14T00:00:00+09:00",
-    "endDate": "2026-08-17T23:59:59+09:00",
-    "discountRate": 50,
-    "minSpend": null,
-    "maxDiscountAmount": null,
-    "description": "8월 14일부터 17일까지 4일간 신선식품을 최대 반값에 선보여요. 제주산 광어회·광어회 필렛을 신세계포인트 적립+행사카드 결제 시 50% 할인해 1만4,900원대에 살 수 있어요. 국내산 후레쉬 계란(30입)은 6,280원 특가로 20만 판을 준비했고, 한우·완도 활전복도 신세계포인트 적립 시 50% 할인돼요.",
-    "affiliateUrl": "https://www.ssg.com",
-    "imageUrl": null,
-    "sourceUrl": "https://www.newspim.com/news/view/20260812000929",
-    "isActive": false,
-    "createdAt": "2026-08-14T06:35:00+09:00",
-    "updatedAt": "2026-08-18T06:35:00+09:00"
-  },
-  {
     "id": "ssg-2608-chuseok-shinsegae",
     "title": "신세계백화점 2026 추석 선물세트 사전예약",
     "platform": "SSG",
@@ -499,7 +481,7 @@
     "affiliateUrl": "https://www.shinhancard.com",
     "imageUrl": null,
     "sourceUrl": "https://www.newspim.com/news/view/20260803001286",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-08-14T06:35:00+09:00",
     "updatedAt": "2026-08-14T06:35:00+09:00"
   },
@@ -1831,7 +1813,7 @@
     "affiliateUrl": "https://www.baemin.com",
     "imageUrl": null,
     "sourceUrl": "https://v.daum.net/v/20261003060144556",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-10-03T16:12:47+09:00",
     "updatedAt": "2026-10-06T05:39:58+09:00"
   },
@@ -1849,7 +1831,7 @@
     "affiliateUrl": "https://www.lotteon.com",
     "imageUrl": null,
     "sourceUrl": "https://v.daum.net/v/20261003060144556",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-10-03T16:12:47+09:00",
     "updatedAt": "2026-10-06T05:39:58+09:00"
   },
@@ -1867,7 +1849,7 @@
     "affiliateUrl": "https://www.baemin.com",
     "imageUrl": null,
     "sourceUrl": "https://v.daum.net/v/20261003060144556",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-10-03T16:12:47+09:00",
     "updatedAt": "2026-10-06T05:39:58+09:00"
   },
@@ -1885,7 +1867,7 @@
     "affiliateUrl": "https://www.baemin.com",
     "imageUrl": null,
     "sourceUrl": "https://v.daum.net/v/20261003060144556",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-10-03T16:12:47+09:00",
     "updatedAt": "2026-10-03T16:12:47+09:00"
   },
@@ -2833,15 +2815,15 @@
     "startDate": "2026-10-15T00:00:00+09:00",
     "endDate": "2026-10-25T23:59:59+09:00",
     "discountRate": null,
-    "minSpend": null,
-    "maxDiscountAmount": null,
-    "description": "쿠팡이 10월 15일부터 25일까지 '스포츠페스타' 기획전을 진행합니다. 아웃도어 및 스포츠용품 7,000여 개를 할인 판매하며, 7만원 이상 구매 시 최대 1만 5,000원 할인 쿠폰을 제공합니다. 가을 야외 활동 시즌을 맞아 다양한 스포츠 용품을 만나볼 수 있습니다.",
+    "minSpend": 70000,
+    "maxDiscountAmount": 15000,
+    "description": "쿠팡이 캠핑·등산 등 야외활동 수요를 겨냥한 '스포츠페스타' 기획전을 열어요. 국내외 70여개 브랜드가 참여해 텐트, 운동기구 등 7,000여개 상품을 선보이고, 와우회원이 7만원 이상 구매하면 최대 1만5,000원 할인 쿠폰을 받을 수 있어요.",
     "affiliateUrl": "https://www.coupang.com",
     "imageUrl": null,
-    "sourceUrl": "https://www.ibabynews.com/news/articleView.html?idxno=155266",
+    "sourceUrl": "https://www.industrynews.co.kr/news/articleView.html?idxno=87637",
     "isActive": true,
     "createdAt": "2026-10-15T12:15:56+09:00",
-    "updatedAt": "2026-10-15T16:18:02+09:00"
+    "updatedAt": "2026-10-17T05:37:29+09:00"
   },
   {
     "id": "shinsegae-2610-5mazing-card-festa",
@@ -2863,7 +2845,7 @@
   },
   {
     "id": "toss-2610-saengmacha-facepay",
-    "title": "생마차 토스 페이스페이 결제 할인",
+    "title": "생마차 토스 페이스페이 할인",
     "platform": "TOSS",
     "category": "FOOD",
     "startDate": "2026-10-08T00:00:00+09:00",
@@ -2871,13 +2853,13 @@
     "discountRate": null,
     "minSpend": 30000,
     "maxDiscountAmount": 5000,
-    "description": "외식 프랜차이즈 생마차가 토스 페이스페이와 결제 할인 프로모션을 진행해요. 페이스페이로 3만원 이상 결제하면 신규 이용자는 5,000원, 기존 이용자는 3,000원을 할인받을 수 있어요. 할인은 1인당 하루 1회만 적용되고 2027년 1월 8일까지 운영돼요.",
+    "description": "생마차 전국 매장에서 토스 페이스페이로 3만원 이상 결제하면 신규 이용자는 5,000원, 기존 이용자는 3,000원을 할인받아요. 할인은 1인당 하루 1회 적용돼요.",
     "affiliateUrl": "https://toss.im",
     "imageUrl": null,
     "sourceUrl": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5071839",
     "isActive": true,
     "createdAt": "2026-10-16T05:39:26+09:00",
-    "updatedAt": "2026-10-16T05:39:26+09:00"
+    "updatedAt": "2026-10-17T05:37:29+09:00"
   },
   {
     "id": "coupang-2610-msi-gaming-notebook",
@@ -2907,13 +2889,13 @@
     "discountRate": 40,
     "minSpend": null,
     "maxDiscountAmount": null,
-    "description": "에이수스가 쿠팡 쿠가세에 참가해 비보북, 비보북 S14 OLED, 게이밍 V16 등 주요 노트북 라인업을 최대 40% 할인 판매해요. 10월 19일에는 '에이수스 브랜드 데이'를 열어 전 모델에 26~40%의 특별 할인을 추가로 제공해요. 행사는 10월 12일부터 25일까지 약 2주간 진행돼요.",
+    "description": "에이수스가 쿠팡 쿠가세(쿠팡 가전·디지털 세일)에 참여해 주요 노트북을 최대 40% 할인해요. 10월 19일 에이수스 브랜드 데이에는 전 모델에 26%, 32%, 최대 40% 할인이 적용돼요.",
     "affiliateUrl": "https://www.coupang.com",
     "imageUrl": null,
-    "sourceUrl": "https://www.ilovepc.co.kr/news/articleView.html?idxno=60980",
+    "sourceUrl": "https://sports.khan.co.kr/article/202610160054003",
     "isActive": true,
     "createdAt": "2026-10-16T05:39:26+09:00",
-    "updatedAt": "2026-10-16T05:39:26+09:00"
+    "updatedAt": "2026-10-17T05:37:29+09:00"
   },
   {
     "id": "shinhan-2610-iphone18-cashback",
@@ -2924,31 +2906,31 @@
     "endDate": "2026-10-31T23:59:59+09:00",
     "discountRate": null,
     "minSpend": null,
-    "maxDiscountAmount": null,
-    "description": "SKT, KT, LG유플러스 이용 고객이 지정된 신한카드로 아이폰 18 프로 시리즈를 구매하고 신한 슈퍼SOL에서 일정 금액 이상 결제 시 5만원 캐시백을 제공합니다. 직전 6개월간 신한카드 이용 이력이 없고 해당 제휴카드를 처음 발급받는 신규 고객만 참여할 수 있습니다.",
-    "affiliateUrl": "https://www.shinhan-card.com",
+    "maxDiscountAmount": 50000,
+    "description": "신한카드가 아이폰 18 프로와 아이폰 듀오 구매 고객을 대상으로 통신사별 캐시백 이벤트를 진행해요. LG유플러스나 SK텔레콤 매장에서 전용 카드로 단말기를 구매하고 할부·자동이체 조건을 충족하면 5만원을 돌려받을 수 있어요. 직전 6개월간 카드 이용 이력이 없는 신규 발급 고객이 대상이에요.",
+    "affiliateUrl": "https://www.shinhancard.com",
     "imageUrl": null,
-    "sourceUrl": "https://m.megaeconomy.co.kr/news/newsview.php?ncode=1065590821379773",
+    "sourceUrl": "https://www.pointe.co.kr/news/articleView.html?idxno=86167",
     "isActive": true,
     "createdAt": "2026-10-16T16:26:00+09:00",
-    "updatedAt": "2026-10-16T16:26:00+09:00"
+    "updatedAt": "2026-10-17T05:37:29+09:00"
   },
   {
     "id": "shinhan-2610-tanggyoyo-yeop-tteok",
-    "title": "땡겨요 동대문 엽기떡볶이 1만원 할인",
+    "title": "신한은행 SOL트립앤샵 체크카드 땡겨요 동대문 엽기떡볶이 1만원 할인",
     "platform": "SHINHAN_CARD",
     "category": "FOOD",
     "startDate": "2026-10-19T00:00:00+09:00",
     "endDate": "2026-10-25T23:59:59+09:00",
     "discountRate": null,
-    "minSpend": null,
-    "maxDiscountAmount": null,
-    "description": "공공배달앱 땡겨요에서 동대문 엽기떡볶이 메뉴를 1만 4,000원 이상 주문하고 SOL트립앤샵 체크카드로 결제 시 1만원 즉시 할인 혜택을 제공합니다. 준비된 수량이 소진되면 조기 종료될 수 있습니다.",
-    "affiliateUrl": "https://www.shinhan.com",
+    "minSpend": 14000,
+    "maxDiscountAmount": 10000,
+    "description": "신한은행 SOL트립앤샵 체크카드로 땡겨요에서 동대문 엽기떡볶이를 주문하면 1만원을 할인받아요. 1만4,000원 이상 주문 시 적용되며, 준비한 수량이 소진되면 조기 종료돼요.",
+    "affiliateUrl": "https://www.shinhancard.com",
     "imageUrl": null,
-    "sourceUrl": "http://www.choicenews.co.kr/news/articleView.html?idxno=172282",
+    "sourceUrl": "https://mbiz.heraldcorp.com/article/10905219",
     "isActive": true,
     "createdAt": "2026-10-16T16:26:00+09:00",
-    "updatedAt": "2026-10-16T16:26:00+09:00"
+    "updatedAt": "2026-10-17T05:37:29+09:00"
   }
 ]
