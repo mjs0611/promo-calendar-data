@@ -2932,5 +2932,41 @@
     "isActive": true,
     "createdAt": "2026-10-16T16:26:00+09:00",
     "updatedAt": "2026-10-17T05:37:29+09:00"
+  },
+  {
+    "id": "ssg-2610-october-grand-festival",
+    "title": "이마트 옥토버 그랜드 페스티벌",
+    "platform": "SSG",
+    "category": "FOOD",
+    "startDate": "2026-10-15T00:00:00+09:00",
+    "endDate": "2026-10-21T23:59:59+09:00",
+    "discountRate": null,
+    "minSpend": null,
+    "maxDiscountAmount": null,
+    "description": "이마트에서 신선식품과 간편식, 주류 등을 할인 판매하는 '옥토버 그랜드 페스티벌'이 열립니다. 돈육 상품은 행사카드로 결제 시 30% 할인됩니다.",
+    "affiliateUrl": "https://www.emart.com",
+    "imageUrl": null,
+    "sourceUrl": "https://www.viva100.com/article/20261015500731",
+    "isActive": true,
+    "createdAt": "2026-10-17T12:20:50+09:00",
+    "updatedAt": "2026-10-17T12:20:50+09:00"
+  },
+  {
+    "id": "coupang-2610-maydier-kugase",
+    "title": "쿠팡 쿠가세 · 마이디어 생활가전 최대 54% 할인",
+    "platform": "COUPANG",
+    "category": "ELECTRONICS",
+    "startDate": "2026-10-17T00:00:00+09:00",
+    "endDate": "2026-10-25T23:59:59+09:00",
+    "discountRate": null,
+    "minSpend": null,
+    "maxDiscountAmount": null,
+    "description": "마이디어 코리아가 쿠팡 '쿠가세'에 참여해 세탁기, 냉장고 등 생활가전을 최대 54% 할인된 선착순 특가로 판매합니다. 10월 19일 라이브 커머스 방송 중 구매 고객에게는 백화점 상품권 5만원을 제공해요. 올해 마지막 쿠가세 행사로 다양한 가전제품을 만나볼 수 있습니다.",
+    "affiliateUrl": "https://www.coupang.com",
+    "imageUrl": null,
+    "sourceUrl": "https://www.bizwnews.com/news/articleView.html?idxno=149145",
+    "isActive": true,
+    "createdAt": "2026-10-17T12:20:50+09:00",
+    "updatedAt": "2026-10-17T12:20:50+09:00"
   }
 ]
