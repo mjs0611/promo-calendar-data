@@ -1363,7 +1363,7 @@
     "affiliateUrl": "https://www.shinhancard.com",
     "imageUrl": null,
     "sourceUrl": "https://newspim.com/news/view/20260922001099",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-09-23T06:30:00+09:00",
     "updatedAt": "2026-09-23T06:30:00+09:00"
   },
@@ -1795,7 +1795,7 @@
     "affiliateUrl": "https://www.baemin.com",
     "imageUrl": null,
     "sourceUrl": "https://www.mt.co.kr/industry/2026/10/02/2026100115370970594",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-10-03T05:38:27+09:00",
     "updatedAt": "2026-10-04T16:15:13+09:00"
   },
@@ -1921,7 +1921,7 @@
     "affiliateUrl": "https://www.hyundaihmall.com",
     "imageUrl": null,
     "sourceUrl": "https://news.jkn.co.kr/post/1007115",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-10-04T16:15:13+09:00",
     "updatedAt": "2026-10-06T05:39:58+09:00"
   },
@@ -1993,7 +1993,7 @@
     "affiliateUrl": "https://www.lotteon.com",
     "imageUrl": null,
     "sourceUrl": "https://www.mk.co.kr/news/business/12168988",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-10-06T20:19:28+09:00",
     "updatedAt": "2026-10-07T12:18:15+09:00"
   },
@@ -2101,7 +2101,7 @@
     "affiliateUrl": "https://www.oliveyoung.co.kr",
     "imageUrl": null,
     "sourceUrl": "https://www.greened.kr/news/articleView.html?idxno=351595",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-10-07T16:18:16+09:00",
     "updatedAt": "2026-10-08T16:20:18+09:00"
   },
@@ -2191,7 +2191,7 @@
     "affiliateUrl": "https://toss.im",
     "imageUrl": null,
     "sourceUrl": "http://www.thevaluenews.co.kr/news/202266",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-10-09T12:07:20+09:00",
     "updatedAt": "2026-10-13T05:38:58+09:00"
   },
@@ -2371,7 +2371,7 @@
     "affiliateUrl": "https://www.coupang.com",
     "imageUrl": null,
     "sourceUrl": "https://www.dailypop.kr/news/articleView.html?idxno=103321",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-10-11T20:16:28+09:00",
     "updatedAt": "2026-10-15T05:37:06+09:00"
   },
@@ -2425,7 +2425,7 @@
     "affiliateUrl": "https://www.coupang.com",
     "imageUrl": null,
     "sourceUrl": "https://www.pinpointnews.co.kr/news/articleViewAmp.html?idxno=494408",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-10-12T16:20:02+09:00",
     "updatedAt": "2026-10-12T16:20:02+09:00"
   },
@@ -2443,7 +2443,7 @@
     "affiliateUrl": "https://www.oliveyoung.co.kr",
     "imageUrl": null,
     "sourceUrl": "https://www.asiatime.co.kr/article/20261012500041",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-10-12T16:20:02+09:00",
     "updatedAt": "2026-10-12T16:20:02+09:00"
   },
@@ -2497,7 +2497,7 @@
     "affiliateUrl": "https://shopping.naver.com",
     "imageUrl": null,
     "sourceUrl": "http://www.financialreview.co.kr/news/articleView.html?idxno=45438",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-10-13T05:38:58+09:00",
     "updatedAt": "2026-10-13T05:38:58+09:00"
   },
@@ -2515,7 +2515,7 @@
     "affiliateUrl": "https://www.ssg.com",
     "imageUrl": null,
     "sourceUrl": "https://www.ngetnews.com/news/articleView.html?idxno=554406",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-10-13T16:18:04+09:00",
     "updatedAt": "2026-10-13T16:18:04+09:00"
   },
@@ -2605,7 +2605,7 @@
     "affiliateUrl": "https://www.coupang.com",
     "imageUrl": null,
     "sourceUrl": "https://www.thepublic.kr/news/articleView.html?idxno=321856",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-10-14T05:38:35+09:00",
     "updatedAt": "2026-10-14T05:38:35+09:00"
   },
@@ -2641,7 +2641,7 @@
     "affiliateUrl": "https://www.shinsegae.com",
     "imageUrl": null,
     "sourceUrl": "https://www.businesspost.co.kr/BP?command=article_view&num=449175",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-10-14T12:11:25+09:00",
     "updatedAt": "2026-10-14T12:11:25+09:00"
   },
@@ -2749,7 +2749,7 @@
     "affiliateUrl": "https://pay.naver.com",
     "imageUrl": null,
     "sourceUrl": "http://www.popcornnews.net/news/articleView.html?idxno=135885",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-10-15T05:37:06+09:00",
     "updatedAt": "2026-10-15T05:37:06+09:00"
   },
@@ -2767,7 +2767,7 @@
     "affiliateUrl": "https://www.samsungcard.com",
     "imageUrl": null,
     "sourceUrl": "http://www.dhdaily.co.kr/news/articleView.html?idxno=27550",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-10-15T05:37:06+09:00",
     "updatedAt": "2026-10-15T05:37:06+09:00"
   },
@@ -2925,13 +2925,13 @@
     "discountRate": null,
     "minSpend": 14000,
     "maxDiscountAmount": 10000,
-    "description": "신한은행 SOL트립앤샵 체크카드로 땡겨요에서 동대문 엽기떡볶이를 주문하면 1만원을 할인받아요. 1만4,000원 이상 주문 시 적용되며, 준비한 수량이 소진되면 조기 종료돼요.",
+    "description": "배달앱 땡겨요에서 동대문 엽기떡볶이를 1만 4000원 이상 주문하고 SOL트립앤샵 체크카드로 결제하면 1만원을 할인받아요. 준비된 수량이 소진되면 조기 종료돼요.",
     "affiliateUrl": "https://www.shinhancard.com",
     "imageUrl": null,
-    "sourceUrl": "https://mbiz.heraldcorp.com/article/10905219",
+    "sourceUrl": "http://www.choicenews.co.kr/news/articleView.html?idxno=172282",
     "isActive": true,
     "createdAt": "2026-10-16T16:26:00+09:00",
-    "updatedAt": "2026-10-17T05:37:29+09:00"
+    "updatedAt": "2026-10-19T05:39:29+09:00"
   },
   {
     "id": "ssg-2610-october-grand-festival",
@@ -2983,7 +2983,7 @@
     "affiliateUrl": "https://www.shinhancard.com",
     "imageUrl": null,
     "sourceUrl": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2337616",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-10-17T16:22:58+09:00",
     "updatedAt": "2026-10-17T16:22:58+09:00"
   },
@@ -3004,5 +3004,23 @@
     "isActive": true,
     "createdAt": "2026-10-17T16:22:58+09:00",
     "updatedAt": "2026-10-17T16:22:58+09:00"
+  },
+  {
+    "id": "ssg-2610-ssuk-day",
+    "title": "신세계그룹 통합 쇼핑 행사 쓱데이",
+    "platform": "SSG",
+    "category": "SHOPPING",
+    "startDate": "2026-10-30T00:00:00+09:00",
+    "endDate": "2026-11-08T23:59:59+09:00",
+    "discountRate": null,
+    "minSpend": null,
+    "maxDiscountAmount": null,
+    "description": "이마트, 신세계백화점 등 18개 계열사가 참여하는 통합 할인 행사예요. 이마트는 한우 농가와 기획해 일반 한우를 반값에 선보이고 브랜드 한우도 할인해요. 신세계백화점은 아디다스 러닝화 '갤럭시런'을 특가로 판매해요.",
+    "affiliateUrl": "https://www.ssg.com",
+    "imageUrl": null,
+    "sourceUrl": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065588452279638",
+    "isActive": true,
+    "createdAt": "2026-10-19T05:39:29+09:00",
+    "updatedAt": "2026-10-19T05:39:29+09:00"
   }
 ]
