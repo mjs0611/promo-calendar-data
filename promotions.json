@@ -2886,16 +2886,16 @@
     "category": "ELECTRONICS",
     "startDate": "2026-10-12T00:00:00+09:00",
     "endDate": "2026-10-25T23:59:59+09:00",
-    "discountRate": 40,
+    "discountRate": null,
     "minSpend": null,
     "maxDiscountAmount": null,
-    "description": "에이수스가 쿠팡 쿠가세(쿠팡 가전·디지털 세일)에 참여해 주요 노트북을 최대 40% 할인해요. 10월 19일 에이수스 브랜드 데이에는 전 모델에 26%, 32%, 최대 40% 할인이 적용돼요.",
+    "description": "에이수스 노트북이 쿠팡 쿠가세 행사에서 10월 12일부터 25일까지 최대 40% 할인된 가격으로 판매돼요. 10월 19일에는 에이수스 브랜드 데이를 맞아 전 모델에 특별 할인 혜택이 적용되며, 모델에 따라 26%부터 40%까지 다양한 할인율이 적용돼요.",
     "affiliateUrl": "https://www.coupang.com",
     "imageUrl": null,
-    "sourceUrl": "https://sports.khan.co.kr/article/202610160054003",
+    "sourceUrl": "https://www.newstap.co.kr/news/articleView.html?idxno=335937",
     "isActive": true,
     "createdAt": "2026-10-16T05:39:26+09:00",
-    "updatedAt": "2026-10-17T05:37:29+09:00"
+    "updatedAt": "2026-10-19T20:21:59+09:00"
   },
   {
     "id": "shinhan-2610-iphone18-cashback",
@@ -3040,5 +3040,23 @@
     "isActive": true,
     "createdAt": "2026-10-19T16:19:53+09:00",
     "updatedAt": "2026-10-19T16:19:53+09:00"
+  },
+  {
+    "id": "hyundai-2610-petfriends-event",
+    "title": "펫프렌즈 하나카드 반려동물 사진 인증 이벤트",
+    "platform": "HYUNDAI_CARD",
+    "category": "SHOPPING",
+    "startDate": "2026-10-19T00:00:00+09:00",
+    "endDate": "2026-11-01T23:59:59+09:00",
+    "discountRate": null,
+    "minSpend": null,
+    "maxDiscountAmount": null,
+    "description": "펫프렌즈 하나카드 보유 고객이 반려동물 사진을 인증하면 선착순 100명에게 1만 포인트, 추첨으로 최대 30만 포인트를 제공해요. 이벤트 종료일까지 누적 1만원 이상 결제해야 당첨 대상이 되며, 10월 31일까지 카드 발급 후 5만원 이상 첫 결제 시 3만원 캐시백도 받을 수 있어요.",
+    "affiliateUrl": "https://www.hyundaicard.com",
+    "imageUrl": null,
+    "sourceUrl": "https://www.newspim.com/news/view/20261019001017",
+    "isActive": true,
+    "createdAt": "2026-10-19T20:21:59+09:00",
+    "updatedAt": "2026-10-19T20:21:59+09:00"
   }
 ]
