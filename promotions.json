@@ -522,24 +522,6 @@
     "updatedAt": "2026-09-01T06:35:00+09:00"
   },
   {
-    "id": "elevenst-2608-tmembership-festa",
-    "title": "11번가 T멤버십 쇼핑 페스타",
-    "platform": "ELEVENST",
-    "category": "SHOPPING",
-    "startDate": "2026-08-13T00:00:00+09:00",
-    "endDate": "2026-08-20T23:59:59+09:00",
-    "discountRate": 50,
-    "minSpend": null,
-    "maxDiscountAmount": 5000,
-    "description": "SK텔레콤 T멤버십 고객을 위한 11번가 한정 쇼핑 행사예요. 8월 13일부터 20일까지 T멤버십 회원 전용 상품 980개를 최대 50% 할인하며, 최대 5,000원 추가 할인쿠폰과 무료배송 혜택을 함께 제공해요. 신선식품·가공식품·생활용품·패션·뷰티 등 다양한 카테고리를 저렴하게 구매할 수 있어요.",
-    "affiliateUrl": "https://www.11st.co.kr",
-    "imageUrl": null,
-    "sourceUrl": "https://www.youthdaily.co.kr/news/article.html?no=225093",
-    "isActive": false,
-    "createdAt": "2026-08-18T06:35:00+09:00",
-    "updatedAt": "2026-08-21T06:36:00+09:00"
-  },
-  {
     "id": "ssg-2608-brandshowcase",
     "title": "SSG닷컴 브랜드 쇼케이스 (가을 신상품)",
     "platform": "SSG",
@@ -2209,7 +2191,7 @@
     "affiliateUrl": "https://www.musinsa.com",
     "imageUrl": null,
     "sourceUrl": "https://www.etoday.co.kr/news/view/2633854",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-10-10T12:20:55+09:00",
     "updatedAt": "2026-10-10T12:20:55+09:00"
   },
@@ -2310,16 +2292,16 @@
     "category": "LIVING",
     "startDate": "2026-10-19T00:00:00+09:00",
     "endDate": "2026-10-26T23:59:59+09:00",
-    "discountRate": null,
+    "discountRate": 85,
     "minSpend": null,
-    "maxDiscountAmount": null,
-    "description": "한샘이 10월 26일까지 가구·인테리어·생활용품 1,500여 종을 최대 85% 할인하는 '쌤페스타' 막판 행사를 진행해요. 19일 하루 '선착순 최저가' 이벤트와 함께 최대 50만 원 쿠폰팩, 매장 전용 최대 100만 원 할인 혜택이 제공돼요.",
-    "affiliateUrl": "https://www.ssg.com",
+    "maxDiscountAmount": 1000000,
+    "description": "한샘이 전국 매장과 한샘몰에서 10월26일까지 가구·인테리어·생활용품 1500여 종을 최대 85% 할인해요. 19일 오전 10시부터 하루 동안 선착순 최저가 이벤트를 진행하고, 수납데이·다이닝데이·키즈데이로 이어지는 카테고리 앵콜 데이도 운영해요. 쌤페스타 전용 최대 50만원 쿠폰팩과 매장 전용 최대 100만원 할인, 한샘몰 앱 신규 고객 대상 5% 웰컴쿠폰도 제공돼요.",
+    "affiliateUrl": "https://www.hanssem.com",
     "imageUrl": null,
     "sourceUrl": "https://www.hankyung.com/article/202610199584P",
     "isActive": true,
     "createdAt": "2026-10-10T12:20:55+09:00",
-    "updatedAt": "2026-10-19T16:19:53+09:00"
+    "updatedAt": "2026-10-20T05:37:47+09:00"
   },
   {
     "id": "lotteon-2610-onsaeshang-festa",
@@ -2724,16 +2706,16 @@
     "category": "SHOPPING",
     "startDate": "2026-10-14T00:00:00+09:00",
     "endDate": "2026-11-30T23:59:59+09:00",
-    "discountRate": null,
+    "discountRate": 10,
     "minSpend": null,
-    "maxDiscountAmount": null,
-    "description": "네이버페이는 11월 30일까지 전국 'Npay 커넥트' 가맹점에서 페이스사인 결제 시 이용금액의 10%를 Npay 포인트로 즉시 지급해요. 월 최대 5만원까지 포인트를 적립할 수 있으며, 지갑이나 휴대폰 없이 얼굴만으로 간편하게 결제하고 혜택을 챙길 수 있습니다.",
+    "maxDiscountAmount": 100000,
+    "description": "네이버페이 얼굴결제 서비스 페이스사인으로 결제하면 결제금액의 10%를 포인트로 적립해줘요. 적립 한도는 월 최대 5만원, 행사 기간 전체 최대 10만원이에요. 네이버페이 머니·포인트는 물론 등록한 카드로 결제해도 혜택을 받을 수 있어요.",
     "affiliateUrl": "https://pay.naver.com",
     "imageUrl": null,
-    "sourceUrl": "https://www.techm.kr/news/articleView.html?idxno=156016",
+    "sourceUrl": "https://www.insightkorea.co.kr/news/articleView.html?idxno=256733",
     "isActive": true,
     "createdAt": "2026-10-14T20:14:10+09:00",
-    "updatedAt": "2026-10-14T20:14:10+09:00"
+    "updatedAt": "2026-10-20T05:37:47+09:00"
   },
   {
     "id": "naver-2610-paribaguette-paranlabel",
@@ -3027,19 +3009,19 @@
     "id": "ssg-2610-brand-showcase",
     "title": "SSG닷컴 가을·겨울 브랜드 쇼케이스",
     "platform": "SSG",
-    "category": "FASHION",
+    "category": "SHOPPING",
     "startDate": "2026-10-19T00:00:00+09:00",
     "endDate": "2026-10-23T23:59:59+09:00",
-    "discountRate": null,
-    "minSpend": null,
+    "discountRate": 70,
+    "minSpend": 10000,
     "maxDiscountAmount": null,
-    "description": "SSG닷컴이 10월 23일까지 패션·뷰티·생활용품 30여 개 브랜드가 참여하는 '브랜드 쇼케이스'를 진행해요. 르샵 의류는 최대 70%, 나이키·스케쳐스 운동화는 최대 50% 할인되며, 신세계몰과 백화점몰에서 사용 가능한 최대 10% 할인 쿠폰도 제공돼요.",
+    "description": "SSG닷컴이 30여개 브랜드와 함께 패션·뷰티·리빙 상품을 최대 70% 할인해요. 신세계몰과 신세계백화점몰에서는 1만원 이상 구매하면 5·7·10% 할인 쿠폰을 무제한으로 받을 수 있어요. 르샵 의류는 최대 70%, 나이키·스케쳐스 운동화는 최대 50% 할인돼요.",
     "affiliateUrl": "https://www.ssg.com",
     "imageUrl": null,
-    "sourceUrl": "https://www.paxetv.com/news/articleView.html?idxno=284444",
+    "sourceUrl": "https://www.newspim.com/news/view/20261019000066",
     "isActive": true,
     "createdAt": "2026-10-19T16:19:53+09:00",
-    "updatedAt": "2026-10-19T16:19:53+09:00"
+    "updatedAt": "2026-10-20T05:37:47+09:00"
   },
   {
     "id": "hyundai-2610-petfriends-event",
@@ -3058,5 +3040,23 @@
     "isActive": true,
     "createdAt": "2026-10-19T20:21:59+09:00",
     "updatedAt": "2026-10-19T20:21:59+09:00"
+  },
+  {
+    "id": "kurly-2611-beautyfesta",
+    "title": "컬리뷰티페스타 2026",
+    "platform": "KURLY",
+    "category": "BEAUTY",
+    "startDate": "2026-11-12T00:00:00+09:00",
+    "endDate": "2026-11-15T23:59:59+09:00",
+    "discountRate": null,
+    "minSpend": null,
+    "maxDiscountAmount": null,
+    "description": "컬리가 11월12일부터 15일까지 서울 DDP 아트홀에서 컬리뷰티페스타 2026을 열어요. 컬리 멤버스 회원은 정가 5만원인 입장권을 50% 할인된 2만5천원에 구매할 수 있어요. 일반 고객 대상 슈퍼얼리버드 티켓은 22일부터 25일까지 정가보다 40% 저렴한 3만원에 판매해요.",
+    "affiliateUrl": "https://www.kurly.com",
+    "imageUrl": null,
+    "sourceUrl": "https://www.ajunews.com/view/20261019085937628",
+    "isActive": true,
+    "createdAt": "2026-10-20T05:37:47+09:00",
+    "updatedAt": "2026-10-20T05:37:47+09:00"
   }
 ]
