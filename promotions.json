@@ -2889,13 +2889,13 @@
     "discountRate": null,
     "minSpend": null,
     "maxDiscountAmount": null,
-    "description": "LG유플러스, SK텔레콤, KT에서 아이폰18 프로 시리즈와 아이폰 듀오를 구매하는 신규 발급 고객에게 5만원 캐시백을 제공합니다. 단말기 할부 5만원 이상 결제 및 신한 슈퍼SOL 10만원 이용 조건을 충족해야 하며, 직전 6개월간 이용 이력이 없는 최초 발급 고객이 대상입니다.",
-    "affiliateUrl": "https://www.shinhancard.com",
+    "description": "신한카드로 아이폰 18 프로 시리즈나 아이폰 듀오를 구매하면 최대 5만원의 캐시백을 받을 수 있어요. 직전 6개월간 신한카드(신용) 이용 이력이 없는 신규 발급 고객이 대상이며, LG유플러스에서 단말기 할부 5만원 이상 결제와 통신요금 자동납부 등 조건을 충족해야 해요.",
+    "affiliateUrl": "https://www.shinhan.com",
     "imageUrl": null,
-    "sourceUrl": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2337616",
+    "sourceUrl": "https://www.m-i.kr/news/articleView.html?idxno=2007514",
     "isActive": true,
     "createdAt": "2026-10-16T16:26:00+09:00",
-    "updatedAt": "2026-10-17T16:22:58+09:00"
+    "updatedAt": "2026-10-20T12:21:49+09:00"
   },
   {
     "id": "shinhan-2610-tanggyoyo-yeop-tteok",
@@ -3027,19 +3027,19 @@
     "id": "hyundai-2610-petfriends-event",
     "title": "펫프렌즈 하나카드 반려동물 사진 인증 이벤트",
     "platform": "HYUNDAI_CARD",
-    "category": "SHOPPING",
+    "category": "LIVING",
     "startDate": "2026-10-19T00:00:00+09:00",
     "endDate": "2026-11-01T23:59:59+09:00",
     "discountRate": null,
     "minSpend": null,
     "maxDiscountAmount": null,
-    "description": "펫프렌즈 하나카드 보유 고객이 반려동물 사진을 인증하면 선착순 100명에게 1만 포인트, 추첨으로 최대 30만 포인트를 제공해요. 이벤트 종료일까지 누적 1만원 이상 결제해야 당첨 대상이 되며, 10월 31일까지 카드 발급 후 5만원 이상 첫 결제 시 3만원 캐시백도 받을 수 있어요.",
+    "description": "펫프렌즈 하나카드와 반려동물이 함께 나온 사진을 이벤트 게시판에 올리면 선착순 100명에게 1만 펫프렌즈 포인트를 지급하고, 추첨을 통해 최대 30만 포인트까지 제공해요. 단, 행사 기간 카드 누적 이용액이 1만원 미만이면 당첨 대상에서 제외되니 참고하세요.",
     "affiliateUrl": "https://www.hyundaicard.com",
     "imageUrl": null,
-    "sourceUrl": "https://www.newspim.com/news/view/20261019001017",
+    "sourceUrl": "https://news.tf.co.kr/read/economy/2377904.htm",
     "isActive": true,
     "createdAt": "2026-10-19T20:21:59+09:00",
-    "updatedAt": "2026-10-19T20:21:59+09:00"
+    "updatedAt": "2026-10-20T12:21:49+09:00"
   },
   {
     "id": "kurly-2611-beautyfesta",
