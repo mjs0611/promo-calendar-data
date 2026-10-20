@@ -2905,15 +2905,15 @@
     "startDate": "2026-10-19T00:00:00+09:00",
     "endDate": "2026-10-25T23:59:59+09:00",
     "discountRate": null,
-    "minSpend": 14000,
-    "maxDiscountAmount": 10000,
-    "description": "배달앱 땡겨요에서 동대문 엽기떡볶이를 1만 4000원 이상 주문하고 SOL트립앤샵 체크카드로 결제하면 1만원을 할인받아요. 준비된 수량이 소진되면 조기 종료돼요.",
-    "affiliateUrl": "https://www.shinhancard.com",
+    "minSpend": null,
+    "maxDiscountAmount": null,
+    "description": "신한은행 SOL트립앤샵 체크카드로 땡겨요에서 동대문엽기떡볶이를 주문 시 1만원 즉시 할인 혜택이 제공됩니다. 최소 주문금액은 1만4000원이며, 조건 충족 시 최저 4000원에 주문할 수 있습니다. 선착순으로 제공되므로 수량 소진 시 행사가 조기 종료될 수 있어요.",
+    "affiliateUrl": "https://www.shinhan.com",
     "imageUrl": null,
-    "sourceUrl": "http://www.choicenews.co.kr/news/articleView.html?idxno=172282",
+    "sourceUrl": "https://www.wikitree.co.kr/articles/1167399",
     "isActive": true,
     "createdAt": "2026-10-16T16:26:00+09:00",
-    "updatedAt": "2026-10-19T05:39:29+09:00"
+    "updatedAt": "2026-10-20T20:18:23+09:00"
   },
   {
     "id": "ssg-2610-october-grand-festival",
