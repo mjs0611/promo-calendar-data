@@ -3166,5 +3166,23 @@
     "isActive": true,
     "createdAt": "2026-10-21T16:26:17+09:00",
     "updatedAt": "2026-10-21T16:26:17+09:00"
+  },
+  {
+    "id": "naver-2610-kitchenaid-nneudaseil",
+    "title": "키친에이드 네이버 넾다세일 주방가전 최대 42% 할인",
+    "platform": "NAVER",
+    "category": "ELECTRONICS",
+    "startDate": "2026-10-26T00:00:00+09:00",
+    "endDate": "2026-11-08T23:59:59+09:00",
+    "discountRate": null,
+    "minSpend": null,
+    "maxDiscountAmount": null,
+    "description": "키친에이드가 네이버 쇼핑 '넾다세일'에 참여해 스탠드믹서, 푸드프로세서 등 주요 주방가전을 최대 약 42% 할인해요. 아티잔 195, GO 코드리스 시리즈 등 다양한 제품을 합리적인 가격에 만나볼 수 있어요.",
+    "affiliateUrl": "https://shopping.naver.com",
+    "imageUrl": null,
+    "sourceUrl": "https://www.thefirstmedia.net/news/articleView.html?idxno=211470",
+    "isActive": true,
+    "createdAt": "2026-10-21T20:18:49+09:00",
+    "updatedAt": "2026-10-21T20:18:49+09:00"
   }
 ]
