@@ -3123,13 +3123,13 @@
     "discountRate": null,
     "minSpend": null,
     "maxDiscountAmount": null,
-    "description": "11번가가 연중 최대 할인행사인 '그랜드십일절'을 앞두고 사전 프로모션을 진행해요. 4만원 이상 구매 시 1만원 장바구니 할인쿠폰을 선착순으로 제공하며, 11번가플러스 신규 가입자와 최근 2개월간 구매 이력이 없는 회원이 대상이에요. 본행사는 다음 달 1일부터 11일까지 열려요.",
+    "description": "11번가플러스 신규 가입자 또는 최근 2개월 구매 이력이 없는 회원을 대상으로 1만원 장바구니 할인쿠폰을 선착순 지급해요. 해당 쿠폰은 11월 11일 하루 동안 4만원 이상 구매 시 사용 가능하며, 본행사는 11월 1일부터 11일까지 진행돼요.",
     "affiliateUrl": "https://www.11st.co.kr",
     "imageUrl": null,
-    "sourceUrl": "https://www.viva100.com/article/20261021500458",
+    "sourceUrl": "https://zdnet.co.kr/view/?no=20261021152620",
     "isActive": true,
     "createdAt": "2026-10-21T12:22:24+09:00",
-    "updatedAt": "2026-10-21T12:22:24+09:00"
+    "updatedAt": "2026-10-21T16:26:17+09:00"
   },
   {
     "id": "coupang-2610-brandscompany-kugase",
@@ -3148,5 +3148,23 @@
     "isActive": true,
     "createdAt": "2026-10-21T12:22:24+09:00",
     "updatedAt": "2026-10-21T12:22:24+09:00"
+  },
+  {
+    "id": "ssg-2610-outdoor-week",
+    "title": "신세계백화점 스포츠 앤 아웃도어 위크",
+    "platform": "SSG",
+    "category": "FASHION",
+    "startDate": "2026-10-22T00:00:00+09:00",
+    "endDate": "2026-10-28T23:59:59+09:00",
+    "discountRate": null,
+    "minSpend": null,
+    "maxDiscountAmount": null,
+    "description": "네파, K2, 젝시믹스, 블랙야크 등 아웃도어 브랜드의 가을·겨울 신상품을 최대 20% 할인된 가격에 만나볼 수 있어요. 행사 기간 중 단일 브랜드에서 신세계 제휴카드로 30만원 이상 구매 시 1만5000원 할인 리워드 쿠폰을 제공해요.",
+    "affiliateUrl": "https://www.shinsegae.com",
+    "imageUrl": null,
+    "sourceUrl": "https://www.viva100.com/article/20261020500195",
+    "isActive": true,
+    "createdAt": "2026-10-21T16:26:17+09:00",
+    "updatedAt": "2026-10-21T16:26:17+09:00"
   }
 ]
