@@ -3046,18 +3046,18 @@
     "title": "필립스코리아 쿠팡 쿠가세 가전 할인",
     "platform": "COUPANG",
     "category": "ELECTRONICS",
-    "startDate": "2026-10-19T00:00:00+09:00",
+    "startDate": "2026-10-12T00:00:00+09:00",
     "endDate": "2026-10-25T23:59:59+09:00",
     "discountRate": null,
     "minSpend": null,
     "maxDiscountAmount": null,
-    "description": "필립스코리아가 쿠팡 쿠가세 행사에 참여해 전기면도기와 전동칫솔을 할인 판매해요.",
+    "description": "필립스코리아가 쿠팡 '쿠가세'에 참여해 전기면도기와 음파전동칫솔을 할인 판매해요. 'i9000 시리즈 프레스티지' 구매 고객에게 최대 2만원의 추가 할인 혜택을 제공해요. '올 뉴 소닉케어 콤팩트'는 9만9900원에 판매하며, 17일 '필립스 브랜드데이'에서는 '1000 시리즈'를 3만9900원에 구매할 수 있어요.",
     "affiliateUrl": "https://www.coupang.com",
     "imageUrl": null,
     "sourceUrl": "https://www.ibabynews.com/news/articleView.html?idxno=155345",
     "isActive": true,
     "createdAt": "2026-10-20T16:20:51+09:00",
-    "updatedAt": "2026-10-20T16:20:51+09:00"
+    "updatedAt": "2026-10-21T12:22:24+09:00"
   },
   {
     "id": "baemin-2610-kakaopay-nonan",
@@ -3112,5 +3112,41 @@
     "isActive": true,
     "createdAt": "2026-10-21T05:38:36+09:00",
     "updatedAt": "2026-10-21T05:38:36+09:00"
+  },
+  {
+    "id": "elevenst-2610-grand-silja-pre",
+    "title": "11번가 2026 그랜드십일절 사전 프로모션",
+    "platform": "ELEVENST",
+    "category": "SHOPPING",
+    "startDate": "2026-10-26T00:00:00+09:00",
+    "endDate": "2026-10-31T23:59:59+09:00",
+    "discountRate": null,
+    "minSpend": null,
+    "maxDiscountAmount": null,
+    "description": "11번가가 연중 최대 할인행사인 '그랜드십일절'을 앞두고 사전 프로모션을 진행해요. 4만원 이상 구매 시 1만원 장바구니 할인쿠폰을 선착순으로 제공하며, 11번가플러스 신규 가입자와 최근 2개월간 구매 이력이 없는 회원이 대상이에요. 본행사는 다음 달 1일부터 11일까지 열려요.",
+    "affiliateUrl": "https://www.11st.co.kr",
+    "imageUrl": null,
+    "sourceUrl": "https://www.viva100.com/article/20261021500458",
+    "isActive": true,
+    "createdAt": "2026-10-21T12:22:24+09:00",
+    "updatedAt": "2026-10-21T12:22:24+09:00"
+  },
+  {
+    "id": "coupang-2610-brandscompany-kugase",
+    "title": "브랜즈컴퍼니 쿠가세 참여 최대 75% 할인",
+    "platform": "COUPANG",
+    "category": "ELECTRONICS",
+    "startDate": "2026-10-12T00:00:00+09:00",
+    "endDate": "2026-10-25T23:59:59+09:00",
+    "discountRate": null,
+    "minSpend": null,
+    "maxDiscountAmount": null,
+    "description": "브랜즈컴퍼니가 쿠팡 '쿠가세'에 참여해 보조배터리, 헤드셋, 가습기 등을 와우회원 대상 최대 75% 할인해요. 22일 오후 2시부터 실버 색상 보조배터리 100대를 공식 판매가 대비 약 75% 할인한 9,980원에 판매해요. 23일 오전 7시부터 오후 3시까지 '스카이 핏 ANC 헤드셋 H1X'를 70% 할인한 2만원대에 선보이는 반짝세일도 진행해요.",
+    "affiliateUrl": "https://www.coupang.com",
+    "imageUrl": null,
+    "sourceUrl": "https://www.slist.kr/news/articleView.html?idxno=775120",
+    "isActive": true,
+    "createdAt": "2026-10-21T12:22:24+09:00",
+    "updatedAt": "2026-10-21T12:22:24+09:00"
   }
 ]
