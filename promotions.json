@@ -3105,13 +3105,13 @@
     "discountRate": null,
     "minSpend": null,
     "maxDiscountAmount": null,
-    "description": "11번가플러스 신규 가입자 또는 최근 2개월 구매 이력이 없는 회원을 대상으로 1만원 장바구니 할인쿠폰을 선착순 지급해요. 해당 쿠폰은 11월 11일 하루 동안 4만원 이상 구매 시 사용 가능하며, 본행사는 11월 1일부터 11일까지 진행돼요.",
+    "description": "11번가가 연중 최대 쇼핑 행사인 '2026 그랜드십일절'을 앞두고 진행하는 사전 할인 행사입니다. 11번가플러스 신규 가입자나 최근 2개월간 구매 이력이 없는 회원에게 1만원 장바구니 할인쿠폰을 선착순으로 지급합니다. 해당 쿠폰은 11월 11일 하루 동안 4만원 이상 구매 시 사용할 수 있으며, 주요 브랜드 상품을 할인된 가격에 예약구매할 수 있습니다.",
     "affiliateUrl": "https://www.11st.co.kr",
     "imageUrl": null,
     "sourceUrl": "https://zdnet.co.kr/view/?no=20261021152620",
     "isActive": true,
     "createdAt": "2026-10-21T12:22:24+09:00",
-    "updatedAt": "2026-10-21T16:26:17+09:00"
+    "updatedAt": "2026-10-22T16:36:10+09:00"
   },
   {
     "id": "coupang-2610-brandscompany-kugase",
@@ -3123,13 +3123,13 @@
     "discountRate": null,
     "minSpend": null,
     "maxDiscountAmount": null,
-    "description": "브랜즈컴퍼니가 쿠팡 '쿠가세'에 참여해 보조배터리, 헤드셋, 가습기 등을 와우회원 대상 최대 75% 할인해요. 22일 오후 2시부터 실버 색상 보조배터리 100대를 공식 판매가 대비 약 75% 할인한 9,980원에 판매해요. 23일 오전 7시부터 오후 3시까지 '스카이 핏 ANC 헤드셋 H1X'를 70% 할인한 2만원대에 선보이는 반짝세일도 진행해요.",
+    "description": "브랜즈컴퍼니의 SKY 브랜드가 쿠팡 가전·디지털 할인 행사 '쿠가세'에 참여해 주요 제품을 최대 약 75% 할인합니다. 10월 22일 오후 2시부터 실버 색상 100대를 공식 판매가 대비 약 75% 할인한 9980원에 판매하며, 23일에는 헤드셋 반짝세일도 진행됩니다. 할인율은 공식 판매가 대비 최종 혜택가 기준이며, 와우회원 할인 및 쿠폰 적용 조건에 따라 달라질 수 있습니다.",
     "affiliateUrl": "https://www.coupang.com",
     "imageUrl": null,
-    "sourceUrl": "https://www.slist.kr/news/articleView.html?idxno=775120",
+    "sourceUrl": "https://www.todaymild.com/news/articleView.html?idxno=40067",
     "isActive": true,
     "createdAt": "2026-10-21T12:22:24+09:00",
-    "updatedAt": "2026-10-21T12:22:24+09:00"
+    "updatedAt": "2026-10-22T16:36:10+09:00"
   },
   {
     "id": "ssg-2610-outdoor-week",
@@ -3220,5 +3220,59 @@
     "isActive": true,
     "createdAt": "2026-10-22T12:19:07+09:00",
     "updatedAt": "2026-10-22T12:19:07+09:00"
+  },
+  {
+    "id": "samsung-2610-marriott-card",
+    "title": "삼성카드 메리어트 본보이 제휴카드 출시 혜택",
+    "platform": "SAMSUNG_CARD",
+    "category": "TRAVEL",
+    "startDate": "2026-10-22T00:00:00+09:00",
+    "endDate": "2026-11-30T23:59:59+09:00",
+    "discountRate": null,
+    "minSpend": null,
+    "maxDiscountAmount": null,
+    "description": "메리어트 본보이와 삼성카드가 협력해 출시한 프리미엄 여행 제휴카드의 신규 발급 혜택입니다. 10월 22일부터 11월 30일까지 카드를 신규 신청하고 12월 31일까지 누적 400만원 이상 이용 시 6만 본보이 포인트 상당의 숙박권을 받을 수 있습니다. 국내외 일반 가맹점에서는 1500원당 2포인트, 메리어트 호텔 및 해외 가맹점에서는 1500원당 6포인트가 적립됩니다.",
+    "affiliateUrl": "https://www.samsungcard.com",
+    "imageUrl": null,
+    "sourceUrl": "https://www.newstap.co.kr/news/articleView.html?idxno=336283",
+    "isActive": true,
+    "createdAt": "2026-10-22T16:36:10+09:00",
+    "updatedAt": "2026-10-22T16:36:10+09:00"
+  },
+  {
+    "id": "ssg-2610-jangbogi-festa",
+    "title": "SSG닷컴 쓱 장보기 페스타",
+    "platform": "SSG",
+    "category": "FOOD",
+    "startDate": "2026-10-22T00:00:00+09:00",
+    "endDate": "2026-10-28T23:59:59+09:00",
+    "discountRate": null,
+    "minSpend": null,
+    "maxDiscountAmount": null,
+    "description": "SSG닷컴이 가을 나들이와 캠핑 수요를 겨냥해 진행하는 '쓱 장보기 페스타'입니다. 구이용 육류, 간편식, 캠핑용품 등 먹거리와 생활용품을 최대 50% 할인된 가격에 만나볼 수 있습니다. 주문 권역에 따라 최대 6000원 할인 쿠폰 또는 장보기 지원금이 제공되며, 행사 카드 결제 시 최대 5% 청구 할인 혜택도 적용됩니다.",
+    "affiliateUrl": "https://www.ssg.com",
+    "imageUrl": null,
+    "sourceUrl": "https://www.ngetnews.com/news/articleView.html?idxno=554935",
+    "isActive": true,
+    "createdAt": "2026-10-22T16:36:10+09:00",
+    "updatedAt": "2026-10-22T16:36:10+09:00"
+  },
+  {
+    "id": "naver-2610-vitamix-nneudaseil",
+    "title": "바이타믹스 네이버 넾다세일",
+    "platform": "NAVER",
+    "category": "ELECTRONICS",
+    "startDate": "2026-10-26T00:00:00+09:00",
+    "endDate": "2026-11-08T23:59:59+09:00",
+    "discountRate": null,
+    "minSpend": null,
+    "maxDiscountAmount": null,
+    "description": "글로벌 블렌더 브랜드 바이타믹스가 네이버플러스 스토어 '넾다세일'에 참여해 진행하는 대규모 할인 행사입니다. 블렌더 본체 전 모델과 컨테이너 전 품목에 할인 혜택이 적용되며, 컨테이너는 약 20%에서 33% 할인된 가격으로 판매됩니다. 네이버 단독 풀-패키지 'A3500i 고메번들 플러스'도 행사 대상에 포함되어 모델별 중복 쿠폰 할인 혜택이 제공됩니다.",
+    "affiliateUrl": "https://store.naver.com",
+    "imageUrl": null,
+    "sourceUrl": "https://news.bbsi.co.kr/news/articleView.html?idxno=4114028",
+    "isActive": true,
+    "createdAt": "2026-10-22T16:36:10+09:00",
+    "updatedAt": "2026-10-22T16:36:10+09:00"
   }
 ]
