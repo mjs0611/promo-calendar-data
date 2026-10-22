@@ -3184,5 +3184,41 @@
     "isActive": true,
     "createdAt": "2026-10-22T05:39:21+09:00",
     "updatedAt": "2026-10-22T05:39:21+09:00"
+  },
+  {
+    "id": "lotteon-2610-kidsrun-black",
+    "title": "롯데온 키즈런 블랙 유아동 겨울 의류 최대 80% 할인",
+    "platform": "LOTTEON",
+    "category": "FASHION",
+    "startDate": "2026-10-22T00:00:00+09:00",
+    "endDate": "2026-10-27T23:59:59+09:00",
+    "discountRate": null,
+    "minSpend": null,
+    "maxDiscountAmount": null,
+    "description": "에뜨와, 아가방, MLB키즈 등 인기 유아동 브랜드가 참여하는 '키즈런 블랙' 행사가 열려 겨울 프리뷰 상품을 최대 80% 할인 판매해요. 행사 기간 중 브랜드별 최대 25% 할인 쿠폰을 추가로 사용할 수 있으며, 24일에는 페리미츠와 레노마키즈 전 옵션 상품을 70% 이상 할인된 가격에 만나볼 수 있어요.",
+    "affiliateUrl": "https://www.lotteon.com",
+    "imageUrl": null,
+    "sourceUrl": "https://www.newsis.com/view/NISX20261021_0003835557",
+    "isActive": true,
+    "createdAt": "2026-10-22T12:19:07+09:00",
+    "updatedAt": "2026-10-22T12:19:07+09:00"
+  },
+  {
+    "id": "samsung-2611-samsungweek",
+    "title": "삼성위크 2026 삼성닷컴 연중 최대 할인 행사",
+    "platform": "SAMSUNG_CARD",
+    "category": "ELECTRONICS",
+    "startDate": "2026-11-01T00:00:00+09:00",
+    "endDate": "2026-11-30T23:59:59+09:00",
+    "discountRate": null,
+    "minSpend": null,
+    "maxDiscountAmount": null,
+    "description": "삼성전자 공식 온라인몰 삼성닷컴에서 11월 한 달간 '삼성위크 2026' 행사가 진행돼 카드사별 결제 할인과 무이자 할부 혜택을 제공해요. 갤럭시 Z 폴드8 울트라 등 전용 색상 모델을 구매할 수 있으며, 적립된 삼성 리워즈 포인트는 액세서리 및 디지털 콘텐츠 결제에도 활용할 수 있어요.",
+    "affiliateUrl": "https://www.samsung.com",
+    "imageUrl": null,
+    "sourceUrl": "https://www.imsn.kr/news/articleView.html?idxno=18049",
+    "isActive": true,
+    "createdAt": "2026-10-22T12:19:07+09:00",
+    "updatedAt": "2026-10-22T12:19:07+09:00"
   }
 ]
