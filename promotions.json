@@ -288,24 +288,6 @@
     "updatedAt": "2026-09-01T06:35:00+09:00"
   },
   {
-    "id": "hyundai-2608-nol-yanolja",
-    "title": "현대카드 NOL 카드 야놀자 쿠폰 이벤트",
-    "platform": "HYUNDAI_CARD",
-    "category": "TRAVEL",
-    "startDate": "2026-06-23T00:00:00+09:00",
-    "endDate": "2026-08-24T23:59:59+09:00",
-    "discountRate": null,
-    "minSpend": null,
-    "maxDiscountAmount": 130000,
-    "description": "6월 23일부터 8월 24일까지 야놀자(NOL) 앱에서 현대카드 NOL 카드로 첫 결제 시 2만 원 청구 할인을 받을 수 있어요. NOL 카드 전용 웰컴 쿠폰팩으로 국내 숙박·레저·고속버스·해외 숙박 예약에 최대 13만 원 할인 혜택을 드려요.",
-    "affiliateUrl": "https://nol.yanolja.com",
-    "imageUrl": null,
-    "sourceUrl": "https://nol.yanolja.com/promotion/nol-promotion?eventcode=NOY73",
-    "isActive": false,
-    "createdAt": "2026-08-08T06:35:00+09:00",
-    "updatedAt": "2026-08-25T06:35:00+09:00"
-  },
-  {
     "id": "kurly-2608-grandbeauty",
     "title": "컬리 그랜드뷰티컬리페스타 (10월)",
     "platform": "KURLY",
@@ -340,24 +322,6 @@
     "isActive": false,
     "createdAt": "2026-08-12T06:35:00+09:00",
     "updatedAt": "2026-08-31T06:34:43+09:00"
-  },
-  {
-    "id": "musinsa-2608-beautyfesta",
-    "title": "무신사 뷰티 페스타 2026",
-    "platform": "MUSINSA",
-    "category": "BEAUTY",
-    "startDate": "2026-08-10T00:00:00+09:00",
-    "endDate": "2026-08-24T23:59:59+09:00",
-    "discountRate": 80,
-    "minSpend": null,
-    "maxDiscountAmount": null,
-    "description": "660개 브랜드 1만4,545개 상품을 최대 80% 할인하는 무신사 연중 최대 뷰티 행사예요. 매일 오전 11시 25% 상품 할인쿠폰과 7% 장바구니 쿠폰을 발급하며, 다슈·셀렉스·에스트라·토리든·헤라 등 브랜드 데이 추가 할인과 사은품도 제공해요. 8월 21~23일에는 성수동에서 오프라인 뷰티 축제 '무뷰페 인 성수'도 열려요.",
-    "affiliateUrl": "https://www.musinsa.com/campaign/2026beautyfesta2/0",
-    "imageUrl": null,
-    "sourceUrl": "https://zdnet.co.kr/view/?no=20260810170611",
-    "isActive": false,
-    "createdAt": "2026-08-12T06:35:00+09:00",
-    "updatedAt": "2026-08-25T06:35:00+09:00"
   },
   {
     "id": "toss-2606-tripdotcom",
@@ -484,24 +448,6 @@
     "isActive": false,
     "createdAt": "2026-08-18T06:35:00+09:00",
     "updatedAt": "2026-09-01T06:35:00+09:00"
-  },
-  {
-    "id": "lotteon-2608-eltown-superweek",
-    "title": "롯데온 엘타운 슈퍼위크",
-    "platform": "LOTTEON",
-    "category": "LIVING",
-    "startDate": "2026-08-18T00:00:00+09:00",
-    "endDate": "2026-08-24T23:59:59+09:00",
-    "discountRate": 61,
-    "minSpend": null,
-    "maxDiscountAmount": null,
-    "description": "침구·가구·먹거리·영양제 등 생활 전반을 아우르는 롯데온 7일 기획전이에요. 최대 61% 할인과 함께 슈퍼위크 쿠폰팩을 제공하며, 5만 원 이상 단독 특가 브랜드 상품 구매 시 엘포인트 3,000점을 적립해줘요. 매일 오전 11시 특가 판매를 진행하며, 모던하우스 클리어런스·씰리 침대·드시모네 영양제 등 브랜드별 혜택이 날짜별로 구성돼 있어요.",
-    "affiliateUrl": "https://www.lotteon.com",
-    "imageUrl": null,
-    "sourceUrl": "https://www.newsquest.co.kr/news/articleView.html?idxno=271867",
-    "isActive": false,
-    "createdAt": "2026-08-19T06:35:00+09:00",
-    "updatedAt": "2026-08-25T06:35:00+09:00"
   },
   {
     "id": "kurly-2608-chuseok-earlybird",
@@ -2911,7 +2857,7 @@
     "affiliateUrl": "https://www.ssg.com",
     "imageUrl": null,
     "sourceUrl": "https://www.newspim.com/news/view/20261019000066",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-10-19T16:19:53+09:00",
     "updatedAt": "2026-10-20T05:37:47+09:00"
   },
