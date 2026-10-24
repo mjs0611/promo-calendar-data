@@ -3228,16 +3228,16 @@
     "category": "FASHION",
     "startDate": "2026-10-23T00:00:00+09:00",
     "endDate": "2026-11-01T23:59:59+09:00",
-    "discountRate": null,
+    "discountRate": 80,
     "minSpend": null,
     "maxDiscountAmount": null,
-    "description": "무신사 스탠다드가 한국과 일본에서 동시에 진행하는 하반기 최대 할인 행사입니다. 전 카테고리 주요 상품을 최대 80% 할인된 가격에 만나볼 수 있으며, 전 상품에 적용 가능한 30% 추가 할인 쿠폰과 무료배송 혜택도 제공됩니다.",
+    "description": "무신사 스탠다드가 온라인 스토어와 전국 44개 매장에서 26 FW 슈퍼세일을 진행해요. 맨·우먼·키즈·뷰티·홈 전 카테고리에서 최대 80% 할인받을 수 있고, 전상품 30% 추가 할인 쿠폰과 무료배송도 제공해요. 한국과 일본(오사카 팝업)에서 동시에 열려요.",
     "affiliateUrl": "https://www.musinsa.com",
     "imageUrl": null,
     "sourceUrl": "https://www.socialvalue.kr/news/view/1065568854062796",
     "isActive": true,
     "createdAt": "2026-10-23T12:16:48+09:00",
-    "updatedAt": "2026-10-23T12:16:48+09:00"
+    "updatedAt": "2026-10-25T05:38:46+09:00"
   },
   {
     "id": "ssg-2610-camping-essential",
@@ -3246,16 +3246,16 @@
     "category": "LIVING",
     "startDate": "2026-10-23T00:00:00+09:00",
     "endDate": "2026-10-29T23:59:59+09:00",
-    "discountRate": null,
+    "discountRate": 30,
     "minSpend": null,
     "maxDiscountAmount": null,
-    "description": "이마트에서 그릴·화롯대 및 튜맨 캠핑매트 전 품목을 행사카드로 전액 결제 시 30% 할인해드려요. 이마트 직소싱 브랜드 '시티 피크닉' 캠핑용품도 행사카드 결제 시 20% 할인된 가격에 구매할 수 있어요.",
-    "affiliateUrl": "https://www.emart.com",
+    "description": "이마트에서 그릴, 화롯대, 캠핑매트를 행사카드로 결제하면 30% 할인받을 수 있어요. 10월 29일까지 진행되는 캠핑·피크닉 용품 할인 행사예요.",
+    "affiliateUrl": "https://emart.ssg.com",
     "imageUrl": null,
-    "sourceUrl": "https://www.bizwnews.com/news/articleView.html?idxno=149849",
+    "sourceUrl": "https://www.kizmom.com/news/articleView.html?idxno=113490",
     "isActive": true,
     "createdAt": "2026-10-23T16:26:02+09:00",
-    "updatedAt": "2026-10-24T20:17:19+09:00"
+    "updatedAt": "2026-10-25T05:38:46+09:00"
   },
   {
     "id": "ssg-2610-appliance-special",
@@ -3264,16 +3264,16 @@
     "category": "ELECTRONICS",
     "startDate": "2026-10-23T00:00:00+09:00",
     "endDate": "2026-10-25T23:59:59+09:00",
-    "discountRate": null,
+    "discountRate": 50,
     "minSpend": null,
     "maxDiscountAmount": null,
-    "description": "싱글/더블을 신세계포인트 적립 시 50% 할인된 가격에 만나보실 수 있어요. 신일 가열식 가습기도 신세계포인트 적립 시 7만원 할인 혜택이 적용돼요.",
-    "affiliateUrl": "https://www.emart.com",
+    "description": "이마트에서 신일 카본 전기요와 신일 가열식 가습기를 신세계포인트 적립 시 최대 50% 할인받을 수 있어요. 10월 25일까지 진행되는 가전 특가 행사예요.",
+    "affiliateUrl": "https://emart.ssg.com",
     "imageUrl": null,
     "sourceUrl": "https://www.kizmom.com/news/articleView.html?idxno=113490",
     "isActive": true,
     "createdAt": "2026-10-23T16:26:02+09:00",
-    "updatedAt": "2026-10-24T20:17:19+09:00"
+    "updatedAt": "2026-10-25T05:38:46+09:00"
   },
   {
     "id": "lotteon-2610-vietnam-fair",
@@ -3282,16 +3282,16 @@
     "category": "FOOD",
     "startDate": "2026-10-22T00:00:00+09:00",
     "endDate": "2026-10-28T23:59:59+09:00",
-    "discountRate": null,
+    "discountRate": 10,
     "minSpend": null,
     "maxDiscountAmount": null,
-    "description": "제타플렉스 서울역점에서 베트남산 가공식품과 신선식품 100여 종을 할인 판매해요. 비폰·친수 쌀국수 5종은 10% 할인되고, G7 커피 5종과 망고칩은 1+1 증정 혜택이 제공돼요.",
+    "description": "롯데마트 제타플렉스 서울역점에서 베트남산 가공식품과 신선식품 100여 종을 할인하는 '2026 베트남 물산전'을 열어요. 비폰·친수 베트남 쌀국수는 10% 할인 판매하고, G7 커피와 망고칩은 1+1으로 증정해요. 10월 28일까지 진행돼요.",
     "affiliateUrl": "https://www.lotteon.com",
     "imageUrl": null,
     "sourceUrl": "https://www.etoday.co.kr/news/view/2639132",
     "isActive": true,
     "createdAt": "2026-10-23T16:26:02+09:00",
-    "updatedAt": "2026-10-24T20:17:19+09:00"
+    "updatedAt": "2026-10-25T05:38:46+09:00"
   },
   {
     "id": "naver-2610-seoul-restaurant-week",
@@ -3310,5 +3310,23 @@
     "isActive": true,
     "createdAt": "2026-10-24T20:17:19+09:00",
     "updatedAt": "2026-10-24T20:17:19+09:00"
+  },
+  {
+    "id": "samsung-2611-baeknyeongage",
+    "title": "백년가게 삼성카드 10% 청구할인",
+    "platform": "SAMSUNG_CARD",
+    "category": "SHOPPING",
+    "startDate": "2026-11-01T00:00:00+09:00",
+    "endDate": "2026-11-15T23:59:59+09:00",
+    "discountRate": 10,
+    "minSpend": 30000,
+    "maxDiscountAmount": null,
+    "description": "코리아 그랜드 페스티벌 기간에 백년가게 가맹점에서 삼성카드로 3만원 이상 결제하면 10% 청구할인을 받아요. 11월 1일부터 15일까지 진행되는 행사예요.",
+    "affiliateUrl": "https://www.samsungcard.com",
+    "imageUrl": null,
+    "sourceUrl": "https://www.topstarnews.net/news/articleView.html?idxno=16256625",
+    "isActive": true,
+    "createdAt": "2026-10-25T05:38:46+09:00",
+    "updatedAt": "2026-10-25T05:38:46+09:00"
   }
 ]
