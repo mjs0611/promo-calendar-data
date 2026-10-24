@@ -3249,13 +3249,13 @@
     "discountRate": null,
     "minSpend": null,
     "maxDiscountAmount": null,
-    "description": "이마트에서 그릴·화롯대 및 튜맨 캠핑매트 전 품목을 행사카드로 전액 결제 시 30% 할인해 드립니다. 이마트 단독 '시티 피크닉' 캠핑용품 전 품목은 행사카드 결제 시 20% 할인된 가격에 구매할 수 있습니다.",
+    "description": "이마트에서 그릴·화롯대 및 튜맨 캠핑매트 전 품목을 행사카드로 전액 결제 시 30% 할인해드려요. 이마트 직소싱 브랜드 '시티 피크닉' 캠핑용품도 행사카드 결제 시 20% 할인된 가격에 구매할 수 있어요.",
     "affiliateUrl": "https://www.emart.com",
     "imageUrl": null,
-    "sourceUrl": "https://www.fnnews.com/news/202610230603273155",
+    "sourceUrl": "https://www.bizwnews.com/news/articleView.html?idxno=149849",
     "isActive": true,
     "createdAt": "2026-10-23T16:26:02+09:00",
-    "updatedAt": "2026-10-23T16:26:02+09:00"
+    "updatedAt": "2026-10-24T20:17:19+09:00"
   },
   {
     "id": "ssg-2610-appliance-special",
@@ -3267,30 +3267,48 @@
     "discountRate": null,
     "minSpend": null,
     "maxDiscountAmount": null,
-    "description": "이마트 가전 특가 행사에서 신일 카본 TP 전기요 싱글·더블을 신세계포인트 적립 시 50% 할인해 드립니다. 신일 가열식 가습기는 신세계포인트 적립 시 7만원 할인된 5만9000원에 구매할 수 있습니다.",
+    "description": "싱글/더블을 신세계포인트 적립 시 50% 할인된 가격에 만나보실 수 있어요. 신일 가열식 가습기도 신세계포인트 적립 시 7만원 할인 혜택이 적용돼요.",
     "affiliateUrl": "https://www.emart.com",
     "imageUrl": null,
-    "sourceUrl": "https://www.fnnews.com/news/202610230603273155",
+    "sourceUrl": "https://www.kizmom.com/news/articleView.html?idxno=113490",
     "isActive": true,
     "createdAt": "2026-10-23T16:26:02+09:00",
-    "updatedAt": "2026-10-23T16:26:02+09:00"
+    "updatedAt": "2026-10-24T20:17:19+09:00"
   },
   {
     "id": "lotteon-2610-vietnam-fair",
     "title": "롯데마트 2026 베트남 물산전",
     "platform": "LOTTEON",
     "category": "FOOD",
-    "startDate": "2026-10-23T00:00:00+09:00",
+    "startDate": "2026-10-22T00:00:00+09:00",
     "endDate": "2026-10-28T23:59:59+09:00",
     "discountRate": null,
     "minSpend": null,
     "maxDiscountAmount": null,
-    "description": "롯데마트 제타플렉스 서울역점에서 비폰·친수 포스토리 쌀국수를 10% 할인 판매합니다. G7 커피 5종과 망고 100% 망고칩은 1+1 혜택을 제공합니다.",
+    "description": "제타플렉스 서울역점에서 베트남산 가공식품과 신선식품 100여 종을 할인 판매해요. 비폰·친수 쌀국수 5종은 10% 할인되고, G7 커피 5종과 망고칩은 1+1 증정 혜택이 제공돼요.",
     "affiliateUrl": "https://www.lotteon.com",
     "imageUrl": null,
-    "sourceUrl": "https://www.techm.kr/news/articleViewAmp.html?idxno=156440",
+    "sourceUrl": "https://www.etoday.co.kr/news/view/2639132",
     "isActive": true,
     "createdAt": "2026-10-23T16:26:02+09:00",
-    "updatedAt": "2026-10-23T16:26:02+09:00"
+    "updatedAt": "2026-10-24T20:17:19+09:00"
+  },
+  {
+    "id": "naver-2610-seoul-restaurant-week",
+    "title": "네이버페이 2026 서울레스토랑위크 50% 즉시 적립",
+    "platform": "NAVER",
+    "category": "FOOD",
+    "startDate": "2026-10-23T00:00:00+09:00",
+    "endDate": "2026-10-29T23:59:59+09:00",
+    "discountRate": null,
+    "minSpend": null,
+    "maxDiscountAmount": null,
+    "description": "2026 서울레스토랑위크 참여 매장에서 네이버페이 QR결제나 페이스사인 결제 시 결제액의 50%를 즉시 적립해요. 1인당 1회, 최대 1만원까지 적립되며 Npay 커넥트 단말기가 설치된 매장에서만 적용돼요.",
+    "affiliateUrl": "https://pay.naver.com",
+    "imageUrl": null,
+    "sourceUrl": "https://www.tournews21.com/news/articleView.html?idxno=146523",
+    "isActive": true,
+    "createdAt": "2026-10-24T20:17:19+09:00",
+    "updatedAt": "2026-10-24T20:17:19+09:00"
   }
 ]
