@@ -355,7 +355,7 @@
     "affiliateUrl": "https://www.coupang.com",
     "imageUrl": null,
     "sourceUrl": "https://www.newstap.co.kr/news/articleView.html?idxno=335708",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-10-13T20:15:15+09:00",
     "updatedAt": "2026-10-14T05:38:35+09:00"
   },
@@ -373,7 +373,7 @@
     "affiliateUrl": "https://www.coupang.com",
     "imageUrl": null,
     "sourceUrl": "https://www.etnews.com/20261013000265",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-10-13T20:15:15+09:00",
     "updatedAt": "2026-10-13T20:15:15+09:00"
   },
@@ -391,7 +391,7 @@
     "affiliateUrl": "https://www.coupang.com",
     "imageUrl": null,
     "sourceUrl": "https://kbench.com/?q=node/282493",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-10-14T05:38:35+09:00",
     "updatedAt": "2026-10-14T05:38:35+09:00"
   },
@@ -409,7 +409,7 @@
     "affiliateUrl": "https://www.coupang.com",
     "imageUrl": null,
     "sourceUrl": "https://www.sisunnews.co.kr/news/articleView.html?idxno=247530",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-10-14T05:38:35+09:00",
     "updatedAt": "2026-10-14T05:38:35+09:00"
   },
@@ -445,7 +445,7 @@
     "affiliateUrl": "https://www.coupang.com",
     "imageUrl": null,
     "sourceUrl": "https://www.youthdaily.co.kr/news/article.html?no=228339",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-10-14T16:17:22+09:00",
     "updatedAt": "2026-10-14T16:17:22+09:00"
   },
@@ -535,7 +535,7 @@
     "affiliateUrl": "https://www.coupang.com",
     "imageUrl": null,
     "sourceUrl": "https://www.segye.com/newsView/20261018504477",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-10-15T12:15:56+09:00",
     "updatedAt": "2026-10-19T16:19:53+09:00"
   },
@@ -553,7 +553,7 @@
     "affiliateUrl": "https://www.shinsegae.com",
     "imageUrl": null,
     "sourceUrl": "https://www.fintechtimes.co.kr/news/article.html?no=59091",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-10-15T16:18:02+09:00",
     "updatedAt": "2026-10-16T05:39:26+09:00"
   },
@@ -607,7 +607,7 @@
     "affiliateUrl": "https://www.coupang.com",
     "imageUrl": null,
     "sourceUrl": "https://www.kmkj.kr/news/articleView.html?idxno=140026",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-10-16T05:39:26+09:00",
     "updatedAt": "2026-10-23T12:16:48+09:00"
   },
@@ -643,7 +643,7 @@
     "affiliateUrl": "https://www.shinhan.com",
     "imageUrl": null,
     "sourceUrl": "https://www.wikitree.co.kr/articles/1167399",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-10-16T16:26:00+09:00",
     "updatedAt": "2026-10-21T05:38:36+09:00"
   },
@@ -661,7 +661,7 @@
     "affiliateUrl": "https://www.coupang.com",
     "imageUrl": null,
     "sourceUrl": "https://www.bizwnews.com/news/articleView.html?idxno=149145",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-10-17T12:20:50+09:00",
     "updatedAt": "2026-10-17T12:20:50+09:00"
   },
@@ -705,19 +705,19 @@
     "id": "hyundai-2610-petfriends-event",
     "title": "펫프렌즈 하나카드 반려동물 사진 인증 이벤트",
     "platform": "HYUNDAI_CARD",
-    "category": "LIVING",
+    "category": "SHOPPING",
     "startDate": "2026-10-19T00:00:00+09:00",
     "endDate": "2026-11-01T23:59:59+09:00",
     "discountRate": null,
     "minSpend": 50000,
-    "maxDiscountAmount": 300000,
-    "description": "하나카드가 '펫프렌즈 하나카드' 회원을 대상으로 다음 달 1일까지 반려동물과 카드가 함께 나온 사진을 올리는 이벤트를 진행해요. 선착순 100명에게 1만 포인트를, 추첨으로 최대 30만 포인트를 지급하며 누적 결제액 1만원 이상인 회원만 대상이에요. 31일까지 카드를 새로 발급받아 펫프렌즈몰에서 5만원 이상 첫 결제하면 3만원을 돌려받을 수 있어요.",
-    "affiliateUrl": "https://www.hyundaicard.com",
+    "maxDiscountAmount": 30000,
+    "description": "펫프렌즈 하나카드로 반려동물과의 일상을 공유하면 혜택을 받을 수 있어요. 참여 손님 중 선착순 100명에게 1만 펫프렌즈 포인트를 주고, 추첨을 통해 최대 30만 펫프렌즈 포인트를 적립해줘요. 10월 31일까지 펫프렌즈 하나카드를 발급받고 펫프렌즈몰에서 5만원 이상 첫 결제하면 3만원을 캐시백받을 수 있어요.",
+    "affiliateUrl": "https://www.hanacard.co.kr",
     "imageUrl": null,
-    "sourceUrl": "https://www.lcnews.co.kr/news/articleView.html?idxno=209882",
+    "sourceUrl": "https://www.newspet.co.kr/news/articleView.html?idxno=11739",
     "isActive": true,
     "createdAt": "2026-10-19T20:21:59+09:00",
-    "updatedAt": "2026-10-21T05:38:36+09:00"
+    "updatedAt": "2026-10-26T05:37:39+09:00"
   },
   {
     "id": "kurly-2611-beautyfesta",
@@ -769,7 +769,7 @@
     "affiliateUrl": "https://www.coupang.com",
     "imageUrl": null,
     "sourceUrl": "https://www.ibabynews.com/news/articleView.html?idxno=155345",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-10-20T16:20:51+09:00",
     "updatedAt": "2026-10-21T12:22:24+09:00"
   },
@@ -859,7 +859,7 @@
     "affiliateUrl": "https://www.coupang.com",
     "imageUrl": null,
     "sourceUrl": "https://www.ittimes.com/news/articleView.html?idxno=87554",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-10-21T12:22:24+09:00",
     "updatedAt": "2026-10-23T05:38:39+09:00"
   },
@@ -1111,7 +1111,7 @@
     "affiliateUrl": "https://www.emart.com",
     "imageUrl": null,
     "sourceUrl": "https://www.bizwnews.com/news/articleView.html?idxno=149849",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-10-23T16:26:02+09:00",
     "updatedAt": "2026-10-25T16:20:27+09:00"
   },
@@ -1140,16 +1140,16 @@
     "category": "FOOD",
     "startDate": "2026-10-23T00:00:00+09:00",
     "endDate": "2026-10-29T23:59:59+09:00",
-    "discountRate": null,
+    "discountRate": 50,
     "minSpend": null,
-    "maxDiscountAmount": null,
-    "description": "2026 서울레스토랑위크 참여 매장에서 네이버페이 QR결제나 페이스사인 결제 시 결제액의 50%를 즉시 적립해요. 1인당 1회, 최대 1만원까지 적립되며 Npay 커넥트 단말기가 설치된 매장에서만 적용돼요.",
+    "maxDiscountAmount": 10000,
+    "description": "네이버페이로 2026 서울레스토랑위크 참여 음식점에서 Npay 커넥트 단말기로 결제하면 결제액의 50%를 즉시 적립해줘요. 적립은 1인당 한 번, 최대 1만원까지 가능하고 Npay QR결제나 페이스사인 결제에 적용돼요.",
     "affiliateUrl": "https://pay.naver.com",
     "imageUrl": null,
     "sourceUrl": "https://www.tournews21.com/news/articleView.html?idxno=146523",
     "isActive": true,
     "createdAt": "2026-10-24T20:17:19+09:00",
-    "updatedAt": "2026-10-24T20:17:19+09:00"
+    "updatedAt": "2026-10-26T05:37:39+09:00"
   },
   {
     "id": "samsung-2611-baeknyeongage",
@@ -1161,13 +1161,13 @@
     "discountRate": 10,
     "minSpend": 30000,
     "maxDiscountAmount": null,
-    "description": "코리아 그랜드 페스티벌 기간에 백년가게 가맹점에서 삼성카드로 3만원 이상 결제하면 10% 청구할인을 받아요. 11월 1일부터 15일까지 진행되는 행사예요.",
+    "description": "삼성카드로 백년가게 가맹점에서 3만원 이상 결제하면 10% 청구할인을 받을 수 있어요. 코리아 그랜드 페스티벌에 맞춰 11월 1일부터 15일까지 진행돼요.",
     "affiliateUrl": "https://www.samsungcard.com",
     "imageUrl": null,
     "sourceUrl": "https://www.topstarnews.net/news/articleView.html?idxno=16256625",
     "isActive": true,
     "createdAt": "2026-10-25T05:38:46+09:00",
-    "updatedAt": "2026-10-25T05:38:46+09:00"
+    "updatedAt": "2026-10-26T05:37:39+09:00"
   },
   {
     "id": "elevenst-2610-processed-food-sale",
@@ -1183,7 +1183,7 @@
     "affiliateUrl": "https://www.11st.co.kr",
     "imageUrl": null,
     "sourceUrl": "https://www.segye.com/newsView/20261024502955",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-10-25T16:20:27+09:00",
     "updatedAt": "2026-10-25T16:20:27+09:00"
   },
