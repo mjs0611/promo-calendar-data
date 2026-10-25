@@ -2835,13 +2835,13 @@
     "discountRate": null,
     "minSpend": null,
     "maxDiscountAmount": null,
-    "description": "신세계그룹 18개 계열사가 참여하는 '2026 쓱데이' 행사가 열립니다. 행사 기간 동안 최대 50% 페이백 혜택과 신세계포인트 미션 완료 시 최대 5만원 상당의 포인트를 받을 수 있습니다. 일부 상품은 행사카드 전액 결제 시 추가 할인 혜택이 제공됩니다.",
+    "description": "신세계그룹 18개 계열사가 참여하는 10일간 대규모 할인 행사입니다. 계열사별 상품 할인과 쿠폰, 페이백, 쇼핑지원금 등 다양한 혜택을 제공합니다. 신세계포인트 가맹점에서 3회 이상 구매 후 앱 미션을 완료하면 최대 5만원 상당의 포인트를 받을 수 있습니다.",
     "affiliateUrl": "https://www.ssg.com",
     "imageUrl": null,
-    "sourceUrl": "https://www.newsis.com/view/NISX20261023_0003839202",
+    "sourceUrl": "https://www.eroun.net/news/articleView.html?idxno=93346",
     "isActive": true,
     "createdAt": "2026-10-19T05:39:29+09:00",
-    "updatedAt": "2026-10-25T16:20:27+09:00"
+    "updatedAt": "2026-10-25T20:15:46+09:00"
   },
   {
     "id": "ssg-2610-brand-showcase",
@@ -3228,16 +3228,16 @@
     "category": "FASHION",
     "startDate": "2026-10-23T00:00:00+09:00",
     "endDate": "2026-11-01T23:59:59+09:00",
-    "discountRate": 80,
+    "discountRate": null,
     "minSpend": null,
     "maxDiscountAmount": null,
-    "description": "무신사 스탠다드가 온라인 스토어와 전국 44개 매장에서 26 FW 슈퍼세일을 진행해요. 맨·우먼·키즈·뷰티·홈 전 카테고리에서 최대 80% 할인받을 수 있고, 전상품 30% 추가 할인 쿠폰과 무료배송도 제공해요. 한국과 일본(오사카 팝업)에서 동시에 열려요.",
+    "description": "무신사 스탠다드에서 겨울 아우터를 비롯한 전 카테고리 상품을 최대 80% 할인하는 슈퍼세일입니다. 온라인 스토어와 전국 44개 오프라인 매장에서 동시에 진행됩니다. 슈퍼 프라이스, 단 하루 한정가, 균일가 찬스 등 다양한 특가 프로모션도 함께 운영됩니다.",
     "affiliateUrl": "https://www.musinsa.com",
     "imageUrl": null,
-    "sourceUrl": "https://www.socialvalue.kr/news/view/1065568854062796",
+    "sourceUrl": "https://www.news2day.co.kr/article/20261023500180",
     "isActive": true,
     "createdAt": "2026-10-23T12:16:48+09:00",
-    "updatedAt": "2026-10-25T05:38:46+09:00"
+    "updatedAt": "2026-10-25T20:15:46+09:00"
   },
   {
     "id": "ssg-2610-camping-essential",
