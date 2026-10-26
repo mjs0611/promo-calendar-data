@@ -301,7 +301,7 @@
     "affiliateUrl": "https://www.hanssem.com",
     "imageUrl": null,
     "sourceUrl": "https://www.hankyung.com/article/202610199584P",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-10-10T12:20:55+09:00",
     "updatedAt": "2026-10-20T05:37:47+09:00"
   },
@@ -589,7 +589,7 @@
     "affiliateUrl": "https://www.coupang.com",
     "imageUrl": null,
     "sourceUrl": "https://www.newstap.co.kr/news/articleView.html?idxno=335775",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-10-16T05:39:26+09:00",
     "updatedAt": "2026-10-16T05:39:26+09:00"
   },
@@ -1654,5 +1654,23 @@
     "isActive": true,
     "createdAt": "2026-10-26T20:19:40+09:00",
     "updatedAt": "2026-10-26T20:19:40+09:00"
+  },
+  {
+    "id": "coupang-2611-wow-card-rewards",
+    "title": "쿠팡 와우카드 전월 실적 없이 월 최대 7만5천원 적립",
+    "platform": "COUPANG",
+    "category": "SHOPPING",
+    "startDate": "2026-11-01T00:00:00+09:00",
+    "endDate": "2027-04-30T23:59:59+09:00",
+    "discountRate": null,
+    "minSpend": null,
+    "maxDiscountAmount": null,
+    "description": "쿠팡 와우카드로 쿠팡·쿠팡이츠·쿠팡플레이에서 결제하면 결제 금액의 3.5%를 적립받아요. 일반 온라인·오프라인 가맹점에서는 1%를 월 최대 1만원까지 적립받고, GS25·CU·세븐일레븐·이마트24 등 4대 편의점과 카페, 해외 결제에서는 각각 1%를 추가로 월 최대 1만원씩 적립받아요. 전월 실적 조건 없이 전체 혜택을 합쳐 월 최대 7만5천원을 적립받을 수 있어요.",
+    "affiliateUrl": "https://www.coupang.com/",
+    "imageUrl": null,
+    "sourceUrl": "https://www.youthdaily.co.kr/news/article.html?no=228831",
+    "isActive": true,
+    "createdAt": "2026-10-27T05:48:20+09:00",
+    "updatedAt": "2026-10-27T05:48:20+09:00"
   }
 ]
