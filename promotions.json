@@ -1575,13 +1575,13 @@
     "discountRate": null,
     "minSpend": null,
     "maxDiscountAmount": null,
-    "description": "닥터지가 네이버 넾다세일에 참여해 주요 베스트셀러를 최대 75% 할인된 가격에 판매해요. 전 품목 반값 할인과 함께 브랜드스토어 전용 쿠폰, 구매 사은품 혜택도 제공해요. 매일 오전 11시 한정 수량으로 오픈런 특가 행사를 진행해요.",
-    "affiliateUrl": "https://www.naver.com",
+    "description": "닥터지가 네이버 브랜드스토어에서 크림과 선케어 등 베스트셀러를 최대 75% 할인된 가격으로 판매합니다. 전 품목 반값 할인과 브랜드 전용 쿠폰, 구매 사은품 혜택이 함께 제공됩니다. 매일 오전 11시 한정 수량 오픈런 특가와 27일 오후 7시 라이브 방송 한정 혜택도 확인해 보세요.",
+    "affiliateUrl": "https://store.naver.com",
     "imageUrl": null,
-    "sourceUrl": "http://bokuennews.com/news/article.html?no=286099",
+    "sourceUrl": "http://www.bokuennews.com/m/m_article.html?no=286099",
     "isActive": true,
     "createdAt": "2026-10-26T16:20:16+09:00",
-    "updatedAt": "2026-10-26T16:20:16+09:00"
+    "updatedAt": "2026-10-27T16:18:29+09:00"
   },
   {
     "id": "oliveyoung-2610-arocell-blackfesta",
@@ -1672,5 +1672,41 @@
     "isActive": true,
     "createdAt": "2026-10-27T05:48:20+09:00",
     "updatedAt": "2026-10-27T05:48:20+09:00"
+  },
+  {
+    "id": "naver-2610-sky-nneudaseil",
+    "title": "스카이 네이버 넾다세일 미니 히터·가습기 최대 48% 할인",
+    "platform": "NAVER",
+    "category": "ELECTRONICS",
+    "startDate": "2026-10-26T00:00:00+09:00",
+    "endDate": "2026-11-08T23:59:59+09:00",
+    "discountRate": null,
+    "minSpend": null,
+    "maxDiscountAmount": null,
+    "description": "브랜즈컴퍼니의 스카이 브랜드 미니 히터와 가습기, 충전기를 네이버플러스 스토어에서 최대 48% 할인된 가격으로 만나보세요. 행사 쿠폰인 '냅다쿠폰'을 적용하면 H600은 2만4000원대, MH30은 1만7000원대에 구매 가능합니다. 넾다세일 기간 동안 추가 할인 혜택이 적용되니 놓치지 마세요.",
+    "affiliateUrl": "https://store.naver.com",
+    "imageUrl": null,
+    "sourceUrl": "https://www.cstimes.com/news/articleView.html?idxno=725460",
+    "isActive": true,
+    "createdAt": "2026-10-27T16:18:29+09:00",
+    "updatedAt": "2026-10-27T16:18:29+09:00"
+  },
+  {
+    "id": "naver-2610-surin-nneudaseil",
+    "title": "서린씨앤아이 네이버 넾다세일 PC 하드웨어 할인 쿠폰",
+    "platform": "NAVER",
+    "category": "ELECTRONICS",
+    "startDate": "2026-10-26T00:00:00+09:00",
+    "endDate": "2026-11-08T23:59:59+09:00",
+    "discountRate": null,
+    "minSpend": null,
+    "maxDiscountAmount": null,
+    "description": "서린씨앤아이 공식 스마트스토어에서 프렉탈디자인, 클레브, 리안리 등 PC 하드웨어를 할인된 가격으로 판매합니다. 1만원 이상 구매 시 10% 쿠폰, 15만원 이상 7% 쿠폰, 30만원 이상 5% 쿠폰을 제공합니다. 행사 첫날 멤버십데이에는 30만원 이상 결제 시 최대 2만원 한도로 3% 추가 적립 혜택이 적용됩니다.",
+    "affiliateUrl": "https://store.naver.com",
+    "imageUrl": null,
+    "sourceUrl": "http://www.gamefocus.co.kr/detail.php?number=180093",
+    "isActive": true,
+    "createdAt": "2026-10-27T16:18:29+09:00",
+    "updatedAt": "2026-10-27T16:18:29+09:00"
   }
 ]
