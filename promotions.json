@@ -931,7 +931,7 @@
     "affiliateUrl": "https://www.lotteon.com",
     "imageUrl": null,
     "sourceUrl": "https://www.newsis.com/view/NISX20261021_0003835557",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-10-22T12:19:07+09:00",
     "updatedAt": "2026-10-22T12:19:07+09:00"
   },
@@ -1039,7 +1039,7 @@
     "affiliateUrl": "https://www.samsungcard.com",
     "imageUrl": null,
     "sourceUrl": "https://www.speconomy.com/news/articleView.html?idxno=419181",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-10-22T20:22:10+09:00",
     "updatedAt": "2026-10-22T20:22:10+09:00"
   },
@@ -1531,21 +1531,21 @@
   },
   {
     "id": "naver-2610-nneudaseil",
-    "title": "네이버플러스 스토어 넾다세일 1000만개 상품 할인",
+    "title": "네이버플러스 스토어 넾다세일 최대 7만원 할인",
     "platform": "NAVER",
     "category": "SHOPPING",
     "startDate": "2026-10-26T00:00:00+09:00",
     "endDate": "2026-11-08T23:59:59+09:00",
-    "discountRate": null,
+    "discountRate": 10,
     "minSpend": null,
-    "maxDiscountAmount": null,
-    "description": "네이버플러스 스토어에서 1,000만개 상품을 대상으로 하반기 최대 쇼핑 행사 '넾다세일'을 진행해요. 구매 금액에 따라 최대 7만원까지 할인되며, 네이버플러스 멤버십 회원은 20만원 이상 구매 시 3% 추가 적립 혜택을 받을 수 있어요. 신규 가입자에게는 선착순으로 3개월 무료 이용권이 제공돼요.",
+    "maxDiscountAmount": 70000,
+    "description": "네이버플러스 스토어의 '넾다세일'에 1만3000여개 스토어가 참여해요. 매일 5·7·10% 할인 쿠폰을 제공하며, 구매 금액에 따라 최대 7만원까지 할인받을 수 있어요. 최근 1개월간 멤버십 가입 이력이 없는 고객에게는 멤버십 3개월 무료 이용권을 선착순으로 제공해요.",
     "affiliateUrl": "https://store.naver.com",
     "imageUrl": null,
-    "sourceUrl": "https://www.solnews.co.kr/news/articleView.html?idxno=85071",
+    "sourceUrl": "https://www.nanumy.co.kr/news/articleView.html?idxno=4011010",
     "isActive": true,
     "createdAt": "2026-10-26T16:20:16+09:00",
-    "updatedAt": "2026-10-27T12:11:32+09:00"
+    "updatedAt": "2026-10-28T05:42:32+09:00"
   },
   {
     "id": "naver-2610-aeremade-nneudaseil",
@@ -1657,7 +1657,7 @@
   },
   {
     "id": "coupang-2611-wow-card-rewards",
-    "title": "쿠팡 와우카드 전월 실적 없이 월 최대 7만5천원 적립",
+    "title": "쿠팡 와우카드 전월 실적 없이 3.5% 쿠팡캐시 적립",
     "platform": "COUPANG",
     "category": "SHOPPING",
     "startDate": "2026-11-01T00:00:00+09:00",
@@ -1665,13 +1665,13 @@
     "discountRate": null,
     "minSpend": null,
     "maxDiscountAmount": null,
-    "description": "쿠팡 와우카드로 쿠팡·쿠팡이츠·쿠팡플레이에서 결제하면 결제 금액의 3.5%를 적립받아요. 일반 온라인·오프라인 가맹점에서는 1%를 월 최대 1만원까지 적립받고, GS25·CU·세븐일레븐·이마트24 등 4대 편의점과 카페, 해외 결제에서는 각각 1%를 추가로 월 최대 1만원씩 적립받아요. 전월 실적 조건 없이 전체 혜택을 합쳐 월 최대 7만5천원을 적립받을 수 있어요.",
+    "description": "쿠팡 와우카드로 쿠팡·쿠팡이츠·쿠팡플레이에서 결제하면 전월 실적과 관계없이 이용 금액의 3.5%를 쿠팡캐시로 적립받아요. 기본 적립 2%에 프로모션 적립 1.5%를 더한 혜택이며, 월 적립 한도는 3만5000원이에요.",
     "affiliateUrl": "https://www.coupang.com/",
     "imageUrl": null,
-    "sourceUrl": "https://www.youthdaily.co.kr/news/article.html?no=228831",
+    "sourceUrl": "https://www.dailypop.kr/news/articleView.html?idxno=103778",
     "isActive": true,
     "createdAt": "2026-10-27T05:48:20+09:00",
-    "updatedAt": "2026-10-27T05:48:20+09:00"
+    "updatedAt": "2026-10-28T05:42:32+09:00"
   },
   {
     "id": "naver-2610-sky-nneudaseil",
@@ -1719,13 +1719,13 @@
     "discountRate": null,
     "minSpend": null,
     "maxDiscountAmount": null,
-    "description": "요기요에서 컴포즈커피 아메리카노와 한솥도시락 치킨마요 주문 시 결제 금액의 50%를 포인트로 적립해 드립니다. 처갓집양념치킨 슈프림양념치킨은 30%, 기타 참여 브랜드 메뉴는 10% 적립 혜택이 적용됩니다.",
+    "description": "컴포즈커피 아메리카노와 한솥도시락 치킨마요를 주문하면 총 주문금액의 50%를 요기요 포인트로 적립받아요. 처갓집양념치킨 슈프림양념치킨은 30%, 참여 브랜드의 다른 메뉴는 기본 10%를 적립받아요. 배달과 포장 주문 모두 혜택을 받을 수 있어요.",
     "affiliateUrl": "https://www.yogiyo.co.kr",
     "imageUrl": null,
     "sourceUrl": "https://zdnet.co.kr/view/?no=20261027184729",
     "isActive": true,
     "createdAt": "2026-10-27T20:12:57+09:00",
-    "updatedAt": "2026-10-27T20:12:57+09:00"
+    "updatedAt": "2026-10-28T05:42:32+09:00"
   },
   {
     "id": "musinsa-2610-outer-festival",
