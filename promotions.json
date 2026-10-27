@@ -1515,19 +1515,19 @@
     "id": "naver-2610-tefal-onepick",
     "title": "테팔 원픽어워즈 주방·생활가전 최대 60% 할인",
     "platform": "NAVER",
-    "category": "LIVING",
+    "category": "ELECTRONICS",
     "startDate": "2026-10-26T00:00:00+09:00",
     "endDate": "2026-11-08T23:59:59+09:00",
     "discountRate": null,
     "minSpend": null,
     "maxDiscountAmount": null,
-    "description": "네이버에서 테팔 인기 주방용품과 생활가전을 최대 60% 할인된 가격에 판매해요. 무선청소기, 전기밥솥, 블렌더 등 다양한 가전을 만나볼 수 있어요. '퍼펙트 레지스트' 프라이팬과 냄비 구매 시 최대 45% 할인과 함께 설거지바를 증정해요.",
-    "affiliateUrl": "https://www.naver.com",
+    "description": "테팔의 하반기 대규모 기획전 '원픽어워즈'가 네이버에서 11월 8일까지 진행돼요. 주방·생활가전 상품을 최대 60% 할인된 가격에 구매할 수 있으며, '퍼펙트 레지스트' 시리즈 구매 시 최대 45% 할인과 설거지바 증정 혜택이 있어요. 네이버 브랜드 스토어에서는 선착순 10% 추가 할인 쿠폰과 N배송 1만원 쿠폰도 지급해요.",
+    "affiliateUrl": "https://store.naver.com",
     "imageUrl": null,
-    "sourceUrl": "https://www.newstap.co.kr/news/articleView.html?idxno=336474",
+    "sourceUrl": "https://sports.khan.co.kr/article/202610270505003",
     "isActive": true,
     "createdAt": "2026-10-26T16:20:16+09:00",
-    "updatedAt": "2026-10-26T16:20:16+09:00"
+    "updatedAt": "2026-10-27T12:11:32+09:00"
   },
   {
     "id": "naver-2610-nneudaseil",
@@ -1539,13 +1539,13 @@
     "discountRate": null,
     "minSpend": null,
     "maxDiscountAmount": null,
-    "description": "네이버에서 1만3000여개 스토어가 참여해 약 1000만개 상품을 할인 판매하는 넾다세일을 진행해요. 매일 5%·7%·10% 할인 쿠폰을 제공하며 구매 금액에 따라 최대 7만원까지 할인받을 수 있어요. 26일 멤버십데이에는 20만원 이상 구매 시 3% 추가 적립 혜택도 있어요.",
-    "affiliateUrl": "https://www.naver.com",
+    "description": "네이버플러스 스토어에서 1,000만개 상품을 대상으로 하반기 최대 쇼핑 행사 '넾다세일'을 진행해요. 구매 금액에 따라 최대 7만원까지 할인되며, 네이버플러스 멤버십 회원은 20만원 이상 구매 시 3% 추가 적립 혜택을 받을 수 있어요. 신규 가입자에게는 선착순으로 3개월 무료 이용권이 제공돼요.",
+    "affiliateUrl": "https://store.naver.com",
     "imageUrl": null,
-    "sourceUrl": "https://www.newspim.com/news/view/20261026000231",
+    "sourceUrl": "https://www.solnews.co.kr/news/articleView.html?idxno=85071",
     "isActive": true,
     "createdAt": "2026-10-26T16:20:16+09:00",
-    "updatedAt": "2026-10-26T16:20:16+09:00"
+    "updatedAt": "2026-10-27T12:11:32+09:00"
   },
   {
     "id": "naver-2610-aeremade-nneudaseil",
@@ -1593,13 +1593,13 @@
     "discountRate": null,
     "minSpend": null,
     "maxDiscountAmount": null,
-    "description": "아로셀이 10월 27일부터 11월 24일까지 연중 최대 규모의 '블랙 페스타'를 진행해요. 1부 기간인 10월 27일부터 11월 9일까지는 매일 오전 11시 앰플 5종 60% 할인, 오후 6시 마스크팩 모음전이 열려요. 11월 3일부터 9일까지는 크림 제품을 최대 80% 할인된 가격에 만나볼 수 있어요.",
+    "description": "아로셀의 연중 최대 할인 행사 '블랙 페스타'가 10월 27일부터 11월 24일까지 진행돼요. 1부 기간(10/27~11/9)에는 앰플 5종 60% 할인, 크림 최대 80% 할인 등 시간대별 특별 프로모션이 운영돼요. 신규 회원은 '슈퍼샷 콜트라 앰플 3X'를 9,900원에 구매할 수 있는 특별 혜택도 제공돼요.",
     "affiliateUrl": "https://www.oliveyoung.co.kr",
     "imageUrl": null,
     "sourceUrl": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065579446464307",
     "isActive": true,
     "createdAt": "2026-10-26T20:19:40+09:00",
-    "updatedAt": "2026-10-26T20:19:40+09:00"
+    "updatedAt": "2026-10-27T12:11:32+09:00"
   },
   {
     "id": "baemin-2610-baekok-coffee",
@@ -1647,13 +1647,13 @@
     "discountRate": null,
     "minSpend": null,
     "maxDiscountAmount": null,
-    "description": "배달의민족에서 맥도날드 신메뉴 '빅아치'를 3,000원 할인하는 프로모션을 진행해요. 11월 1일까지 배달의민족 앱에서 맥도날드를 주문하면 해당 혜택이 적용돼요. 신메뉴 출시를 기념한 이번 행사는 배달의민족 이용 고객이라면 누구나 참여할 수 있어요.",
+    "description": "빅아치 할인과 별도로 맥도날드 전 메뉴 주문 시 사용 가능한 5,000원 쿠폰도 선착순으로 지급돼요. 쿠팡이츠에서는 와우회원을 대상으로 두찜, 버거킹 등 외식 브랜드 할인 행사도 함께 진행돼요.",
     "affiliateUrl": "https://www.baemin.com",
     "imageUrl": null,
-    "sourceUrl": "https://www.kdfnews.com/news/articleView.html?idxno=189877",
+    "sourceUrl": "https://www.segye.com/newsView/20261026503230",
     "isActive": true,
     "createdAt": "2026-10-26T20:19:40+09:00",
-    "updatedAt": "2026-10-26T20:19:40+09:00"
+    "updatedAt": "2026-10-27T12:11:32+09:00"
   },
   {
     "id": "coupang-2611-wow-card-rewards",
