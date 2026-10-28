@@ -1744,5 +1744,23 @@
     "isActive": true,
     "createdAt": "2026-10-27T20:12:57+09:00",
     "updatedAt": "2026-10-27T20:12:57+09:00"
+  },
+  {
+    "id": "yogiyo-2610-toreeju-packaging",
+    "title": "요기요 뚜레쥬르 포장 주문 50% 할인",
+    "platform": "YOGIYO",
+    "category": "FOOD",
+    "startDate": "2026-10-28T00:00:00+09:00",
+    "endDate": "2026-10-28T23:59:59+09:00",
+    "discountRate": null,
+    "minSpend": null,
+    "maxDiscountAmount": null,
+    "description": "요기요 앱에서 뚜레쥬르 포장 주문 시 50% 할인 혜택을 제공합니다. 선착순 쿠폰과 즉시할인을 함께 적용하면 최대 9,000원까지 할인받을 수 있으며, 최소 주문 금액은 18,000원입니다.",
+    "affiliateUrl": "https://www.yogiyo.co.kr",
+    "imageUrl": null,
+    "sourceUrl": "https://www.specialtimes.co.kr/news/articleView.html?idxno=479156",
+    "isActive": true,
+    "createdAt": "2026-10-28T12:12:46+09:00",
+    "updatedAt": "2026-10-28T12:12:46+09:00"
   }
 ]
