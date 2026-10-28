@@ -1683,13 +1683,13 @@
     "discountRate": null,
     "minSpend": null,
     "maxDiscountAmount": null,
-    "description": "브랜즈컴퍼니의 스카이 브랜드 미니 히터와 가습기, 충전기를 네이버플러스 스토어에서 최대 48% 할인된 가격으로 만나보세요. 행사 쿠폰인 '냅다쿠폰'을 적용하면 H600은 2만4000원대, MH30은 1만7000원대에 구매 가능합니다. 넾다세일 기간 동안 추가 할인 혜택이 적용되니 놓치지 마세요.",
+    "description": "브랜즈컴퍼니가 운영하는 스카이 브랜드의 겨울철 생활가전 및 충전기 할인 행사입니다. 주요 제품을 최대 48% 할인하고 냅다쿠폰 적용 시 추가 구매 혜택도 제공합니다. 초미니 충전기, 일체형 충전기 등 다양한 제품을 합리적인 가격에 만나볼 수 있어요.",
     "affiliateUrl": "https://store.naver.com",
     "imageUrl": null,
-    "sourceUrl": "https://www.cstimes.com/news/articleView.html?idxno=725460",
+    "sourceUrl": "https://www.newsnjeju.com/news/articleView.html?idxno=303075",
     "isActive": true,
     "createdAt": "2026-10-27T16:18:29+09:00",
-    "updatedAt": "2026-10-27T16:18:29+09:00"
+    "updatedAt": "2026-10-28T20:19:11+09:00"
   },
   {
     "id": "naver-2610-surin-nneudaseil",
@@ -1701,13 +1701,13 @@
     "discountRate": null,
     "minSpend": null,
     "maxDiscountAmount": null,
-    "description": "서린씨앤아이 공식 스마트스토어에서 프렉탈디자인, 클레브, 리안리 등 PC 하드웨어를 할인된 가격으로 판매합니다. 1만원 이상 구매 시 10% 쿠폰, 15만원 이상 7% 쿠폰, 30만원 이상 5% 쿠폰을 제공합니다. 행사 첫날 멤버십데이에는 30만원 이상 결제 시 최대 2만원 한도로 3% 추가 적립 혜택이 적용됩니다.",
+    "description": "서린씨앤아이 공식 스마트스토어에서 진행되는 넾다세일 행사입니다. 1만원 이상 구매 시 10%(최대 1만원), 15만원 이상 7%(최대 2만원), 30만원 이상 5%(최대 7만원) 할인 쿠폰을 제공합니다. 행사 첫날인 10월 26일에는 30만원 이상 결제 시 최대 2만원 추가 적립 혜택도 적용돼요.",
     "affiliateUrl": "https://store.naver.com",
     "imageUrl": null,
     "sourceUrl": "http://www.gamefocus.co.kr/detail.php?number=180093",
     "isActive": true,
     "createdAt": "2026-10-27T16:18:29+09:00",
-    "updatedAt": "2026-10-27T16:18:29+09:00"
+    "updatedAt": "2026-10-28T20:19:11+09:00"
   },
   {
     "id": "yogiyo-2610-special-brand-points",
@@ -1737,13 +1737,13 @@
     "discountRate": null,
     "minSpend": null,
     "maxDiscountAmount": null,
-    "description": "무신사에서 800여 개 브랜드의 2026 FW 신상품과 아우터를 최대 80% 할인된 가격으로 만나보실 수 있습니다. 프리미엄, 트렌디, 데일리 라인별로 최대 30% 쿠폰팩 등 추가 혜택도 제공됩니다. 행사는 10월 29일 오전 11시까지 진행됩니다.",
+    "description": "800여 개 브랜드가 참여하는 2026 FW 시즌 신상품 및 아우터 할인 행사입니다. 헤비 다운, 코트, 숏패딩 등 다양한 아우터를 최대 80% 할인된 가격에 만나볼 수 있어요. 프리미엄, 트렌디, 데일리 라인별로 최대 30% 쿠폰팩 혜택도 함께 제공됩니다.",
     "affiliateUrl": "https://www.musinsa.com",
     "imageUrl": null,
     "sourceUrl": "https://www.kmib.co.kr/article/20261027501460",
     "isActive": true,
     "createdAt": "2026-10-27T20:12:57+09:00",
-    "updatedAt": "2026-10-27T20:12:57+09:00"
+    "updatedAt": "2026-10-28T20:19:11+09:00"
   },
   {
     "id": "yogiyo-2610-toreeju-packaging",
@@ -1809,12 +1809,12 @@
     "discountRate": null,
     "minSpend": null,
     "maxDiscountAmount": null,
-    "description": "LG전자가 코리아 그랜드 페스티벌을 맞아 10월 29일부터 11월 30일까지 LGE.COM과 베스트샵에서 할인 행사를 진행해요. 앱 이용 고객에게 최대 27만원 쿠폰을 제공하며, 올레드 TV와 워시타워 등 15개 품목에 최대 104만원 상당의 혜택을 제공해요.",
+    "description": "LG전자 공식 온라인몰과 베스트샵에서 진행되는 연말 가전 할인 행사입니다. 앱 이용 고객에게 구매 금액에 따라 최대 27만원까지 할인되는 총 100만원 상당의 쿠폰 6종을 제공합니다. 11월 2일까지 TV, 냉장고 등 인기 가전을 한정 수량으로 판매하는 오픈 5일 선착순 특가도 진행돼요.",
     "affiliateUrl": "https://www.lge.com",
     "imageUrl": null,
-    "sourceUrl": "https://www.m-i.kr/news/articleView.html?idxno=2011069",
+    "sourceUrl": "https://m.dailian.co.kr/news/view/1706543/",
     "isActive": true,
     "createdAt": "2026-10-28T16:20:28+09:00",
-    "updatedAt": "2026-10-28T16:20:28+09:00"
+    "updatedAt": "2026-10-28T20:19:11+09:00"
   }
 ]
