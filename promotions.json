@@ -877,7 +877,7 @@
     "affiliateUrl": "https://www.shinsegae.com",
     "imageUrl": null,
     "sourceUrl": "https://www.viva100.com/article/20261020500195",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-10-21T16:26:17+09:00",
     "updatedAt": "2026-10-21T16:26:17+09:00"
   },
@@ -985,7 +985,7 @@
     "affiliateUrl": "https://www.ssg.com",
     "imageUrl": null,
     "sourceUrl": "https://www.segye.com/newsView/20261024502955",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-10-22T16:36:10+09:00",
     "updatedAt": "2026-10-25T16:20:27+09:00"
   },
@@ -1129,7 +1129,7 @@
     "affiliateUrl": "https://www.lotteon.com",
     "imageUrl": null,
     "sourceUrl": "https://www.etoday.co.kr/news/view/2639132",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-10-23T16:26:02+09:00",
     "updatedAt": "2026-10-25T05:38:46+09:00"
   },
@@ -1507,7 +1507,7 @@
     "affiliateUrl": "https://www.lotteon.com",
     "imageUrl": null,
     "sourceUrl": "https://www.yna.co.kr/view/AKR20261025038100030",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-10-26T16:20:16+09:00",
     "updatedAt": "2026-10-26T16:20:16+09:00"
   },
@@ -1633,7 +1633,7 @@
     "affiliateUrl": "https://www.lotteon.com",
     "imageUrl": null,
     "sourceUrl": "https://www.etnews.com/20261026000069",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-10-26T20:19:40+09:00",
     "updatedAt": "2026-10-26T20:19:40+09:00"
   },
@@ -1675,21 +1675,21 @@
   },
   {
     "id": "naver-2610-sky-nneudaseil",
-    "title": "스카이 네이버 넾다세일 미니 히터·가습기 최대 48% 할인",
+    "title": "스카이 네이버 넾다세일 겨울가전·충전기 최대 48% 할인",
     "platform": "NAVER",
     "category": "ELECTRONICS",
     "startDate": "2026-10-26T00:00:00+09:00",
     "endDate": "2026-11-08T23:59:59+09:00",
-    "discountRate": null,
+    "discountRate": 48,
     "minSpend": null,
     "maxDiscountAmount": null,
-    "description": "브랜즈컴퍼니가 운영하는 스카이 브랜드의 겨울철 생활가전 및 충전기 할인 행사입니다. 주요 제품을 최대 48% 할인하고 냅다쿠폰 적용 시 추가 구매 혜택도 제공합니다. 초미니 충전기, 일체형 충전기 등 다양한 제품을 합리적인 가격에 만나볼 수 있어요.",
+    "description": "네이버 스카이 공식 스토어에서 겨울철 생활가전과 충전기 등을 최대 48% 할인해요. 냅다쿠폰을 적용하면 초미니 충전기는 14,000원대, 케이블 일체형 충전기는 26,000원대에 구매할 수 있어요.",
     "affiliateUrl": "https://store.naver.com",
     "imageUrl": null,
     "sourceUrl": "https://www.newsnjeju.com/news/articleView.html?idxno=303075",
     "isActive": true,
     "createdAt": "2026-10-27T16:18:29+09:00",
-    "updatedAt": "2026-10-28T20:19:11+09:00"
+    "updatedAt": "2026-10-29T05:47:11+09:00"
   },
   {
     "id": "naver-2610-surin-nneudaseil",
@@ -1759,7 +1759,7 @@
     "affiliateUrl": "https://www.yogiyo.co.kr",
     "imageUrl": null,
     "sourceUrl": "https://www.specialtimes.co.kr/news/articleView.html?idxno=479156",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-10-28T12:12:46+09:00",
     "updatedAt": "2026-10-28T12:12:46+09:00"
   },
