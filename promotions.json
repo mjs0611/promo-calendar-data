@@ -687,19 +687,19 @@
     "id": "ssg-2610-ssuk-day",
     "title": "신세계 쓱데이 대한민국 시그니처 세일",
     "platform": "SSG",
-    "category": "SHOPPING",
+    "category": "FOOD",
     "startDate": "2026-10-30T00:00:00+09:00",
     "endDate": "2026-11-08T23:59:59+09:00",
     "discountRate": null,
     "minSpend": null,
     "maxDiscountAmount": null,
-    "description": "이마트와 트레이더스, 에브리데이가 참여하는 연중 최대 할인 행사 '쓱데이'가 열려요. 행사카드 결제 시 한우 전 품목 50% 할인, 에코백스 로봇청소기 49만9천원, 쿠쿠 음식물처리기 24만9천원 등 가전 특가 혜택이 제공돼요.",
+    "description": "이마트가 연중 최대 할인행사인 '쓱데이'를 10일간 진행하며, 행사카드 결제 시 한우 전 품목을 50% 할인 판매해요.",
     "affiliateUrl": "https://www.ssg.com",
     "imageUrl": null,
-    "sourceUrl": "https://zdnet.co.kr/view/?no=20261027183926",
+    "sourceUrl": "https://www.finomy.com/news/articleView.html?idxno=264789",
     "isActive": true,
     "createdAt": "2026-10-19T05:39:29+09:00",
-    "updatedAt": "2026-10-28T16:20:28+09:00"
+    "updatedAt": "2026-10-29T16:21:26+09:00"
   },
   {
     "id": "hyundai-2610-petfriends-event",
@@ -1791,13 +1791,13 @@
     "discountRate": null,
     "minSpend": null,
     "maxDiscountAmount": null,
-    "description": "코리아 그랜드 페스티벌 기간 네이버에서 가공식품과 일상용품 25개사가 참여하는 'K-세일페스타 빅브랜드위크'가 진행돼요. B마트에서는 최대 60% 할인 혜택이 제공되며, 소상공인 제품도 최대 60% 할인된 가격에 만나볼 수 있어요.",
+    "description": "네이버가 가공식품 및 생활용품 25개사가 참여하는 'K-세일페스타 빅브랜드위크'를 개최해요. '코그페 100 기획전'을 통해 20% 할인쿠폰을 지원하고, 소상공인 제품을 최대 60% 할인된 가격에 판매합니다.",
     "affiliateUrl": "https://www.naver.com",
     "imageUrl": null,
-    "sourceUrl": "https://www.mt.co.kr/economy/2026/10/27/2026102709552236795",
+    "sourceUrl": "https://www.hkbs.co.kr/news/articleView.html?idxno=836804",
     "isActive": true,
     "createdAt": "2026-10-28T16:20:28+09:00",
-    "updatedAt": "2026-10-28T16:20:28+09:00"
+    "updatedAt": "2026-10-29T16:21:26+09:00"
   },
   {
     "id": "samsung-2611-lg-korea-grand-festival",
@@ -1816,5 +1816,41 @@
     "isActive": true,
     "createdAt": "2026-10-28T16:20:28+09:00",
     "updatedAt": "2026-10-28T20:19:11+09:00"
+  },
+  {
+    "id": "coupang-2611-jeonghan-shop",
+    "title": "쿠팡 착한상점 중소상공인 상품 10% 할인",
+    "platform": "COUPANG",
+    "category": "SHOPPING",
+    "startDate": "2026-10-29T00:00:00+09:00",
+    "endDate": "2026-11-15T23:59:59+09:00",
+    "discountRate": null,
+    "minSpend": null,
+    "maxDiscountAmount": null,
+    "description": "쿠팡의 중소상공인 상생 전문관 '착한상점'이 코리아 그랜드 페스티벌에 참여해 1만여 개 상품을 할인 판매해요. 즉시할인 또는 쿠폰을 통해 10% 할인 혜택을 제공하며, 11월 15일까지 진행됩니다.",
+    "affiliateUrl": "https://www.coupang.com",
+    "imageUrl": null,
+    "sourceUrl": "https://www.ilyoweekly.co.kr/news/newsview.php?ncode=1065592683584142",
+    "isActive": true,
+    "createdAt": "2026-10-29T16:21:26+09:00",
+    "updatedAt": "2026-10-29T16:21:26+09:00"
+  },
+  {
+    "id": "lotteon-2611-trademarket-discount",
+    "title": "롯데온 전통시장 상품 최대 30% 할인",
+    "platform": "LOTTEON",
+    "category": "FOOD",
+    "startDate": "2026-10-29T00:00:00+09:00",
+    "endDate": "2026-11-15T23:59:59+09:00",
+    "discountRate": null,
+    "minSpend": null,
+    "maxDiscountAmount": null,
+    "description": "롯데온이 전국 4만여 개 기업이 참여하는 '코리아 그랜드 페스티벌'에 맞춰 전통시장 140여 개 점포의 제품을 판매해요. 행사 기간 동안 해당 상품들을 최대 30% 할인된 가격에 만나볼 수 있습니다.",
+    "affiliateUrl": "https://www.lotteon.com",
+    "imageUrl": null,
+    "sourceUrl": "https://www.hkbs.co.kr/news/articleView.html?idxno=836804",
+    "isActive": true,
+    "createdAt": "2026-10-29T16:21:26+09:00",
+    "updatedAt": "2026-10-29T16:21:26+09:00"
   }
 ]
