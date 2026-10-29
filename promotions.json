@@ -499,7 +499,7 @@
     "affiliateUrl": "https://www.shinhancard.com",
     "imageUrl": null,
     "sourceUrl": "http://www.dhdaily.co.kr/news/articleView.html?idxno=27550",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-10-15T05:37:06+09:00",
     "updatedAt": "2026-10-15T05:37:06+09:00"
   },
@@ -751,7 +751,7 @@
     "affiliateUrl": "https://www.kbcard.com",
     "imageUrl": null,
     "sourceUrl": "https://www.dailysmart.co.kr/news/articleView.html?idxno=131224",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-10-20T16:20:51+09:00",
     "updatedAt": "2026-10-20T16:20:51+09:00"
   },
@@ -1093,7 +1093,7 @@
     "affiliateUrl": "https://www.emart.com",
     "imageUrl": null,
     "sourceUrl": "https://www.bizwnews.com/news/articleView.html?idxno=149849",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-10-23T16:26:02+09:00",
     "updatedAt": "2026-10-25T16:20:27+09:00"
   },
@@ -1147,7 +1147,7 @@
     "affiliateUrl": "https://pay.naver.com",
     "imageUrl": null,
     "sourceUrl": "https://www.tournews21.com/news/articleView.html?idxno=146523",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-10-24T20:17:19+09:00",
     "updatedAt": "2026-10-26T05:37:39+09:00"
   },
@@ -1741,7 +1741,7 @@
     "affiliateUrl": "https://www.musinsa.com",
     "imageUrl": null,
     "sourceUrl": "https://www.kmib.co.kr/article/20261027501460",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-10-27T20:12:57+09:00",
     "updatedAt": "2026-10-28T20:19:11+09:00"
   },
@@ -1770,16 +1770,16 @@
     "category": "SHOPPING",
     "startDate": "2026-11-02T00:00:00+09:00",
     "endDate": "2026-11-08T23:59:59+09:00",
-    "discountRate": null,
-    "minSpend": null,
-    "maxDiscountAmount": null,
-    "description": "쿠팡 와우회원을 대상으로 37만여 개 상품을 최대 70% 할인된 가격에 만나볼 수 있습니다. 3만원 이상 구매 시 1만원, 10만원 이상 구매 시 3만원 할인 쿠폰을 매일 선착순으로 제공하며, 하루 최대 4장까지 발급 가능합니다. 로켓프레시 신선식품부터 가전·디지털, 뷰티, 패션 등 16개 카테고리가 참여합니다.",
+    "discountRate": 70,
+    "minSpend": 30000,
+    "maxDiscountAmount": 30000,
+    "description": "와우회원을 대상으로 90여 개 주요 브랜드를 포함한 수천 개 브랜드의 37만 개 이상 상품을 최대 70% 할인해요. 회차마다 두 종류를 모두 받을 수 있어 하루 최대 4장까지 발급할 수 있어요.",
     "affiliateUrl": "https://www.coupang.com",
     "imageUrl": null,
-    "sourceUrl": "https://www.newsis.com/view/NISX20261028_0003844903",
+    "sourceUrl": "https://www.wikitree.co.kr/articles/1170061",
     "isActive": true,
     "createdAt": "2026-10-28T16:20:28+09:00",
-    "updatedAt": "2026-10-29T12:18:51+09:00"
+    "updatedAt": "2026-10-30T05:45:23+09:00"
   },
   {
     "id": "naver-2611-k-salefesta-bigbrandweek",
@@ -1870,5 +1870,23 @@
     "isActive": true,
     "createdAt": "2026-10-29T20:16:52+09:00",
     "updatedAt": "2026-10-29T20:16:52+09:00"
+  },
+  {
+    "id": "toss-2610-hanaromart-cabbage",
+    "title": "하나로마트 절임배추 사전 예약 토스 결제 5,000원 추가 할인",
+    "platform": "TOSS",
+    "category": "FOOD",
+    "startDate": "2026-10-29T00:00:00+09:00",
+    "endDate": "2026-11-04T23:59:59+09:00",
+    "discountRate": null,
+    "minSpend": null,
+    "maxDiscountAmount": null,
+    "description": "전국 38개 하나로마트 점포에서 절임배추를 사전 예약하고 토스 머니·계좌로 결제하면 5,000원을 추가 할인받아요. 5박스 이상 구매하는 고객에게는 1만원 즉시 할인 혜택도 제공해요. 예약한 절임배추는 11월 12일부터 25일까지 순차적으로 받아요.",
+    "affiliateUrl": null,
+    "imageUrl": null,
+    "sourceUrl": "https://www.pointdaily.co.kr/news/articleView.html?idxno=323940",
+    "isActive": true,
+    "createdAt": "2026-10-30T05:45:23+09:00",
+    "updatedAt": "2026-10-30T05:45:23+09:00"
   }
 ]
