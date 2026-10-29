@@ -1852,5 +1852,23 @@
     "isActive": true,
     "createdAt": "2026-10-29T16:21:26+09:00",
     "updatedAt": "2026-10-29T16:21:26+09:00"
+  },
+  {
+    "id": "coupang-2610-jeonghan-shop",
+    "title": "쿠팡 착한상점 중소상공인 상품 10% 할인",
+    "platform": "COUPANG",
+    "category": "SHOPPING",
+    "startDate": "2026-10-29T00:00:00+09:00",
+    "endDate": "2026-11-15T23:59:59+09:00",
+    "discountRate": null,
+    "minSpend": null,
+    "maxDiscountAmount": null,
+    "description": "쿠팡이 중소상공인 상생 전문관 '착한상점'의 상품 1만여 개를 대상으로 10% 할인 혜택을 제공합니다. 산업통상부 'K-세일페스타'와 연계된 '코리아 그랜드 페스티벌'의 일환으로, 할인 비용은 쿠팡이 전액 부담합니다. 상품별 즉시할인 또는 쿠폰 방식으로 적용되며, 11월 15일까지 진행됩니다.",
+    "affiliateUrl": "https://www.coupang.com",
+    "imageUrl": null,
+    "sourceUrl": "https://www.dailysmart.co.kr/news/articleView.html?idxno=131741",
+    "isActive": true,
+    "createdAt": "2026-10-29T20:16:52+09:00",
+    "updatedAt": "2026-10-29T20:16:52+09:00"
   }
 ]
