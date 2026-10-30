@@ -1863,13 +1863,13 @@
     "discountRate": null,
     "minSpend": null,
     "maxDiscountAmount": null,
-    "description": "쿠팡이 중소상공인 상생 전문관 '착한상점'의 상품 1만여 개를 대상으로 10% 할인 혜택을 제공합니다. 산업통상부 'K-세일페스타'와 연계된 '코리아 그랜드 페스티벌'의 일환으로, 할인 비용은 쿠팡이 전액 부담합니다. 상품별 즉시할인 또는 쿠폰 방식으로 적용되며, 11월 15일까지 진행됩니다.",
+    "description": "쿠팡의 중소상공인 상생 전문관 '착한상점'이 코리아 그랜드 페스티벌에 참여해 11월 15일까지 중소상공인 상품 1만여개를 할인 판매합니다. 입점 상품을 대상으로 즉시할인 또는 쿠폰을 통해 10% 할인 혜택을 제공하며, 내수 소비 촉진과 소상공인 매출 증대를 지원하기 위한 행사예요.",
     "affiliateUrl": "https://www.coupang.com",
     "imageUrl": null,
-    "sourceUrl": "https://www.dailysmart.co.kr/news/articleView.html?idxno=131741",
+    "sourceUrl": "https://www.ilyoweekly.co.kr/news/newsview.php?ncode=1065592683584142",
     "isActive": true,
     "createdAt": "2026-10-29T20:16:52+09:00",
-    "updatedAt": "2026-10-29T20:16:52+09:00"
+    "updatedAt": "2026-10-30T12:17:52+09:00"
   },
   {
     "id": "toss-2610-hanaromart-cabbage",
@@ -1888,5 +1888,41 @@
     "isActive": true,
     "createdAt": "2026-10-30T05:45:23+09:00",
     "updatedAt": "2026-10-30T05:45:23+09:00"
+  },
+  {
+    "id": "toss-2610-toreeju-cake",
+    "title": "뚜레쥬르 토스페이 케이크 100원 구매 쿠폰 및 80% 할인",
+    "platform": "TOSS",
+    "category": "FOOD",
+    "startDate": "2026-10-30T00:00:00+09:00",
+    "endDate": "2026-11-10T23:59:59+09:00",
+    "discountRate": null,
+    "minSpend": null,
+    "maxDiscountAmount": null,
+    "description": "CJ푸드빌 뚜레쥬르가 토스페이 도입 기념으로 11월 2일 '토스페이 케이크'를 출시합니다. 10월 30일부터 11월 1일까지 매일 선착순 700명에게 100원 구매 쿠폰을 지급하며, 11월 2일부터 10일까지 매장에서 토스페이 QR 결제 시 해당 케이크를 80% 할인된 가격에 구매할 수 있어요.",
+    "affiliateUrl": "https://toss.com",
+    "imageUrl": null,
+    "sourceUrl": "https://www.newsquest.co.kr/news/articleView.html?idxno=303796",
+    "isActive": true,
+    "createdAt": "2026-10-30T12:17:52+09:00",
+    "updatedAt": "2026-10-30T12:17:52+09:00"
+  },
+  {
+    "id": "lotteon-2610-apple-festival",
+    "title": "롯데마트 가을 햇사과 페스티벌 사과 4종 할인",
+    "platform": "LOTTEON",
+    "category": "FOOD",
+    "startDate": "2026-10-30T00:00:00+09:00",
+    "endDate": "2026-11-04T23:59:59+09:00",
+    "discountRate": null,
+    "minSpend": null,
+    "maxDiscountAmount": null,
+    "description": "롯데마트가 11월 4일까지 메가통큰 행사와 연계해 가을 햇사과 페스티벌을 진행합니다. 부사 사과는 행사카드 결제 시 5,000원 할인된 6,990원, 감홍·엔비 사과는 3,000원 할인된 8,990원에 판매하며, 시나노골드도 행사카드 결제 시 6,990원이에요.",
+    "affiliateUrl": "https://www.lotteon.com",
+    "imageUrl": null,
+    "sourceUrl": "http://www.newslock.co.kr/news/articleView.html?idxno=138980",
+    "isActive": true,
+    "createdAt": "2026-10-30T12:17:52+09:00",
+    "updatedAt": "2026-10-30T12:17:52+09:00"
   }
 ]
