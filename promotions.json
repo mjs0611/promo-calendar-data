@@ -1801,21 +1801,21 @@
   },
   {
     "id": "samsung-2611-lg-korea-grand-festival",
-    "title": "LG전자 코리아 그랜드 페스티벌 가전 할인",
+    "title": "삼성전자 11월 코리아 그랜드 페스티벌 가전·모바일 최대 50% 할인",
     "platform": "SAMSUNG_CARD",
     "category": "ELECTRONICS",
-    "startDate": "2026-10-29T00:00:00+09:00",
+    "startDate": "2026-11-01T00:00:00+09:00",
     "endDate": "2026-11-30T23:59:59+09:00",
     "discountRate": null,
     "minSpend": null,
     "maxDiscountAmount": null,
-    "description": "LG전자 공식 온라인몰과 베스트샵에서 진행되는 연말 가전 할인 행사입니다. 앱 이용 고객에게 구매 금액에 따라 최대 27만원까지 할인되는 총 100만원 상당의 쿠폰 6종을 제공합니다. 11월 2일까지 TV, 냉장고 등 인기 가전을 한정 수량으로 판매하는 오픈 5일 선착순 특가도 진행돼요.",
-    "affiliateUrl": "https://www.lge.com",
+    "description": "삼성카드 또는 롯데카드로 결제 시 최대 36개월 무이자 할부와 삼성카드 3% 결제일 할인 혜택도 함께 받을 수 있습니다. 소상공인 전용 할인 대상도 13개 품목·104개 모델로 확대되어 사업자몰 이용 시 일부 모델에 5% 할인 쿠폰이 적용됩니다.",
+    "affiliateUrl": "https://www.samsungcard.com",
     "imageUrl": null,
-    "sourceUrl": "https://m.dailian.co.kr/news/view/1706543/",
+    "sourceUrl": "https://www.newspim.com/news/view/20261030000250",
     "isActive": true,
     "createdAt": "2026-10-28T16:20:28+09:00",
-    "updatedAt": "2026-10-28T20:19:11+09:00"
+    "updatedAt": "2026-10-30T16:15:38+09:00"
   },
   {
     "id": "coupang-2611-jeonghan-shop",
