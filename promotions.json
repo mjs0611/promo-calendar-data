@@ -211,7 +211,7 @@
     "affiliateUrl": "https://www.samsungcard.com",
     "imageUrl": null,
     "sourceUrl": "https://www.cstimes.com/news/articleView.html?idxno=722102",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-10-06T20:19:28+09:00",
     "updatedAt": "2026-10-06T20:19:28+09:00"
   },
@@ -787,7 +787,7 @@
     "affiliateUrl": "https://www.baemin.com",
     "imageUrl": null,
     "sourceUrl": "https://sateconomy.co.kr/news/view/1065576573793908",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-10-20T16:20:51+09:00",
     "updatedAt": "2026-10-20T16:20:51+09:00"
   },
@@ -805,7 +805,7 @@
     "affiliateUrl": "https://www.oliveyoung.co.kr",
     "imageUrl": null,
     "sourceUrl": "https://sateconomy.co.kr/news/view/1065576573793908",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-10-20T16:20:51+09:00",
     "updatedAt": "2026-10-20T16:20:51+09:00"
   },
@@ -1801,21 +1801,21 @@
   },
   {
     "id": "samsung-2611-lg-korea-grand-festival",
-    "title": "삼성전자 11월 코리아 그랜드 페스티벌 가전·모바일 최대 50% 할인",
+    "title": "삼성전자 코리아 그랜드 페스티벌 소상공인 특별전 최대 50% 할인",
     "platform": "SAMSUNG_CARD",
     "category": "ELECTRONICS",
     "startDate": "2026-11-01T00:00:00+09:00",
     "endDate": "2026-11-30T23:59:59+09:00",
-    "discountRate": null,
+    "discountRate": 50,
     "minSpend": null,
     "maxDiscountAmount": null,
-    "description": "삼성카드 또는 롯데카드로 결제 시 최대 36개월 무이자 할부와 삼성카드 3% 결제일 할인 혜택도 함께 받을 수 있습니다. 소상공인 전용 할인 대상도 13개 품목·104개 모델로 확대되어 사업자몰 이용 시 일부 모델에 5% 할인 쿠폰이 적용됩니다.",
+    "description": "11월 1일부터 30일까지 삼성전자 사업자몰 '소상공인 특별전'에서 '비스포크 AI 스팀 울트라', '갤럭시 Z 폴드8', 하만 오디오 등 행사 제품을 최대 50% 할인해요. 행사 제품을 삼성카드나 롯데카드로 결제하면 최대 36개월 무이자 할부를 이용할 수 있고, 삼성카드는 3% 결제일 할인도 제공해요.",
     "affiliateUrl": "https://www.samsungcard.com",
     "imageUrl": null,
-    "sourceUrl": "https://www.newspim.com/news/view/20261030000250",
+    "sourceUrl": "https://m.tf.co.kr/amp/economy/2382802.htm",
     "isActive": true,
     "createdAt": "2026-10-28T16:20:28+09:00",
-    "updatedAt": "2026-10-30T16:15:38+09:00"
+    "updatedAt": "2026-10-31T05:47:39+09:00"
   },
   {
     "id": "coupang-2611-jeonghan-shop",
@@ -1896,16 +1896,16 @@
     "category": "FOOD",
     "startDate": "2026-10-30T00:00:00+09:00",
     "endDate": "2026-11-10T23:59:59+09:00",
-    "discountRate": null,
+    "discountRate": 80,
     "minSpend": null,
     "maxDiscountAmount": null,
-    "description": "CJ푸드빌 뚜레쥬르가 토스페이 도입 기념으로 11월 2일 '토스페이 케이크'를 출시합니다. 10월 30일부터 11월 1일까지 매일 선착순 700명에게 100원 구매 쿠폰을 지급하며, 11월 2일부터 10일까지 매장에서 토스페이 QR 결제 시 해당 케이크를 80% 할인된 가격에 구매할 수 있어요.",
+    "description": "10월 30일부터 11월 1일까지 매일 선착순 700명에게 '토스페이 케이크' 100원 구매 쿠폰을 드리고, 제품은 11월 2일부터 10일까지 뚜레쥬르 매장에서 픽업해요. 11월 2일부터 10일까지 매장에서 토스페이 QR로 결제하면 해당 케이크를 80% 할인해요. 한정 수량으로 진행해 수량이 소진되면 일찍 끝나요.",
     "affiliateUrl": "https://toss.com",
     "imageUrl": null,
-    "sourceUrl": "https://www.newsquest.co.kr/news/articleView.html?idxno=303796",
+    "sourceUrl": "https://www.newswhoplus.com/news/articleView.html?idxno=73038",
     "isActive": true,
     "createdAt": "2026-10-30T12:17:52+09:00",
-    "updatedAt": "2026-10-30T12:17:52+09:00"
+    "updatedAt": "2026-10-31T05:47:39+09:00"
   },
   {
     "id": "lotteon-2610-apple-festival",
