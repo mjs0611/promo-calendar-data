@@ -31,7 +31,7 @@
     "affiliateUrl": "https://card.kbcard.com",
     "imageUrl": null,
     "sourceUrl": "https://m.kbcard.com/BON/DVIEW/MBBMCXHIABNC0026?evntSerno=286213",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-09-22T06:30:00+09:00",
     "updatedAt": "2026-09-22T06:30:00+09:00"
   },
@@ -49,7 +49,7 @@
     "affiliateUrl": "https://www.shinhancard.com",
     "imageUrl": null,
     "sourceUrl": "https://www.kakaobank.com/products/creditCard/events?card_gds_code=000100015&use_event_code=219",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-09-22T06:30:00+09:00",
     "updatedAt": "2026-09-22T06:30:00+09:00"
   },
@@ -103,7 +103,7 @@
     "affiliateUrl": "https://toss.im",
     "imageUrl": null,
     "sourceUrl": "https://www.joongangenews.com/news/articleView.html?idxno=551381",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-09-30T12:18:49+09:00",
     "updatedAt": "2026-09-30T12:18:49+09:00"
   },
@@ -139,7 +139,7 @@
     "affiliateUrl": "https://www.daisomall.co.kr",
     "imageUrl": null,
     "sourceUrl": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5068665",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-10-01T20:16:34+09:00",
     "updatedAt": "2026-10-07T05:38:24+09:00"
   },
@@ -157,7 +157,7 @@
     "affiliateUrl": "https://www.yogiyo.co.kr",
     "imageUrl": null,
     "sourceUrl": "https://www.sentv.co.kr/article/view/sentv202610020039",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-10-02T12:11:52+09:00",
     "updatedAt": "2026-10-02T12:11:52+09:00"
   },
@@ -193,7 +193,7 @@
     "affiliateUrl": "https://www.kbcard.com",
     "imageUrl": null,
     "sourceUrl": "https://v.daum.net/v/6Yf4A3ae54?f=p",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-10-03T20:17:34+09:00",
     "updatedAt": "2026-10-05T12:15:22+09:00"
   },
@@ -247,7 +247,7 @@
     "affiliateUrl": "https://www.hyundaicard.com",
     "imageUrl": null,
     "sourceUrl": "https://www.ngetnews.com/news/articleView.html?idxno=554189",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-10-07T16:18:16+09:00",
     "updatedAt": "2026-10-07T16:18:16+09:00"
   },
@@ -265,7 +265,7 @@
     "affiliateUrl": "https://www.oliveyoung.co.kr",
     "imageUrl": null,
     "sourceUrl": "https://www.segyebiz.com/newsView/20261007507194",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-10-08T05:39:33+09:00",
     "updatedAt": "2026-10-08T05:39:33+09:00"
   },
@@ -283,7 +283,7 @@
     "affiliateUrl": "https://www.11st.co.kr",
     "imageUrl": null,
     "sourceUrl": "https://www.news2day.co.kr/article/20261008500254",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-10-10T12:20:55+09:00",
     "updatedAt": "2026-10-11T05:39:16+09:00"
   },
@@ -337,7 +337,7 @@
     "affiliateUrl": "https://www.ssg.com",
     "imageUrl": null,
     "sourceUrl": "https://www.startuptoday.co.kr/news/articleView.html?idxno=815322",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-10-11T20:16:28+09:00",
     "updatedAt": "2026-10-11T20:16:28+09:00"
   },
@@ -625,7 +625,7 @@
     "affiliateUrl": "https://www.shinhan.com",
     "imageUrl": null,
     "sourceUrl": "https://www.m-i.kr/news/articleView.html?idxno=2007514",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-10-16T16:26:00+09:00",
     "updatedAt": "2026-10-20T12:21:49+09:00"
   },
@@ -841,7 +841,7 @@
     "affiliateUrl": "https://www.11st.co.kr",
     "imageUrl": null,
     "sourceUrl": "https://zdnet.co.kr/view/?no=20261021152620",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-10-21T12:22:24+09:00",
     "updatedAt": "2026-10-23T05:38:39+09:00"
   },
@@ -1057,7 +1057,7 @@
     "affiliateUrl": "https://www.hyundaicard.com",
     "imageUrl": null,
     "sourceUrl": "https://ilyoweekly.co.kr/news/newsview.php?ncode=1065581351841894",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-10-22T20:22:10+09:00",
     "updatedAt": "2026-10-22T20:22:10+09:00"
   },
@@ -1201,7 +1201,7 @@
     "affiliateUrl": "https://www.lotteon.com",
     "imageUrl": null,
     "sourceUrl": "https://www.segye.com/newsView/20261024502955",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-10-25T16:20:27+09:00",
     "updatedAt": "2026-10-25T16:20:27+09:00"
   },
