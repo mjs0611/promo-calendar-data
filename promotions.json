@@ -477,13 +477,13 @@
     "discountRate": null,
     "minSpend": null,
     "maxDiscountAmount": null,
-    "description": "Npay 커넥트 가맹점에서 페이스사인 결제를 하면 결제금액의 10%를 Npay 포인트로 적립해 드립니다. 일부 고객에게는 20% 적립 혜택이 제공되며, 월 적립 한도는 5만원입니다.",
+    "description": "네이버페이 페이스사인 결제 시 결제금액의 10%를 포인트로 적립해 드립니다. 월 최대 5만원, 행사 기간 전체 최대 10만원까지 적립 가능하며, 만 17세 이상 회원이면 누구나 참여할 수 있습니다.",
     "affiliateUrl": "https://pay.naver.com",
     "imageUrl": null,
-    "sourceUrl": "https://m.dailian.co.kr/news/view/1708842",
+    "sourceUrl": "https://biz.heraldcorp.com/article/10920824",
     "isActive": true,
     "createdAt": "2026-10-14T20:14:10+09:00",
-    "updatedAt": "2026-10-31T12:26:58+09:00"
+    "updatedAt": "2026-10-31T16:21:58+09:00"
   },
   {
     "id": "shinhan-2610-gourmet-week",
@@ -687,19 +687,19 @@
     "id": "ssg-2610-ssuk-day",
     "title": "신세계 쓱데이 대한민국 시그니처 세일",
     "platform": "SSG",
-    "category": "SHOPPING",
+    "category": "FOOD",
     "startDate": "2026-10-30T00:00:00+09:00",
     "endDate": "2026-11-08T23:59:59+09:00",
     "discountRate": null,
     "minSpend": null,
     "maxDiscountAmount": null,
-    "description": "이마트와 트레이더스에서 10월 31일까지 삼성전자·LG전자 대형가전을 500만원 이상 구매 시 10만원 할인쿠폰을 제공합니다. 또한 11월 1일까지 한우 전 품목을 행사카드 결제 시 50% 할인해 드립니다.",
+    "description": "이마트 쓱데이 행사 기간 동안 한우 전 품목과 LA식 꽃갈비 등을 50% 할인해 드립니다. 탄탄포크와 국내산 삼겹살·목심은 신세계포인트 적립 시 40% 할인되며, 신선식품과 가공식품도 최대 50% 할인된 가격에 만나보실 수 있습니다.",
     "affiliateUrl": "https://www.ssg.com",
     "imageUrl": null,
-    "sourceUrl": "https://www.kizmom.com/news/articleView.html?idxno=113657",
+    "sourceUrl": "https://www.esocialtimes.com/news/articleView.html?idxno=44702",
     "isActive": true,
     "createdAt": "2026-10-19T05:39:29+09:00",
-    "updatedAt": "2026-10-31T12:26:58+09:00"
+    "updatedAt": "2026-10-31T16:21:58+09:00"
   },
   {
     "id": "hyundai-2610-petfriends-event",
@@ -1791,13 +1791,13 @@
     "discountRate": null,
     "minSpend": null,
     "maxDiscountAmount": null,
-    "description": "네이버가 가공식품 및 생활용품 25개사가 참여하는 'K-세일페스타 빅브랜드위크'를 개최해요. '코그페 100 기획전'을 통해 20% 할인쿠폰을 지원하고, 소상공인 제품을 최대 60% 할인된 가격에 판매합니다.",
+    "description": "코리아 그랜드 페스티벌 기간 네이버에서 가공식품과 일상용품 25개 사가 참여하는 연합 할인전을 진행합니다. 코그페 100 기획전에서는 20% 할인쿠폰을 지원하며, 소상공인 제품은 최대 60% 할인된 가격에 판매됩니다.",
     "affiliateUrl": "https://www.naver.com",
     "imageUrl": null,
-    "sourceUrl": "https://www.hkbs.co.kr/news/articleView.html?idxno=836804",
+    "sourceUrl": "https://www.esocialtimes.com/news/articleView.html?idxno=44695",
     "isActive": true,
     "createdAt": "2026-10-28T16:20:28+09:00",
-    "updatedAt": "2026-10-29T16:21:26+09:00"
+    "updatedAt": "2026-10-31T16:21:58+09:00"
   },
   {
     "id": "samsung-2611-lg-korea-grand-festival",
@@ -1806,16 +1806,16 @@
     "category": "ELECTRONICS",
     "startDate": "2026-11-01T00:00:00+09:00",
     "endDate": "2026-11-30T23:59:59+09:00",
-    "discountRate": 50,
+    "discountRate": null,
     "minSpend": null,
     "maxDiscountAmount": null,
-    "description": "11월 1일부터 30일까지 삼성전자 사업자몰 '소상공인 특별전'에서 '비스포크 AI 스팀 울트라', '갤럭시 Z 폴드8', 하만 오디오 등 행사 제품을 최대 50% 할인해요. 행사 제품을 삼성카드나 롯데카드로 결제하면 최대 36개월 무이자 할부를 이용할 수 있고, 삼성카드는 3% 결제일 할인도 제공해요.",
+    "description": "삼성전자 가전 11개 품목과 모바일·IT 5개 품목을 할인 판매하며, 주요 제품은 최대 50% 할인된 가격에 한정 수량으로 제공됩니다. 삼성카드 또는 롯데카드 결제 시 최대 36개월 무이자 할부와 삼성카드 3% 결제일 할인 혜택도 함께 드립니다.",
     "affiliateUrl": "https://www.samsungcard.com",
     "imageUrl": null,
-    "sourceUrl": "https://m.tf.co.kr/amp/economy/2382802.htm",
+    "sourceUrl": "https://www.newspim.com/news/view/20261030000250",
     "isActive": true,
     "createdAt": "2026-10-28T16:20:28+09:00",
-    "updatedAt": "2026-10-31T05:47:39+09:00"
+    "updatedAt": "2026-10-31T16:21:58+09:00"
   },
   {
     "id": "coupang-2611-jeonghan-shop",
@@ -1845,13 +1845,13 @@
     "discountRate": null,
     "minSpend": null,
     "maxDiscountAmount": null,
-    "description": "롯데온이 전국 4만여 개 기업이 참여하는 '코리아 그랜드 페스티벌'에 맞춰 전통시장 140여 개 점포의 제품을 판매해요. 행사 기간 동안 해당 상품들을 최대 30% 할인된 가격에 만나볼 수 있습니다.",
+    "description": "코리아 그랜드 페스티벌 기간 롯데온에서 전통시장 140여 개 점포의 상품을 최대 30% 할인해 드립니다. 지역 상권 활성화를 위한 이번 행사에서 다양한 신선식품과 가공식품을 만나보실 수 있습니다.",
     "affiliateUrl": "https://www.lotteon.com",
     "imageUrl": null,
-    "sourceUrl": "https://www.hkbs.co.kr/news/articleView.html?idxno=836804",
+    "sourceUrl": "https://www.esocialtimes.com/news/articleView.html?idxno=44695",
     "isActive": true,
     "createdAt": "2026-10-29T16:21:26+09:00",
-    "updatedAt": "2026-10-29T16:21:26+09:00"
+    "updatedAt": "2026-10-31T16:21:58+09:00"
   },
   {
     "id": "coupang-2610-jeonghan-shop",
@@ -1960,5 +1960,23 @@
     "isActive": true,
     "createdAt": "2026-10-31T12:26:58+09:00",
     "updatedAt": "2026-10-31T12:26:58+09:00"
+  },
+  {
+    "id": "toss-2610-facepay-20pct",
+    "title": "토스 페이스페이 20% 적립 (하루 최대 2,000원)",
+    "platform": "TOSS",
+    "category": "SHOPPING",
+    "startDate": "2026-10-26T00:00:00+09:00",
+    "endDate": "2026-12-31T23:59:59+09:00",
+    "discountRate": null,
+    "minSpend": null,
+    "maxDiscountAmount": null,
+    "description": "토스 페이스페이로 결제 시 결제금액의 20%를 적립해 드립니다. 하루 최대 2,000원, 30일간 최대 6만원까지 적립할 수 있으며, 신규 이용자와 일부 기존 고객에게만 적용됩니다.",
+    "affiliateUrl": "https://toss.im",
+    "imageUrl": null,
+    "sourceUrl": "https://biz.heraldcorp.com/article/10920824",
+    "isActive": true,
+    "createdAt": "2026-10-31T16:21:58+09:00",
+    "updatedAt": "2026-10-31T16:21:58+09:00"
   }
 ]
