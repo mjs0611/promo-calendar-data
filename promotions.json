@@ -1773,13 +1773,13 @@
     "discountRate": null,
     "minSpend": null,
     "maxDiscountAmount": null,
-    "description": "쿠팡 와우회원을 대상으로 '와우 멤버스데이'가 11월 2일부터 8일까지 진행됩니다. 16개 카테고리 37만개 이상 상품이 대상이며, 최대 70% 할인 혜택이 제공됩니다.",
+    "description": "쿠팡 와우 회원 대상 11월 2일부터 8일까지 진행되는 초대형 할인 행사입니다. 37만개 이상 상품을 최대 70% 할인된 가격에 만나볼 수 있으며, 매일 오전 10시와 오후 5시에 1만원 및 3만원 할인 쿠폰이 지급됩니다. 3만원 이상 구매 시 1만원, 10만원 이상 구매 시 3만원 쿠폰을 하루 최대 4장까지 발급받아 사용할 수 있어요.",
     "affiliateUrl": "https://www.coupang.com",
     "imageUrl": null,
-    "sourceUrl": "https://m.segye.com/view/20261031502525",
+    "sourceUrl": "https://www.wikitree.co.kr/articles/1170966",
     "isActive": true,
     "createdAt": "2026-10-28T16:20:28+09:00",
-    "updatedAt": "2026-10-31T12:26:58+09:00"
+    "updatedAt": "2026-11-02T16:24:40+09:00"
   },
   {
     "id": "naver-2611-k-salefesta-bigbrandweek",
@@ -1896,16 +1896,16 @@
     "category": "FOOD",
     "startDate": "2026-11-02T00:00:00+09:00",
     "endDate": "2026-11-10T23:59:59+09:00",
-    "discountRate": 80,
+    "discountRate": null,
     "minSpend": null,
     "maxDiscountAmount": null,
-    "description": "뚜레쥬르 매장에서 토스페이 QR로 결제하면 '토스페이 케이크'를 80% 할인받아요. 케이크에는 토스 페이스페이 가맹점에서 쓸 수 있는 3,000원 할인 쿠폰이 들어 있어요. 한정 수량으로 진행하며, 수량이 소진되면 일찍 끝나요.",
-    "affiliateUrl": "https://toss.com",
+    "description": "뚜레쥬르에서 토스페이 QR 결제로 '토스페이 케이크'를 구매하면 정상 가격에서 80% 할인 혜택을 받을 수 있습니다. 11월 2일부터 10일까지 뚜레쥬르 매장에서 제품을 수령할 수 있으며, 사전에 쿠폰을 받은 고객은 100원에 구매할 수도 있어요. 토스페이 도입 기념 협업 제품으로 한정된 기간 동안 진행됩니다.",
+    "affiliateUrl": "https://toss.im",
     "imageUrl": null,
-    "sourceUrl": "https://www.newswhoplus.com/news/articleView.html?idxno=73038",
+    "sourceUrl": "https://www.mdtoday.co.kr/news/articleView.html?idxno=622038",
     "isActive": true,
     "createdAt": "2026-10-30T12:17:52+09:00",
-    "updatedAt": "2026-11-02T05:43:51+09:00"
+    "updatedAt": "2026-11-02T16:24:40+09:00"
   },
   {
     "id": "lotteon-2610-apple-festival",
@@ -2050,5 +2050,41 @@
     "isActive": true,
     "createdAt": "2026-11-02T12:21:58+09:00",
     "updatedAt": "2026-11-02T12:21:58+09:00"
+  },
+  {
+    "id": "oliveyoung-2611-blackfriday",
+    "title": "올리브영 블랙프라이데이 최대 70% 할인",
+    "platform": "OLIVEYOUNG",
+    "category": "BEAUTY",
+    "startDate": "2026-11-01T00:00:00+09:00",
+    "endDate": "2026-11-07T23:59:59+09:00",
+    "discountRate": null,
+    "minSpend": null,
+    "maxDiscountAmount": null,
+    "description": "CJ올리브영이 11월 1일부터 7일까지 '올리브영 블랙프라이데이' 세일을 진행합니다. 정상 제품을 최대 70%까지 할인된 가격에 판매하며, 매장별로 선별된 '라스트픽' 상품도 동일하게 할인됩니다. 랜덤 쿠폰 및 결제 혜택 등 다양한 부대 행사도 함께 진행됩니다.",
+    "affiliateUrl": "https://www.oliveyoung.co.kr",
+    "imageUrl": null,
+    "sourceUrl": "https://www.greened.kr/news/articleView.html?idxno=353645",
+    "isActive": true,
+    "createdAt": "2026-11-02T16:24:40+09:00",
+    "updatedAt": "2026-11-02T16:24:40+09:00"
+  },
+  {
+    "id": "naver-2611-previts-nneudaseil",
+    "title": "프레비츠 네이버 넾다세일 최대 60% 할인",
+    "platform": "NAVER",
+    "category": "BEAUTY",
+    "startDate": "2026-11-01T00:00:00+09:00",
+    "endDate": "2026-11-08T23:59:59+09:00",
+    "discountRate": null,
+    "minSpend": null,
+    "maxDiscountAmount": null,
+    "description": "비건 뷰티 브랜드 프레비츠가 네이버플러스 스토어 '넾다세일'에 참여해 환절기 피부 케어 혜택을 제공합니다. 아쿠아 비건 선크림은 최대 60%, 앰플 기획 구성은 최대 37% 할인되며, 선세럼은 1+1 구성으로 판매됩니다. 선착순으로 5~10% 할인 쿠폰이 제공되고, 4만원 이상 구매 시 파우치가 증정됩니다.",
+    "affiliateUrl": "https://store.naver.com",
+    "imageUrl": null,
+    "sourceUrl": "https://www.ibabynews.com/news/articleView.html?idxno=156431",
+    "isActive": true,
+    "createdAt": "2026-11-02T16:24:40+09:00",
+    "updatedAt": "2026-11-02T16:24:40+09:00"
   }
 ]
