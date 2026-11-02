@@ -1773,13 +1773,13 @@
     "discountRate": null,
     "minSpend": null,
     "maxDiscountAmount": null,
-    "description": "쿠팡 와우 회원 대상 11월 2일부터 8일까지 진행되는 초대형 할인 행사입니다. 37만개 이상 상품을 최대 70% 할인된 가격에 만나볼 수 있으며, 매일 오전 10시와 오후 5시에 1만원 및 3만원 할인 쿠폰이 지급됩니다. 3만원 이상 구매 시 1만원, 10만원 이상 구매 시 3만원 쿠폰을 하루 최대 4장까지 발급받아 사용할 수 있어요.",
+    "description": "쿠팡 와우회원을 대상으로 7일간 진행되는 와우 멤버스데이 행사로, 37만개 이상 상품을 최대 70% 할인합니다. 3만원 이상 구매 시 1만원, 10만원 이상 구매 시 3만원 할인 쿠폰을 매일 오전 10시와 오후 5시 선착순으로 제공합니다. 하루 최대 4장의 전용 쿠폰을 활용해 장바구니에 여러 상품을 담아 할인 혜택을 누릴 수 있습니다.",
     "affiliateUrl": "https://www.coupang.com",
     "imageUrl": null,
-    "sourceUrl": "https://www.wikitree.co.kr/articles/1170966",
+    "sourceUrl": "https://www.ittimes.com/news/articleView.html?idxno=87768",
     "isActive": true,
     "createdAt": "2026-10-28T16:20:28+09:00",
-    "updatedAt": "2026-11-02T16:24:40+09:00"
+    "updatedAt": "2026-11-02T20:15:34+09:00"
   },
   {
     "id": "naver-2611-k-salefesta-bigbrandweek",
@@ -2019,19 +2019,19 @@
     "id": "ssg-2611-ssuk-day",
     "title": "신세계 쓱데이 대한민국 시그니처 세일",
     "platform": "SSG",
-    "category": "FOOD",
+    "category": "SHOPPING",
     "startDate": "2026-11-01T00:00:00+09:00",
     "endDate": "2026-11-08T23:59:59+09:00",
     "discountRate": null,
     "minSpend": null,
     "maxDiscountAmount": null,
-    "description": "이마트 쓱데이가 11월 8일까지 진행되며, 11월 1일까지 행사카드 결제 시 한우 전 품목과 LA식 꽃갈비를 50% 할인해요. 신세계포인트 적립 시 국내산 삼겹살·목심은 40% 할인되며, 에브리데이 신선식품도 최대 50% 할인 판매해요.",
-    "affiliateUrl": "https://www.ssg.com",
+    "description": "신세계백화점에서 11월 8일까지 진행되는 쓱데이 행사로, 식품·패션·리빙 카테고리에서 다양한 혜택을 제공합니다. 11월 6~8일에는 명품·패션·잡화 단일 브랜드에서 씨티·삼성·신한·하나·BC바로카드로 결제 시 최대 7%를 신백리워드로 증정합니다. 또한 6~8일 삼성카드로 200만원 이상 결제 시 24개월 무이자 할부 혜택도 받을 수 있습니다.",
+    "affiliateUrl": "https://www.shinsegae.com",
     "imageUrl": null,
-    "sourceUrl": "https://www.esocialtimes.com/news/articleView.html?idxno=44702",
+    "sourceUrl": "http://www.newslock.co.kr/news/articleView.html?idxno=139095",
     "isActive": true,
     "createdAt": "2026-11-02T12:21:58+09:00",
-    "updatedAt": "2026-11-02T12:21:58+09:00"
+    "updatedAt": "2026-11-02T20:15:34+09:00"
   },
   {
     "id": "gmarket-2611-bigsmile-day",
@@ -2086,5 +2086,41 @@
     "isActive": true,
     "createdAt": "2026-11-02T16:24:40+09:00",
     "updatedAt": "2026-11-02T16:24:40+09:00"
+  },
+  {
+    "id": "oliveyoung-2611-k-online-week",
+    "title": "K온라인 쇼핑주간 올리브영 해외 직구 할인",
+    "platform": "OLIVEYOUNG",
+    "category": "BEAUTY",
+    "startDate": "2026-10-29T00:00:00+09:00",
+    "endDate": "2026-11-15T23:59:59+09:00",
+    "discountRate": null,
+    "minSpend": null,
+    "maxDiscountAmount": null,
+    "description": "K세일페스타의 해외 소비자 대상 행사인 K온라인 쇼핑주간에 올리브영이 참여하여 K뷰티 상품을 할인합니다. 무신사, 컬리 등 역직구 기업 14곳과 함께 국내 소비재의 해외 판로 확대에 나선 행사입니다.",
+    "affiliateUrl": "https://www.oliveyoung.co.kr",
+    "imageUrl": null,
+    "sourceUrl": "https://www.mt.co.kr/index.php/economy/2026/11/02/2026110216015723767",
+    "isActive": true,
+    "createdAt": "2026-11-02T20:15:34+09:00",
+    "updatedAt": "2026-11-02T20:15:34+09:00"
+  },
+  {
+    "id": "musinsa-2611-k-online-week",
+    "title": "K온라인 쇼핑주간 무신사 해외 직구 할인",
+    "platform": "MUSINSA",
+    "category": "FASHION",
+    "startDate": "2026-10-29T00:00:00+09:00",
+    "endDate": "2026-11-15T23:59:59+09:00",
+    "discountRate": null,
+    "minSpend": null,
+    "maxDiscountAmount": null,
+    "description": "K세일페스타의 해외 소비자 대상 행사인 K온라인 쇼핑주간에 무신사가 참여하여 K패션 상품을 할인합니다. 올리브영, 컬리 등 역직구 기업 14곳과 함께 국내 소비재의 해외 판로 확대에 나선 행사입니다.",
+    "affiliateUrl": "https://www.musinsa.com",
+    "imageUrl": null,
+    "sourceUrl": "https://www.mt.co.kr/index.php/economy/2026/11/02/2026110216015723767",
+    "isActive": true,
+    "createdAt": "2026-11-02T20:15:34+09:00",
+    "updatedAt": "2026-11-02T20:15:34+09:00"
   }
 ]
