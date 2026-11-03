@@ -1770,16 +1770,16 @@
     "category": "SHOPPING",
     "startDate": "2026-11-02T00:00:00+09:00",
     "endDate": "2026-11-08T23:59:59+09:00",
-    "discountRate": null,
-    "minSpend": null,
-    "maxDiscountAmount": null,
-    "description": "쿠팡 와우회원을 대상으로 7일간 진행되는 와우 멤버스데이 행사로, 37만개 이상 상품을 최대 70% 할인합니다. 3만원 이상 구매 시 1만원, 10만원 이상 구매 시 3만원 할인 쿠폰을 매일 오전 10시와 오후 5시 선착순으로 제공합니다. 하루 최대 4장의 전용 쿠폰을 활용해 장바구니에 여러 상품을 담아 할인 혜택을 누릴 수 있습니다.",
+    "discountRate": 70,
+    "minSpend": 30000,
+    "maxDiscountAmount": 30000,
+    "description": "와우회원은 식품·생활용품·가전제품 등 37만개 이상의 상품을 최대 70% 할인받아요. 3만원 이상 구매 시 1만원, 10만원 이상 구매 시 3만원 할인 쿠폰을 사용할 수 있어요.",
     "affiliateUrl": "https://www.coupang.com",
     "imageUrl": null,
-    "sourceUrl": "https://www.ittimes.com/news/articleView.html?idxno=87768",
+    "sourceUrl": "https://www.wikitree.co.kr/articles/1170966",
     "isActive": true,
     "createdAt": "2026-10-28T16:20:28+09:00",
-    "updatedAt": "2026-11-02T20:15:34+09:00"
+    "updatedAt": "2026-11-04T05:46:15+09:00"
   },
   {
     "id": "naver-2611-k-salefesta-bigbrandweek",
@@ -1989,13 +1989,13 @@
     "discountRate": null,
     "minSpend": 45000,
     "maxDiscountAmount": 10000,
-    "description": "로켓직구 중국·홍콩 스토어 상품을 4만5,000원 이상 구매하면 5,000원, 6만원 이상 구매하면 1만원 할인 쿠폰을 제공해요. 와우회원은 무료배송 혜택을 받아요.",
+    "description": "로켓직구 중국·홍콩 스토어 상품을 특가에 선보여요. 4만5000원 이상 구매 시 5000원, 6만원 이상 구매 시 1만원 할인 쿠폰을 제공해요. 와우회원은 무제한 무료배송 혜택도 받을 수 있어요.",
     "affiliateUrl": null,
     "imageUrl": null,
-    "sourceUrl": "https://www.dailysmart.co.kr/news/articleView.html?idxno=131783",
+    "sourceUrl": "https://www.dailypop.kr/news/articleView.html?idxno=104051",
     "isActive": true,
     "createdAt": "2026-11-02T05:43:51+09:00",
-    "updatedAt": "2026-11-02T05:43:51+09:00"
+    "updatedAt": "2026-11-04T05:46:15+09:00"
   },
   {
     "id": "kurly-2611-blackweek",
@@ -2037,19 +2037,19 @@
     "id": "gmarket-2611-bigsmile-day",
     "title": "G마켓 빅스마일데이",
     "platform": "GMARKET",
-    "category": "ELECTRONICS",
+    "category": "SHOPPING",
     "startDate": "2026-11-02T00:00:00+09:00",
     "endDate": "2026-11-13T23:59:59+09:00",
     "discountRate": null,
     "minSpend": null,
     "maxDiscountAmount": null,
-    "description": "G마켓 빅스마일데이 기간 중 로보락 로봇청소기, 진공 물걸레 청소기, 무선청소기, 세탁건조기 등 스마트 홈 가전을 할인 판매해요. 11월 2일 라이브 방송 중 구매 시 액세서리 키트를 증정하며, 이후에도 특정 날짜에 추가 혜택이 제공돼요.",
+    "description": "G마켓 '빅스마일데이' 행사 전용 할인 쿠폰 5종을 제공해요. 매일 10:00에는 선착순 추가 쿠폰을 발급해요.",
     "affiliateUrl": "https://www.gmarket.co.kr",
     "imageUrl": null,
-    "sourceUrl": "https://www.ekn.kr/web/view.php?key=20261102029244053",
+    "sourceUrl": "https://www.opinionnews.co.kr/news/articleView.html?idxno=146543",
     "isActive": true,
     "createdAt": "2026-11-02T12:21:58+09:00",
-    "updatedAt": "2026-11-02T12:21:58+09:00"
+    "updatedAt": "2026-11-04T05:46:15+09:00"
   },
   {
     "id": "oliveyoung-2611-blackfriday",
@@ -2137,7 +2137,7 @@
     "affiliateUrl": null,
     "imageUrl": null,
     "sourceUrl": "https://www.newswhoplus.com/news/articleView.html?idxno=73184",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-11-03T05:45:41+09:00",
     "updatedAt": "2026-11-03T05:45:41+09:00"
   },
@@ -2169,13 +2169,13 @@
     "discountRate": null,
     "minSpend": null,
     "maxDiscountAmount": null,
-    "description": "GS25에서 11월 10일 하루 동안 토스페이로 초코·아몬드 빼빼로를 결제하면 2+2 혜택을 받을 수 있어요. 해당 날짜에 토스페이 결제를 완료해야 하며, 다른 결제 수단은 적용되지 않아요.",
+    "description": "GS25에서 초코·아몬드 빼빼로를 토스페이로 결제하면 2+2 혜택을 받아요. 11월 10일 하루 동안 진행해요.",
     "affiliateUrl": "https://www.toss.com",
     "imageUrl": null,
     "sourceUrl": "https://www.c1news.kr/news/articleView.html?idxno=203722",
     "isActive": true,
     "createdAt": "2026-11-03T05:45:41+09:00",
-    "updatedAt": "2026-11-03T16:15:11+09:00"
+    "updatedAt": "2026-11-04T05:46:15+09:00"
   },
   {
     "id": "toss-2611-cu-pokemon",
@@ -2187,13 +2187,13 @@
     "discountRate": 30,
     "minSpend": null,
     "maxDiscountAmount": null,
-    "description": "CU에서 포켓몬 기획 상품을 2개 이상 구매하고 토스페이로 결제하면 최대 30% 할인받아요. 결제 전에 포켓CU 멤버십 QR을 스캔해야 혜택을 받을 수 있어요.",
+    "description": "CU에서 포켓CU 멤버십 QR을 스캔한 뒤 포켓몬 상품을 토스페이로 2개 이상 결제하면 최대 30% 할인받아요. 11월 1일부터 10일까지 혜택을 받을 수 있어요.",
     "affiliateUrl": null,
     "imageUrl": null,
     "sourceUrl": "https://www.news2day.co.kr/article/20261102500270",
     "isActive": true,
     "createdAt": "2026-11-03T05:45:41+09:00",
-    "updatedAt": "2026-11-03T05:45:41+09:00"
+    "updatedAt": "2026-11-04T05:46:15+09:00"
   },
   {
     "id": "gmarket-2611-roborock-bigsmile",
