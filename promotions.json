@@ -2169,13 +2169,13 @@
     "discountRate": null,
     "minSpend": null,
     "maxDiscountAmount": null,
-    "description": "GS25에서 초코·아몬드 빼빼로를 토스페이로 결제하면 2+2 혜택을 받아요. 행사는 11월 10일 하루 진행해요.",
-    "affiliateUrl": null,
+    "description": "GS25에서 11월 10일 하루 동안 토스페이로 초코·아몬드 빼빼로를 결제하면 2+2 혜택을 받을 수 있어요. 해당 날짜에 토스페이 결제를 완료해야 하며, 다른 결제 수단은 적용되지 않아요.",
+    "affiliateUrl": "https://www.toss.com",
     "imageUrl": null,
-    "sourceUrl": "http://breaknews.com/1247508",
+    "sourceUrl": "https://www.c1news.kr/news/articleView.html?idxno=203722",
     "isActive": true,
     "createdAt": "2026-11-03T05:45:41+09:00",
-    "updatedAt": "2026-11-03T05:45:41+09:00"
+    "updatedAt": "2026-11-03T16:15:11+09:00"
   },
   {
     "id": "toss-2611-cu-pokemon",
@@ -2212,5 +2212,23 @@
     "isActive": true,
     "createdAt": "2026-11-03T05:45:41+09:00",
     "updatedAt": "2026-11-03T05:45:41+09:00"
+  },
+  {
+    "id": "shinhan-2611-daiso-solpay",
+    "title": "다이소몰 신한 SOL페이 3만원 이상 결제 1000P 적립",
+    "platform": "SHINHAN_CARD",
+    "category": "LIVING",
+    "startDate": "2026-11-03T00:00:00+09:00",
+    "endDate": "2026-11-30T23:59:59+09:00",
+    "discountRate": null,
+    "minSpend": null,
+    "maxDiscountAmount": null,
+    "description": "다이소몰에서 신한 SOL페이로 3만원 이상 결제하면 마이신한포인트 1000P를 적립할 수 있어요. 혜택은 1인 1회 제공되며, 신한 개인 신용·체크카드로 결제해야 적용돼요.",
+    "affiliateUrl": "https://www.shinhan.com",
+    "imageUrl": null,
+    "sourceUrl": "https://zdnet.co.kr/view/?no=20261103095507",
+    "isActive": true,
+    "createdAt": "2026-11-03T16:15:11+09:00",
+    "updatedAt": "2026-11-03T16:15:11+09:00"
   }
 ]
