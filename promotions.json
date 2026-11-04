@@ -1896,16 +1896,16 @@
     "category": "FOOD",
     "startDate": "2026-11-02T00:00:00+09:00",
     "endDate": "2026-11-10T23:59:59+09:00",
-    "discountRate": 80,
+    "discountRate": null,
     "minSpend": null,
     "maxDiscountAmount": null,
-    "description": "뚜레쥬르 매장에서 '토스페이 케이크'를 토스페이 QR 결제로 구매하면 정상 가격에서 80% 할인받아요. 할인은 11월 2일부터 10일까지 적용해요.",
-    "affiliateUrl": "https://toss.im",
+    "description": "사전에 4,900원 추가 할인 쿠폰을 받은 고객은 100원에 구매할 수도 있으며, 한정 수량으로 운영되어 물량 소진 시 조기 종료될 수 있어요.",
+    "affiliateUrl": "https://www.toss.com",
     "imageUrl": null,
-    "sourceUrl": "https://www.mdtoday.co.kr/news/articleView.html?idxno=622038",
+    "sourceUrl": "https://www.consumuch.com/news/articleView.html?idxno=79465",
     "isActive": true,
     "createdAt": "2026-10-30T12:17:52+09:00",
-    "updatedAt": "2026-11-03T05:45:41+09:00"
+    "updatedAt": "2026-11-04T12:13:41+09:00"
   },
   {
     "id": "lotteon-2610-apple-festival",
@@ -2001,19 +2001,19 @@
     "id": "kurly-2611-blackweek",
     "title": "컬리 블랙위크 연중 최대 할인전",
     "platform": "KURLY",
-    "category": "SHOPPING",
+    "category": "FOOD",
     "startDate": "2026-11-02T00:00:00+09:00",
     "endDate": "2026-11-09T23:59:59+09:00",
     "discountRate": null,
     "minSpend": null,
     "maxDiscountAmount": null,
-    "description": "컬리가 11월 2일부터 9일까지 식품·뷰티·리빙 2천여 개 상품을 할인하는 '블랙위크'를 진행해요. 매일 낮 12시 5만원 이상 구매 시 2만원 할인 쿠폰을 선착순으로 발급하며, 오후 3시에는 인기 상품을 990원에 구매할 수 있는 쿠폰도 배포해요.",
+    "description": "컬리가 식품, 뷰티, 리빙 카테고리 2,000여 개 상품을 대상으로 연중 최대 규모 할인 프로모션 '블랙위크'를 진행해요. 컬리 단독 판매 상품과 회원 전용 할인 상품을 비롯해 매일 오전 11시 제철 과일과 밀키트 등을 공개하는 '메가블랙딜' 타임세일도 운영해요.",
     "affiliateUrl": "https://www.kurly.com",
     "imageUrl": null,
-    "sourceUrl": "https://www.nextdaily.co.kr/news/articleView.html?idxno=254434",
+    "sourceUrl": "http://www.finomy.com/news/articleView.html?idxno=265372",
     "isActive": true,
     "createdAt": "2026-11-02T12:21:58+09:00",
-    "updatedAt": "2026-11-02T12:21:58+09:00"
+    "updatedAt": "2026-11-04T12:13:41+09:00"
   },
   {
     "id": "ssg-2611-ssuk-day",
@@ -2097,13 +2097,13 @@
     "discountRate": null,
     "minSpend": null,
     "maxDiscountAmount": null,
-    "description": "K세일페스타의 해외 소비자 대상 행사인 K온라인 쇼핑주간에 올리브영이 참여하여 K뷰티 상품을 할인합니다. 무신사, 컬리 등 역직구 기업 14곳과 함께 국내 소비재의 해외 판로 확대에 나선 행사입니다.",
+    "description": "14개 역직구 기업이 함께하는 공동 기획전 'Do it like a Korean'을 통해 상품 할인과 해외 배송비 절감 등 구매 혜택을 받을 수 있어요.",
     "affiliateUrl": "https://www.oliveyoung.co.kr",
     "imageUrl": null,
-    "sourceUrl": "https://www.mt.co.kr/index.php/economy/2026/11/02/2026110216015723767",
+    "sourceUrl": "https://www.mt.co.kr/amp/economy/2026/11/02/2026110216015723767",
     "isActive": true,
     "createdAt": "2026-11-02T20:15:34+09:00",
-    "updatedAt": "2026-11-02T20:15:34+09:00"
+    "updatedAt": "2026-11-04T12:13:41+09:00"
   },
   {
     "id": "musinsa-2611-k-online-week",
@@ -2115,13 +2115,13 @@
     "discountRate": null,
     "minSpend": null,
     "maxDiscountAmount": null,
-    "description": "K세일페스타의 해외 소비자 대상 행사인 K온라인 쇼핑주간에 무신사가 참여하여 K패션 상품을 할인합니다. 올리브영, 컬리 등 역직구 기업 14곳과 함께 국내 소비재의 해외 판로 확대에 나선 행사입니다.",
+    "description": "14개 역직구 기업이 함께하는 공동 기획전 'Do it like a Korean'을 통해 상품 할인과 해외 배송비 절감 등 구매 혜택을 받을 수 있어요.",
     "affiliateUrl": "https://www.musinsa.com",
     "imageUrl": null,
-    "sourceUrl": "https://www.mt.co.kr/index.php/economy/2026/11/02/2026110216015723767",
+    "sourceUrl": "https://www.mt.co.kr/amp/economy/2026/11/02/2026110216015723767",
     "isActive": true,
     "createdAt": "2026-11-02T20:15:34+09:00",
-    "updatedAt": "2026-11-02T20:15:34+09:00"
+    "updatedAt": "2026-11-04T12:13:41+09:00"
   },
   {
     "id": "elevenst-2611-jeju-shilla-oneday",
@@ -2230,5 +2230,23 @@
     "isActive": true,
     "createdAt": "2026-11-03T16:15:11+09:00",
     "updatedAt": "2026-11-03T16:15:11+09:00"
+  },
+  {
+    "id": "oliveyoung-2611-global-seasonsale",
+    "title": "올리브영 글로벌몰 시즌세일 최대 30% 이상 할인",
+    "platform": "OLIVEYOUNG",
+    "category": "BEAUTY",
+    "startDate": "2026-11-01T00:00:00+09:00",
+    "endDate": "2026-11-07T23:59:59+09:00",
+    "discountRate": null,
+    "minSpend": null,
+    "maxDiscountAmount": null,
+    "description": "올리브영 글로벌몰에서 올해 첫 '시즌세일'을 진행하며, 접속 지역에 따라 30% 이상 할인되는 장바구니 쿠폰을 지급해요. 앱 전용 20% 쿠폰과 중복 적용이 가능하며, 넘버즈인·라운드랩 등 유망 브랜드가 참여하는 '오늘의 특가'를 통해 매일 4~7개 상품을 추가 할인해요.",
+    "affiliateUrl": "https://www.oliveyoung.co.kr",
+    "imageUrl": null,
+    "sourceUrl": "https://m.tf.co.kr/read/economy/2297569.htm?appmode=android_enliple",
+    "isActive": true,
+    "createdAt": "2026-11-04T12:13:41+09:00",
+    "updatedAt": "2026-11-04T12:13:41+09:00"
   }
 ]
