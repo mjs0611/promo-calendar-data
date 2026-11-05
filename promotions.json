@@ -1935,13 +1935,13 @@
     "discountRate": null,
     "minSpend": null,
     "maxDiscountAmount": null,
-    "description": "연중 최대 쇼핑축제 '2026 그랜드십일절'이 11월 1일부터 11일까지 진행됩니다. 4만원 이상 구매 시 3000원, 5만원 이상 구매 시 4000원 할인쿠폰을 발급받아 사용하실 수 있습니다.",
+    "description": "11번가는 11월 11일까지 연중 최대 쇼핑축제인 '2026 그랜드십일절'을 진행합니다. 다양한 카테고리의 상품을 할인된 가격에 만나볼 수 있으며, 광군제 시즌에 맞춰 풍성한 쇼핑 혜택을 제공합니다. 자세한 행사 내용은 11번가 앱에서 확인하세요.",
     "affiliateUrl": "https://www.11st.co.kr",
     "imageUrl": null,
-    "sourceUrl": "https://www.newsis.com/view/NISX20261030_0003848811",
+    "sourceUrl": "https://www.ddaily.co.kr/page/view/2026110313393928027",
     "isActive": true,
     "createdAt": "2026-10-31T12:26:58+09:00",
-    "updatedAt": "2026-10-31T12:26:58+09:00"
+    "updatedAt": "2026-11-05T16:21:43+09:00"
   },
   {
     "id": "lotteon-2610-hansam-induction",
@@ -1987,15 +1987,15 @@
     "startDate": "2026-11-01T00:00:00+09:00",
     "endDate": "2026-11-11T23:59:59+09:00",
     "discountRate": null,
-    "minSpend": 45000,
-    "maxDiscountAmount": 10000,
-    "description": "로켓직구 중국·홍콩 스토어 상품을 특가에 선보여요. 4만5000원 이상 구매 시 5000원, 6만원 이상 구매 시 1만원 할인 쿠폰을 제공해요. 와우회원은 무제한 무료배송 혜택도 받을 수 있어요.",
-    "affiliateUrl": null,
+    "minSpend": null,
+    "maxDiscountAmount": null,
+    "description": "쿠팡은 11월 11일까지 로켓직구 중국·홍콩 스토어 상품을 대상으로 '더블일레븐' 행사를 진행합니다. 해당 기간 동안 로켓직구 상품을 구매 시 최대 1만원 할인 쿠폰을 적용받을 수 있습니다. 해외 직구 상품을 합리적인 가격에 구매할 수 있는 기회입니다.",
+    "affiliateUrl": "https://www.coupang.com",
     "imageUrl": null,
-    "sourceUrl": "https://www.dailypop.kr/news/articleView.html?idxno=104051",
+    "sourceUrl": "https://www.ddaily.co.kr/page/view/2026110313393928027",
     "isActive": true,
     "createdAt": "2026-11-02T05:43:51+09:00",
-    "updatedAt": "2026-11-04T05:46:15+09:00"
+    "updatedAt": "2026-11-05T16:21:43+09:00"
   },
   {
     "id": "kurly-2611-blackweek",
@@ -2007,13 +2007,13 @@
     "discountRate": null,
     "minSpend": null,
     "maxDiscountAmount": null,
-    "description": "컬리가 식품, 뷰티, 리빙 카테고리 2,000여 개 상품을 대상으로 연중 최대 규모 할인 프로모션 '블랙위크'를 진행해요. 컬리 단독 판매 상품과 회원 전용 할인 상품을 비롯해 매일 오전 11시 제철 과일과 밀키트 등을 공개하는 '메가블랙딜' 타임세일도 운영해요.",
+    "description": "컬리는 11월 9일까지 '블랙위크' 행사를 열고 식품부터 뷰티·리빙까지 2000여개 상품을 할인 판매합니다. 연중 최대 할인 혜택으로 다양한 상품을 만나볼 수 있습니다. 자세한 할인 품목은 컬리 앱 내 행사 페이지에서 확인하세요.",
     "affiliateUrl": "https://www.kurly.com",
     "imageUrl": null,
-    "sourceUrl": "http://www.finomy.com/news/articleView.html?idxno=265372",
+    "sourceUrl": "https://www.ddaily.co.kr/page/view/2026110313393928027",
     "isActive": true,
     "createdAt": "2026-11-02T12:21:58+09:00",
-    "updatedAt": "2026-11-04T12:13:41+09:00"
+    "updatedAt": "2026-11-05T16:21:43+09:00"
   },
   {
     "id": "ssg-2611-ssuk-day",
@@ -2025,13 +2025,13 @@
     "discountRate": null,
     "minSpend": null,
     "maxDiscountAmount": null,
-    "description": "신세계백화점에서 11월 8일까지 진행되는 쓱데이 행사로, 식품·패션·리빙 카테고리에서 다양한 혜택을 제공합니다. 11월 6~8일에는 명품·패션·잡화 단일 브랜드에서 씨티·삼성·신한·하나·BC바로카드로 결제 시 최대 7%를 신백리워드로 증정합니다. 또한 6~8일 삼성카드로 200만원 이상 결제 시 24개월 무이자 할부 혜택도 받을 수 있습니다.",
-    "affiliateUrl": "https://www.shinsegae.com",
+    "description": "LG전자 대형가전은 행사카드 결제 시 구매 금액별 최대 190만원 신세계상품권을 증정하며, 인기 가전 상품은 최대 12% 추가 혜택을 제공합니다. 닌텐도 스위치2와 PS5 등 게임 기기는 행사카드 결제 시 최대 30% 할인됩니다.",
+    "affiliateUrl": "https://www.ssg.com",
     "imageUrl": null,
-    "sourceUrl": "http://www.newslock.co.kr/news/articleView.html?idxno=139095",
+    "sourceUrl": "https://www.newswhoplus.com/news/articleView.html?idxno=73499",
     "isActive": true,
     "createdAt": "2026-11-02T12:21:58+09:00",
-    "updatedAt": "2026-11-02T20:15:34+09:00"
+    "updatedAt": "2026-11-05T16:21:43+09:00"
   },
   {
     "id": "gmarket-2611-bigsmile-day",
@@ -2043,13 +2043,13 @@
     "discountRate": null,
     "minSpend": null,
     "maxDiscountAmount": null,
-    "description": "G마켓 '빅스마일데이' 행사 전용 할인 쿠폰 5종을 제공해요. 매일 10:00에는 선착순 추가 쿠폰을 발급해요.",
+    "description": "G마켓은 11월 13일까지 12일간 '빅스마일데이' 행사를 개최합니다. 광군제와 블랙프라이데이를 앞두고 다양한 카테고리의 상품을 할인된 가격에 만나볼 수 있습니다. 자세한 할인 품목과 혜택은 G마켓 앱 내 행사 페이지에서 확인하세요.",
     "affiliateUrl": "https://www.gmarket.co.kr",
     "imageUrl": null,
-    "sourceUrl": "https://www.opinionnews.co.kr/news/articleView.html?idxno=146543",
+    "sourceUrl": "https://www.ddaily.co.kr/page/view/2026110313393928027",
     "isActive": true,
     "createdAt": "2026-11-02T12:21:58+09:00",
-    "updatedAt": "2026-11-04T05:46:15+09:00"
+    "updatedAt": "2026-11-05T16:21:43+09:00"
   },
   {
     "id": "oliveyoung-2611-blackfriday",
@@ -2266,5 +2266,23 @@
     "isActive": true,
     "createdAt": "2026-11-05T12:14:18+09:00",
     "updatedAt": "2026-11-05T12:14:18+09:00"
+  },
+  {
+    "id": "lotteon-2611-blackon-sale",
+    "title": "롯데온 블랙온세일",
+    "platform": "LOTTEON",
+    "category": "SHOPPING",
+    "startDate": "2026-11-01T00:00:00+09:00",
+    "endDate": "2026-11-08T23:59:59+09:00",
+    "discountRate": null,
+    "minSpend": null,
+    "maxDiscountAmount": null,
+    "description": "롯데온은 11월 8일까지 '블랙온세일'을 진행합니다. 광군제와 블랙프라이데이 시즌을 맞아 다양한 카테고리의 상품을 할인된 가격에 제공합니다. 자세한 행사 내용은 롯데온 앱에서 확인하세요.",
+    "affiliateUrl": "https://www.lotteon.com",
+    "imageUrl": null,
+    "sourceUrl": "https://www.ddaily.co.kr/page/view/2026110313393928027",
+    "isActive": true,
+    "createdAt": "2026-11-05T16:21:43+09:00",
+    "updatedAt": "2026-11-05T16:21:43+09:00"
   }
 ]
