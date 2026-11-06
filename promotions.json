@@ -2025,13 +2025,13 @@
     "discountRate": null,
     "minSpend": null,
     "maxDiscountAmount": null,
-    "description": "SSG닷컴과 W컨셉에서 11월 8일까지 '쓱데이' 특가 행사를 이어갑니다. 김장철 수요가 높은 생굴을 50% 할인가에, 와규는 전 품목 최대 40% 할인된 가격에 판매하며, 11월 이달의 도시락 'K-세일페스타' 구매 시 아모레몰 멤버십 이용권과 무신사 할인 쿠폰 등 추가 혜택이 제공됩니다.",
+    "description": "인기 신선식품과 델리 상품을 최대 50% 특가에 판매하며, LG전자 대형가전은 행사카드 결제 시 최대 190만 원 신세계상품권을 증정해요. 수능 초콜릿 행사 상품을 2만 5천 원 이상 구매하면 신세계상품권 5,000원이 증정돼요.",
     "affiliateUrl": "https://www.ssg.com",
     "imageUrl": null,
-    "sourceUrl": "https://www.dailypop.kr/news/articleView.html?idxno=104168",
+    "sourceUrl": "https://mobile.newsis.com/view_amp.html?ar_id=NISX20261104_0003855213",
     "isActive": true,
     "createdAt": "2026-11-02T12:21:58+09:00",
-    "updatedAt": "2026-11-06T12:15:30+09:00"
+    "updatedAt": "2026-11-06T20:23:49+09:00"
   },
   {
     "id": "gmarket-2611-bigsmile-day",
@@ -2295,13 +2295,13 @@
     "discountRate": null,
     "minSpend": null,
     "maxDiscountAmount": null,
-    "description": "롯데카드 '골프존X디지로카'로 골프존파크 결제 시 30% 캐시백을 제공합니다. 전월 실적 40만원 이상 시 월 최대 1만5000원, 80만원 이상 시 2만5000원까지 적립되며, G멤버십 회원은 2027년 11월 30일까지 한도가 최대 1만원 추가됩니다.",
+    "description": "롯데카드와 골프존이 제휴한 '골프존X디지로카' 카드로 골프존파크 결제 시 이용금액의 30%를 캐시백으로 돌려받아요. G멤버십 회원은 전월 이용금액 40만 원 이상 시 월 최대 1만 5천 원, 80만 원 이상 시 월 최대 2만 5천 원까지 혜택을 받을 수 있습니다. 전월 실적 조건 충족 시 추가 캐시백 한도가 적용되어 월 최대 3만 5천 원까지 돌려받을 수 있어요.",
     "affiliateUrl": "https://www.lotteon.com",
     "imageUrl": null,
-    "sourceUrl": "https://www.finomy.com/news/articleView.html?idxno=265690",
+    "sourceUrl": "https://www.mirae-biz.com/news/articleView.html?idxno=113242",
     "isActive": true,
     "createdAt": "2026-11-05T20:14:06+09:00",
-    "updatedAt": "2026-11-06T12:15:30+09:00"
+    "updatedAt": "2026-11-06T20:23:49+09:00"
   },
   {
     "id": "oliveyoung-2611-naver-membership-coupon",
@@ -2367,12 +2367,12 @@
     "discountRate": null,
     "minSpend": null,
     "maxDiscountAmount": null,
-    "description": "광명시에서 배달의민족으로 1만 5천 원 이상 음식을 다회용기로 주문 시 1만 원 할인 쿠폰을 사용할 수 있습니다. 다회용기 사용 인증 시 최대 2천 원 상당의 탄소중립 포인트도 적립됩니다.",
+    "description": "광명시에서 배달의민족 앱으로 1만 5천 원 이상 음식을 다회용기로 주문 시 1만 원 할인 쿠폰을 사용할 수 있어요. 다회용기 사용 인증 시 최대 2천 원 상당의 탄소중립 포인트도 추가로 적립할 수 있어요.",
     "affiliateUrl": "https://www.baemin.com",
     "imageUrl": null,
-    "sourceUrl": "https://www.e-newsp.com/news/article.html?no=93301",
+    "sourceUrl": "https://www.ndnnews.co.kr/news/articleViewAmp.html?idxno=1126210",
     "isActive": true,
     "createdAt": "2026-11-06T16:22:04+09:00",
-    "updatedAt": "2026-11-06T16:22:04+09:00"
+    "updatedAt": "2026-11-06T20:23:49+09:00"
   }
 ]
