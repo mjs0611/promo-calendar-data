@@ -2374,5 +2374,23 @@
     "isActive": true,
     "createdAt": "2026-11-06T16:22:04+09:00",
     "updatedAt": "2026-11-06T20:23:49+09:00"
+  },
+  {
+    "id": "baemin-2611-ttobongichicken-discount",
+    "title": "또봉이통닭 배달의민족 전 메뉴 3,000원 할인",
+    "platform": "BAEMIN",
+    "category": "FOOD",
+    "startDate": "2026-11-09T00:00:00+09:00",
+    "endDate": "2026-11-15T23:59:59+09:00",
+    "discountRate": null,
+    "minSpend": null,
+    "maxDiscountAmount": null,
+    "description": "또봉이통닭이 배달의민족에서 전 메뉴 3,000원 할인 행사를 진행해요.",
+    "affiliateUrl": "https://www.baemin.com",
+    "imageUrl": null,
+    "sourceUrl": "https://www.mt.co.kr/industry/2026/11/06/2026110514262922337",
+    "isActive": true,
+    "createdAt": "2026-11-07T12:17:47+09:00",
+    "updatedAt": "2026-11-07T12:17:47+09:00"
   }
 ]
