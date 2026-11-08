@@ -85,7 +85,7 @@
     "affiliateUrl": "https://www.11st.co.kr",
     "imageUrl": null,
     "sourceUrl": "https://zdnet.co.kr/view/?no=20260922093840",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-09-29T07:00:00+09:00",
     "updatedAt": "2026-09-29T07:00:00+09:00"
   },
@@ -463,7 +463,7 @@
     "affiliateUrl": "https://www.coupang.com",
     "imageUrl": null,
     "sourceUrl": "https://www.businesspost.co.kr/BP?command=article_view&num=449260",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-10-14T16:17:22+09:00",
     "updatedAt": "2026-10-14T16:17:22+09:00"
   },
@@ -697,7 +697,7 @@
     "affiliateUrl": "https://www.ssg.com",
     "imageUrl": null,
     "sourceUrl": "https://www.globalnewsagency.kr/news/articleView.html?idxno=502538",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-10-19T05:39:29+09:00",
     "updatedAt": "2026-11-05T05:47:52+09:00"
   },
@@ -895,7 +895,7 @@
     "affiliateUrl": "https://shopping.naver.com",
     "imageUrl": null,
     "sourceUrl": "https://www.thefirstmedia.net/news/articleView.html?idxno=211470",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-10-21T20:18:49+09:00",
     "updatedAt": "2026-10-21T20:18:49+09:00"
   },
@@ -1003,7 +1003,7 @@
     "affiliateUrl": "https://store.naver.com",
     "imageUrl": null,
     "sourceUrl": "https://www.greened.kr/news/articleView.html?idxno=352792",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-10-22T16:36:10+09:00",
     "updatedAt": "2026-10-23T12:16:48+09:00"
   },
@@ -1525,7 +1525,7 @@
     "affiliateUrl": "https://store.naver.com",
     "imageUrl": null,
     "sourceUrl": "https://sports.khan.co.kr/article/202610270505003",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-10-26T16:20:16+09:00",
     "updatedAt": "2026-10-27T12:11:32+09:00"
   },
@@ -1543,7 +1543,7 @@
     "affiliateUrl": "https://store.naver.com",
     "imageUrl": null,
     "sourceUrl": "https://www.nanumy.co.kr/news/articleView.html?idxno=4011010",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-10-26T16:20:16+09:00",
     "updatedAt": "2026-10-28T05:42:32+09:00"
   },
@@ -1561,7 +1561,7 @@
     "affiliateUrl": "https://www.naver.com",
     "imageUrl": null,
     "sourceUrl": "https://www.fntoday.co.kr/news/articleView.html?idxno=396091",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-10-26T16:20:16+09:00",
     "updatedAt": "2026-10-26T16:20:16+09:00"
   },
@@ -1579,7 +1579,7 @@
     "affiliateUrl": "https://store.naver.com",
     "imageUrl": null,
     "sourceUrl": "http://www.bokuennews.com/m/m_article.html?no=286099",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-10-26T16:20:16+09:00",
     "updatedAt": "2026-10-27T16:18:29+09:00"
   },
@@ -1687,7 +1687,7 @@
     "affiliateUrl": "https://store.naver.com",
     "imageUrl": null,
     "sourceUrl": "https://www.newsnjeju.com/news/articleView.html?idxno=303075",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-10-27T16:18:29+09:00",
     "updatedAt": "2026-10-29T05:47:11+09:00"
   },
@@ -1705,7 +1705,7 @@
     "affiliateUrl": "https://store.naver.com",
     "imageUrl": null,
     "sourceUrl": "http://www.gamefocus.co.kr/detail.php?number=180093",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-10-27T16:18:29+09:00",
     "updatedAt": "2026-10-28T20:19:11+09:00"
   },
@@ -1777,7 +1777,7 @@
     "affiliateUrl": "https://www.coupang.com",
     "imageUrl": null,
     "sourceUrl": "https://www.wikitree.co.kr/articles/1170966",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-10-28T16:20:28+09:00",
     "updatedAt": "2026-11-04T05:46:15+09:00"
   },
@@ -2029,7 +2029,7 @@
     "affiliateUrl": "https://www.ssg.com",
     "imageUrl": null,
     "sourceUrl": "https://www.cstimes.com/news/articleView.html?idxno=726647",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-11-02T12:21:58+09:00",
     "updatedAt": "2026-11-07T16:09:10+09:00"
   },
@@ -2083,7 +2083,7 @@
     "affiliateUrl": "https://store.naver.com",
     "imageUrl": null,
     "sourceUrl": "https://www.ibabynews.com/news/articleView.html?idxno=156431",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-11-02T16:24:40+09:00",
     "updatedAt": "2026-11-02T16:24:40+09:00"
   },
@@ -2281,7 +2281,7 @@
     "affiliateUrl": "https://www.lotteon.com",
     "imageUrl": null,
     "sourceUrl": "https://www.ddaily.co.kr/page/view/2026110313393928027",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-11-05T16:21:43+09:00",
     "updatedAt": "2026-11-05T16:21:43+09:00"
   },
@@ -2289,19 +2289,19 @@
     "id": "lotteon-2611-golfzon-digiloka",
     "title": "골프존X디지로카 골프존파크 30% 캐시백",
     "platform": "LOTTEON",
-    "category": "TRAVEL",
+    "category": "LIVING",
     "startDate": "2026-11-05T00:00:00+09:00",
     "endDate": "2027-11-30T23:59:59+09:00",
-    "discountRate": null,
-    "minSpend": null,
-    "maxDiscountAmount": null,
-    "description": "롯데카드 '골프존X디지로카'로 골프존파크 결제 시 30% 캐시백을 제공합니다. 전월 실적 40만원 이상 시 월 1만5000원, 80만원 이상 시 월 2만5000원까지 혜택을 받을 수 있습니다. G멤버십 회원은 2027년 11월 30일까지 월 캐시백 한도가 최대 1만원 추가됩니다.",
+    "discountRate": 30,
+    "minSpend": 400000,
+    "maxDiscountAmount": 35000,
+    "description": "골프존X디지로카 카드로 골프존파크를 결제하면 이용금액의 30%를 캐시백으로 받을 수 있어요. G멤버십 회원은 전월 실적 40만원 이상이면 월 최대 2만원, 80만원 이상이면 월 최대 3만 5,000원까지 캐시백을 받을 수 있어요.",
     "affiliateUrl": "https://www.lotteon.com",
     "imageUrl": null,
-    "sourceUrl": "https://www.specialtimes.co.kr/news/articleView.html?idxno=482083",
+    "sourceUrl": "https://www.mirae-biz.com/news/articleView.html?idxno=113242",
     "isActive": true,
     "createdAt": "2026-11-05T20:14:06+09:00",
-    "updatedAt": "2026-11-07T16:09:10+09:00"
+    "updatedAt": "2026-11-09T05:38:49+09:00"
   },
   {
     "id": "oliveyoung-2611-naver-membership-coupon",
