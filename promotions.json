@@ -2439,13 +2439,13 @@
     "discountRate": null,
     "minSpend": null,
     "maxDiscountAmount": null,
-    "description": "에트몽이 무신사 '무진장 세일'에 참여해 11월 22일부터 12월 2일까지 최대 50% 할인된 가격으로 판매합니다. 행사 기간 동안 20% 할인 쿠폰 혜택도 함께 제공됩니다.",
+    "description": "패션 브랜드 에트몽(ETMON)이 무신사 '무진장 세일'에 참여해 최대 50% 할인과 20% 쿠폰 혜택을 제공해요. 11월 22일부터 12월 2일까지 진행되는 이번 행사는 블랙프라이데이 프로모션의 일환으로 운영돼요. 에트몽의 다양한 아이템을 합리적인 가격에 만나볼 수 있는 기회예요.",
     "affiliateUrl": "https://www.musinsa.com",
     "imageUrl": null,
-    "sourceUrl": "https://www.newstap.co.kr/news/articleView.html?idxno=337453",
+    "sourceUrl": "https://www.peoplegate.co.kr/2026/11/news-etmon-black-friday-2026-29cm-wconcept-musinsa.html",
     "isActive": true,
     "createdAt": "2026-11-09T12:21:43+09:00",
-    "updatedAt": "2026-11-10T12:20:01+09:00"
+    "updatedAt": "2026-11-10T20:17:21+09:00"
   },
   {
     "id": "shinhan-2611-lotte-himart-blackfriday",
@@ -2470,18 +2470,18 @@
     "title": "신한은행 위기브 기부 땡겨요 할인쿠폰 최대 2만원",
     "platform": "SHINHAN_CARD",
     "category": "FOOD",
-    "startDate": "2026-11-09T00:00:00+09:00",
+    "startDate": "2026-11-10T00:00:00+09:00",
     "endDate": "2026-12-31T23:59:59+09:00",
     "discountRate": null,
     "minSpend": null,
     "maxDiscountAmount": null,
-    "description": "신한은행이 고향사랑기부 플랫폼 '위기브'를 통해 협약 지자체에 기부한 고객에게 배달앱 땡겨요 할인쿠폰을 제공합니다. 기부 금액 10만원당 1만원씩 쿠폰을 받을 수 있으며, 최대 혜택은 2만원까지 누릴 수 있어요.",
+    "description": "신한은행이 고향사랑기부 플랫폼 '위기브'와 협력해 협약 지자체에 기부한 고객에게 배달앱 '땡겨요' 할인쿠폰을 지급해요. 기부금 10만원당 1만원 쿠폰을 제공하며, 전남광주통합특별시 남구에 기부 시 10만원으로 2만원 쿠폰을 받을 수 있어요. 쿠폰은 땡겨요 입점 음식점 주문 시 사용 가능하며, 세액공제와 답례품 혜택도 함께 누릴 수 있어요.",
     "affiliateUrl": "https://www.shinhan.com",
     "imageUrl": null,
-    "sourceUrl": "https://www.dongponews.net/news/articleView.html?idxno=61560",
+    "sourceUrl": "https://www.public25.com/news/articleView.html?idxno=58179",
     "isActive": true,
     "createdAt": "2026-11-09T16:17:41+09:00",
-    "updatedAt": "2026-11-10T16:17:58+09:00"
+    "updatedAt": "2026-11-10T20:17:21+09:00"
   },
   {
     "id": "samsung-2611-cuckoo-korea-grand-festival",
