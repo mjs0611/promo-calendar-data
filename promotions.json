@@ -1903,7 +1903,7 @@
     "affiliateUrl": "https://toss.im",
     "imageUrl": null,
     "sourceUrl": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5079226",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-10-30T12:17:52+09:00",
     "updatedAt": "2026-11-05T12:14:18+09:00"
   },
@@ -2155,7 +2155,7 @@
     "affiliateUrl": null,
     "imageUrl": null,
     "sourceUrl": "https://www.newswhoplus.com/news/articleView.html?idxno=73184",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-11-03T05:45:41+09:00",
     "updatedAt": "2026-11-03T05:45:41+09:00"
   },
@@ -2173,7 +2173,7 @@
     "affiliateUrl": "https://www.toss.com",
     "imageUrl": null,
     "sourceUrl": "https://www.c1news.kr/news/articleView.html?idxno=203722",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-11-03T05:45:41+09:00",
     "updatedAt": "2026-11-04T05:46:15+09:00"
   },
@@ -2191,7 +2191,7 @@
     "affiliateUrl": null,
     "imageUrl": null,
     "sourceUrl": "https://www.news2day.co.kr/article/20261102500270",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-11-03T05:45:41+09:00",
     "updatedAt": "2026-11-04T05:46:15+09:00"
   },
