@@ -1932,16 +1932,16 @@
     "category": "SHOPPING",
     "startDate": "2026-11-11T00:00:00+09:00",
     "endDate": "2026-11-11T23:59:59+09:00",
-    "discountRate": null,
-    "minSpend": null,
-    "maxDiscountAmount": null,
-    "description": "11번가 그랜드십일절 마지막 날인 11월 11일 하루 동안 타임딜 상품을 500여 개로 확대해 최대 80% 할인 판매합니다. 네파, K2 등 아웃도어 브랜드 겨울 상품은 최대 89%까지 할인되며, 5만원 이상 구매 시 4,000원 장바구니 할인쿠폰을 ID당 1장씩 발급받으실 수 있어요.",
+    "discountRate": 89,
+    "minSpend": 50000,
+    "maxDiscountAmount": 4000,
+    "description": "11일 하루 타임딜 상품을 500여개로 늘려 최대 80% 할인 판매해요. 네파, K2, 아이더 등 아웃도어 브랜드 가을·겨울 상품은 최대 89%까지 할인돼요. 5만원 이상 구매하면 ID당 1장씩 4,000원 장바구니 할인쿠폰을 받을 수 있어요.",
     "affiliateUrl": "https://www.11st.co.kr",
     "imageUrl": null,
     "sourceUrl": "https://www.asiatime.co.kr/article/20261110500070",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-10-31T12:26:58+09:00",
-    "updatedAt": "2026-11-10T16:17:58+09:00"
+    "updatedAt": "2026-11-12T05:40:20+09:00"
   },
   {
     "id": "lotteon-2610-hansam-induction",
@@ -1993,7 +1993,7 @@
     "affiliateUrl": "https://www.coupang.com",
     "imageUrl": null,
     "sourceUrl": "https://www.ddaily.co.kr/page/view/2026110313393928027",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-11-02T05:43:51+09:00",
     "updatedAt": "2026-11-05T16:21:43+09:00"
   },
@@ -2221,15 +2221,15 @@
     "startDate": "2026-11-03T00:00:00+09:00",
     "endDate": "2026-11-30T23:59:59+09:00",
     "discountRate": null,
-    "minSpend": null,
-    "maxDiscountAmount": null,
-    "description": "다이소몰에서 신한 슈퍼SOL 또는 SOL페이로 3만원 이상 결제 시 1000 마이신한포인트를 적립해 드립니다. 1인당 1회 한정으로, 다이소 오프라인 매장 및 상품권 구매는 제외됩니다. 포인트는 12월 10일에 지급됩니다.",
+    "minSpend": 30000,
+    "maxDiscountAmount": 1000,
+    "description": "다이소몰에서 신한 슈퍼SOL이나 SOL페이로 3만원 이상 결제하면 1,000 마이신한포인트를 받을 수 있어요. 본인 명의 신한 개인 신용·체크카드로 결제해야 하고, 행사 기간 중 1인 1회만 적용돼요. 11월 16일부터 20일까지 다이소데이 기간에는 5,000원 이상 결제 후 SOL페이 타임라인에서 동전 아이콘을 누르면 500포인트를 추가로 받을 수 있어요.",
     "affiliateUrl": "https://www.shinhan.com",
     "imageUrl": null,
     "sourceUrl": "https://kpinews.kr/newsView/1065589303171728",
     "isActive": true,
     "createdAt": "2026-11-03T16:15:11+09:00",
-    "updatedAt": "2026-11-11T12:16:26+09:00"
+    "updatedAt": "2026-11-12T05:40:20+09:00"
   },
   {
     "id": "oliveyoung-2611-global-seasonsale",
@@ -2353,7 +2353,7 @@
     "affiliateUrl": "https://www.11st.co.kr",
     "imageUrl": null,
     "sourceUrl": "https://zdnet.co.kr/view/?no=20261106093640",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-11-06T16:22:04+09:00",
     "updatedAt": "2026-11-06T16:22:04+09:00"
   },
@@ -2400,16 +2400,16 @@
     "category": "FOOD",
     "startDate": "2026-11-09T00:00:00+09:00",
     "endDate": "2026-11-30T23:59:59+09:00",
-    "discountRate": null,
+    "discountRate": 25,
     "minSpend": null,
     "maxDiscountAmount": null,
-    "description": "서울배달 땡겨요에서 자치구 상품권 또는 온라인 서울사랑상품권으로 결제 시 구매 할인과 페이백을 합산해 최대 25%의 혜택을 받으실 수 있어요. 11월 2일부터 30일까지 상품권을 10만원 이상 구매하고 이벤트에 응모하면 배달·포장 전용 3,000원 쿠폰을 각각 1장씩 추가로 지급합니다.",
+    "description": "자치구 땡겨요상품권은 구매 할인 15%에 결제 페이백 10%를 더해 총 25% 혜택을 받을 수 있어요. 서울사랑상품권(광역)은 구매 할인 10%에 결제 페이백 15%가 적용돼요. 11월 2일부터 30일까지 상품권을 10만원 이상 구매하고 응모하면 배달·포장용 3,000원권을 각각 1장씩, 총 6,000원 쿠폰을 받을 수 있어요.",
     "affiliateUrl": "https://www.tanggyoyo.com",
     "imageUrl": null,
     "sourceUrl": "https://www.ksw-news.com/news/articleView.html?idxno=3059095",
     "isActive": true,
     "createdAt": "2026-11-09T12:21:43+09:00",
-    "updatedAt": "2026-11-10T16:17:58+09:00"
+    "updatedAt": "2026-11-12T05:40:20+09:00"
   },
   {
     "id": "musinsa-2611-etmon-igoo-week",
@@ -2473,15 +2473,15 @@
     "startDate": "2026-11-10T00:00:00+09:00",
     "endDate": "2026-12-31T23:59:59+09:00",
     "discountRate": null,
-    "minSpend": null,
-    "maxDiscountAmount": null,
-    "description": "위기브를 통해 협약 지자체에 기부하면 기부금 10만원당 1만원의 땡겨요 할인쿠폰을 드립니다. 전남광주통합특별시 남구에 기부 시 10만원으로 2만원 쿠폰을 받을 수 있습니다. 세액공제 및 답례품 혜택도 함께 누릴 수 있습니다.",
+    "minSpend": 100000,
+    "maxDiscountAmount": 20000,
+    "description": "고향사랑기부 플랫폼 위기브를 통해 협약 지방자치단체에 기부하면 기부금 10만원당 땡겨요 할인쿠폰 1만원을 받을 수 있어요. 전남광주통합특별시 남구에 10만원을 기부하면 2만원 쿠폰을 받을 수 있어요. 쿠폰 외에도 기부금액에 대한 세액공제와 기부금액의 30% 이내 답례품 혜택을 함께 받을 수 있어요.",
     "affiliateUrl": "https://www.shinhan.com",
     "imageUrl": null,
     "sourceUrl": "https://www.public25.com/news/articleView.html?idxno=58179",
     "isActive": true,
     "createdAt": "2026-11-09T16:17:41+09:00",
-    "updatedAt": "2026-11-11T12:16:26+09:00"
+    "updatedAt": "2026-11-12T05:40:20+09:00"
   },
   {
     "id": "samsung-2611-cuckoo-korea-grand-festival",
@@ -2533,7 +2533,7 @@
     "affiliateUrl": "https://www.musinsa.com",
     "imageUrl": null,
     "sourceUrl": "https://www.slist.kr/news/articleView.html?idxno=780267",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-11-10T12:20:01+09:00",
     "updatedAt": "2026-11-10T12:20:01+09:00"
   },
@@ -2587,8 +2587,26 @@
     "affiliateUrl": "https://www.yogiyo.com",
     "imageUrl": null,
     "sourceUrl": "https://www.newsvalue.kr/news/articleView.html?idxno=25047",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-11-11T16:14:40+09:00",
     "updatedAt": "2026-11-11T16:14:40+09:00"
+  },
+  {
+    "id": "toss-2611-cu-pepero",
+    "title": "CU 초코·초코필드 빼빼로 최대 50% 할인",
+    "platform": "TOSS",
+    "category": "FOOD",
+    "startDate": "2026-11-01T00:00:00+09:00",
+    "endDate": "2026-11-10T23:59:59+09:00",
+    "discountRate": 50,
+    "minSpend": null,
+    "maxDiscountAmount": null,
+    "description": "CU에서 초코·초코필드 빼빼로 2종을 11월 1일부터 10일까지 최대 50% 할인된 가격으로 살 수 있어요. 카카오페이 포인트·머니 또는 토스페이 머니·계좌 등 지정된 결제수단으로 결제해야 혜택을 받을 수 있어요.",
+    "affiliateUrl": "https://toss.im",
+    "imageUrl": null,
+    "sourceUrl": "https://contents.premium.naver.com/firstnews/9firstnews9/contents/261109024711878pp",
+    "isActive": false,
+    "createdAt": "2026-11-12T05:40:20+09:00",
+    "updatedAt": "2026-11-12T05:40:20+09:00"
   }
 ]
