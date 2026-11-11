@@ -2572,5 +2572,23 @@
     "isActive": true,
     "createdAt": "2026-11-11T12:16:26+09:00",
     "updatedAt": "2026-11-11T12:16:26+09:00"
+  },
+  {
+    "id": "yogiyo-2611-pizzahut-packaging",
+    "title": "피자헛 요기요 포장 빅프로모션 전 메뉴 1만5000원 할인",
+    "platform": "YOGIYO",
+    "category": "FOOD",
+    "startDate": "2026-11-11T00:00:00+09:00",
+    "endDate": "2026-11-11T23:59:59+09:00",
+    "discountRate": null,
+    "minSpend": null,
+    "maxDiscountAmount": null,
+    "description": "피자헛이 요기요 앱에서 전 메뉴 포장 주문 시 1만5000원 할인 혜택을 제공합니다. 최소 2만4900원 이상 주문 시 쿠폰을 적용할 수 있으며, 할인 후 최소 9900원부터 주문이 가능합니다. 쿠폰 수량 제한이 없어 행사 시간 내 조건 충족 시 누구나 이용할 수 있습니다.",
+    "affiliateUrl": "https://www.yogiyo.com",
+    "imageUrl": null,
+    "sourceUrl": "https://www.newsvalue.kr/news/articleView.html?idxno=25047",
+    "isActive": true,
+    "createdAt": "2026-11-11T16:14:40+09:00",
+    "updatedAt": "2026-11-11T16:14:40+09:00"
   }
 ]
