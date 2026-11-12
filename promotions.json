@@ -2456,14 +2456,14 @@
     "endDate": "2026-11-30T23:59:59+09:00",
     "discountRate": null,
     "minSpend": null,
-    "maxDiscountAmount": null,
-    "description": "신한카드 등 행사카드로 구매 시 제품별 캐시백 혜택이 제공됩니다. 블랙프라이데이 기념 할인 쿠폰과 이사·혼수 고객을 위한 대형 가전 할인, 해외 브랜드 기획전 등이 함께 운영됩니다.",
-    "affiliateUrl": "https://www.shinhan.com",
+    "maxDiscountAmount": 6000000,
+    "description": "이사·혼수가전을 한 번에 구매하면 최대 600만원까지 할인받을 수 있어요. 이사·혼수 고객 대상 'LG 연말결산 FESTA'와 초특가 상품을 담은 '오픈런 대란템'도 함께 운영해요.",
+    "affiliateUrl": "https://www.lottehimart.com",
     "imageUrl": null,
-    "sourceUrl": "https://m.megaeconomy.co.kr/news/amp.html?ncode=1065619897273599",
+    "sourceUrl": "https://www.mk.co.kr/news/economy/12205446",
     "isActive": true,
     "createdAt": "2026-11-09T12:21:43+09:00",
-    "updatedAt": "2026-11-09T12:21:43+09:00"
+    "updatedAt": "2026-11-13T05:37:28+09:00"
   },
   {
     "id": "shinhan-2611-wigive-tanggyoyo-coupon",
