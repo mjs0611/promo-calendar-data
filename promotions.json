@@ -729,13 +729,13 @@
     "discountRate": null,
     "minSpend": null,
     "maxDiscountAmount": null,
-    "description": "컬리가 11월12일부터 15일까지 서울 DDP 아트홀에서 컬리뷰티페스타 2026을 열어요. 컬리 멤버스 회원은 정가 5만원인 입장권을 50% 할인된 2만5천원에 구매할 수 있어요. 일반 고객 대상 슈퍼얼리버드 티켓은 22일부터 25일까지 정가보다 40% 저렴한 3만원에 판매해요.",
+    "description": "컬리는 11월 12일부터 15일까지 서울 DDP에서 '컬리뷰티페스타 2026'을 진행합니다. 45개 뷰티 브랜드가 참여하며, 온라인몰에서는 19일까지 '11월 그랜드 뷰티컬리페스타'를 통해 5600여 개 제품을 최대 90% 할인 판매합니다. 르네휘테르, 에스트라, 유세린 등 브랜드의 한정 특가와 쿠폰 혜택도 제공됩니다.",
     "affiliateUrl": "https://www.kurly.com",
     "imageUrl": null,
-    "sourceUrl": "https://www.ajunews.com/view/20261019085937628",
+    "sourceUrl": "https://www.dailysmart.co.kr/news/articleView.html?idxno=132433",
     "isActive": true,
     "createdAt": "2026-10-20T05:37:47+09:00",
-    "updatedAt": "2026-10-20T05:37:47+09:00"
+    "updatedAt": "2026-11-13T20:13:22+09:00"
   },
   {
     "id": "kb-2610-kbpay-travel-lcc",
@@ -2680,5 +2680,23 @@
     "isActive": true,
     "createdAt": "2026-11-13T12:13:59+09:00",
     "updatedAt": "2026-11-13T12:13:59+09:00"
+  },
+  {
+    "id": "kurly-2611-grand-beauty-festa",
+    "title": "11월 그랜드 뷰티컬리페스타",
+    "platform": "KURLY",
+    "category": "BEAUTY",
+    "startDate": "2026-11-12T00:00:00+09:00",
+    "endDate": "2026-11-19T23:59:59+09:00",
+    "discountRate": null,
+    "minSpend": null,
+    "maxDiscountAmount": null,
+    "description": "컬리는 11월 19일까지 온라인몰에서 '11월 그랜드 뷰티컬리페스타'를 진행합니다. 5600여 개 뷰티 제품을 최대 90% 할인하며, 르네휘테르, 에스트라, 유세린 등 참여 브랜드의 한정 특가와 쿠폰 혜택을 제공합니다.",
+    "affiliateUrl": "https://www.kurly.com",
+    "imageUrl": null,
+    "sourceUrl": "https://www.dailysmart.co.kr/news/articleView.html?idxno=132433",
+    "isActive": true,
+    "createdAt": "2026-11-13T20:13:22+09:00",
+    "updatedAt": "2026-11-13T20:13:22+09:00"
   }
 ]
