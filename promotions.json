@@ -2770,5 +2770,23 @@
     "isActive": true,
     "createdAt": "2026-11-14T12:10:28+09:00",
     "updatedAt": "2026-11-14T12:10:28+09:00"
+  },
+  {
+    "id": "samsung-2611-lions-v9-appliance",
+    "title": "삼성 라이온즈 우승 기념 가전 할인 (함께 이룬 V9, 함께 누릴 12일)",
+    "platform": "SAMSUNG_CARD",
+    "category": "ELECTRONICS",
+    "startDate": "2026-11-13T00:00:00+09:00",
+    "endDate": "2026-11-24T23:59:59+09:00",
+    "discountRate": null,
+    "minSpend": null,
+    "maxDiscountAmount": null,
+    "description": "행사 기간 중 매일 9명을 추첨하여 갤럭시Z 폴드8 울트라, 비스포크 AI 정수기, 김치플러스, 냉장고, 콤보 등 가전제품을 증정해요.",
+    "affiliateUrl": "https://www.samsungcard.com",
+    "imageUrl": null,
+    "sourceUrl": "https://www.christiandaily.co.kr/news/167296",
+    "isActive": true,
+    "createdAt": "2026-11-14T16:11:32+09:00",
+    "updatedAt": "2026-11-14T16:11:32+09:00"
   }
 ]
