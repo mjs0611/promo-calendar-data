@@ -1899,13 +1899,13 @@
     "discountRate": 80,
     "minSpend": null,
     "maxDiscountAmount": null,
-    "description": "뚜레쥬르 매장에서 토스페이 QR로 결제하면 케이크를 80% 할인된 가격에 구매할 수 있어요. 한정 수량으로 진행해 물량이 소진되면 조기 종료해요.",
+    "description": "뚜레쥬르 케이크를 80% 할인된 가격에 구매할 수 있어요. 12월 2일부터 10일까지 뚜레쥬르 매장에서 토스페이 QR로 결제하면 혜택을 받을 수 있어요.",
     "affiliateUrl": "https://toss.im",
     "imageUrl": null,
     "sourceUrl": "https://stock.mk.co.kr/news/view/1185382",
     "isActive": true,
     "createdAt": "2026-10-30T12:17:52+09:00",
-    "updatedAt": "2026-11-14T05:53:20+09:00"
+    "updatedAt": "2026-11-15T05:50:09+09:00"
   },
   {
     "id": "lotteon-2610-apple-festival",
@@ -2709,13 +2709,13 @@
     "discountRate": null,
     "minSpend": null,
     "maxDiscountAmount": null,
-    "description": "매일 선착순 700명에게 뚜레쥬르 케이크를 100원에 구매할 수 있는 쿠폰을 드려요. 기간 안에 쿠폰을 내려받아 12월 2일부터 10일까지 뚜레쥬르 매장에서 제품을 구매하면 돼요. 한정 수량으로 진행해 물량이 소진되면 조기 종료해요.",
+    "description": "매일 선착순 700명에게 뚜레쥬르 케이크를 100원에 구매할 수 있는 쿠폰을 제공해요.",
     "affiliateUrl": null,
     "imageUrl": null,
     "sourceUrl": "https://stock.mk.co.kr/news/view/1185382",
     "isActive": true,
     "createdAt": "2026-11-14T05:53:20+09:00",
-    "updatedAt": "2026-11-14T05:53:20+09:00"
+    "updatedAt": "2026-11-15T05:50:09+09:00"
   },
   {
     "id": "kb_card-2611-aliexpress-visa",
@@ -2749,7 +2749,7 @@
     "affiliateUrl": "https://www.musinsa.com",
     "imageUrl": null,
     "sourceUrl": "https://www.greened.kr/news/articleView.html?idxno=354532",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-11-14T12:10:28+09:00",
     "updatedAt": "2026-11-14T12:10:28+09:00"
   },
