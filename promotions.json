@@ -2734,5 +2734,41 @@
     "isActive": true,
     "createdAt": "2026-11-14T05:53:20+09:00",
     "updatedAt": "2026-11-14T05:53:20+09:00"
+  },
+  {
+    "id": "musinsa-2611-daesi-seoulsu",
+    "title": "무신사 '다시, 서울숲' 시즌2 매장 방문 사은품 증정",
+    "platform": "MUSINSA",
+    "category": "FASHION",
+    "startDate": "2026-11-01T00:00:00+09:00",
+    "endDate": "2026-11-14T23:59:59+09:00",
+    "discountRate": null,
+    "minSpend": null,
+    "maxDiscountAmount": null,
+    "description": "무신사가 서울숲 일대 브랜드 매장에서 '다시, 서울숲' 시즌2 캠페인을 진행합니다. 행사 기간 중 참여 매장에서 1만 원 이상 구매한 영수증을 지참하고 이구홈 서울숲을 방문하면 매일 선착순 200명에게 사은품을 제공합니다. 지역 상권 상생을 위한 오프라인 방문 혜택이므로 매장 방문이 필수입니다.",
+    "affiliateUrl": "https://www.musinsa.com",
+    "imageUrl": null,
+    "sourceUrl": "https://www.greened.kr/news/articleView.html?idxno=354532",
+    "isActive": true,
+    "createdAt": "2026-11-14T12:10:28+09:00",
+    "updatedAt": "2026-11-14T12:10:28+09:00"
+  },
+  {
+    "id": "musinsa-2611-checkin-event",
+    "title": "무신사 체크인 이벤트 NFC 태그 스탬프 적립 혜택",
+    "platform": "MUSINSA",
+    "category": "FASHION",
+    "startDate": "2026-11-01T00:00:00+09:00",
+    "endDate": "2026-12-31T23:59:59+09:00",
+    "discountRate": null,
+    "minSpend": null,
+    "maxDiscountAmount": null,
+    "description": "무신사가 전국 90개 매장에서 '무신사 체크인' 이벤트를 진행합니다. 매장 내 체크인 스테이션에 휴대전화를 NFC로 태그해 스탬프를 모으면 10개 달성 시 무신사 스탠다드 핸드크림, 보조배터리, 무신사머니 포인트 등 1만5천원 상당의 혜택을 받을 수 있습니다. 오프라인 매장 방문이 필요한 이벤트입니다.",
+    "affiliateUrl": "https://www.musinsa.com",
+    "imageUrl": null,
+    "sourceUrl": "https://www.greened.kr/news/articleView.html?idxno=354532",
+    "isActive": true,
+    "createdAt": "2026-11-14T12:10:28+09:00",
+    "updatedAt": "2026-11-14T12:10:28+09:00"
   }
 ]
