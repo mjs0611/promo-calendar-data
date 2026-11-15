@@ -733,7 +733,7 @@
     "affiliateUrl": "https://www.kurly.com",
     "imageUrl": null,
     "sourceUrl": "https://www.dailysmart.co.kr/news/articleView.html?idxno=132433",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-10-20T05:37:47+09:00",
     "updatedAt": "2026-11-13T20:13:22+09:00"
   },
@@ -1165,7 +1165,7 @@
     "affiliateUrl": "https://www.samsungcard.com",
     "imageUrl": null,
     "sourceUrl": "https://www.topstarnews.net/news/articleView.html?idxno=16256625",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-10-25T05:38:46+09:00",
     "updatedAt": "2026-10-26T05:37:39+09:00"
   },
@@ -1795,7 +1795,7 @@
     "affiliateUrl": "https://www.naver.com",
     "imageUrl": null,
     "sourceUrl": "https://www.esocialtimes.com/news/articleView.html?idxno=44695",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-10-28T16:20:28+09:00",
     "updatedAt": "2026-10-31T16:21:58+09:00"
   },
@@ -1831,7 +1831,7 @@
     "affiliateUrl": "https://www.coupang.com",
     "imageUrl": null,
     "sourceUrl": "https://www.ilyoweekly.co.kr/news/newsview.php?ncode=1065592683584142",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-10-29T16:21:26+09:00",
     "updatedAt": "2026-10-29T16:21:26+09:00"
   },
@@ -1849,7 +1849,7 @@
     "affiliateUrl": "https://www.lotteon.com",
     "imageUrl": null,
     "sourceUrl": "https://www.esocialtimes.com/news/articleView.html?idxno=44695",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-10-29T16:21:26+09:00",
     "updatedAt": "2026-10-31T16:21:58+09:00"
   },
@@ -1867,7 +1867,7 @@
     "affiliateUrl": "https://www.coupang.com",
     "imageUrl": null,
     "sourceUrl": "https://www.ilyoweekly.co.kr/news/newsview.php?ncode=1065592683584142",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-10-29T20:16:52+09:00",
     "updatedAt": "2026-10-30T12:17:52+09:00"
   },
@@ -2101,7 +2101,7 @@
     "affiliateUrl": "https://www.oliveyoung.co.kr",
     "imageUrl": null,
     "sourceUrl": "https://www.mt.co.kr/amp/economy/2026/11/02/2026110216015723767",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-11-02T20:15:34+09:00",
     "updatedAt": "2026-11-04T12:13:41+09:00"
   },
@@ -2119,7 +2119,7 @@
     "affiliateUrl": "https://www.musinsa.com",
     "imageUrl": null,
     "sourceUrl": "https://www.mt.co.kr/amp/economy/2026/11/02/2026110216015723767",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-11-02T20:15:34+09:00",
     "updatedAt": "2026-11-04T12:13:41+09:00"
   },
@@ -2389,7 +2389,7 @@
     "affiliateUrl": "https://www.baemin.com",
     "imageUrl": null,
     "sourceUrl": "https://www.mt.co.kr/industry/2026/11/06/2026110514262922337",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-11-07T12:17:47+09:00",
     "updatedAt": "2026-11-07T12:17:47+09:00"
   },
@@ -2497,7 +2497,7 @@
     "affiliateUrl": "https://www.samsungcard.com",
     "imageUrl": null,
     "sourceUrl": "https://www.newstap.co.kr/news/articleView.html?idxno=337141",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-11-09T16:17:41+09:00",
     "updatedAt": "2026-11-10T05:39:10+09:00"
   },
@@ -2551,7 +2551,7 @@
     "affiliateUrl": "https://www.naver.com",
     "imageUrl": null,
     "sourceUrl": "https://thetravelnews.co.kr/2026/11/hanatour-free-travel-allinweek-november-2026/",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-11-10T16:17:58+09:00",
     "updatedAt": "2026-11-10T16:17:58+09:00"
   },
@@ -2798,13 +2798,13 @@
     "endDate": "2026-11-29T23:59:59+09:00",
     "discountRate": null,
     "minSpend": null,
-    "maxDiscountAmount": null,
-    "description": "삼성전자, LG전자, 인텔, HP 등 국내외 대표 브랜드가 참여하는 대규모 가전·디지털 할인전입니다. 삼성 갤럭시 탭 S12 구매 시 최대 5만원 쿠팡캐시 적립 혜택이 제공되며, JBL 음향 기기는 와우회원 전용 할인 쿠폰으로 구매할 수 있습니다.",
+    "maxDiscountAmount": 50000,
+    "description": "삼성전자·LG전자·인텔·HP 등 가전·디지털 브랜드가 참여해요. 삼성전자 '갤럭시 탭 S12' 구매 고객에게 카드 할인과 최대 5만원의 쿠팡캐시 적립 혜택을 제공해요.",
     "affiliateUrl": "https://www.coupang.com",
     "imageUrl": null,
-    "sourceUrl": "https://www.ittimes.com/news/articleView.html?idxno=88003",
+    "sourceUrl": "https://mobile.newsis.com/view_amp.html?ar_id=NISX20261115_0003868576",
     "isActive": true,
     "createdAt": "2026-11-15T12:12:20+09:00",
-    "updatedAt": "2026-11-15T12:12:20+09:00"
+    "updatedAt": "2026-11-16T05:44:40+09:00"
   }
 ]
