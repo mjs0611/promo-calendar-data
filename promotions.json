@@ -2773,21 +2773,21 @@
   },
   {
     "id": "samsung-2611-lions-v9-appliance",
-    "title": "삼성 라이온즈 V9 우승 기념 경품 추첨",
+    "title": "삼성 라이온즈 우승 기념 삼성전자 대축제 가전 할인",
     "platform": "SAMSUNG_CARD",
     "category": "ELECTRONICS",
     "startDate": "2026-11-13T00:00:00+09:00",
-    "endDate": "2026-11-24T23:59:59+09:00",
+    "endDate": "2026-11-23T23:59:59+09:00",
     "discountRate": null,
     "minSpend": null,
     "maxDiscountAmount": null,
-    "description": "11월 24일까지 삼성닷컴에서 하루 한 번 응모하면 매일 9명을 추첨해 경품을 드려요. 삼성닷컴 로그인과 광고성 정보 수신 동의가 필요하며, 삼성카드 할인 행사가 아니에요.",
-    "affiliateUrl": "https://www.samsung.com/sec/event/lions-victory-2026/",
+    "description": "삼성 라이온즈 우승을 기념해 전국 매장에서 냉장고, TV, 세탁기 등 14개 인기 가전제품에 12만 원 추가 할인을 제공합니다. 삼성 제휴카드로 구매 시 기존 최대 5%였던 할인율이 6%로 상향 적용됩니다. 롯데하이마트 단독 혜택으로 김장철과 연말 가전 교체 수요에 맞춰 프리미엄 TV와 김치냉장고 등 인기 모델에 집중된 혜택입니다.",
+    "affiliateUrl": "https://www.samsungcard.com",
     "imageUrl": null,
-    "sourceUrl": "https://www.samsung.com/sec/event/lions-victory-faq/",
+    "sourceUrl": "https://www.fnnews.com/news/202611150601151137",
     "isActive": true,
     "createdAt": "2026-11-14T16:11:32+09:00",
-    "updatedAt": "2026-11-14T16:11:32+09:00"
+    "updatedAt": "2026-11-15T16:08:39+09:00"
   },
   {
     "id": "coupang-2611-appliance-digital-blackfriday",
