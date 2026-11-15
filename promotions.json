@@ -2655,13 +2655,13 @@
     "discountRate": null,
     "minSpend": null,
     "maxDiscountAmount": null,
-    "description": "농협 하나로마트에서 한국농협김치와 산지농협 절임배추를 토스 카드로 결제하면 최대 35% 할인 혜택을 받을 수 있어요. 깐마늘과 고춧가루 등 김장 부재료는 최대 50% 할인된 가격에 판매됩니다. 행사 기간은 12월 9일까지이며, 토스는 지정된 행사 카드 중 하나입니다.",
+    "description": "농협 하나로마트에서 한국농협김치와 산지농협 절임배추를 구매할 때 토스 등 지정된 결제수단을 이용하면 최대 35% 할인 혜택을 받을 수 있습니다. 깐마늘과 고춧가루 등 김장 부재료와 관련 용품은 최대 50%까지 저렴하게 판매됩니다. 해당 혜택은 NH, 국민, 삼성, 롯데, BC, 전북카드 및 카카오페이, 네이버페이, 토스, 페이코 결제 시 적용됩니다.",
     "affiliateUrl": "https://toss.im",
     "imageUrl": null,
-    "sourceUrl": "https://www.financialpost.co.kr/news/articleView.html?idxno=300733",
+    "sourceUrl": "https://www.leadeconomy.co.kr/news/articleView.html?idxno=11194",
     "isActive": true,
     "createdAt": "2026-11-13T12:13:59+09:00",
-    "updatedAt": "2026-11-13T12:13:59+09:00"
+    "updatedAt": "2026-11-15T12:12:20+09:00"
   },
   {
     "id": "musinsa-2611-glossglow-blackfriday",
@@ -2788,5 +2788,23 @@
     "isActive": true,
     "createdAt": "2026-11-14T16:11:32+09:00",
     "updatedAt": "2026-11-14T16:11:32+09:00"
+  },
+  {
+    "id": "coupang-2611-appliance-digital-blackfriday",
+    "title": "쿠팡 가전·디지털 블랙프라이데이",
+    "platform": "COUPANG",
+    "category": "ELECTRONICS",
+    "startDate": "2026-11-16T00:00:00+09:00",
+    "endDate": "2026-11-29T23:59:59+09:00",
+    "discountRate": null,
+    "minSpend": null,
+    "maxDiscountAmount": null,
+    "description": "삼성전자, LG전자, 인텔, HP 등 국내외 대표 브랜드가 참여하는 대규모 가전·디지털 할인전입니다. 삼성 갤럭시 탭 S12 구매 시 최대 5만원 쿠팡캐시 적립 혜택이 제공되며, JBL 음향 기기는 와우회원 전용 할인 쿠폰으로 구매할 수 있습니다.",
+    "affiliateUrl": "https://www.coupang.com",
+    "imageUrl": null,
+    "sourceUrl": "https://www.ittimes.com/news/articleView.html?idxno=88003",
+    "isActive": true,
+    "createdAt": "2026-11-15T12:12:20+09:00",
+    "updatedAt": "2026-11-15T12:12:20+09:00"
   }
 ]
