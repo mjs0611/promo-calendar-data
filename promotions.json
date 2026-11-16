@@ -2776,18 +2776,18 @@
     "title": "삼성 라이온즈 우승 기념 삼성전자 대축제 가전 할인",
     "platform": "SAMSUNG_CARD",
     "category": "ELECTRONICS",
-    "startDate": "2026-11-13T00:00:00+09:00",
+    "startDate": "2026-11-16T00:00:00+09:00",
     "endDate": "2026-11-23T23:59:59+09:00",
     "discountRate": null,
     "minSpend": null,
     "maxDiscountAmount": null,
-    "description": "삼성 라이온즈 우승을 기념해 전국 매장에서 냉장고, TV, 세탁기 등 14개 인기 가전제품에 12만 원 추가 할인을 제공합니다. 삼성 제휴카드로 구매 시 기존 최대 5%였던 할인율이 6%로 상향 적용됩니다. 롯데하이마트 단독 혜택으로 김장철과 연말 가전 교체 수요에 맞춰 프리미엄 TV와 김치냉장고 등 인기 모델에 집중된 혜택입니다.",
+    "description": "삼성 라이온즈 우승을 기념해 롯데하이마트에서 삼성전자 가전 할인 행사가 진행돼요. 전국 매장에서는 냉장고, TV, 세탁기 등 14개 모델을 12만원 추가 할인하며, 삼성 제휴카드로 결제 시 최대 6% 혜택을 받을 수 있어요. 온라인몰에서는 최대 12% 카드 혜택 기획전도 운영해요.",
     "affiliateUrl": "https://www.samsungcard.com",
     "imageUrl": null,
-    "sourceUrl": "https://www.fnnews.com/news/202611150601151137",
+    "sourceUrl": "http://www.biztribune.co.kr/news/articleView.html?idxno=362536",
     "isActive": true,
     "createdAt": "2026-11-14T16:11:32+09:00",
-    "updatedAt": "2026-11-15T16:08:39+09:00"
+    "updatedAt": "2026-11-16T16:15:06+09:00"
   },
   {
     "id": "coupang-2611-appliance-digital-blackfriday",
@@ -2798,32 +2798,32 @@
     "endDate": "2026-11-29T23:59:59+09:00",
     "discountRate": null,
     "minSpend": null,
-    "maxDiscountAmount": 50000,
-    "description": "삼성전자·LG전자·인텔·HP 등 가전·디지털 브랜드가 참여해요. 삼성전자 '갤럭시 탭 S12' 구매 고객에게 카드 할인과 최대 5만원의 쿠팡캐시 적립 혜택을 제공해요.",
+    "maxDiscountAmount": null,
+    "description": "삼성전자, LG전자, 인텔 등 국내외 브랜드가 참여하는 가전·디지털 할인 행사가 진행돼요. 태블릿 PC, 음향 기기, 생활가전 등을 9만9000원 이하와 10만 원 이상 가격대별로 구분해 판매하며, 일부 상품은 결제 수단이나 멤버십에 따라 할인 조건이 달라져요.",
     "affiliateUrl": "https://www.coupang.com",
     "imageUrl": null,
-    "sourceUrl": "https://mobile.newsis.com/view_amp.html?ar_id=NISX20261115_0003868576",
+    "sourceUrl": "https://www.lcnews.co.kr/news/articleView.html?idxno=211405",
     "isActive": true,
     "createdAt": "2026-11-15T12:12:20+09:00",
-    "updatedAt": "2026-11-16T05:44:40+09:00"
+    "updatedAt": "2026-11-16T16:15:06+09:00"
   },
   {
     "id": "lotteon-2611-bigsave-disney",
     "title": "롯데온 빅세이브마켓 디즈니 협업 할인전",
     "platform": "LOTTEON",
-    "category": "SHOPPING",
+    "category": "LIVING",
     "startDate": "2026-11-16T00:00:00+09:00",
     "endDate": "2026-11-29T23:59:59+09:00",
     "discountRate": null,
     "minSpend": null,
     "maxDiscountAmount": null,
-    "description": "홈리빙 20%, 디지털가전 12% 등 카테고리별 쿠폰을 적용할 수 있으며, 23일부터는 7% 결제 할인 혜택도 추가됩니다. 행사 기간 매일 다른 브랜드의 하루 한정 특가 상품을 만나볼 수 있어요.",
+    "description": "디즈니코리아와 협업해 식품·리빙·가전 상품에 최대 20% 할인 쿠폰을 제공해요. 홈리빙 20%, 디지털가전 12%, 그로서리 5% 등 카테고리별 쿠폰을 사용할 수 있으며, 23일부터는 7% 결제 할인 혜택도 추가돼요.",
     "affiliateUrl": "https://www.lotteon.com",
     "imageUrl": null,
-    "sourceUrl": "https://www.newspim.com/news/view/20261116000060?sicode=01",
+    "sourceUrl": "https://www.newspim.com/news/view/20261116000060",
     "isActive": true,
     "createdAt": "2026-11-16T12:18:56+09:00",
-    "updatedAt": "2026-11-16T12:18:56+09:00"
+    "updatedAt": "2026-11-16T16:15:06+09:00"
   },
   {
     "id": "ssg-2611-heating-winter-goods",
@@ -2871,13 +2871,13 @@
     "discountRate": null,
     "minSpend": null,
     "maxDiscountAmount": null,
-    "description": "오늘의집은 11월 16일부터 30일까지 '집요한세일 블랙프라이데이'를 진행하며, 사전 신청 고객 전원에게 5만원 이상 구매 시 1만원 할인 쿠폰을 제공합니다. 행사 기간 매일 세 차례 구매 금액대별 최대 10% 선착순 할인 쿠폰을 발행하고, 최대 90% 할인 혜택이 있는 '꽝 없는 래플 쿠폰' 이벤트도 운영합니다. 매일 80여 개 상품을 대상으로 최저가보상제를 통해 차액의 200%(최대 1만 포인트)를 보상해 드려요.",
+    "description": "오늘의집이 블랙프라이데이를 맞아 진행하는 '집요한세일 블랙프라이데이' 행사로, 사전 신청 고객에게는 5만원 이상 구매 시 1만원 할인 쿠폰을 지급해요. 매일 3차례 최대 10% 할인 쿠폰을 선착순으로 제공하며, 약 80개 특가 상품에 대해 최저가보상제를 실시해요.",
     "affiliateUrl": "https://www.baemin.com",
     "imageUrl": null,
-    "sourceUrl": "https://www.hansbiz.co.kr/news/articleView.html?idxno=883492",
+    "sourceUrl": "https://www.financialpost.co.kr/news/articleView.html?idxno=301063",
     "isActive": true,
     "createdAt": "2026-11-16T12:18:56+09:00",
-    "updatedAt": "2026-11-16T12:18:56+09:00"
+    "updatedAt": "2026-11-16T16:15:06+09:00"
   },
   {
     "id": "musinsa-2611-timesquare-standard",
@@ -2914,5 +2914,23 @@
     "isActive": true,
     "createdAt": "2026-11-16T12:18:56+09:00",
     "updatedAt": "2026-11-16T12:18:56+09:00"
+  },
+  {
+    "id": "samsung-2611-mudutoer-megasale",
+    "title": "모두투어 2026 메가세일 삼성카드 결제 할인",
+    "platform": "SAMSUNG_CARD",
+    "category": "TRAVEL",
+    "startDate": "2026-11-16T00:00:00+09:00",
+    "endDate": "2026-12-24T23:59:59+09:00",
+    "discountRate": null,
+    "minSpend": null,
+    "maxDiscountAmount": null,
+    "description": "모두투어 '2026 메가세일' 기간 중 삼성카드로 150만원 이상 결제 시 4만원, 300만원 이상 결제 시 9만원을 결제일에 할인해 드려요. 유럽 전용 상품에는 최대 52% 할인율이 적용되며, 100만원 이상 예약 고객에게는 결제 금액의 1%가 적립돼요.",
+    "affiliateUrl": "https://www.samsungcard.com",
+    "imageUrl": null,
+    "sourceUrl": "https://www.insightkorea.co.kr/news/articleView.html?idxno=258913",
+    "isActive": true,
+    "createdAt": "2026-11-16T16:15:06+09:00",
+    "updatedAt": "2026-11-16T16:15:06+09:00"
   }
 ]
