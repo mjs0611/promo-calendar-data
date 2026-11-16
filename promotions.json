@@ -2853,13 +2853,13 @@
     "discountRate": null,
     "minSpend": null,
     "maxDiscountAmount": null,
-    "description": "하나카드는 키움증권과 공동 기획한 '키움증권 하나카드'를 출시하고, 2027년 2월 28일까지 발급 이벤트를 진행합니다. 해외·온라인 결제 월 30만원 이상 시 최대 5만원, 오프라인 결제 시 최대 3만원 캐시백을 제공하며, 두 영역 모두 충족 시 월 최대 8만원을 받을 수 있습니다. 신규 발급 고객은 연회비 상당액인 2만원 캐시백과 함께 발급월 및 다음 달 캐시백 2배 혜택(월 최대 16만원)을 누릴 수 있어요.",
+    "description": "키움증권과 제휴한 하나카드 출시를 기념해 발급 고객에게 추가 캐시백 혜택을 제공합니다. 해외·온라인 결제는 월 30만원 이상 시 최대 5만원, 오프라인 결제는 월 30만원 이상 시 최대 3만원의 캐시백을 각각 적용하여 월 최대 8만원을 받을 수 있습니다.",
     "affiliateUrl": "https://www.shinhan.com",
     "imageUrl": null,
-    "sourceUrl": "https://www.e-science.co.kr/news/articleView.html?idxno=139843",
+    "sourceUrl": "https://www.newspim.com/news/view/20261116000514",
     "isActive": true,
     "createdAt": "2026-11-16T12:18:56+09:00",
-    "updatedAt": "2026-11-16T12:18:56+09:00"
+    "updatedAt": "2026-11-16T20:12:46+09:00"
   },
   {
     "id": "toss-2611-baemin-blackfriday",
@@ -2932,5 +2932,23 @@
     "isActive": true,
     "createdAt": "2026-11-16T16:15:06+09:00",
     "updatedAt": "2026-11-16T16:15:06+09:00"
+  },
+  {
+    "id": "coupang-2611-gwangju-trademarket",
+    "title": "쿠팡이츠 광주 전통시장 배달 기획전 '우리동네 진짜시장'",
+    "platform": "COUPANG",
+    "category": "FOOD",
+    "startDate": "2026-11-16T00:00:00+09:00",
+    "endDate": "2026-12-08T23:59:59+09:00",
+    "discountRate": null,
+    "minSpend": null,
+    "maxDiscountAmount": null,
+    "description": "광주 지역 전통시장과 골목형 상점가 30여곳이 참여하는 배달 기획전입니다. 1만5000원 이상 주문 시 3000원 할인 쿠폰을 선착순으로 제공하며, 쿠폰 비용은 쿠팡이츠가 전액 부담합니다.",
+    "affiliateUrl": "https://www.coupang.com",
+    "imageUrl": null,
+    "sourceUrl": "http://www.newslock.co.kr/news/articleView.html?idxno=140221",
+    "isActive": true,
+    "createdAt": "2026-11-16T20:12:46+09:00",
+    "updatedAt": "2026-11-16T20:12:46+09:00"
   }
 ]
