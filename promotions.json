@@ -2857,7 +2857,7 @@
     "affiliateUrl": "https://www.shinhan.com",
     "imageUrl": null,
     "sourceUrl": "https://www.newspim.com/news/view/20261116000514",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-11-16T12:18:56+09:00",
     "updatedAt": "2026-11-16T20:12:46+09:00"
   },
@@ -2875,7 +2875,7 @@
     "affiliateUrl": "https://www.baemin.com",
     "imageUrl": null,
     "sourceUrl": "https://www.financialpost.co.kr/news/articleView.html?idxno=301063",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-11-16T12:18:56+09:00",
     "updatedAt": "2026-11-16T16:15:06+09:00"
   },
