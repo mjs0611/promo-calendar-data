@@ -2925,13 +2925,13 @@
     "discountRate": null,
     "minSpend": null,
     "maxDiscountAmount": null,
-    "description": "모두투어 '2026 메가세일' 기간 중 삼성카드로 150만원 이상 결제 시 4만원, 300만원 이상 결제 시 9만원을 결제일에 할인해 드려요. 유럽 전용 상품에는 최대 52% 할인율이 적용되며, 100만원 이상 예약 고객에게는 결제 금액의 1%가 적립돼요.",
+    "description": "모두투어 '2026 메가세일' 기간 중 삼성카드로 150만 원 이상 결제 시 4만 원, 300만 원 이상 결제 시 9만 원의 결제일 할인이 적용돼요. 11월 16일부터 12월 24일까지 진행되며, 랜덤 여행 할인 쿠폰과 마일리지 페이백 등 다양한 혜택이 함께 제공돼요.",
     "affiliateUrl": "https://www.samsungcard.com",
     "imageUrl": null,
-    "sourceUrl": "https://www.insightkorea.co.kr/news/articleView.html?idxno=258913",
+    "sourceUrl": "https://www.traveldaily.co.kr/news/articleView.html?idxno=72692",
     "isActive": true,
     "createdAt": "2026-11-16T16:15:06+09:00",
-    "updatedAt": "2026-11-16T16:15:06+09:00"
+    "updatedAt": "2026-11-17T16:26:08+09:00"
   },
   {
     "id": "coupang-2611-gwangju-trademarket",
@@ -3004,5 +3004,41 @@
     "isActive": true,
     "createdAt": "2026-11-17T12:27:49+09:00",
     "updatedAt": "2026-11-17T12:27:49+09:00"
+  },
+  {
+    "id": "daiso-2611-christmas-market",
+    "title": "다이소몰 신한 SOL페이 5000원 이상 결제 500P 적립",
+    "platform": "SHINHAN_CARD",
+    "category": "LIVING",
+    "startDate": "2026-11-16T00:00:00+09:00",
+    "endDate": "2026-11-20T23:59:59+09:00",
+    "discountRate": null,
+    "minSpend": null,
+    "maxDiscountAmount": null,
+    "description": "다이소몰 '다이소 득템 대전 크리스마스 마켓' 기간 중 신한 슈퍼 SOL 또는 SOL 페이로 5000원 이상 결제 시 마이신한포인트 500포인트를 지급해요.",
+    "affiliateUrl": "https://www.shinhan.com",
+    "imageUrl": null,
+    "sourceUrl": "https://www.news2day.co.kr/article/20261116500099",
+    "isActive": true,
+    "createdAt": "2026-11-17T16:26:08+09:00",
+    "updatedAt": "2026-11-17T16:26:08+09:00"
+  },
+  {
+    "id": "galleria-2611-gallallight",
+    "title": "갤러리아몰 '갤올라잇' 패션·뷰티 12% 할인 쿠폰",
+    "platform": "TOSS",
+    "category": "FASHION",
+    "startDate": "2026-11-16T00:00:00+09:00",
+    "endDate": "2026-11-22T23:59:59+09:00",
+    "discountRate": null,
+    "minSpend": null,
+    "maxDiscountAmount": null,
+    "description": "갤러리아몰 '갤올라잇' 행사에서 패션·뷰티 상품 구매 시 12% 할인 쿠폰(최대 3만원)과 전 카테고리 8% 할인 쿠폰(최대 3만원)을 제공해요. 토스페이 결제 할인 프로모션도 함께 진행되며, 일부 브랜드와 상품은 쿠폰 적용 대상에서 제외될 수 있어요.",
+    "affiliateUrl": "https://toss.im",
+    "imageUrl": null,
+    "sourceUrl": "https://www.ebn.co.kr/news/articleView.html?idxno=1731832",
+    "isActive": true,
+    "createdAt": "2026-11-17T16:26:08+09:00",
+    "updatedAt": "2026-11-17T16:26:08+09:00"
   }
 ]
