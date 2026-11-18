@@ -229,7 +229,7 @@
     "affiliateUrl": "https://www.shinhan.com",
     "imageUrl": null,
     "sourceUrl": "https://www.cstimes.com/news/articleView.html?idxno=722102",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-10-06T20:19:28+09:00",
     "updatedAt": "2026-10-06T20:19:28+09:00"
   },
@@ -3105,12 +3105,12 @@
     "discountRate": null,
     "minSpend": null,
     "maxDiscountAmount": null,
-    "description": "신한나라사랑카드 신규 발급 고객 전원에게 '롯데리아 모짜렐라 버거 세트' 모바일 기프티콘을 증정해요. 롯데잇츠 신규 가입 시 5,000 EATZ마일, 기존 회원은 1,000 EATZ마일을 제공하며 신한 슈퍼SOL 이벤트 페이지에서 쿠폰을 받아 참여할 수 있어요.",
+    "description": "행사 기간 신한나라사랑카드를 새로 발급받는 고객 전원에게 '롯데리아 모짜렐라 버거 세트' 모바일 기프티콘을 제공해요. 카드를 새로 발급받은 고객이 롯데잇츠에도 새로 가입하면 5,000 EATZ마일을, 롯데잇츠 기존 회원이면 1,000 EATZ마일을 받아요.",
     "affiliateUrl": "https://www.shinhan.com",
     "imageUrl": null,
     "sourceUrl": "https://www.thebigdata.co.kr/view.php?ud=202611171445137443d0a8833aad_23",
     "isActive": true,
     "createdAt": "2026-11-18T20:25:13+09:00",
-    "updatedAt": "2026-11-18T20:25:13+09:00"
+    "updatedAt": "2026-11-19T05:44:35+09:00"
   }
 ]
