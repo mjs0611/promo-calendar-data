@@ -2979,13 +2979,13 @@
     "discountRate": null,
     "minSpend": null,
     "maxDiscountAmount": null,
-    "description": "서울 광화문광장에서 열리는 K-베이커리 페스티벌에서 페이스사인 결제를 이용하면 구매금액의 10%를 네이버페이 포인트로 적립받으세요. 전국 110여 개 베이커리 브랜드가 참여해 다양한 빵과 디저트를 즐길 수 있습니다.",
+    "description": "서울 광화문광장에서 열리는 K-베이커리 페스티벌에서 네이버페이 페이스사인 결제를 이용하면 구매금액의 10%를 포인트로 적립해요. 전국 110여 개 베이커리 브랜드가 참여하는 행사로, 11월 18일부터 20일까지 진행됩니다.",
     "affiliateUrl": "https://pay.naver.com",
     "imageUrl": null,
     "sourceUrl": "https://www.e-science.co.kr/news/articleView.html?idxno=139950",
     "isActive": true,
     "createdAt": "2026-11-17T12:27:49+09:00",
-    "updatedAt": "2026-11-18T12:25:25+09:00"
+    "updatedAt": "2026-11-19T12:18:38+09:00"
   },
   {
     "id": "kurly-2611-jeju-local-brand",
@@ -3033,13 +3033,13 @@
     "discountRate": null,
     "minSpend": null,
     "maxDiscountAmount": null,
-    "description": "갤러리아몰 '갤올라잇' 행사에서 패션·뷰티 상품 구매 시 12% 할인 쿠폰(최대 3만원)과 전 카테고리 8% 할인 쿠폰(최대 3만원)을 제공해요. 토스페이 결제 할인 프로모션도 함께 진행되며, 일부 브랜드와 상품은 쿠폰 적용 대상에서 제외될 수 있어요.",
-    "affiliateUrl": "https://toss.im",
+    "description": "갤러리아몰에서 '갤올라잇' 행사를 진행하며 패션·뷰티 상품 12% 할인 쿠폰을 제공해요. 두 쿠폰 모두 최대 3만원까지 할인받을 수 있어요. 토스페이 결제 시 추가 할인 혜택도 함께 적용돼요.",
+    "affiliateUrl": "https://www.galleria-mall.com",
     "imageUrl": null,
-    "sourceUrl": "https://www.ebn.co.kr/news/articleView.html?idxno=1731832",
+    "sourceUrl": "https://www.catchnews.kr/news/articleViewAmp.html?idxno=130537",
     "isActive": true,
     "createdAt": "2026-11-17T16:26:08+09:00",
-    "updatedAt": "2026-11-17T16:26:08+09:00"
+    "updatedAt": "2026-11-19T12:18:38+09:00"
   },
   {
     "id": "baemin-2611-coca-cola-hangut",
@@ -3112,5 +3112,23 @@
     "isActive": true,
     "createdAt": "2026-11-18T20:25:13+09:00",
     "updatedAt": "2026-11-19T05:44:35+09:00"
+  },
+  {
+    "id": "lotteon-2611-outdoor-brand-festa",
+    "title": "롯데온 글로벌 아웃도어 브랜드 대전",
+    "platform": "LOTTEON",
+    "category": "LIVING",
+    "startDate": "2026-11-16T00:00:00+09:00",
+    "endDate": "2026-11-29T23:59:59+09:00",
+    "discountRate": null,
+    "minSpend": null,
+    "maxDiscountAmount": null,
+    "description": "롯데온에서 겨울 캠핑 성수기를 맞아 글로벌 아웃도어 브랜드 대전을 진행해요. 11월 29일까지 다양한 아웃도어 브랜드 상품을 만나볼 수 있어요. 자세한 할인 혜택은 롯데온 앱에서 확인해 주세요.",
+    "affiliateUrl": "https://www.lotteon.com",
+    "imageUrl": null,
+    "sourceUrl": "https://www.techm.kr/news/articleView.html?idxno=157477",
+    "isActive": true,
+    "createdAt": "2026-11-19T12:18:38+09:00",
+    "updatedAt": "2026-11-19T12:18:38+09:00"
   }
 ]
