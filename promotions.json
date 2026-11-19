@@ -3025,7 +3025,7 @@
   },
   {
     "id": "galleria-2611-gallallight",
-    "title": "갤러리아몰 '갤올라잇' 패션·뷰티 12% 할인 쿠폰",
+    "title": "갤러리아몰 갤올라잇 장바구니 쿠폰 12%·8%",
     "platform": "TOSS",
     "category": "FASHION",
     "startDate": "2026-11-16T00:00:00+09:00",
@@ -3033,10 +3033,10 @@
     "discountRate": null,
     "minSpend": null,
     "maxDiscountAmount": null,
-    "description": "갤러리아몰에서 '갤올라잇' 행사를 진행하며 패션·뷰티 상품 12% 할인 쿠폰을 제공해요. 두 쿠폰 모두 최대 3만원까지 할인받을 수 있어요. 토스페이 결제 시 추가 할인 혜택도 함께 적용돼요.",
-    "affiliateUrl": "https://www.galleria-mall.com",
+    "description": "11월 22일까지 갤러리아몰에서 패션·뷰티 장바구니 10만 원 이상은 12%, 전 카테고리 장바구니 8만 원 이상은 8% 할인받을 수 있어요. 두 쿠폰 모두 최대 3만 원이고, 최소 주문금액은 상품 쿠폰 적용 후 장바구니 금액 기준이에요. 일부 브랜드와 상품은 제외돼요.",
+    "affiliateUrl": "https://mobile.galleria.co.kr/event/initEventDetail.action?event_no=E261108738",
     "imageUrl": null,
-    "sourceUrl": "https://www.catchnews.kr/news/articleViewAmp.html?idxno=130537",
+    "sourceUrl": "https://mobile.galleria.co.kr/event/initEventDetail.action?event_no=E261108738",
     "isActive": true,
     "createdAt": "2026-11-17T16:26:08+09:00",
     "updatedAt": "2026-11-19T12:18:38+09:00"
