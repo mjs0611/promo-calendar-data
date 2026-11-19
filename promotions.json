@@ -2335,7 +2335,7 @@
     "affiliateUrl": "https://www.29cm.com",
     "imageUrl": null,
     "sourceUrl": "https://www.inews24.com/view/2023371",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-11-06T16:22:04+09:00",
     "updatedAt": "2026-11-06T16:22:04+09:00"
   },
@@ -2425,7 +2425,7 @@
     "affiliateUrl": "https://www.29cm.com",
     "imageUrl": null,
     "sourceUrl": "https://www.newstap.co.kr/news/articleView.html?idxno=337453",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-11-09T12:21:43+09:00",
     "updatedAt": "2026-11-10T12:20:01+09:00"
   },
@@ -2695,7 +2695,7 @@
     "affiliateUrl": "https://www.kurly.com",
     "imageUrl": null,
     "sourceUrl": "https://www.dailysmart.co.kr/news/articleView.html?idxno=132433",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-11-13T20:13:22+09:00",
     "updatedAt": "2026-11-13T20:13:22+09:00"
   },
@@ -2911,7 +2911,7 @@
     "affiliateUrl": "https://www.kurly.com",
     "imageUrl": null,
     "sourceUrl": "http://www.dailypop.kr/news/articleView.html?idxno=104560",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-11-16T12:18:56+09:00",
     "updatedAt": "2026-11-16T12:18:56+09:00"
   },
@@ -2965,7 +2965,7 @@
     "affiliateUrl": "https://www.gmarket.co.kr",
     "imageUrl": null,
     "sourceUrl": "https://www.dailian.co.kr/news/view/1715836/G%EB%A7%88%EC%BC%93-%EB%81%9D%EC%9E%A5%EC%84%B8%EC%9D%BC-%EC%B5%9C%EB%8C%80-80-%ED%95%A0%EC%9D%B8-2026",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-11-17T12:27:49+09:00",
     "updatedAt": "2026-11-17T12:27:49+09:00"
   },
