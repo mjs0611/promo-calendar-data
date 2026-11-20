@@ -3177,13 +3177,13 @@
     "discountRate": null,
     "minSpend": null,
     "maxDiscountAmount": null,
-    "description": "수험생과 학생을 대상으로 노트북, 조립 PC, 태블릿 등 IT가전 특가 할인과 사은품 증정 행사를 진행합니다. 조립 PC와 노트북 행사상품 구매 고객 중 선착순 300명에게 최대 10만원 상당의 모니터와 마우스를 제공합니다. 애플 제품은 12월 26일까지 중·고등학생과 대학생 대상 혜택가로 판매됩니다.",
+    "description": "노트북과 태블릿 행사상품은 인터넷 최저가 수준으로 판매하며, 조립 PC와 노트북 구매 시 선착순 300명에게 최대 10만원 상당의 모니터나 마우스를 증정해요. 애플 제품은 중·고등학생 및 대학생 고객에게 12월 26일까지 혜택가로 판매하고, 모바일 행사상품은 수험표 소지자에게 한정수량으로 용량 확대 및 사은품 증정 혜택을 제공해요.",
     "affiliateUrl": "https://www.lotteon.com",
     "imageUrl": null,
-    "sourceUrl": "https://www.lawissue.co.kr/view.php?ud=202611181611494180204ead0791_12",
+    "sourceUrl": "https://www.newsquest.co.kr/news/articleView.html?idxno=305356",
     "isActive": true,
     "createdAt": "2026-11-19T16:10:45+09:00",
-    "updatedAt": "2026-11-19T16:10:45+09:00"
+    "updatedAt": "2026-11-20T16:15:41+09:00"
   },
   {
     "id": "naver-2611-jejuair-suneung",
@@ -3292,5 +3292,41 @@
     "isActive": true,
     "createdAt": "2026-11-20T12:19:42+09:00",
     "updatedAt": "2026-11-20T12:19:42+09:00"
+  },
+  {
+    "id": "naver-2611-travel-superweek",
+    "title": "네이버여행 슈퍼위크 항공권·호텔 최대 90% 할인",
+    "platform": "NAVER",
+    "category": "TRAVEL",
+    "startDate": "2026-11-20T00:00:00+09:00",
+    "endDate": "2026-11-29T23:59:59+09:00",
+    "discountRate": null,
+    "minSpend": null,
+    "maxDiscountAmount": null,
+    "description": "인기 해외 노선 항공권 예약 시 최대 10만원 상당의 할인·적립 혜택을 받을 수 있으며, 일본 항공권 및 국내 호텔 숙박권을 100원에 구매할 수 있는 추첨 이벤트도 함께 열려요. 기간 중 여행 상품을 예약한 멤버십 회원 선착순 400명에게는 총 2000만원 상당의 네이버페이 포인트를 지급해요.",
+    "affiliateUrl": "https://www.naver.com",
+    "imageUrl": null,
+    "sourceUrl": "https://www.etnews.com/20261120000277",
+    "isActive": true,
+    "createdAt": "2026-11-20T16:15:41+09:00",
+    "updatedAt": "2026-11-20T16:15:41+09:00"
+  },
+  {
+    "id": "musinsa-2611-monster-sale-global",
+    "title": "무신사 글로벌 몬스터 세일 26 윈터 블랙프라이데이",
+    "platform": "MUSINSA",
+    "category": "FASHION",
+    "startDate": "2026-11-22T00:00:00+09:00",
+    "endDate": "2026-12-02T23:59:59+09:00",
+    "discountRate": null,
+    "minSpend": null,
+    "maxDiscountAmount": null,
+    "description": "무신사 글로벌 스토어는 11월 22일부터 12월 2일까지 일본, 미국 등 해외 13개국에서 '무신사 몬스터 세일'을 진행해요. 국내 패션브랜드 상품 50만 종 이상을 선보이며, 인기 브랜드 약 125곳에는 최대 25% 할인 쿠폰을 적용해요. 매일 한 브랜드를 골라 세일가에서 30%를 더 할인해 주는 '원브랜드데이' 이벤트도 함께 운영해요.",
+    "affiliateUrl": "https://www.musinsa.com",
+    "imageUrl": null,
+    "sourceUrl": "https://www.theguru.co.kr/news/article.html?no=109997",
+    "isActive": true,
+    "createdAt": "2026-11-20T16:15:41+09:00",
+    "updatedAt": "2026-11-20T16:15:41+09:00"
   }
 ]
