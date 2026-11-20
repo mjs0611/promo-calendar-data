@@ -3328,5 +3328,41 @@
     "isActive": true,
     "createdAt": "2026-11-20T16:15:41+09:00",
     "updatedAt": "2026-11-20T16:15:41+09:00"
+  },
+  {
+    "id": "naver-2611-apple-bts-student",
+    "title": "네이버페이 애플 10대 학생할인 BTS 프로모션",
+    "platform": "NAVER",
+    "category": "ELECTRONICS",
+    "startDate": "2026-11-19T00:00:00+09:00",
+    "endDate": "2027-03-27T23:59:59+09:00",
+    "discountRate": null,
+    "minSpend": null,
+    "maxDiscountAmount": null,
+    "description": "네이버페이가 애플과 함께 수능을 마친 고3 및 중·고등학생을 대상으로 'Apple 10대 학생할인 BTS' 프로모션을 진행해요. 만 14세 이상 2007~2012년생이 연령 인증을 완료하면 맥북 에어 13·15형(M5) 40만원, 아이패드 에어 11·13형(M4) 25만원, 애플 펜슬 프로 4만원 할인 쿠폰을 받을 수 있어요. 오프라인에서는 프리스비, 이마트 에이스토어 등 전국 약 450개 매장에서 네이버페이 현장결제 시 학생증 또는 청소년증 제시로 동일 혜택을 누릴 수 있어요.",
+    "affiliateUrl": "https://www.naver.com",
+    "imageUrl": null,
+    "sourceUrl": "http://www.worktoday.co.kr/news/articleView.html?idxno=92398",
+    "isActive": true,
+    "createdAt": "2026-11-20T20:13:51+09:00",
+    "updatedAt": "2026-11-20T20:13:51+09:00"
+  },
+  {
+    "id": "ssg-2611-fresh-food-winter-sale",
+    "title": "이마트 신선식품·겨울 생활용품 특가전",
+    "platform": "SSG",
+    "category": "FOOD",
+    "startDate": "2026-11-20T00:00:00+09:00",
+    "endDate": "2026-11-25T23:59:59+09:00",
+    "discountRate": null,
+    "minSpend": null,
+    "maxDiscountAmount": null,
+    "description": "이마트가 참다랑어회, 감귤 등 신선식품과 겨울철 생활용품을 할인 판매하는 특가전을 진행해요. 또한 22일까지는 경동나비엔 온수매트를 행사카드로 전액 결제 시 최대 8만원 할인된 가격으로 만나볼 수 있어요.",
+    "affiliateUrl": "https://www.ssg.com",
+    "imageUrl": null,
+    "sourceUrl": "https://www.eroun.net/news/articleView.html?idxno=96044",
+    "isActive": true,
+    "createdAt": "2026-11-20T20:13:51+09:00",
+    "updatedAt": "2026-11-20T20:13:51+09:00"
   }
 ]
