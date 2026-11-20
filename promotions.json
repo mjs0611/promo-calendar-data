@@ -3256,5 +3256,41 @@
     "isActive": true,
     "createdAt": "2026-11-19T16:10:45+09:00",
     "updatedAt": "2026-11-19T16:10:45+09:00"
+  },
+  {
+    "id": "musinsa-2611-mujinjang-blackfriday",
+    "title": "무신사 무진장 26 겨울 블랙프라이데이",
+    "platform": "MUSINSA",
+    "category": "FASHION",
+    "startDate": "2026-11-22T00:00:00+09:00",
+    "endDate": "2026-12-02T23:59:59+09:00",
+    "discountRate": null,
+    "minSpend": null,
+    "maxDiscountAmount": null,
+    "description": "무신사가 11월 22일부터 12월 2일까지 연중 최대 할인 행사 '무진장 26 겨울 블랙프라이데이'를 진행해요. 올해 많이 팔린 상품 1,500여 개를 최저가에 판매하는 '시그니처 특가'와 나이키, 아디다스 등 브랜드가 참여하는 '시그니처 브랜드데이'를 만나볼 수 있어요. 티징 기간에는 선착순으로 최대 30% 할인 쿠폰을 지급하며, 유즈드에서는 인기 브랜드 상품을 9,900원에 판매하는 특가도 매일 두 차례 진행해요.",
+    "affiliateUrl": "https://www.musinsa.com",
+    "imageUrl": null,
+    "sourceUrl": "https://www.newspim.com/news/view/20261120000074",
+    "isActive": true,
+    "createdAt": "2026-11-20T12:19:42+09:00",
+    "updatedAt": "2026-11-20T12:19:42+09:00"
+  },
+  {
+    "id": "baemin-2611-musinsa-lottegrs-burger",
+    "title": "무신사 x 롯데리아 '무신사 무진장 버거' 팩 한정 판매",
+    "platform": "BAEMIN",
+    "category": "FOOD",
+    "startDate": "2026-11-20T00:00:00+09:00",
+    "endDate": "2026-12-16T23:59:59+09:00",
+    "discountRate": null,
+    "minSpend": null,
+    "maxDiscountAmount": null,
+    "description": "무신사와 롯데리아가 협업한 '무신사 무진장 버거' 2종과 '무신사 무진장 팩'을 11월 20일부터 12월 16일까지 전국 롯데리아 매장에서 판매해요. 버거에 양념감자, 치즈스틱, 음료가 포함된 팩은 15만 개 한정 판매되며, 구매자 전원에게 무신사 오프라인 스토어 10% 할인 쿠폰과 행운권을 제공해요.",
+    "affiliateUrl": "https://www.baemin.com",
+    "imageUrl": null,
+    "sourceUrl": "https://www.techm.kr/news/articleView.html?idxno=157605",
+    "isActive": true,
+    "createdAt": "2026-11-20T12:19:42+09:00",
+    "updatedAt": "2026-11-20T12:19:42+09:00"
   }
 ]
