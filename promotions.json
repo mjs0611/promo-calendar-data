@@ -3037,7 +3037,7 @@
     "affiliateUrl": "https://mobile.galleria.co.kr/event/initEventDetail.action?event_no=E261108738",
     "imageUrl": null,
     "sourceUrl": "https://mobile.galleria.co.kr/event/initEventDetail.action?event_no=E261108738",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-11-17T16:26:08+09:00",
     "updatedAt": "2026-11-19T12:18:38+09:00"
   },
@@ -3073,7 +3073,7 @@
     "affiliateUrl": "https://www.11st.co.kr",
     "imageUrl": null,
     "sourceUrl": "https://www.youthdaily.co.kr/news/article.html?no=229981",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-11-18T12:25:25+09:00",
     "updatedAt": "2026-11-18T12:25:25+09:00"
   },
