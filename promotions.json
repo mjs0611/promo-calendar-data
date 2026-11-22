@@ -3267,13 +3267,13 @@
     "discountRate": null,
     "minSpend": null,
     "maxDiscountAmount": null,
-    "description": "무신사가 11월 22일부터 12월 2일까지 연중 최대 할인 행사 '무진장 26 겨울 블랙프라이데이'를 진행해요. 올해 많이 팔린 상품 1,500여 개를 최저가에 판매하는 '시그니처 특가'와 나이키, 아디다스 등 브랜드가 참여하는 '시그니처 브랜드데이'를 만나볼 수 있어요. 티징 기간에는 선착순으로 최대 30% 할인 쿠폰을 지급하며, 유즈드에서는 인기 브랜드 상품을 9,900원에 판매하는 특가도 매일 두 차례 진행해요.",
+    "description": "무신사 입점 브랜드 약 5천 개가 참여하는 연중 최대 할인 행사로, SK텔레콤 에어 5G 요금제 가입 시 월 6,900원부터 실 체감가로 이용 가능해요. 가입자 전원에게 무신사 온라인 15% 할인 쿠폰 2장(장당 최대 5만 원)을 제공하며, 선착순 300명에게는 무신사머니 1만 포인트를 추가 지급해요.",
     "affiliateUrl": "https://www.musinsa.com",
     "imageUrl": null,
-    "sourceUrl": "https://www.newspim.com/news/view/20261120000074",
+    "sourceUrl": "https://www.businesspost.co.kr/BP?command=article_view&num=452581",
     "isActive": true,
     "createdAt": "2026-11-20T12:19:42+09:00",
-    "updatedAt": "2026-11-20T12:19:42+09:00"
+    "updatedAt": "2026-11-22T12:17:05+09:00"
   },
   {
     "id": "baemin-2611-musinsa-lottegrs-burger",
@@ -3303,13 +3303,13 @@
     "discountRate": null,
     "minSpend": null,
     "maxDiscountAmount": null,
-    "description": "인기 해외 노선 항공권 예약 시 최대 10만원 상당의 할인·적립 혜택을 받을 수 있으며, 일본 항공권 및 국내 호텔 숙박권을 100원에 구매할 수 있는 추첨 이벤트도 함께 열려요. 기간 중 여행 상품을 예약한 멤버십 회원 선착순 400명에게는 총 2000만원 상당의 네이버페이 포인트를 지급해요.",
-    "affiliateUrl": "https://www.naver.com",
+    "description": "항공, 호텔, 패키지여행 등 다양한 여행 상품에 최대 90% 할인 혜택이 적용되는 연중 최대 규모 프로모션이에요. 인기 해외 노선 항공권 예약 시 최대 10만 원 상당의 할인·적립 혜택을 받을 수 있으며, 선착순 400명에게는 총 2,000만 원 상당의 네이버페이 포인트를 지급해요.",
+    "affiliateUrl": "https://travel.naver.com",
     "imageUrl": null,
-    "sourceUrl": "https://www.etnews.com/20261120000277",
+    "sourceUrl": "https://www.financialpost.co.kr/news/articleView.html?idxno=302155",
     "isActive": true,
     "createdAt": "2026-11-20T16:15:41+09:00",
-    "updatedAt": "2026-11-20T16:15:41+09:00"
+    "updatedAt": "2026-11-22T12:17:05+09:00"
   },
   {
     "id": "musinsa-2611-monster-sale-global",
@@ -3454,5 +3454,23 @@
     "isActive": true,
     "createdAt": "2026-11-21T12:11:49+09:00",
     "updatedAt": "2026-11-21T12:11:49+09:00"
+  },
+  {
+    "id": "shinhan-2611-super-sol-id-event",
+    "title": "신한 슈퍼SOL 모바일신분증 발급 이벤트",
+    "platform": "SHINHAN_CARD",
+    "category": "LIVING",
+    "startDate": "2026-11-20T00:00:00+09:00",
+    "endDate": "2026-12-20T23:59:59+09:00",
+    "discountRate": null,
+    "minSpend": null,
+    "maxDiscountAmount": null,
+    "description": "2006~2008년생 고객을 대상으로 신한 슈퍼SOL 앱에서 응모 후 모바일신분증을 발급하면 선착순 1만 명에게 마이신한포인트 3,000포인트를 지급해요. 수능 이후 소비 특수를 겨냥한 금융 혜택으로, 앱 내 이벤트 페이지를 통해 참여할 수 있어요.",
+    "affiliateUrl": "https://www.shinhan.com",
+    "imageUrl": null,
+    "sourceUrl": "https://www.moneystorm.kr/news/articleView.html?idxno=8673",
+    "isActive": true,
+    "createdAt": "2026-11-22T12:17:05+09:00",
+    "updatedAt": "2026-11-22T12:17:05+09:00"
   }
 ]
