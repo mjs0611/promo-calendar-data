@@ -3544,5 +3544,23 @@
     "isActive": true,
     "createdAt": "2026-11-23T12:14:22+09:00",
     "updatedAt": "2026-11-23T12:14:22+09:00"
+  },
+  {
+    "id": "yogiyo-2611-christmas-cake-preorder",
+    "title": "신한 땡겨요 2026 크리스마스 케이크 사전예약 최대 1만 6000원 할인",
+    "platform": "YOGIYO",
+    "category": "FOOD",
+    "startDate": "2026-11-23T00:00:00+09:00",
+    "endDate": "2026-12-16T23:59:59+09:00",
+    "discountRate": null,
+    "minSpend": null,
+    "maxDiscountAmount": null,
+    "description": "신한은행 땡겨요에서 파리바게뜨, 뚜레쥬르, 파스쿠찌 등 5개 브랜드의 크리스마스 케이크 사전예약 할인 행사를 진행해요. 예약 상품은 12월 18일부터 27일까지 지정 매장에서 수령하면 됩니다.",
+    "affiliateUrl": "https://www.yogiyo.com",
+    "imageUrl": null,
+    "sourceUrl": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065593358205068",
+    "isActive": true,
+    "createdAt": "2026-11-23T16:09:35+09:00",
+    "updatedAt": "2026-11-23T16:09:35+09:00"
   }
 ]
