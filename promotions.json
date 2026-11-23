@@ -3501,13 +3501,13 @@
     "discountRate": null,
     "minSpend": null,
     "maxDiscountAmount": null,
-    "description": "미국·일본·유럽 등 해외 인기 상품 약 3만개를 할인 판매하는 로켓직구 블랙프라이데이 행사가 진행됩니다. 행사 기간 중 상품을 2개 이상 구매 시 10% 할인 쿠폰과 로켓직구 일본 상품 전용 7,000원 쿠폰을 사용할 수 있습니다. 선착순 메가딜, 하루특가, 오픈런 990딜 등 다양한 특가 코너도 운영됩니다.",
+    "description": "쿠팡이 9일간 연중 최대 규모의 해외직구 행사 '쿠블프'를 진행합니다. 행사 상품 2개 이상 구매 시 10% 할인 쿠폰과 일본 직구 상품 전용 7000원 할인 쿠폰을 제공합니다.",
     "affiliateUrl": "https://www.coupang.com",
     "imageUrl": null,
-    "sourceUrl": "https://www.job-post.co.kr/news/articleView.html?idxno=240058",
+    "sourceUrl": "https://www.financialpost.co.kr/news/articleView.html?idxno=302613",
     "isActive": true,
     "createdAt": "2026-11-23T12:14:22+09:00",
-    "updatedAt": "2026-11-23T12:14:22+09:00"
+    "updatedAt": "2026-11-23T20:15:32+09:00"
   },
   {
     "id": "naver-2611-trinityair-npay-points",
@@ -3562,5 +3562,23 @@
     "isActive": true,
     "createdAt": "2026-11-23T16:09:35+09:00",
     "updatedAt": "2026-11-23T16:09:35+09:00"
+  },
+  {
+    "id": "coupang-2611-frankburger-wow",
+    "title": "프랭크버거 쿠팡이츠 와우회원 최대 1만원 할인",
+    "platform": "COUPANG",
+    "category": "FOOD",
+    "startDate": "2026-11-23T00:00:00+09:00",
+    "endDate": "2026-11-29T23:59:59+09:00",
+    "discountRate": null,
+    "minSpend": null,
+    "maxDiscountAmount": null,
+    "description": "쿠팡이츠에서 프랭크버거를 1만8000원 이상 주문하는 와우회원이 대상입니다. 신규 및 장기 미이용 고객은 1만원 할인쿠폰을, 일반 와우회원은 4500원 또는 2000원 할인쿠폰을 횟수 제한 없이 사용할 수 있습니다. 배달 주문에 한해 적용됩니다.",
+    "affiliateUrl": "https://www.coupang.com",
+    "imageUrl": null,
+    "sourceUrl": "https://www.thepublic.kr/news/articleViewAmp.html?idxno=328089",
+    "isActive": true,
+    "createdAt": "2026-11-23T20:15:32+09:00",
+    "updatedAt": "2026-11-23T20:15:32+09:00"
   }
 ]
