@@ -2785,7 +2785,7 @@
     "affiliateUrl": "https://www.samsungcard.com",
     "imageUrl": null,
     "sourceUrl": "http://www.biztribune.co.kr/news/articleView.html?idxno=362536",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-11-14T16:11:32+09:00",
     "updatedAt": "2026-11-16T16:15:06+09:00"
   },
@@ -3475,21 +3475,21 @@
   },
   {
     "id": "musinsa-2611-skt-air-blackfriday",
-    "title": "SKT 에어 5G 요금제 특가 및 무신사 15% 할인 쿠폰 증정",
+    "title": "에어 5G 요금제 특가·무신사 협업 혜택",
     "platform": "MUSINSA",
-    "category": "FASHION",
+    "category": "SHOPPING",
     "startDate": "2026-11-22T00:00:00+09:00",
     "endDate": "2026-12-02T23:59:59+09:00",
     "discountRate": null,
     "minSpend": null,
     "maxDiscountAmount": null,
-    "description": "특가 가입 시 무신사 온라인 스토어에서 사용 가능한 15% 할인 쿠폰 2장(1장당 최대 5만원)을 제공하며, 선착순 2,500명에게는 한정판 폴더블 보스턴백을 증정합니다.",
+    "description": "에어의 6개 5G 요금제를 실 체감가 월 6900원부터 1만6900원까지 12개월간 이용할 수 있어요. 특가 요금제에 가입하면 무신사 협업 한정판 폴더블 보스턴백과 최대 11만 원 상당의 쇼핑 혜택을 받아요.",
     "affiliateUrl": "https://www.musinsa.com",
     "imageUrl": null,
-    "sourceUrl": "https://www.apnews.kr/news/articleView.html?idxno=3053415",
+    "sourceUrl": "https://www.ibabynews.com/news/articleView.html?idxno=157187",
     "isActive": true,
     "createdAt": "2026-11-23T12:14:22+09:00",
-    "updatedAt": "2026-11-23T12:14:22+09:00"
+    "updatedAt": "2026-11-24T05:44:35+09:00"
   },
   {
     "id": "coupang-2611-rocket-direct-blackfriday",
