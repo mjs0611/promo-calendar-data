@@ -3262,18 +3262,18 @@
     "title": "무신사 무진장 26 겨울 블랙프라이데이",
     "platform": "MUSINSA",
     "category": "FASHION",
-    "startDate": "2026-11-22T19:00:00+09:00",
+    "startDate": "2026-11-22T00:00:00+09:00",
     "endDate": "2026-12-02T23:59:59+09:00",
     "discountRate": null,
     "minSpend": null,
     "maxDiscountAmount": null,
-    "description": "무신사 무진장 26 겨울 블랙프라이데이 국내 온라인 본행사는 11월 22일 오후 7시부터 12월 2일 밤 12시까지 진행돼요. 행사 상품은 최대 80% 할인되며, 시그니처 특가와 브랜드데이 일정은 공식 안내에서 확인할 수 있어요.",
-    "affiliateUrl": "https://www.musinsa.com/content/1569521073297955688",
+    "description": "무신사가 약 4800개 브랜드가 참여한 연중 최대 할인전 '무진장 26 겨울 블랙프라이데이'를 진행해요. 11월 22일부터 12월 2일까지 11일간 이어지며, 롯데리아·배스킨라빈스·SK텔레콤 등 외식·통신 브랜드와 협업해 할인 쿠폰 및 한정판 굿즈를 증정해요.",
+    "affiliateUrl": "https://www.musinsa.com",
     "imageUrl": null,
-    "sourceUrl": "https://www.musinsa.com/content/1569521073297955688",
+    "sourceUrl": "https://www.wikileaks-kr.org/news/articleView.html?idxno=195092",
     "isActive": true,
     "createdAt": "2026-11-20T12:19:42+09:00",
-    "updatedAt": "2026-11-22T12:17:05+09:00"
+    "updatedAt": "2026-11-24T12:21:15+09:00"
   },
   {
     "id": "baemin-2611-musinsa-lottegrs-burger",
@@ -3352,18 +3352,18 @@
     "title": "이마트 신선식품·겨울 생활용품 특가전",
     "platform": "SSG",
     "category": "FOOD",
-    "startDate": "2026-11-20T00:00:00+09:00",
+    "startDate": "2026-11-23T00:00:00+09:00",
     "endDate": "2026-11-25T23:59:59+09:00",
     "discountRate": null,
     "minSpend": null,
     "maxDiscountAmount": null,
-    "description": "이마트가 참다랑어회, 감귤 등 신선식품과 겨울철 생활용품을 할인 판매하는 특가전을 진행해요. 또한 22일까지는 경동나비엔 온수매트를 행사카드로 전액 결제 시 최대 8만원 할인된 가격으로 만나볼 수 있어요.",
-    "affiliateUrl": "https://www.ssg.com",
+    "description": "신세계포인트 적립 시 참다랑어회 30%, 생굴 50% 할인 등 다양한 식품을 저렴하게 구매할 수 있어요. 경동나비엔 온수매트는 지정된 행사카드로 전액 결제 시 최대 8만원 할인 혜택이 적용돼요.",
+    "affiliateUrl": "https://www.emart.com",
     "imageUrl": null,
-    "sourceUrl": "https://www.eroun.net/news/articleView.html?idxno=96044",
+    "sourceUrl": "https://www.jnilbo.com/news/articleView.html?idxno=90000085551",
     "isActive": true,
     "createdAt": "2026-11-20T20:13:51+09:00",
-    "updatedAt": "2026-11-20T20:13:51+09:00"
+    "updatedAt": "2026-11-24T12:21:15+09:00"
   },
   {
     "id": "musinsa-2611-lotteria-burger-truck",
@@ -3555,13 +3555,13 @@
     "discountRate": null,
     "minSpend": null,
     "maxDiscountAmount": null,
-    "description": "신한은행 땡겨요에서 파리바게뜨, 뚜레쥬르, 파스쿠찌 등 5개 브랜드의 크리스마스 케이크 사전예약 할인 행사를 진행해요. 예약 상품은 12월 18일부터 27일까지 지정 매장에서 수령하면 됩니다.",
+    "description": "신한은행 땡겨요에서 파리바게뜨·뚜레쥬르 등 5개 브랜드의 크리스마스 케이크 사전예약 이벤트를 진행해요. 12월 16일까지 예약하고 12월 18일부터 27일까지 매장에서 수령하면 돼요.",
     "affiliateUrl": "https://www.yogiyo.com",
     "imageUrl": null,
-    "sourceUrl": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065593358205068",
+    "sourceUrl": "https://www.onews.tv/news/articleView.html?idxno=292301",
     "isActive": true,
     "createdAt": "2026-11-23T16:09:35+09:00",
-    "updatedAt": "2026-11-23T16:09:35+09:00"
+    "updatedAt": "2026-11-24T12:21:15+09:00"
   },
   {
     "id": "coupang-2611-frankburger-wow",
@@ -3580,5 +3580,23 @@
     "isActive": true,
     "createdAt": "2026-11-23T20:15:32+09:00",
     "updatedAt": "2026-11-23T20:15:32+09:00"
+  },
+  {
+    "id": "naver-2611-hanjin-blackflyday",
+    "title": "한진트래블 블랙 플라이데이 항공권·패키지 할인",
+    "platform": "NAVER",
+    "category": "TRAVEL",
+    "startDate": "2026-11-23T00:00:00+09:00",
+    "endDate": "2026-11-30T23:59:59+09:00",
+    "discountRate": null,
+    "minSpend": null,
+    "maxDiscountAmount": null,
+    "description": "한진트래블이 11월 23일부터 30일까지 블랙 플라이데이 프로모션을 진행해요. 이집트 9일 전세기 패키지가 100만원 할인된 399만원에, 일본 홋카이도 4일 상품이 30만원 할인된 99만9000원에 판매돼요. 멤버십 회원은 매일 1회 룰렛 이벤트에 응모해 최대 50% 할인 쿠폰을 받을 수 있어요.",
+    "affiliateUrl": "https://www.naver.com",
+    "imageUrl": null,
+    "sourceUrl": "https://www.ttlnews.com/news/articleView.html?idxno=3165487",
+    "isActive": true,
+    "createdAt": "2026-11-24T12:21:15+09:00",
+    "updatedAt": "2026-11-24T12:21:15+09:00"
   }
 ]
