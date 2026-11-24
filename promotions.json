@@ -1602,24 +1602,6 @@
     "updatedAt": "2026-10-27T12:11:32+09:00"
   },
   {
-    "id": "baemin-2610-baekok-coffee",
-    "title": "배달의민족 백억커피 2,000원 할인",
-    "platform": "BAEMIN",
-    "category": "FOOD",
-    "startDate": "2026-10-05T00:00:00+09:00",
-    "endDate": "2026-10-11T23:59:59+09:00",
-    "discountRate": null,
-    "minSpend": null,
-    "maxDiscountAmount": null,
-    "description": "배달의민족에서 백억커피 '배짱할인' 프로모션을 진행해요. 10월 5일부터 11일까지 백억커피 주문 시 2,000원 할인 혜택을 받을 수 있어요. 해당 기간 동안 배달의민족 앱에서 백억커피를 주문하면 자동으로 적용돼요.",
-    "affiliateUrl": "https://www.baemin.com",
-    "imageUrl": null,
-    "sourceUrl": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5075642",
-    "isActive": false,
-    "createdAt": "2026-10-26T20:19:40+09:00",
-    "updatedAt": "2026-10-26T20:19:40+09:00"
-  },
-  {
     "id": "lotteon-2610-bigsave-market",
     "title": "롯데온 빅세이브마켓 최대 50% 할인",
     "platform": "LOTTEON",
@@ -3267,13 +3249,13 @@
     "discountRate": null,
     "minSpend": null,
     "maxDiscountAmount": null,
-    "description": "무신사가 약 4800개 브랜드가 참여한 연중 최대 할인전 '무진장 26 겨울 블랙프라이데이'를 진행해요. 11월 22일부터 12월 2일까지 11일간 이어지며, 롯데리아·배스킨라빈스·SK텔레콤 등 외식·통신 브랜드와 협업해 할인 쿠폰 및 한정판 굿즈를 증정해요.",
+    "description": "무신사 '무진장 26 겨울 블랙프라이데이' 행사가 11월 22일부터 12월 2일까지 온라인과 전국 오프라인 매장에서 동시에 진행됩니다. 11일간 이어지는 이번 행사에서는 겨울 시즌 패션 아이템을 특별한 가격에 만나볼 수 있습니다. 티징 기간을 거쳐 본 행사로 전환되어 다양한 브랜드의 겨울 상품을 할인된 가격에 제공합니다.",
     "affiliateUrl": "https://www.musinsa.com",
     "imageUrl": null,
-    "sourceUrl": "https://www.wikileaks-kr.org/news/articleView.html?idxno=195092",
+    "sourceUrl": "https://tnnews.co.kr/archives/299909",
     "isActive": true,
     "createdAt": "2026-11-20T12:19:42+09:00",
-    "updatedAt": "2026-11-24T12:21:15+09:00"
+    "updatedAt": "2026-11-24T16:21:07+09:00"
   },
   {
     "id": "baemin-2611-musinsa-lottegrs-burger",
@@ -3573,13 +3555,13 @@
     "discountRate": null,
     "minSpend": null,
     "maxDiscountAmount": null,
-    "description": "쿠팡이츠에서 프랭크버거를 1만8000원 이상 주문하는 와우회원이 대상입니다. 신규 및 장기 미이용 고객은 1만원 할인쿠폰을, 일반 와우회원은 4500원 또는 2000원 할인쿠폰을 횟수 제한 없이 사용할 수 있습니다. 배달 주문에 한해 적용됩니다.",
+    "description": "쿠팡이츠에서 1만8000원 이상 주문하는 와우회원을 대상으로 프랭크버거 전 메뉴 할인 혜택을 제공합니다. 신규 및 장기 미이용 고객은 1만원 할인쿠폰을, 일반 와우회원은 4500원 또는 2000원 할인쿠폰을 횟수 제한 없이 사용할 수 있습니다. 본 할인은 쿠팡이츠 앱을 통한 배달 주문에 한해 적용됩니다.",
     "affiliateUrl": "https://www.coupang.com",
     "imageUrl": null,
     "sourceUrl": "https://www.thepublic.kr/news/articleViewAmp.html?idxno=328089",
     "isActive": true,
     "createdAt": "2026-11-23T20:15:32+09:00",
-    "updatedAt": "2026-11-23T20:15:32+09:00"
+    "updatedAt": "2026-11-24T16:21:07+09:00"
   },
   {
     "id": "naver-2611-hanjin-blackflyday",
@@ -3598,5 +3580,23 @@
     "isActive": true,
     "createdAt": "2026-11-24T12:21:15+09:00",
     "updatedAt": "2026-11-24T12:21:15+09:00"
+  },
+  {
+    "id": "coupang-2611-beauty-rocketmart",
+    "title": "쿠팡 로켓프레시 뷰티 로켓마트 기획전",
+    "platform": "COUPANG",
+    "category": "BEAUTY",
+    "startDate": "2026-11-24T00:00:00+09:00",
+    "endDate": "2026-11-29T23:59:59+09:00",
+    "discountRate": null,
+    "minSpend": null,
+    "maxDiscountAmount": null,
+    "description": "쿠팡 로켓프레시에서 닥터지, 메디힐 등 45개 브랜드의 뷰티 상품을 모아 '뷰티 로켓마트' 기획전을 진행합니다. 와우회원은 상품별 즉시 할인 혜택과 함께 2만원 이상 구매 시 5000원 추가 할인 쿠폰을 다운로드할 수 있습니다. 신선식품과 뷰티 상품을 함께 구매하여 로켓프레시 무료 새벽배송 최소 주문금액(1만5000원)을 충족할 수 있습니다.",
+    "affiliateUrl": "https://www.coupang.com",
+    "imageUrl": null,
+    "sourceUrl": "https://www.dailysmart.co.kr/news/articleView.html?idxno=133046",
+    "isActive": true,
+    "createdAt": "2026-11-24T16:21:07+09:00",
+    "updatedAt": "2026-11-24T16:21:07+09:00"
   }
 ]
