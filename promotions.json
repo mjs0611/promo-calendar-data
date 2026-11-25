@@ -2767,7 +2767,7 @@
     "affiliateUrl": "https://www.emart.com",
     "imageUrl": null,
     "sourceUrl": "https://www.e-focus.co.kr/news/articleView.html?idxno=3003305",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-11-16T12:18:56+09:00",
     "updatedAt": "2026-11-16T12:18:56+09:00"
   },
@@ -3181,7 +3181,7 @@
     "affiliateUrl": "https://www.ssg.com",
     "imageUrl": null,
     "sourceUrl": "https://www.newsquest.co.kr/news/articleView.html?idxno=305343",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-11-19T16:10:45+09:00",
     "updatedAt": "2026-11-19T16:10:45+09:00"
   },
@@ -3289,7 +3289,7 @@
     "affiliateUrl": "https://www.emart.com",
     "imageUrl": null,
     "sourceUrl": "https://www.jnilbo.com/news/articleView.html?idxno=90000085551",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-11-20T20:13:51+09:00",
     "updatedAt": "2026-11-24T12:21:15+09:00"
   },
@@ -3565,21 +3565,21 @@
   },
   {
     "id": "shinhan-2611-papajohns-tanggyoyo",
-    "title": "신한 SOL트립앤샵 체크카드 땡겨요 파파존스 1만2천원 할인",
+    "title": "신한 SOL트립앤샵 체크카드 땡겨요 파파존스 최대 1만7000원 할인",
     "platform": "SHINHAN_CARD",
     "category": "FOOD",
     "startDate": "2026-11-25T00:00:00+09:00",
     "endDate": "2026-11-29T23:59:59+09:00",
     "discountRate": null,
     "minSpend": null,
-    "maxDiscountAmount": null,
-    "description": "신한은행 SOL트립앤샵 체크카드(비자 브랜드)로 땡겨요에서 파파존스를 결제하면 1만2천원 즉시 할인을 받을 수 있어요. 파파존스 브랜드 쿠폰 5천원권을 함께 적용하면 최대 1만7천원까지 할인 혜택이 커져요.",
+    "maxDiscountAmount": 17000,
+    "description": "땡겨요 앱에서 파파존스를 주문하고 SOL트립앤샵 체크카드 중 비자(VISA) 브랜드 카드로 결제하면 1만2000원을 할인받아요. 땡겨요 앱 내 파파존스 브랜드 쿠폰 5천원권을 함께 쓰면 최대 1만7000원까지 할인받을 수 있어요.",
     "affiliateUrl": "https://www.shinhan.com",
     "imageUrl": null,
-    "sourceUrl": "http://www.newslock.co.kr/news/articleView.html?idxno=140899",
+    "sourceUrl": "https://www.dailysmart.co.kr/news/articleView.html?idxno=133107",
     "isActive": true,
     "createdAt": "2026-11-25T20:17:57+09:00",
-    "updatedAt": "2026-11-25T20:17:57+09:00"
+    "updatedAt": "2026-11-26T05:43:46+09:00"
   },
   {
     "id": "musinsa-2611-skt-tday",
@@ -3595,7 +3595,7 @@
     "affiliateUrl": "https://www.musinsa.com",
     "imageUrl": null,
     "sourceUrl": "https://www.cstimes.com/news/articleView.html?idxno=729203",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-11-25T20:17:57+09:00",
     "updatedAt": "2026-11-25T20:17:57+09:00"
   }
