@@ -342,24 +342,6 @@
     "updatedAt": "2026-10-11T20:16:28+09:00"
   },
   {
-    "id": "coupang-2610-acer-gaming",
-    "title": "에이서 게이밍 노트북 최대 35% 할인",
-    "platform": "COUPANG",
-    "category": "ELECTRONICS",
-    "startDate": "2026-10-12T00:00:00+09:00",
-    "endDate": "2026-10-25T23:59:59+09:00",
-    "discountRate": 35,
-    "minSpend": null,
-    "maxDiscountAmount": null,
-    "description": "에이서가 쿠팡 쿠가세에 참여해 10월 12일부터 25일까지 게이밍 노트북 3종을 최대 35% 할인해요. '프레데터 헬리오스 네오 16S AI', '니트로 V 16S', '니트로 V 15' 모델이 대상이에요. 10월 16일 인텔 브랜드데이에 할인 혜택이 적용돼요.",
-    "affiliateUrl": "https://www.coupang.com",
-    "imageUrl": null,
-    "sourceUrl": "https://www.newstap.co.kr/news/articleView.html?idxno=335708",
-    "isActive": false,
-    "createdAt": "2026-10-13T20:15:15+09:00",
-    "updatedAt": "2026-10-14T05:38:35+09:00"
-  },
-  {
     "id": "coupang-2610-hisense-tv",
     "title": "하이센스 TV·레이저 프로젝터 최대 30% 할인",
     "platform": "COUPANG",
@@ -3459,19 +3441,19 @@
     "id": "musinsa-2611-skt-air-blackfriday",
     "title": "에어 5G 요금제 특가·무신사 협업 혜택",
     "platform": "MUSINSA",
-    "category": "SHOPPING",
+    "category": "FASHION",
     "startDate": "2026-11-22T00:00:00+09:00",
     "endDate": "2026-12-02T23:59:59+09:00",
     "discountRate": null,
     "minSpend": null,
     "maxDiscountAmount": null,
-    "description": "에어의 6개 5G 요금제를 실 체감가 월 6900원부터 1만6900원까지 12개월간 이용할 수 있어요. 특가 요금제에 가입하면 무신사 협업 한정판 폴더블 보스턴백과 최대 11만 원 상당의 쇼핑 혜택을 받아요.",
+    "description": "SK텔레콤 에어가 무신사 '무진장 2026 블랙프라이데이'에 참여해 5G 요금제를 월 6900원부터 12개월간 이용할 수 있는 특가를 제공합니다. 010 신규 가입자 및 번호이동 고객이 무진장 전용 페이지에서 개통 시 혜택을 받을 수 있으며, 선착순 2500명에게는 한정판 폴더블 보스턴백을 증정해요. 가입자 전원에게는 무신사 15% 할인 쿠폰(장당 최대 5만원) 2장이 제공되고, 선착순 300명에게는 무신사머니 1만포인트가 추가로 지급됩니다.",
     "affiliateUrl": "https://www.musinsa.com",
     "imageUrl": null,
-    "sourceUrl": "https://www.ibabynews.com/news/articleView.html?idxno=157187",
+    "sourceUrl": "https://www.pointe.co.kr/news/articleView.html?idxno=88221",
     "isActive": true,
     "createdAt": "2026-11-23T12:14:22+09:00",
-    "updatedAt": "2026-11-24T05:44:35+09:00"
+    "updatedAt": "2026-11-25T12:16:48+09:00"
   },
   {
     "id": "coupang-2611-rocket-direct-blackfriday",
@@ -3598,5 +3580,23 @@
     "isActive": true,
     "createdAt": "2026-11-24T16:21:07+09:00",
     "updatedAt": "2026-11-24T16:21:07+09:00"
+  },
+  {
+    "id": "lotteon-2611-tanggyoyo-coupon",
+    "title": "롯데온 땡겨요 제휴 최대 1만3000원 할인 쿠폰",
+    "platform": "LOTTEON",
+    "category": "SHOPPING",
+    "startDate": "2026-11-25T00:00:00+09:00",
+    "endDate": "2026-12-31T23:59:59+09:00",
+    "discountRate": null,
+    "minSpend": null,
+    "maxDiscountAmount": null,
+    "description": "신한은행 땡겨요 앱에서 롯데온으로 접속한 고객에게 최대 1만3000원 상당의 할인 쿠폰을 제공합니다. 신규 회원은 3만원 이상 구매 시 1만원 쿠폰과 온누리상생스토어 3만원 이상 구매 시 3000원 쿠폰을, 기존 회원은 일반 상품 3만원 이상 구매 시 2000원 쿠폰을 받을 수 있어요. 땡겨요에서 1만5000원 이상 주문 시 3000원 할인 쿠폰도 함께 제공됩니다.",
+    "affiliateUrl": "https://www.lotteon.com",
+    "imageUrl": null,
+    "sourceUrl": "https://www.newswhoplus.com/news/articleView.html?idxno=75316",
+    "isActive": true,
+    "createdAt": "2026-11-25T12:16:48+09:00",
+    "updatedAt": "2026-11-25T12:16:48+09:00"
   }
 ]
