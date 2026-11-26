@@ -432,24 +432,6 @@
     "updatedAt": "2026-10-15T05:37:06+09:00"
   },
   {
-    "id": "shinsegae-2610-5mazing-card-festa",
-    "title": "신세계백화점 10월 5Mazing Card Festa",
-    "platform": "SSG",
-    "category": "SHOPPING",
-    "startDate": "2026-10-15T00:00:00+09:00",
-    "endDate": "2026-10-25T23:59:59+09:00",
-    "discountRate": 10,
-    "minSpend": 2000000,
-    "maxDiscountAmount": 3500000,
-    "description": "신세계백화점이 10월 15일부터 25일까지 '5Mazing Card Festa'를 진행해요. 15일부터 18일까지는 명품·워치·주얼리 매장에서 제휴 카드로 200만원 이상 결제하면 구매 금액대별로 최대 350만 신백리워드를 받을 수 있어요. 행사 기간 내내 리빙·모피 인기 브랜드 구매 고객에게는 최대 10% 상당의 신세계상품권도 제공돼요.",
-    "affiliateUrl": "https://www.shinsegae.com",
-    "imageUrl": null,
-    "sourceUrl": "https://www.fintechtimes.co.kr/news/article.html?no=59091",
-    "isActive": false,
-    "createdAt": "2026-10-15T16:18:02+09:00",
-    "updatedAt": "2026-10-16T05:39:26+09:00"
-  },
-  {
     "id": "toss-2610-saengmacha-facepay",
     "title": "생마차 토스 페이스페이 할인",
     "platform": "TOSS",
@@ -3518,14 +3500,14 @@
     "endDate": "2026-11-29T23:59:59+09:00",
     "discountRate": null,
     "minSpend": null,
-    "maxDiscountAmount": 17000,
-    "description": "땡겨요 앱에서 파파존스를 주문하고 SOL트립앤샵 체크카드 중 비자(VISA) 브랜드 카드로 결제하면 1만2000원을 할인받아요. 땡겨요 앱 내 파파존스 브랜드 쿠폰 5천원권을 함께 쓰면 최대 1만7000원까지 할인받을 수 있어요.",
+    "maxDiscountAmount": null,
+    "description": "신한 SOL트립앤샵 체크카드(비자)로 땡겨요에서 파파존스 결제 시 1만 2000원 할인을 적용받을 수 있어요. 땡겨요 앱의 파파존스 5000원 쿠폰과 함께 사용하면 최대 1만 7000원까지 할인됩니다.",
     "affiliateUrl": "https://www.shinhan.com",
     "imageUrl": null,
-    "sourceUrl": "https://www.dailysmart.co.kr/news/articleView.html?idxno=133107",
+    "sourceUrl": "https://www.kifuture.com/news/article.html?no=178595",
     "isActive": true,
     "createdAt": "2026-11-25T20:17:57+09:00",
-    "updatedAt": "2026-11-26T05:43:46+09:00"
+    "updatedAt": "2026-11-26T20:12:27+09:00"
   },
   {
     "id": "musinsa-2611-skt-tday",
@@ -3598,5 +3580,23 @@
     "isActive": true,
     "createdAt": "2026-11-26T16:17:09+09:00",
     "updatedAt": "2026-11-26T16:17:09+09:00"
+  },
+  {
+    "id": "toss-2611-jindongchimdak-facepay",
+    "title": "진교동찜닭 토스 페이스페이 페페데이 20% 할인",
+    "platform": "TOSS",
+    "category": "FOOD",
+    "startDate": "2026-11-26T00:00:00+09:00",
+    "endDate": "2026-11-27T23:59:59+09:00",
+    "discountRate": null,
+    "minSpend": null,
+    "maxDiscountAmount": null,
+    "description": "진교동찜닭 매장에서 토스 페이스페이로 결제 시 최대 20% 할인을 받을 수 있어요. 할인 한도는 1만 원이며, 행사 예산 소진 시 조기 종료될 수 있으니 서둘러 이용하세요.",
+    "affiliateUrl": "https://toss.im",
+    "imageUrl": null,
+    "sourceUrl": "https://www.enetnews.co.kr/news/articleView.html?idxno=56824",
+    "isActive": true,
+    "createdAt": "2026-11-26T20:12:27+09:00",
+    "updatedAt": "2026-11-26T20:12:27+09:00"
   }
 ]
