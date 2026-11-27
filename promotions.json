@@ -3498,16 +3498,16 @@
     "category": "FOOD",
     "startDate": "2026-11-26T00:00:00+09:00",
     "endDate": "2026-11-27T23:59:59+09:00",
-    "discountRate": null,
+    "discountRate": 20,
     "minSpend": null,
-    "maxDiscountAmount": null,
-    "description": "자담치킨 매장에서 토스 페이스페이로 결제 시 20% 즉시 할인 혜택이 제공됩니다. 5만원 이상 결제 시 1인당 최대 1만원까지 할인되며, 예산 소진 시 조기 종료될 수 있습니다.",
+    "maxDiscountAmount": 10000,
+    "description": "토스 페이스페이 결제가 가능한 자담치킨 가맹점에서 결제하면 20% 할인받을 수 있어요. 할인 한도는 1인당 최대 1만원이고, 방문 포장 시 가맹점별 포장 할인도 함께 받을 수 있어요. 예산이 소진되면 행사를 일찍 마치며, 참여 매장은 토스 앱에서 확인할 수 있어요.",
     "affiliateUrl": "https://toss.im",
     "imageUrl": null,
-    "sourceUrl": "https://www.newsroad.co.kr/news/articleView.html?idxno=68449",
-    "isActive": true,
+    "sourceUrl": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5087779",
+    "isActive": false,
     "createdAt": "2026-11-26T16:17:09+09:00",
-    "updatedAt": "2026-11-26T16:17:09+09:00"
+    "updatedAt": "2026-11-28T05:47:16+09:00"
   },
   {
     "id": "oliveyoung-2611-projectsleep-olysale",
@@ -3559,7 +3559,7 @@
     "affiliateUrl": "https://toss.im",
     "imageUrl": null,
     "sourceUrl": "https://www.enetnews.co.kr/news/articleView.html?idxno=56824",
-    "isActive": true,
+    "isActive": false,
     "createdAt": "2026-11-26T20:12:27+09:00",
     "updatedAt": "2026-11-26T20:12:27+09:00"
   },
