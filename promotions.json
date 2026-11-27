@@ -468,24 +468,6 @@
     "updatedAt": "2026-10-16T05:39:26+09:00"
   },
   {
-    "id": "coupang-2610-asus-notebook",
-    "title": "에이수스 쿠팡 쿠가세 노트북 최대 40% 할인",
-    "platform": "COUPANG",
-    "category": "ELECTRONICS",
-    "startDate": "2026-10-12T00:00:00+09:00",
-    "endDate": "2026-10-25T23:59:59+09:00",
-    "discountRate": null,
-    "minSpend": null,
-    "maxDiscountAmount": null,
-    "description": "에이수스가 쿠팡의 연중 대표 가전·디지털 할인 행사 '쿠가세'에 참여해 주요 노트북 제품을 최대 40% 할인된 가격에 선보입니다. 10월 19일에는 에이수스 전 모델을 대상으로 특별 할인 혜택이 제공되는 '에이수스 브랜드 데이'가 진행됩니다.",
-    "affiliateUrl": "https://www.coupang.com",
-    "imageUrl": null,
-    "sourceUrl": "https://www.kmkj.kr/news/articleView.html?idxno=140026",
-    "isActive": false,
-    "createdAt": "2026-10-16T05:39:26+09:00",
-    "updatedAt": "2026-10-23T12:16:48+09:00"
-  },
-  {
     "id": "shinhan-2610-iphone18-cashback",
     "title": "신한카드 아이폰 18 프로 시리즈 구매 최대 5만원 캐시백",
     "platform": "SHINHAN_CARD",
@@ -502,24 +484,6 @@
     "isActive": false,
     "createdAt": "2026-10-16T16:26:00+09:00",
     "updatedAt": "2026-10-20T12:21:49+09:00"
-  },
-  {
-    "id": "shinhan-2610-tanggyoyo-yeop-tteok",
-    "title": "신한은행 SOL트립앤샵 체크카드 땡겨요 동대문 엽기떡볶이 1만원 할인",
-    "platform": "SHINHAN_CARD",
-    "category": "FOOD",
-    "startDate": "2026-10-19T00:00:00+09:00",
-    "endDate": "2026-10-25T23:59:59+09:00",
-    "discountRate": null,
-    "minSpend": 14000,
-    "maxDiscountAmount": 10000,
-    "description": "신한은행이 19일부터 25일까지 배달앱 땡겨요에서 동대문엽기떡볶이를 'SOL트립앤샵 체크카드'로 결제하면 1만원을 할인해줘요. 최소 주문금액 1만4000원을 채우면 최저 4000원에 주문할 수 있고, 준비된 수량이 소진되면 기간 전이라도 행사가 끝나요.",
-    "affiliateUrl": "https://www.shinhan.com",
-    "imageUrl": null,
-    "sourceUrl": "https://www.wikitree.co.kr/articles/1167399",
-    "isActive": false,
-    "createdAt": "2026-10-16T16:26:00+09:00",
-    "updatedAt": "2026-10-21T05:38:36+09:00"
   },
   {
     "id": "coupang-2610-maydier-kugase",
@@ -3598,5 +3562,41 @@
     "isActive": true,
     "createdAt": "2026-11-26T20:12:27+09:00",
     "updatedAt": "2026-11-26T20:12:27+09:00"
+  },
+  {
+    "id": "naver-2611-reservation-n-reservation",
+    "title": "네이버 예약N예약 기획전 최대 50% 할인",
+    "platform": "NAVER",
+    "category": "FOOD",
+    "startDate": "2026-11-27T00:00:00+09:00",
+    "endDate": "2026-12-23T23:59:59+09:00",
+    "discountRate": null,
+    "minSpend": null,
+    "maxDiscountAmount": null,
+    "description": "맛집, 호텔 뷔페, 여가, 뷰티 예약 상품을 모은 '네이버 예약N예약' 기획전을 진행해요. 매주 월요일과 목요일 오전 10시에 결제 금액 4만원까지 50% 할인 쿠폰을 선착순으로 지급해요. 이달 30일까지 참여 음식점을 예약하고 방문 후 리뷰를 남기면 네이버페이 포인트를 받을 수 있어요.",
+    "affiliateUrl": "https://www.naver.com",
+    "imageUrl": null,
+    "sourceUrl": "https://stock.mk.co.kr/news/view/1207122",
+    "isActive": true,
+    "createdAt": "2026-11-27T12:10:19+09:00",
+    "updatedAt": "2026-11-27T12:10:19+09:00"
+  },
+  {
+    "id": "gmarket-2611-blackfriday-beauty-digital",
+    "title": "G마켓 블랙프라이데이 뷰티·디지털 최대 78% 할인",
+    "platform": "GMARKET",
+    "category": "SHOPPING",
+    "startDate": "2026-11-27T00:00:00+09:00",
+    "endDate": "2026-11-30T23:59:59+09:00",
+    "discountRate": null,
+    "minSpend": null,
+    "maxDiscountAmount": null,
+    "description": "G마켓이 오는 30일까지 '블랙프라이데이' 행사를 열어 뷰티와 디지털 등 다양한 카테고리를 최대 78% 할인해요. 행사 기간 매일 전 카테고리 상품에 사용할 수 있는 7% 중복 할인쿠폰을 제공하며, 구매 금액에 따라 최대 3만원까지 할인받을 수 있어요. 제휴카드 결제 시 추가 7% 할인 혜택도 마련했어요.",
+    "affiliateUrl": "https://www.gmarket.co.kr",
+    "imageUrl": null,
+    "sourceUrl": "https://www.newswhoplus.com/news/articleView.html?idxno=75581",
+    "isActive": true,
+    "createdAt": "2026-11-27T12:10:19+09:00",
+    "updatedAt": "2026-11-27T12:10:19+09:00"
   }
 ]
