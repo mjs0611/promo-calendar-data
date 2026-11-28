@@ -486,24 +486,6 @@
     "updatedAt": "2026-10-20T12:21:49+09:00"
   },
   {
-    "id": "coupang-2610-maydier-kugase",
-    "title": "쿠팡 쿠가세 · 마이디어 생활가전 최대 54% 할인",
-    "platform": "COUPANG",
-    "category": "ELECTRONICS",
-    "startDate": "2026-10-17T00:00:00+09:00",
-    "endDate": "2026-10-25T23:59:59+09:00",
-    "discountRate": null,
-    "minSpend": null,
-    "maxDiscountAmount": null,
-    "description": "마이디어 코리아가 쿠팡 '쿠가세'에 참여해 세탁기, 냉장고 등 생활가전을 최대 54% 할인된 선착순 특가로 판매합니다. 10월 19일 라이브 커머스 방송 중 구매 고객에게는 백화점 상품권 5만원을 제공해요. 올해 마지막 쿠가세 행사로 다양한 가전제품을 만나볼 수 있습니다.",
-    "affiliateUrl": "https://www.coupang.com",
-    "imageUrl": null,
-    "sourceUrl": "https://www.bizwnews.com/news/articleView.html?idxno=149145",
-    "isActive": false,
-    "createdAt": "2026-10-17T12:20:50+09:00",
-    "updatedAt": "2026-10-17T12:20:50+09:00"
-  },
-  {
     "id": "shinhan-2610-gaichipay-season2",
     "title": "신한카드 같이페이 시즌2 땡겨요 결제 사회공헌 캠페인",
     "platform": "SHINHAN_CARD",
@@ -3591,12 +3573,30 @@
     "discountRate": null,
     "minSpend": null,
     "maxDiscountAmount": null,
-    "description": "G마켓이 오는 30일까지 '블랙프라이데이' 행사를 열어 뷰티와 디지털 등 다양한 카테고리를 최대 78% 할인해요. 행사 기간 매일 전 카테고리 상품에 사용할 수 있는 7% 중복 할인쿠폰을 제공하며, 구매 금액에 따라 최대 3만원까지 할인받을 수 있어요. 제휴카드 결제 시 추가 7% 할인 혜택도 마련했어요.",
+    "description": "G마켓이 뷰티·디지털 등 주요 카테고리를 최대 78% 할인하는 블랙프라이데이 행사를 진행해요. 매일 전 카테고리에서 사용 가능한 7% 중복 할인 쿠폰을 지급하며, 구매 금액에 따라 최대 3만원까지 할인받을 수 있어요. 제휴카드로 결제 시 7% 추가 할인 혜택도 제공해요.",
     "affiliateUrl": "https://www.gmarket.co.kr",
     "imageUrl": null,
-    "sourceUrl": "https://www.newswhoplus.com/news/articleView.html?idxno=75581",
+    "sourceUrl": "https://www.newsquest.co.kr/news/articleView.html?idxno=305990",
     "isActive": true,
     "createdAt": "2026-11-27T12:10:19+09:00",
-    "updatedAt": "2026-11-27T12:10:19+09:00"
+    "updatedAt": "2026-11-28T12:13:32+09:00"
+  },
+  {
+    "id": "oliveyoung-2611-doctor-g-black-snail",
+    "title": "올리브영 12월 올영세일 닥터지 블랙 스네일 최대 52% 할인",
+    "platform": "OLIVEYOUNG",
+    "category": "BEAUTY",
+    "startDate": "2026-11-29T00:00:00+09:00",
+    "endDate": "2026-12-05T23:59:59+09:00",
+    "discountRate": null,
+    "minSpend": null,
+    "maxDiscountAmount": null,
+    "description": "닥터지가 올리브영 온·오프라인 12월 올영세일에 참여해 '블랙 스네일' 기획세트를 최대 52% 할인해요. 신제품 크림 더블 기획세트는 51% 할인, 12월 4일 온라인몰 '오늘의 특가'에서는 52% 할인 혜택이 적용돼요. 닥터지 제품 3만원 이상 구매 시 12% 장바구니 쿠폰(최대 5000원)도 제공해요.",
+    "affiliateUrl": "https://www.oliveyoung.co.kr",
+    "imageUrl": null,
+    "sourceUrl": "https://www.slist.kr/news/articleView.html?idxno=785473",
+    "isActive": true,
+    "createdAt": "2026-11-28T12:13:32+09:00",
+    "updatedAt": "2026-11-28T12:13:32+09:00"
   }
 ]
